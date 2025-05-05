@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+*.DS_Store
+
+data/zip
+data/raw
+data/geo/safegraph-cambridge-poi.csv
+data/geo/safegraph-sf-poi.csv
+
+notebook
+test.ipynb

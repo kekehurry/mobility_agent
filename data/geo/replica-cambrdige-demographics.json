@@ -1,0 +1,43 @@
+{
+  "age_ranges": [
+    [18, 24],
+    [25, 34],
+    [35, 44],
+    [45, 54],
+    [55, 64],
+    [65, 75],
+    [76, 85]
+  ],
+  "age_weights": [0.23, 0.28, 0.13, 0.09, 0.08, 0.07, 0.03],
+  "genders": ["male", "female"],
+  "gender_weights": [0.5, 0.5],
+  "employment_statuses": [
+    "employed",
+    "not_in_labor_force",
+    "unemployed",
+    "under_16"
+  ],
+  "employment_weights": [0.63, 0.28, 0.02, 0.07],
+  "vehicles": ["zero", "one", "two", "three_plus", "unknown_num_vehicles"],
+  "vehicle_weights": [0.25, 0.4, 0.17, 0.03, 0.15],
+  "education_levels": [
+    "no_school",
+    "k_12",
+    "high_school",
+    "some_college",
+    "bachelors_degree",
+    "advanced_degree"
+  ],
+  "education_weights": [0.01, 0.11, 0.08, 0.19, 0.26, 0.35],
+  "income_ranges": [
+    "Under 25k",
+    "25k-50k",
+    "50k-75k",
+    "75k-100k",
+    "100k-150k",
+    "150k+"
+  ],
+  "income_weights": [0.24, 0.06, 0.07, 0.07, 0.15, 0.41],
+  "household_size": [1, 2, 3, 4, 5, 6, 7],
+  "household_weights": [0.3, 0.3, 0.18, 0.15, 0.05, 0.01, 0.01]
+}
