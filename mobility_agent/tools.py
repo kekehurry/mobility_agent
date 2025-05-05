@@ -31,7 +31,7 @@ class AgentProfile(BaseModel):
     education: str
     household_size: int
     household_income: str
-    available_vehicles: int
+    available_vehicles: str
 
 class POISearchTool:
     """A tool for searching Points of Interest (POIs) near a geographical location."""
