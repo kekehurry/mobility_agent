@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Roger Middleton\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Village Grill & Seafood",
+        "distance_km": 0.1860709513869658,
+        "coordinates": [
+          "42.359894",
+          "-71.109963"
+        ]
+      }
+    },
+    {
+      "start_time": "08:32",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Spice MIT",
+        "distance_km": 0.18582409332183975,
+        "coordinates": [
+          "42.35988",
+          "-71.10998"
+        ]
+      }
+    },
+    {
+      "start_time": "09:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Village Grill & Seafood",
+        "distance_km": 0.1860709513869658,
+        "coordinates": [
+          "42.359894",
+          "-71.109963"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Village Grill & Seafood",
+        "distance_km": 0.1860709513869658,
+        "coordinates": [
+          "42.359894",
+          "-71.109963"
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.4747109797550189,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "17:09",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.365336303088474,
+        "coordinates": [
+          "42.357776",
+          "-71.104201"
+        ]
+      }
+    },
+    {
+      "start_time": "17:16",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35862786726043,
+          -71.10848419843343
+        ]
+      }
+    },
+    {
+      "start_time": "18:37",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.4747109797550189,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "19:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 0.7099279108287353,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "19:50",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Smelting Company",
+        "distance_km": 0.4753288912994318,
+        "coordinates": [
+          "42.360662",
+          "-71.103408"
+        ]
+      }
+    },
+    {
+      "start_time": "21:27",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35862786726043,
+          -71.10848419843343
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35862786726043,
+        -71.10848419843343
+      ]
+    },
+    "work": {
+      "name": "Village Grill & Seafood",
+      "coordinates": [
+        "42.359894",
+        "-71.109963"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Village Grill & Seafood by walking which takes 0-10 minutes.",
+    "On 08:32, I want to eat, I go to Cafe Spice MIT by walking which takes 0-10 minutes.",
+    "On 09:58, I want to work, I go to Village Grill & Seafood by walking which takes 0-10 minutes.",
+    "On 14:43, I want to work, I go to Village Grill & Seafood by walking which takes 0-10 minutes.",
+    "On 16:03, I want to shop, I go to Trader Joe's by walking which takes 0-10 minutes.",
+    "On 17:09, I want to eat, I go to Flour Bakery Cafe by biking which takes 0-10 minutes.",
+    "On 17:16, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:37, I want to shop, I go to Trader Joe's by walking which takes 0-10 minutes.",
+    "On 19:42, I want to social, I go to ForestCity by private_auto which takes 10-20 minutes.",
+    "On 19:50, I want to recreation, I go to Cambridge Smelting Company by biking which takes 0-10 minutes.",
+    "On 21:27, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

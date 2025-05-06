@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Mark Williams\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Lexington",
+        "distance_km": 0.2524124980341126,
+        "coordinates": [
+          "42.372033",
+          "-71.075775"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Weltkuche Bistro",
+        "distance_km": 0.35924207785325174,
+        "coordinates": [
+          "42.37078",
+          "-71.075332"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Luigi's Variety",
+        "distance_km": 0.5437412947898747,
+        "coordinates": [
+          "42.371552",
+          "-71.084926"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Moves & Vibes Dance Co",
+        "distance_km": 0.38279027571824265,
+        "coordinates": [
+          "42.371681",
+          "-71.082923"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Brothers Market",
+        "distance_km": 0.41122900502192083,
+        "coordinates": [
+          "42.371307",
+          "-71.083079"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Lexington",
+        "distance_km": 0.2524124980341126,
+        "coordinates": [
+          "42.372033",
+          "-71.075775"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.28750496616350835,
+        "coordinates": [
+          "42.370556",
+          "-71.077198"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37292917315474,
+          -71.07859113638409
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37292917315474,
+        -71.07859113638409
+      ]
+    },
+    "work": {
+      "name": "The Lexington",
+      "coordinates": [
+        "42.372033",
+        "-71.075775"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to The Lexington by biking which takes 0-10 minutes.",
+    "On 08:30, I want to eat, I go to Weltkuche Bistro by walking which takes 10-20 minutes.",
+    "On 11:30, I want to shop, I go to Luigi's Variety by walking which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Moves & Vibes Dance Co by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to The Brothers Market by walking which takes 10-20 minutes.",
+    "On 17:30, I want to work, I go to The Lexington by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Starbucks by walking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

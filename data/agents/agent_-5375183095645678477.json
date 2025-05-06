@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Charles Irwin\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dig Inn",
+        "distance_km": 0.3059508238252467,
+        "coordinates": [
+          "42.372192",
+          "-71.119541"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Office of the Arts Studio 74",
+        "distance_km": 0.3266009691537177,
+        "coordinates": [
+          "42.371771",
+          "-71.118582"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 0.3319228219547855,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37466981073067,
+          -71.11791886260943
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 0.3828456039916227,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.1703677254931896,
+        "coordinates": [
+          "42.373348",
+          "-71.118968"
+        ]
+      }
+    },
+    {
+      "start_time": "22:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37466981073067,
+          -71.11791886260943
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37466981073067,
+        -71.11791886260943
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to eat, I go to Dig Inn by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Harvard Office of the Arts Studio 74 by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to In Your Ear Records by auto_passenger which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Society for Critical Aesthetics by auto_passenger which takes 0-10 minutes.",
+    "On 21:00, I want to eat, I go to Dunkin' by private_auto which takes 0-10 minutes.",
+    "On 22:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Rebecca Mitchell\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Get in Shape for Women",
+        "distance_km": 0.30615631798096443,
+        "coordinates": [
+          "42.385255",
+          "-71.119626"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Simon's Coffee Shop",
+        "distance_km": 0.2220860745506916,
+        "coordinates": [
+          "42.384488",
+          "-71.11983"
+        ]
+      }
+    },
+    {
+      "start_time": "10:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 0.30353851868302184,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Simon's Coffee Shop",
+        "distance_km": 0.2220860745506916,
+        "coordinates": [
+          "42.384488",
+          "-71.11983"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 1.1109507157791383,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.589685615822593,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Meeting Place",
+        "distance_km": 0.18823400362484438,
+        "coordinates": [
+          "42.382788",
+          "-71.118822"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.17105134727266066,
+        "coordinates": [
+          "42.381838",
+          "-71.11941"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 0.2122887921729583,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38272672237393,
+          -71.12110621859466
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38272672237393,
+        -71.12110621859466
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:15, I want to recreation, I go to Get in Shape for Women by walking which takes 0-10 minutes.",
+    "On 10:00, I want to eat, I go to Simon's Coffee Shop by walking which takes 0-10 minutes.",
+    "On 10:45, I want to social, I go to Radcliffe Quadrangle by walking which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to Simon's Coffee Shop by walking which takes 0-10 minutes.",
+    "On 13:00, I want to social, I go to Society for Critical Aesthetics by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Gourmet Express by walking which takes 0-10 minutes.",
+    "On 17:30, I want to recreation, I go to Meeting Place by walking which takes 0-10 minutes.",
+    "On 18:15, I want to eat, I go to Hi Rise Bread Company by walking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Marc's Handyman by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

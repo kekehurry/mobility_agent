@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"Daniel Spencer\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:47",
+      "desire": "school",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-3,0"
+      },
+      "destination": {
+        "name": "Benjamin Banneker Charter Public School",
+        "distance_km": 1.5580009189119077,
+        "coordinates": [
+          "42.392113",
+          "-71.131734"
+        ]
+      }
+    },
+    {
+      "start_time": "08:41",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Alewife Cafe",
+        "distance_km": 2.5322648759002777,
+        "coordinates": [
+          "42.398487",
+          "-71.139892"
+        ]
+      }
+    },
+    {
+      "start_time": "11:09",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.7420598963445577,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Donnelly Field",
+        "distance_km": 2.5713636557000292,
+        "coordinates": [
+          "42.370393",
+          "-71.0922"
+        ]
+      }
+    },
+    {
+      "start_time": "14:18",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Alewife Cafe",
+        "distance_km": 2.5322648759002777,
+        "coordinates": [
+          "42.398487",
+          "-71.139892"
+        ]
+      }
+    },
+    {
+      "start_time": "15:42",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.501605133084962,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "16:04",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.7420598963445577,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "16:44",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 2.230323471961864,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "17:09",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Temple Bar",
+        "distance_km": 0.16950420528863716,
+        "coordinates": [
+          "42.382761",
+          "-71.11997"
+        ]
+      }
+    },
+    {
+      "start_time": "18:19",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38124158236474,
+          -71.11977967653142
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38124158236474,
+        -71.11977967653142
+      ]
+    },
+    "school": {
+      "name": "Benjamin Banneker Charter Public School",
+      "coordinates": [
+        "42.392113",
+        "-71.131734"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Alewife Cafe",
+      "coordinates": [
+        "42.398487",
+        "-71.139892"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:47, I want to school, I go to Benjamin Banneker Charter Public School by biking which takes 20-3,0 minutes.",
+    "On 08:41, I want to work, I go to Alewife Cafe by biking which takes 20-30 minutes.",
+    "On 11:09, I want to shop, I go to Gourmet Express by walking which takes 0-10 minutes.",
+    "On 13:20, I want to recreation, I go to Donnelly Field by biking which takes 20-30 minutes.",
+    "On 14:18, I want to work, I go to Alewife Cafe by biking which takes 20-30 minutes.",
+    "On 15:42, I want to eat, I go to Starbucks by biking which takes 20-30 minutes.",
+    "On 16:04, I want to shop, I go to Gourmet Express by walking which takes 20-30 minutes.",
+    "On 16:44, I want to maintenance, I go to C L M Inc by biking which takes 10-20 minutes.",
+    "On 17:09, I want to eat, I go to Temple Bar by walking which takes 0-10 minutes.",
+    "On 18:19, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

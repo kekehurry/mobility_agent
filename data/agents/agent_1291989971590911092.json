@@ -1,0 +1,180 @@
+{
+  "profile": "{\n  \"name\": \"Kimberly Walker\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 2,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": \"two\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:55",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "One Ramen & Sushi",
+        "distance_km": 0.5708917882221978,
+        "coordinates": [
+          "42.385147",
+          "-71.119061"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shabu Ya",
+        "distance_km": 1.5086495080593514,
+        "coordinates": [
+          "42.372106",
+          "-71.120882"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brickworks Condominiums",
+        "distance_km": 1.1763011460825177,
+        "coordinates": [
+          "42.392231",
+          "-71.136613"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 1.5002975092718582,
+        "coordinates": [
+          "42.372361",
+          "-71.120128"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corcoran Field",
+        "distance_km": 0.22198983362681157,
+        "coordinates": [
+          "42.38662",
+          "-71.127817"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.5522357495731665,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Las Palmas Restaurant",
+        "distance_km": 1.511696482757725,
+        "coordinates": [
+          "42.372677",
+          "-71.118646"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3851480932549,
+          -71.12599356542944
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3851480932549,
+          -71.12599356542944
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3851480932549,
+        -71.12599356542944
+      ]
+    },
+    "work": {
+      "name": "One Ramen & Sushi",
+      "coordinates": [
+        "42.385147",
+        "-71.119061"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:55, I want to work, I go to One Ramen & Sushi by private_auto which takes 10-20 minutes.",
+    "On 10:00, I want to eat, I go to Shabu Ya by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to social, I go to Brickworks Condominiums by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Subway by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Corcoran Field by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Trader Joe's by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Las Palmas Restaurant by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

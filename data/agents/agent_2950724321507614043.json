@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Shawn Lee\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"1\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Richards",
+        "distance_km": 1.5001859820184706,
+        "coordinates": [
+          "42.373435",
+          "-71.097193"
+        ]
+      }
+    },
+    {
+      "start_time": "10:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "First United Market",
+        "distance_km": 1.5159600980490686,
+        "coordinates": [
+          "42.357512",
+          "-71.108056"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flat Top Johnny's",
+        "distance_km": 2.0159569692244648,
+        "coordinates": [
+          "42.36589",
+          "-71.091095"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.483774675864545,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.0277276361798005,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.1671306679397691,
+        "coordinates": [
+          "42.368966",
+          "-71.11369"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 0.4952192874657365,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "21:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mu Lan",
+        "distance_km": 1.747779342046918,
+        "coordinates": [
+          "42.366351",
+          "-71.094295"
+        ]
+      }
+    },
+    {
+      "start_time": "22:48",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3701886696211,
+          -71.1148724912022
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3701886696211,
+        -71.1148724912022
+      ]
+    },
+    "work": {
+      "name": "Richards",
+      "coordinates": [
+        "42.373435",
+        "-71.097193"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:46, I want to work, I go to Richards by public_transit which takes 10-20 minutes.",
+    "On 10:03, I want to shop, I go to First United Market by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Flat Top Johnny's by private_auto which takes 10-20 minutes.",
+    "On 14:00, I want to maintenance, I go to Nick's Magazine Auto R by auto_passenger which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Whole Foods Market by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Darwin's by walking which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Barre Soul by auto_passenger which takes 0-10 minutes.",
+    "On 21:48, I want to eat, I go to Mu Lan by private_auto which takes 10-20 minutes.",
+    "On 22:48, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Derrick Solomon\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"75k-100k\", \"available_vehicles\": \"2 cars\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 1.7158712939821592,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Planet Records",
+        "distance_km": 1.5036623342536302,
+        "coordinates": [
+          "42.373857",
+          "-71.124783"
+        ]
+      }
+    },
+    {
+      "start_time": "10:17",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 1.7158712939821592,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "10:16",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 1.0106497002854422,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "14:32",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3699269621319,
+          -71.1073135796668
+        ]
+      }
+    },
+    {
+      "start_time": "15:08",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 0.3003529126724223,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3699269621319,
+          -71.1073135796668
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Atomic Bean Cafe",
+        "distance_km": 0.22596491652050252,
+        "coordinates": [
+          "42.368137",
+          "-71.108617"
+        ]
+      }
+    },
+    {
+      "start_time": "19:16",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3699269621319,
+          -71.1073135796668
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3699269621319,
+        -71.1073135796668
+      ]
+    },
+    "work": {
+      "name": "Broad Institute",
+      "coordinates": [
+        "42.362837",
+        "-71.088807"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Broad Institute by private_auto which takes 10-20 minutes.",
+    "On 10:05, I want to shop, I go to Planet Records by private_auto which takes 10-20 minutes.",
+    "On 10:17, I want to work, I go to Broad Institute by private_auto which takes 10-20 minutes.",
+    "On 10:16, I want to other_activities, I go to Formaggio Kitchen by private_auto which takes 10-20 minutes.",
+    "On 14:32, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 15:08, I want to shop, I go to Weirdo Records by walking which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:45, I want to eat, I go to Atomic Bean Cafe by walking which takes 0-10 minutes.",
+    "On 19:16, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

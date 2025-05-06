@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Shannon Kim\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "Central Rock Gym",
+        "distance_km": 2.587114904521846,
+        "coordinates": [
+          "42.373132",
+          "-71.120109"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39259743156879,
+          -71.13735844022963
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.26236069605997564,
+        "coordinates": [
+          "42.390828",
+          "-71.139469"
+        ]
+      }
+    },
+    {
+      "start_time": "11:47",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 0.37987140665893987,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "12:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39259743156879,
+          -71.13735844022963
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.37850715538978497,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39259743156879,
+          -71.13735844022963
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5094334024381172,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39259743156879,
+          -71.13735844022963
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.4822132962086862,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39259743156879,
+          -71.13735844022963
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39259743156879,
+        -71.13735844022963
+      ]
+    },
+    "work": {
+      "name": "CorePower Yoga",
+      "coordinates": [
+        "42.390828",
+        "-71.139469"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Central Rock Gym by private_auto which takes 20-20 minutes.",
+    "On 08:20, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 09:00, I want to work, I go to CorePower Yoga by walking which takes 0-10 minutes.",
+    "On 11:47, I want to social, I go to Charlotte Huguenor Santana Properties Team by walking which takes 10-10 minutes.",
+    "On 12:50, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Bread & Circus by walking which takes 10-10 minutes.",
+    "On 14:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:50, I want to shop, I go to Whole Foods Market by private_auto which takes 20-20 minutes.",
+    "On 16:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:15, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

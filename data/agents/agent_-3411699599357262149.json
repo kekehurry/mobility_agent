@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Richard Walker\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"student\", \"education\": \"some_college\", \"household_size\": 3, \"household_income\": \"75k-100k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "11:48",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. ELIZABETH WALSH MD",
+        "distance_km": 0.5105432695187069,
+        "coordinates": [
+          "42.398156",
+          "-71.13073"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.5868652678363262,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.40441647746027437,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "19:24",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 3.28107145960617,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.402114339151744,
+          -71.13388152044506
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.402114339151744,
+        -71.13388152044506
+      ]
+    },
+    "work": {
+      "name": "DR. ELIZABETH WALSH MD",
+      "coordinates": [
+        "42.398156",
+        "-71.13073"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 11:48, I want to work, I go to DR. ELIZABETH WALSH MD by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Friendly Corner Convenience Store by walking which takes 10-20 minutes.",
+    "On 17:08, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 19:24, I want to social, I go to Cambridge Forum by on_demand_auto which takes 20-30 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

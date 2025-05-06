@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Sean Harris\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "JFK Jr Forum at Harvard Kennedy School",
+        "distance_km": 0.3515877501969364,
+        "coordinates": [
+          "42.371252",
+          "-71.122178"
+        ]
+      }
+    },
+    {
+      "start_time": "08:46",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sound Lion",
+        "distance_km": 0.38060156662586014,
+        "coordinates": [
+          "42.373568",
+          "-71.120953"
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Blackbird Doughnuts Harvard Square",
+        "distance_km": 0.2002729736311008,
+        "coordinates": [
+          "42.372663",
+          "-71.118796"
+        ]
+      }
+    },
+    {
+      "start_time": "12:36",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 0.3912599792569736,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.2533747038075302,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370979604028015,
+          -71.11792531746406
+        ]
+      }
+    },
+    {
+      "start_time": "19:31",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Handle Bar Indoor Cycling Studio",
+        "distance_km": 0.5036476452143989,
+        "coordinates": [
+          "42.369484",
+          "-71.112153"
+        ]
+      }
+    },
+    {
+      "start_time": "21:26",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370979604028015,
+          -71.11792531746406
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370979604028015,
+        -71.11792531746406
+      ]
+    },
+    "work": {
+      "name": "JFK Jr Forum at Harvard Kennedy School",
+      "coordinates": [
+        "42.371252",
+        "-71.122178"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:46, I want to work, I go to JFK Jr Forum at Harvard Kennedy School by auto_passenger which takes 0-10 minutes.",
+    "On 08:46, I want to shop, I go to Sound Lion by auto_passenger which takes 0-10 minutes.",
+    "On 12:28, I want to eat, I go to Blackbird Doughnuts Harvard Square by walking which takes 0-10 minutes.",
+    "On 12:36, I want to shop, I go to Louie's Superette by walking which takes 0-10 minutes.",
+    "On 16:03, I want to shop, I go to Newbury Comics by walking which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:31, I want to recreation, I go to The Handle Bar Indoor Cycling Studio by walking which takes 10-20 minutes.",
+    "On 21:26, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

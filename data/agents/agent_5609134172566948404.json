@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Krystal Martin\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ahearn Field",
+        "distance_km": 0.3050485304440023,
+        "coordinates": [
+          "42.368554",
+          "-71.087952"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Judy's Bay",
+        "distance_km": 1.0054711599145163,
+        "coordinates": [
+          "42.368291",
+          "-71.097779"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Best Life",
+        "distance_km": 1.1905724203338834,
+        "coordinates": [
+          "42.370033",
+          "-71.071701"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 2.5457082775146906,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ahern Field",
+        "distance_km": 0.25678202892508256,
+        "coordinates": [
+          "42.36864",
+          "-71.08649"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Snack Bar",
+        "distance_km": 0.2187554039518343,
+        "coordinates": [
+          "42.372244",
+          "-71.088087"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Best Life",
+        "distance_km": 1.1905724203338834,
+        "coordinates": [
+          "42.370033",
+          "-71.071701"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370933894330534,
+          -71.08610408009368
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370933894330534,
+        -71.08610408009368
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to recreation, I go to Ahearn Field by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Judy's Bay by auto_passenger which takes 10-20 minutes.",
+    "On 13:30, I want to social, I go to Best Life by public_transit which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Whole Foods Market by auto_passenger which takes 10-20 minutes.",
+    "On 17:00, I want to recreation, I go to Ahern Field by auto_passenger which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to The Snack Bar by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Best Life by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

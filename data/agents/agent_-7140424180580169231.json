@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Lisa Marshall\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"2\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "rent24 Coworking Cambridge",
+        "distance_km": 2.001817000829759,
+        "coordinates": [
+          "42.371769",
+          "-71.086622"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zephyr On the Charles",
+        "distance_km": 1.500121946614479,
+        "coordinates": [
+          "42.353765",
+          "-71.10548"
+        ]
+      }
+    },
+    {
+      "start_time": "12:40",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 2.2177748517269826,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 1.0063227240665196,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fernandes Market",
+        "distance_km": 1.6618310929087465,
+        "coordinates": [
+          "42.372604",
+          "-71.091379"
+        ]
+      }
+    },
+    {
+      "start_time": "16:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366847034820516,
+          -71.1100007662229
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366847034820516,
+        -71.1100007662229
+      ]
+    },
+    "work": {
+      "name": "rent24 Coworking Cambridge",
+      "coordinates": [
+        "42.371769",
+        "-71.086622"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to work, I go to rent24 Coworking Cambridge by auto_passenger which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Zephyr On the Charles by auto_passenger which takes 10-20 minutes.",
+    "On 12:40, I want to social, I go to MIT Wong Auditorium by public_transit which takes 20-30 minutes.",
+    "On 13:30, I want to recreation, I go to Spaulding National Running Center by auto_passenger which takes 10-20 minutes.",
+    "On 15:50, I want to shop, I go to Fernandes Market by private_auto which takes 10-20 minutes.",
+    "On 16:40, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Kevin Lawrence\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Angelo's Pizza",
+        "distance_km": 0.2843509399147422,
+        "coordinates": [
+          "42.372968",
+          "-71.110736"
+        ]
+      }
+    },
+    {
+      "start_time": "07:55",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.3160673549171647,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "09:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.3672269077930888,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 0.38809223800097586,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.28728879614939945,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Angelo's Pizza",
+        "distance_km": 0.2843509399147422,
+        "coordinates": [
+          "42.372968",
+          "-71.110736"
+        ]
+      }
+    },
+    {
+      "start_time": "14:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371327836727886,
+          -71.10808544004966
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Planet Fitness",
+        "distance_km": 0.7704488809746943,
+        "coordinates": [
+          "42.36551",
+          "-71.102993"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371327836727886,
+          -71.10808544004966
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simon's Too",
+        "distance_km": 0.3101715328043833,
+        "coordinates": [
+          "42.36934",
+          "-71.11073"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.012144949126295,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371327836727886,
+          -71.10808544004966
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.371327836727886,
+        -71.10808544004966
+      ]
+    },
+    "work": {
+      "name": "Angelo's Pizza",
+      "coordinates": [
+        "42.372968",
+        "-71.110736"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Angelo's Pizza by walking which takes 0-10 minutes.",
+    "On 07:55, I want to eat, I go to Barismo by walking which takes 10-20 minutes.",
+    "On 09:10, I want to shop, I go to Vermas Market by walking which takes 0-10 minutes.",
+    "On 10:30, I want to recreation, I go to Cambridge War Memorial Recreation Center by walking which takes 10-20 minutes.",
+    "On 12:15, I want to social, I go to Victoria Goodman Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 13:30, I want to eat, I go to Angelo's Pizza by walking which takes 0-10 minutes.",
+    "On 14:50, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:15, I want to recreation, I go to Planet Fitness by auto_passenger which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Simon's Too by walking which takes 10-20 minutes.",
+    "On 20:00, I want to social, I go to Cambridge Forum by private_auto which takes 10-20 minutes.",
+    "On 21:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

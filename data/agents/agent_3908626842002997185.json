@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Patrick Kim\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": \"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.18962271310820888,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 1.5422429122740753,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "La Royal",
+        "distance_km": 1.5010323206494203,
+        "coordinates": [
+          "42.3829",
+          "-71.131553"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Spievack Alan R MD",
+        "distance_km": 0.22958231881852903,
+        "coordinates": [
+          "42.376361",
+          "-71.145118"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.4654534511332404,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.18962271310820888,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.18962271310820888,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37682598419559,
+          -71.1478340699457
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37682598419559,
+          -71.1478340699457
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37682598419559,
+        -71.1478340699457
+      ]
+    },
+    "work": {
+      "name": "Starbucks",
+      "coordinates": [
+        "42.375409",
+        "-71.149118"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 11:45, I want to shop, I go to T.J. Maxx by private_auto which takes 10-20 minutes.",
+    "On 12:45, I want to eat, I go to La Royal by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Spievack Alan R MD by walking which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Whole Foods Market by walking which takes 10-20 minutes.",
+    "On 17:30, I want to work, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

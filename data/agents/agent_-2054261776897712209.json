@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Patricia Wood\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Caron Simmers Guillemette Psychothrpst",
+        "distance_km": 0.10822062812721159,
+        "coordinates": [
+          "42.38375",
+          "-71.13831"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 0.17339849760891646,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Caron Simmers Guillemette Psychothrpst",
+        "distance_km": 0.10822062812721159,
+        "coordinates": [
+          "42.38375",
+          "-71.13831"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 0.17339849760891646,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 0.42694754158389103,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Caron Simmers Guillemette Psychothrpst",
+        "distance_km": 0.10822062812721159,
+        "coordinates": [
+          "42.38375",
+          "-71.13831"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 0.17339849760891646,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majestic Yoga Studio",
+        "distance_km": 0.22379151649671952,
+        "coordinates": [
+          "42.380914",
+          "-71.13923"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38292154046445,
+          -71.13900150787151
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38292154046445,
+        -71.13900150787151
+      ]
+    },
+    "work": {
+      "name": "Caron Simmers Guillemette Psychothrpst",
+      "coordinates": [
+        "42.38375",
+        "-71.13831"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Caron Simmers Guillemette Psychothrpst by private_auto which takes 0-10 minutes.",
+    "On 07:45, I want to eat, I go to The Village Kitchen by private_auto which takes 0-10 minutes.",
+    "On 08:45, I want to work, I go to Caron Simmers Guillemette Psychothrpst by private_auto which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to The Village Kitchen by walking which takes 0-10 minutes.",
+    "On 12:45, I want to social, I go to Up Stage by on_demand_auto which takes 0-10 minutes.",
+    "On 13:30, I want to work, I go to Caron Simmers Guillemette Psychothrpst by private_auto which takes 0-10 minutes.",
+    "On 17:45, I want to eat, I go to The Village Kitchen by on_demand_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Majestic Yoga Studio by private_auto which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

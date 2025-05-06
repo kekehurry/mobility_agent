@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jeffrey Crawford\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 0.4270166448347593,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "08:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360586961428034,
+          -71.10923244645576
+        ]
+      }
+    },
+    {
+      "start_time": "09:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Coast Cafe",
+        "distance_km": 0.3400733018717534,
+        "coordinates": [
+          "42.363097",
+          "-71.111596"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360586961428034,
+          -71.10923244645576
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "First United Market",
+        "distance_km": 0.3550518044410577,
+        "coordinates": [
+          "42.357512",
+          "-71.108056"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Coast Cafe",
+        "distance_km": 0.3400733018717534,
+        "coordinates": [
+          "42.363097",
+          "-71.111596"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 0.2690892578791355,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360586961428034,
+          -71.10923244645576
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.360586961428034,
+        -71.10923244645576
+      ]
+    },
+    "work": {
+      "name": "The Coast Cafe",
+      "coordinates": [
+        "42.363097",
+        "-71.111596"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:10, I want to recreation, I go to Willis Moore Youth Center by walking which takes 10-20 minutes.",
+    "On 08:40, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 09:40, I want to work, I go to The Coast Cafe by private_auto which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to shop, I go to First United Market by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to The Coast Cafe by walking which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Yoga of Energy Flow by walking which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Paul Blake\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Boston Burger Company",
+        "distance_km": 1.5201493651658742,
+        "coordinates": [
+          "42.370905",
+          "-71.11358"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lucky House",
+        "distance_km": 2.5003872804532525,
+        "coordinates": [
+          "42.374901",
+          "-71.150669"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nadia Colburn Align Your Light",
+        "distance_km": 1.5211042740565146,
+        "coordinates": [
+          "42.395164",
+          "-71.130695"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.0090469783819922,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 0.9726373923391503,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 1.5478651763480487,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38295839008707,
+          -71.12232047437995
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38295839008707,
+        -71.12232047437995
+      ]
+    },
+    "work": {
+      "name": "Boston Burger Company",
+      "coordinates": [
+        "42.370905",
+        "-71.11358"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Boston Burger Company by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Lucky House by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Nadia Colburn Align Your Light by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Market In the Square by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to social, I go to Up Stage by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Verna's Coffee & Donut Shop by biking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

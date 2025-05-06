@@ -1,0 +1,180 @@
+{
+  "profile": "{\n  \"name\": \"Samuel Marquez\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"male\",\n  \"employment_status\": \"employed\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 4,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": \"one\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Longy School Of Music Of Bard College",
+        "distance_km": 1.713070214289954,
+        "coordinates": [
+          "42.378529",
+          "-71.123497"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.4548716469735243,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jose's Mexican Restaurant",
+        "distance_km": 0.23340771063834648,
+        "coordinates": [
+          "42.390185",
+          "-71.132847"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evolve Fitness",
+        "distance_km": 0.5161595444302642,
+        "coordinates": [
+          "42.387936",
+          "-71.139745"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 1.5999530987233983,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 1.5999530987233983,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jose's Mexican Restaurant",
+        "distance_km": 0.23340771063834648,
+        "coordinates": [
+          "42.390185",
+          "-71.132847"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39122170931546,
+          -71.1353125860236
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CLUBWAKA Boston",
+        "distance_km": 0.318998184680584,
+        "coordinates": [
+          "42.388815",
+          "-71.133199"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39122170931546,
+        -71.1353125860236
+      ]
+    },
+    "work": {
+      "name": "Longy School Of Music Of Bard College",
+      "coordinates": [
+        "42.378529",
+        "-71.123497"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:05, I want to work, I go to Longy School Of Music Of Bard College by private_auto which takes 10-20 minutes.",
+    "On 09:30, I want to shop, I go to Bread & Circus by walking which takes 10-10 minutes.",
+    "On 12:00, I want to eat, I go to Jose's Mexican Restaurant by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Evolve Fitness by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Evergood Super Market by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to shop, I go to Evergood Super Market by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Jose's Mexican Restaurant by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to recreation, I go to CLUBWAKA Boston by private_auto which takes 0-10 minutes."
+  ]
+}

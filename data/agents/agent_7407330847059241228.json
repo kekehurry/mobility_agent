@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Rebekah Ferguson\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Get in Shape for Women",
+        "distance_km": 3.0291434849367356,
+        "coordinates": [
+          "42.385255",
+          "-71.119626"
+        ]
+      }
+    },
+    {
+      "start_time": "09:58",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36265132054869,
+          -71.09905224896686
+        ]
+      }
+    },
+    {
+      "start_time": "10:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "RONNIE FUCHS MD",
+        "distance_km": 2.5109406543332597,
+        "coordinates": [
+          "42.374829",
+          "-71.124734"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "The Democracy Center",
+        "distance_km": 1.7171006190919547,
+        "coordinates": [
+          "42.371292",
+          "-71.116337"
+        ]
+      }
+    },
+    {
+      "start_time": "12:48",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36265132054869,
+          -71.09905224896686
+        ]
+      }
+    },
+    {
+      "start_time": "15:11",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 2.7853554677134102,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "15:53",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36265132054869,
+          -71.09905224896686
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 0.19286614219261328,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "17:53",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 2.7853554677134102,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "18:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tea Do Central Sq",
+        "distance_km": 0.17593028902144792,
+        "coordinates": [
+          "42.363852",
+          "-71.100445"
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36265132054869,
+          -71.09905224896686
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36265132054869,
+        -71.09905224896686
+      ]
+    },
+    "work": {
+      "name": "RONNIE FUCHS MD",
+      "coordinates": [
+        "42.374829",
+        "-71.124734"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Get in Shape for Women by public_transit which takes 30-40 minutes.",
+    "On 09:58, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 10:46, I want to work, I go to RONNIE FUCHS MD by biking which takes 20-30 minutes.",
+    "On 11:50, I want to social, I go to The Democracy Center by public_transit which takes 20-20 minutes.",
+    "On 12:48, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 15:11, I want to shop, I go to Evergood Super Market by public_transit which takes 30-40 minutes.",
+    "On 15:53, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 16:15, I want to social, I go to ForestCity by walking which takes 0-10 minutes.",
+    "On 17:53, I want to shop, I go to Evergood Super Market by public_transit which takes 30-40 minutes.",
+    "On 18:25, I want to eat, I go to Tea Do Central Sq by walking which takes 0-10 minutes.",
+    "On 19:35, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

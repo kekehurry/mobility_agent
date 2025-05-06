@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Daniel Stephens\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pinocchios Pizza & Subs",
+        "distance_km": 0.5591282754315856,
+        "coordinates": [
+          "42.371963",
+          "-71.120281"
+        ]
+      }
+    },
+    {
+      "start_time": "12:33",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.5095672975901278,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "17:03",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Smoke Shop Harvard Square",
+        "distance_km": 0.36691888034902287,
+        "coordinates": [
+          "42.372479",
+          "-71.117929"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 1.1684834969301126,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "22:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374547269031545,
+          -71.11445554816194
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.374547269031545,
+        -71.11445554816194
+      ]
+    },
+    "work": {
+      "name": "Pinocchios Pizza & Subs",
+      "coordinates": [
+        "42.371963",
+        "-71.120281"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Pinocchios Pizza & Subs by walking which takes 10-20 minutes.",
+    "On 12:33, I want to shop, I go to Whole Foods Market by private_auto which takes 10-20 minutes.",
+    "On 17:03, I want to eat, I go to The Smoke Shop Harvard Square by walking which takes 10-20 minutes.",
+    "On 19:30, I want to social, I go to Radcliffe Quadrangle by private_auto which takes 10-20 minutes.",
+    "On 22:45, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

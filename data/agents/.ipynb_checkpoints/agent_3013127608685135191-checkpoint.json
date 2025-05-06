@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Jack Castillo\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cabot Cafe",
+        "distance_km": 1.5402120174098324,
+        "coordinates": [
+          "42.381988",
+          "-71.124079"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pagu",
+        "distance_km": 1.50708729766251,
+        "coordinates": [
+          "42.362335",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.5120548575442205,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Richdale Food Store",
+        "distance_km": 1.0426048333869529,
+        "coordinates": [
+          "42.369673",
+          "-71.101087"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pacific Street Cafe",
+        "distance_km": 1.5003261627674351,
+        "coordinates": [
+          "42.359985",
+          "-71.102192"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37045338938481,
+          -71.11370090804397
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37045338938481,
+        -71.11370090804397
+      ]
+    },
+    "work": {
+      "name": "Cabot Cafe",
+      "coordinates": [
+        "42.381988",
+        "-71.124079"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Cabot Cafe by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Pagu by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to maintenance, I go to Nick's Magazine Auto R by public_transit which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Richdale Food Store by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Pacific Street Cafe by public_transit which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Lisa Mitchell\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evolve Fitness",
+        "distance_km": 1.5090798426980074,
+        "coordinates": [
+          "42.387936",
+          "-71.139745"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Baraka",
+        "distance_km": 2.0056734718611016,
+        "coordinates": [
+          "42.384088",
+          "-71.119825"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 0.3812436607852353,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Somerville Mental Health Center",
+        "distance_km": 0.332852745949953,
+        "coordinates": [
+          "42.39711",
+          "-71.130279"
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.5152093562544247,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ONO Pokebar",
+        "distance_km": 1.5150479956968759,
+        "coordinates": [
+          "42.389397",
+          "-71.11976"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.400003924138325,
+          -71.13132766849016
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 0.3812436607852353,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.400003924138325,
+          -71.13132766849016
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.400003924138325,
+        -71.13132766849016
+      ]
+    },
+    "work": {
+      "name": "Evolve Fitness",
+      "coordinates": [
+        "42.387936",
+        "-71.139745"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to work, I go to Evolve Fitness by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Baraka by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to social, I go to Investments Limited by auto_passenger which takes 0-10 minutes.",
+    "On 13:15, I want to recreation, I go to Cambridge Somerville Mental Health Center by public_transit which takes 0-10 minutes.",
+    "On 15:45, I want to shop, I go to Trader Joe's by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to ONO Pokebar by private_auto which takes 10-20 minutes.",
+    "On 19:15, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 20:30, I want to social, I go to Investments Limited by private_auto which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

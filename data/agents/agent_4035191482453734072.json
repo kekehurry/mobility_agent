@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Laura Drake\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pepita Coffee",
+        "distance_km": 0.21428269190580534,
+        "coordinates": [
+          "42.367815",
+          "-71.097951"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Camie's Bakery & Restaurant",
+        "distance_km": 0.32594207230126654,
+        "coordinates": [
+          "42.366812",
+          "-71.097777"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.3313593768602364,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Modulo Systems",
+        "distance_km": 0.4340789073293021,
+        "coordinates": [
+          "42.366671",
+          "-71.094677"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jeans Caribbean",
+        "distance_km": 0.18196929800552902,
+        "coordinates": [
+          "42.368154",
+          "-71.098464"
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 1.584286829293873,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369744026900655,
+          -71.09793233348258
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369744026900655,
+        -71.09793233348258
+      ]
+    },
+    "work": {
+      "name": "Pepita Coffee",
+      "coordinates": [
+        "42.367815",
+        "-71.097951"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Pepita Coffee by public_transit which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to Camie's Bakery & Restaurant by public_transit which takes 0-10 minutes.",
+    "On 12:45, I want to social, I go to RJ Realty Management by public_transit which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Modulo Systems by public_transit which takes 0-10 minutes.",
+    "On 16:30, I want to eat, I go to Jeans Caribbean by walking which takes 0-10 minutes.",
+    "On 17:15, I want to recreation, I go to Kendall Club by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to home, I go to home by public_transit which takes 0-10 minutes."
+  ]
+}

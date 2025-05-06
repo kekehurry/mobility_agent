@@ -1,0 +1,222 @@
+{
+  "profile": "{\"name\": \"Brian Luna\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:18",
+      "desire": "school",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Morse",
+        "distance_km": 1.5345845891404113,
+        "coordinates": [
+          "42.355533",
+          "-71.111789"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "VO2 Vegan Cafe",
+        "distance_km": 0.45455034961966334,
+        "coordinates": [
+          "42.369631",
+          "-71.111188"
+        ]
+      }
+    },
+    {
+      "start_time": "08:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bombay Club",
+        "distance_km": 1.5012800091610217,
+        "coordinates": [
+          "42.371581",
+          "-71.123624"
+        ]
+      }
+    },
+    {
+      "start_time": "11:46",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.0680027859978543,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "12:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36862446100739,
+          -71.10583915956155
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Your Center Pilates Based Exercise",
+        "distance_km": 0.3311428085711602,
+        "coordinates": [
+          "42.370083",
+          "-71.102333"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.0680027859978543,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "15:21",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36862446100739,
+          -71.10583915956155
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 0.5377808858600821,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Legal Sea Foods",
+        "distance_km": 1.5203364448643746,
+        "coordinates": [
+          "42.372313",
+          "-71.123614"
+        ]
+      }
+    },
+    {
+      "start_time": "18:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36862446100739,
+          -71.10583915956155
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36862446100739,
+        -71.10583915956155
+      ]
+    },
+    "school": {
+      "name": "Morse",
+      "coordinates": [
+        "42.355533",
+        "-71.111789"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Bombay Club",
+      "coordinates": [
+        "42.371581",
+        "-71.123624"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:18, I want to school, I go to Morse by auto_passenger which takes 10-20 minutes.",
+    "On 08:00, I want to eat, I go to VO2 Vegan Cafe by walking which takes 10-20 minutes.",
+    "On 08:46, I want to work, I go to Bombay Club by auto_passenger which takes 10-20 minutes.",
+    "On 11:46, I want to maintenance, I go to C L M Inc by auto_passenger which takes 10-20 minutes.",
+    "On 12:33, I want to home, I go to home by auto_passenger which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Your Center Pilates Based Exercise by walking which takes 10-20 minutes.",
+    "On 14:20, I want to maintenance, I go to C L M Inc by auto_passenger which takes 10-20 minutes.",
+    "On 15:21, I want to home, I go to home by auto_passenger which takes 10-20 minutes.",
+    "On 16:03, I want to shop, I go to Deep Thoughts Cambridge by public_transit which takes 10-20 minutes.",
+    "On 17:08, I want to eat, I go to Legal Sea Foods by public_transit which takes 10-20 minutes.",
+    "On 18:40, I want to home, I go to home by auto_passenger which takes 10-20 minutes."
+  ]
+}

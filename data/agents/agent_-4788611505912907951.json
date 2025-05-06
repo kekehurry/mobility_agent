@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"April Smith\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"three_plus\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:40",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Exarchos Aristides E DMD",
+        "distance_km": 0.045027214812943375,
+        "coordinates": [
+          "42.382297",
+          "-71.130487"
+        ]
+      }
+    },
+    {
+      "start_time": "11:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "House of Chang",
+        "distance_km": 0.30041390005781726,
+        "coordinates": [
+          "42.383521",
+          "-71.133739"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.2611472377632247,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "13:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.8362113725949245,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.2611472377632247,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Rivertech Cafe",
+        "distance_km": 2.501231554474798,
+        "coordinates": [
+          "42.363105",
+          "-71.115246"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38267094219441,
+          -71.13027595681928
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38267094219441,
+        -71.13027595681928
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:40, I want to recreation, I go to Exarchos Aristides E DMD by private_auto which takes 0-10 minutes.",
+    "On 11:40, I want to eat, I go to House of Chang by walking which takes 0-10 minutes.",
+    "On 12:20, I want to social, I go to Cambridge Forum by auto_passenger which takes 0-10 minutes.",
+    "On 13:10, I want to shop, I go to Thistle & Shamrock by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to Cambridge Forum by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Rivertech Cafe by on_demand_auto which takes 20-30 minutes.",
+    "On 18:20, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

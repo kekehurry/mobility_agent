@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Dwayne Newman\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ahern Field",
+        "distance_km": 2.5023729650249127,
+        "coordinates": [
+          "42.36864",
+          "-71.08649"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.5593846454995575,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "11:28",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "F45 Training",
+        "distance_km": 0.3140238588842219,
+        "coordinates": [
+          "42.373116",
+          "-71.120108"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.723249354215506,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "15:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.3457412121793813,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37225523355487,
+          -71.11647646445833
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Al's Harvard Square Cafe",
+        "distance_km": 0.16892092783826174,
+        "coordinates": [
+          "42.373029",
+          "-71.118242"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37225523355487,
+          -71.11647646445833
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37225523355487,
+        -71.11647646445833
+      ]
+    },
+    "work": {
+      "name": "Ahern Field",
+      "coordinates": [
+        "42.36864",
+        "-71.08649"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:43, I want to work, I go to Ahern Field by auto_passenger which takes 10-20 minutes.",
+    "On 10:05, I want to shop, I go to Trader Joe's by biking which takes 10-20 minutes.",
+    "On 11:28, I want to recreation, I go to F45 Training by auto_passenger which takes 0-10 minutes.",
+    "On 14:20, I want to maintenance, I go to Nick's Magazine Auto R by biking which takes 10-20 minutes.",
+    "On 15:58, I want to shop, I go to Gap by auto_passenger which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by auto_passenger which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Al's Harvard Square Cafe by walking which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by auto_passenger which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Courtney Castro\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 7, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trevor Kaye MD",
+        "distance_km": 0.27435052952070416,
+        "coordinates": [
+          "42.390798",
+          "-71.152272"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.3475199308354345,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kevin Cueto Santana Properties Team",
+        "distance_km": 0.371423795791298,
+        "coordinates": [
+          "42.39445",
+          "-71.146172"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.5547179312132461,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39230270467049,
+          -71.14962984857289
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.3475199308354345,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kevin Cueto Santana Properties Team",
+        "distance_km": 0.371423795791298,
+        "coordinates": [
+          "42.39445",
+          "-71.146172"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39230270467049,
+          -71.14962984857289
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39230270467049,
+        -71.14962984857289
+      ]
+    },
+    "work": {
+      "name": "Trevor Kaye MD",
+      "coordinates": [
+        "42.390798",
+        "-71.152272"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:00, I want to work, I go to Trevor Kaye MD by on_demand_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to SANTE Mobile Farmhouse Cafe by on_demand_auto which takes 0-10 minutes.",
+    "On 13:30, I want to social, I go to Kevin Cueto Santana Properties Team by on_demand_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Trader Joe's by public_transit which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to SANTE Mobile Farmhouse Cafe by on_demand_auto which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Kevin Cueto Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by on_demand_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Alyssa Anderson\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 0.5041775224380884,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36990995531108,
+          -71.1186794564009
+        ]
+      }
+    },
+    {
+      "start_time": "11:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bosso Ramen Tavern",
+        "distance_km": 0.25317238900441674,
+        "coordinates": [
+          "42.372178",
+          "-71.118376"
+        ]
+      }
+    },
+    {
+      "start_time": "13:31",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 0.5041775224380884,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "13:36",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36990995531108,
+          -71.1186794564009
+        ]
+      }
+    },
+    {
+      "start_time": "18:41",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36990995531108,
+          -71.1186794564009
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 0.22952562396213974,
+        "coordinates": [
+          "42.371475",
+          "-71.11686"
+        ]
+      }
+    },
+    {
+      "start_time": "20:16",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36990995531108,
+          -71.1186794564009
+        ]
+      }
+    },
+    {
+      "start_time": "21:36",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 0.20050357234425908,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36990995531108,
+        -71.1186794564009
+      ]
+    },
+    "work": {
+      "name": "Bosso Ramen Tavern",
+      "coordinates": [
+        "42.372178",
+        "-71.118376"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Mesomorpheus by public_transit which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 11:26, I want to work, I go to Bosso Ramen Tavern by walking which takes 0-10 minutes.",
+    "On 13:31, I want to recreation, I go to Mesomorpheus by public_transit which takes 10-20 minutes.",
+    "On 13:36, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 18:41, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:45, I want to eat, I go to Blue Bottle Coffee by walking which takes 0-10 minutes.",
+    "On 20:16, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:36, I want to shop, I go to In Your Ear Records by walking which takes 0-10 minutes."
+  ]
+}

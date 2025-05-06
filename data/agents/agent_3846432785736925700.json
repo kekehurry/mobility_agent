@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Jennifer Thomas\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "DR. NATHAN WASS MD",
+        "distance_km": 3.0029442495609584,
+        "coordinates": [
+          "42.373975",
+          "-71.133408"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Shaking Crab Cambridge",
+        "distance_km": 2.5074861611887944,
+        "coordinates": [
+          "42.387592",
+          "-71.118953"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 2.526142561471591,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ung Feodor MD",
+        "distance_km": 0.6521732864915589,
+        "coordinates": [
+          "42.374499",
+          "-71.104161"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 2.526142561471591,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 1.5035474827986393,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Beyond Fitness Pilates Studio",
+        "distance_km": 5.035017374053021,
+        "coordinates": [
+          "42.391604",
+          "-71.152121"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "White Hen Pantry",
+        "distance_km": 2.5723418209050535,
+        "coordinates": [
+          "42.387924",
+          "-71.119615"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37190765634786,
+          -71.09705587957276
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Tavern in the Square",
+        "distance_km": 2.5105516001210284,
+        "coordinates": [
+          "42.387611",
+          "-71.11898"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37190765634786,
+          -71.09705587957276
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37190765634786,
+        -71.09705587957276
+      ]
+    },
+    "work": {
+      "name": "DR. NATHAN WASS MD",
+      "coordinates": [
+        "42.373975",
+        "-71.133408"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to DR. NATHAN WASS MD by public_transit which takes 20-30 minutes.",
+    "On 11:00, I want to eat, I go to Shaking Crab Cambridge by private_auto which takes 20-30 minutes.",
+    "On 11:30, I want to social, I go to Radcliffe Quadrangle by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to recreation, I go to Ung Feodor MD by walking which takes 10-20 minutes.",
+    "On 13:30, I want to social, I go to Radcliffe Quadrangle by private_auto which takes 20-30 minutes.",
+    "On 15:00, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes 20-30 minutes.",
+    "On 16:30, I want to recreation, I go to Beyond Fitness Pilates Studio by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to shop, I go to White Hen Pantry by public_transit which takes 20-30 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to Tavern in the Square by public_transit which takes 20-30 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

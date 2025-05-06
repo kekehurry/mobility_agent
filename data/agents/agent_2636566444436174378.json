@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Sean Powers\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 5, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Xo Communications Operations",
+        "distance_km": 2.0031359737593455,
+        "coordinates": [
+          "42.369378",
+          "-71.087663"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Richards",
+        "distance_km": 1.5058061446278832,
+        "coordinates": [
+          "42.373435",
+          "-71.097193"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 0.061532454132007836,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Martin Brothers Liquors",
+        "distance_km": 1.5191488590329902,
+        "coordinates": [
+          "42.373016",
+          "-71.096528"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ABC Pizza House",
+        "distance_km": 0.5001902883918736,
+        "coordinates": [
+          "42.366069",
+          "-71.105366"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Focht Birkerts Lynn Licsw",
+        "distance_km": 0.40721892695871775,
+        "coordinates": [
+          "42.368078",
+          "-71.10932"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 1.1154654682877845,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36466862303755,
+          -71.11113700635813
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36466862303755,
+        -71.11113700635813
+      ]
+    },
+    "work": {
+      "name": "Xo Communications Operations",
+      "coordinates": [
+        "42.369378",
+        "-71.087663"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Xo Communications Operations by on_demand_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Richards by on_demand_auto which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Willis Moore Youth Center by auto_passenger which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Martin Brothers Liquors by on_demand_auto which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to ABC Pizza House by auto_passenger which takes 0-10 minutes.",
+    "On 18:30, I want to recreation, I go to Focht Birkerts Lynn Licsw by walking which takes 10-20 minutes.",
+    "On 19:30, I want to social, I go to Society for Critical Aesthetics by on_demand_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by on_demand_auto which takes 10-20 minutes."
+  ]
+}

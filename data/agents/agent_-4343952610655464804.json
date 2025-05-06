@@ -1,0 +1,146 @@
+{
+  "profile": "{\n\n  \"name\": \"Jacqueline Blair\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor\",\n  \"household_size\": 5,\n  \"household_income\": \"45k-75k\",\n  \"available_vehicles\": \"one\"\n}\n\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.2616658228551975,
+        "coordinates": [
+          "42.360684",
+          "-71.086093"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Champions",
+        "distance_km": 0.437422287090453,
+        "coordinates": [
+          "42.362733",
+          "-71.085448"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 0.4237055142541704,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 0.4064365638998853,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 0.4064444358389685,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 0.5804428456329768,
+        "coordinates": [
+          "42.36335",
+          "-71.08775"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35895968971635,
+          -71.08392898307139
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35895968971635,
+        -71.08392898307139
+      ]
+    },
+    "work": {
+      "name": "Clover Food Lab",
+      "coordinates": [
+        "42.360684",
+        "-71.086093"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to work, I go to Clover Food Lab by biking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Champions by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to One Broadway by biking which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Kendall Club by biking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Brothers Market by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Blue Bottle Coffee by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

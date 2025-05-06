@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Joseph Chavez\", \"city\": \"Cambridge,MA\", \"age\": 30, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:07",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whitehead Institute For Biomedical Research",
+        "distance_km": 0.32562343801860066,
+        "coordinates": [
+          "42.363159",
+          "-71.089396"
+        ]
+      }
+    },
+    {
+      "start_time": "09:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Meadhall",
+        "distance_km": 0.5062586154387779,
+        "coordinates": [
+          "42.36367",
+          "-71.087293"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 0.803873649689854,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "10:28",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whitehead Institute For Biomedical Research",
+        "distance_km": 0.32562343801860066,
+        "coordinates": [
+          "42.363159",
+          "-71.089396"
+        ]
+      }
+    },
+    {
+      "start_time": "11:46",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.2129211055387021,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362727616091234,
+          -71.0933057477701
+        ]
+      }
+    },
+    {
+      "start_time": "12:46",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 0.768431988334071,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "18:31",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362727616091234,
+          -71.0933057477701
+        ]
+      }
+    },
+    {
+      "start_time": "20:48",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362727616091234,
+          -71.0933057477701
+        ]
+      }
+    },
+    {
+      "start_time": "21:11",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spira Yoga Shala",
+        "distance_km": 1.5424592652324964,
+        "coordinates": [
+          "42.371005",
+          "-71.078271"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glorious Office",
+        "distance_km": 0.2397515800585797,
+        "coordinates": [
+          "42.361587",
+          "-71.090835"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.362727616091234,
+        -71.0933057477701
+      ]
+    },
+    "work": {
+      "name": "Whitehead Institute For Biomedical Research",
+      "coordinates": [
+        "42.363159",
+        "-71.089396"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:07, I want to work, I go to Whitehead Institute For Biomedical Research by walking which takes 10-20 minutes.",
+    "On 09:26, I want to eat, I go to Meadhall by walking which takes 10-20 minutes.",
+    "On 10:05, I want to shop, I go to Roche Brothers Supermarket by walking which takes 10-20 minutes.",
+    "On 10:28, I want to work, I go to Whitehead Institute For Biomedical Research by walking which takes 10-20 minutes.",
+    "On 11:46, I want to maintenance, I go to C L M Inc by walking which takes 10-20 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:46, I want to social, I go to MIT Wong Auditorium by walking which takes 0-10 minutes.",
+    "On 18:31, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:48, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:11, I want to recreation, I go to Spira Yoga Shala by walking which takes 20-30 minutes.",
+    "On 21:00, I want to social, I go to Glorious Office by walking which takes 0-10 minutes."
+  ]
+}

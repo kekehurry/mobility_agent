@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Diane Garrett\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"50k-75k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:08",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Netsky Richard MD",
+        "distance_km": 2.502300397577028,
+        "coordinates": [
+          "42.380697",
+          "-71.13393"
+        ]
+      }
+    },
+    {
+      "start_time": "11:07",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.570582881282221,
+        "coordinates": [
+          "42.370556",
+          "-71.077198"
+        ]
+      }
+    },
+    {
+      "start_time": "12:07",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Netsky Richard MD",
+        "distance_km": 2.502300397577028,
+        "coordinates": [
+          "42.380697",
+          "-71.13393"
+        ]
+      }
+    },
+    {
+      "start_time": "13:07",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Your Center Pilates Based Exercise",
+        "distance_km": 0.5177417225751256,
+        "coordinates": [
+          "42.370083",
+          "-71.102333"
+        ]
+      }
+    },
+    {
+      "start_time": "15:34",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sakana",
+        "distance_km": 0.21836336486520738,
+        "coordinates": [
+          "42.369345",
+          "-71.110752"
+        ]
+      }
+    },
+    {
+      "start_time": "16:34",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 0.4468295221807595,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "17:34",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Coffee Shop",
+        "distance_km": 1.500746392946073,
+        "coordinates": [
+          "42.372537",
+          "-71.090863"
+        ]
+      }
+    },
+    {
+      "start_time": "18:34",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36860683190792,
+          -71.10829500352622
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36860683190792,
+        -71.10829500352622
+      ]
+    },
+    "work": {
+      "name": "Netsky Richard MD",
+      "coordinates": [
+        "42.380697",
+        "-71.13393"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:08, I want to work, I go to Netsky Richard MD by public_transit which takes 20-30 minutes.",
+    "On 11:07, I want to eat, I go to Starbucks by public_transit which takes 20-30 minutes.",
+    "On 12:07, I want to work, I go to Netsky Richard MD by public_transit which takes 20-30 minutes.",
+    "On 13:07, I want to recreation, I go to Your Center Pilates Based Exercise by walking which takes 10-20 minutes.",
+    "On 15:34, I want to eat, I go to Sakana by walking which takes 0-10 minutes.",
+    "On 16:34, I want to shop, I go to Daily Table Central Square by walking which takes 0-10 minutes.",
+    "On 17:34, I want to eat, I go to Cambridge Coffee Shop by public_transit which takes 20-30 minutes.",
+    "On 18:34, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

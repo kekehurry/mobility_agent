@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Andrew Stephens\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"75k-10,000\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:31",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.3011201311799747,
+        "coordinates": [
+          "42.368985",
+          "-71.11368"
+        ]
+      }
+    },
+    {
+      "start_time": "08:41",
+      "desire": "school",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "St Pauls Choir School",
+        "distance_km": 0.30199385095712844,
+        "coordinates": [
+          "42.371212",
+          "-71.115729"
+        ]
+      }
+    },
+    {
+      "start_time": "13:21",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Malkin Athletic Center",
+        "distance_km": 0.3358653175749261,
+        "coordinates": [
+          "42.371359",
+          "-71.119416"
+        ]
+      }
+    },
+    {
+      "start_time": "14:46",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36876387331384,
+          -71.11732349470147
+        ]
+      }
+    },
+    {
+      "start_time": "17:02",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Winthrop Grille",
+        "distance_km": 0.19528059689336266,
+        "coordinates": [
+          "42.370282",
+          "-71.118519"
+        ]
+      }
+    },
+    {
+      "start_time": "17:21",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 0.33794162245281795,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "19:21",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.6684883176105105,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "19:41",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36876387331384,
+          -71.11732349470147
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36876387331384,
+        -71.11732349470147
+      ]
+    },
+    "school": {
+      "name": "St Pauls Choir School",
+      "coordinates": [
+        "42.371212",
+        "-71.115729"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:31, I want to eat, I go to Darwin's by walking which takes 0-10 minutes.",
+    "On 08:41, I want to school, I go to St Pauls Choir School by on_demand_auto which takes 0-10 minutes.",
+    "On 13:21, I want to recreation, I go to Malkin Athletic Center by walking which takes 0-10 minutes.",
+    "On 14:46, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:02, I want to eat, I go to Winthrop Grille by on_demand_auto which takes 0-10 minutes.",
+    "On 17:21, I want to shop, I go to In Your Ear Records by walking which takes 0-10 minutes.",
+    "On 19:21, I want to social, I go to Cambridge Forum by on_demand_auto which takes 10-20 minutes.",
+    "On 19:41, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

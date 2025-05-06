@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Nathan Conner\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mitsubishi Electric Research Labs",
+        "distance_km": 0.3136554391554607,
+        "coordinates": [
+          "42.366121",
+          "-71.092487"
+        ]
+      }
+    },
+    {
+      "start_time": "07:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Xo Communications Operations",
+        "distance_km": 0.22423746217453633,
+        "coordinates": [
+          "42.369378",
+          "-71.087663"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mitsubishi Electric Research Labs",
+        "distance_km": 0.3136554391554607,
+        "coordinates": [
+          "42.366121",
+          "-71.092487"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kendall Kitchen",
+        "distance_km": 0.30162021743724166,
+        "coordinates": [
+          "42.366056",
+          "-71.092182"
+        ]
+      }
+    },
+    {
+      "start_time": "17:52",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mitsubishi Electric Research Labs",
+        "distance_km": 0.3136554391554607,
+        "coordinates": [
+          "42.366121",
+          "-71.092487"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36809704987178,
+          -71.08976702641375
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36809704987178,
+        -71.08976702641375
+      ]
+    },
+    "work": {
+      "name": "Mitsubishi Electric Research Labs",
+      "coordinates": [
+        "42.366121",
+        "-71.092487"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Mitsubishi Electric Research Labs by private_auto which takes 0-10 minutes.",
+    "On 07:02, I want to shop, I go to Xo Communications Operations by private_auto which takes 0-10 minutes.",
+    "On 14:43, I want to work, I go to Mitsubishi Electric Research Labs by private_auto which takes 0-10 minutes.",
+    "On 17:08, I want to eat, I go to Kendall Kitchen by private_auto which takes 0-10 minutes.",
+    "On 17:52, I want to shop, I go to Mitsubishi Electric Research Labs by private_auto which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

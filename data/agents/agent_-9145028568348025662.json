@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Juan Waters\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lizzy's Ice Cream",
+        "distance_km": 0.3020754937554469,
+        "coordinates": [
+          "42.374531",
+          "-71.120119"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Royal East Restaurant",
+        "distance_km": 2.005131449674543,
+        "coordinates": [
+          "42.363082",
+          "-71.096974"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.5073785619972357,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.800789181382254,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Petsi Pies",
+        "distance_km": 2.50626708679002,
+        "coordinates": [
+          "42.371691",
+          "-71.086302"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373758240872704,
+          -71.11660260961277
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Luigi's Variety",
+        "distance_km": 2.620547610026391,
+        "coordinates": [
+          "42.371552",
+          "-71.084926"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Miller Fern Psychothrpst",
+        "distance_km": 2.6749344357814677,
+        "coordinates": [
+          "42.388204",
+          "-71.14259"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.20008250653168475,
+        "coordinates": [
+          "42.373348",
+          "-71.118968"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 1.5645513876657677,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373758240872704,
+          -71.11660260961277
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.373758240872704,
+        -71.11660260961277
+      ]
+    },
+    "work": {
+      "name": "Lizzy's Ice Cream",
+      "coordinates": [
+        "42.374531",
+        "-71.120119"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Lizzy's Ice Cream by walking which takes 10-20 minutes.",
+    "On 09:00, I want to eat, I go to Royal East Restaurant by public_transit which takes 20-30 minutes.",
+    "On 10:00, I want to shop, I go to H Mart by public_transit which takes 20-30 minutes.",
+    "On 11:30, I want to maintenance, I go to C L M Inc by walking which takes 20-30 minutes.",
+    "On 13:00, I want to eat, I go to Petsi Pies by public_transit which takes 20-30 minutes.",
+    "On 14:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Luigi's Variety by public_transit which takes 20-30 minutes.",
+    "On 17:00, I want to recreation, I go to Miller Fern Psychothrpst by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Deep Thoughts Cambridge by biking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Tina Harvey\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McIntyre Jeffrey R",
+        "distance_km": 0.31378221260255373,
+        "coordinates": [
+          "42.390678",
+          "-71.130568"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.5183158678498115,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corcoran Field",
+        "distance_km": 0.33249778889157167,
+        "coordinates": [
+          "42.38662",
+          "-71.127817"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.5183158678498115,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Masscraft Masonry & Construction",
+        "distance_km": 0.8208543653346764,
+        "coordinates": [
+          "42.395211",
+          "-71.129748"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.5634125900513294,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.5183158678498115,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corcoran Field",
+        "distance_km": 0.33249778889157167,
+        "coordinates": [
+          "42.38662",
+          "-71.127817"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38792952529216,
+          -71.13144788165094
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38792952529216,
+        -71.13144788165094
+      ]
+    },
+    "work": {
+      "name": "McIntyre Jeffrey R",
+      "coordinates": [
+        "42.390678",
+        "-71.130568"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to work, I go to McIntyre Jeffrey R by public_transit which takes 0-10 minutes.",
+    "On 07:15, I want to eat, I go to Concord Avenue Cafe by private_auto which takes 0-10 minutes.",
+    "On 08:00, I want to recreation, I go to Corcoran Field by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Concord Avenue Cafe by public_transit which takes 0-10 minutes.",
+    "On 13:30, I want to social, I go to Masscraft Masonry & Construction by public_transit which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Thistle & Shamrock by biking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Concord Avenue Cafe by biking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Corcoran Field by public_transit which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 0-10 minutes."
+  ]
+}

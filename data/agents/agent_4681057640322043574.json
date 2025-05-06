@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Janet Miller\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.2786751344050242,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "07:55",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sabra Grill",
+        "distance_km": 0.2076824741015973,
+        "coordinates": [
+          "42.371896",
+          "-71.121092"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 0.5025473084999232,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Veggie Grill",
+        "distance_km": 0.18371567037059303,
+        "coordinates": [
+          "42.372002",
+          "-71.120836"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pure Barre",
+        "distance_km": 0.3008421308963535,
+        "coordinates": [
+          "42.373029",
+          "-71.122372"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.22495000062008327,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shays Pub & Wine Bar",
+        "distance_km": 0.17978654737163224,
+        "coordinates": [
+          "42.37179",
+          "-71.120643"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.22495000062008327,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.3029705546245288,
+        "coordinates": [
+          "42.373053",
+          "-71.122393"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37261233423383,
+          -71.11876295321485
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37261233423383,
+        -71.11876295321485
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:55, I want to shop, I go to Used Sounds of Harvard Square by biking which takes 0-10 minutes.",
+    "On 07:55, I want to eat, I go to Sabra Grill by walking which takes 0-10 minutes.",
+    "On 08:45, I want to social, I go to Society for Critical Aesthetics by public_transit which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Veggie Grill by walking which takes 0-10 minutes.",
+    "On 12:00, I want to recreation, I go to Pure Barre by public_transit which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to Cambridge Forum by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Shays Pub & Wine Bar by walking which takes 0-10 minutes.",
+    "On 18:30, I want to social, I go to Cambridge Forum by auto_passenger which takes 0-10 minutes.",
+    "On 20:30, I want to eat, I go to Flour Bakery Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

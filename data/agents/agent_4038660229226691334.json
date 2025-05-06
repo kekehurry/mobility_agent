@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Tracy Lewis\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 0.3955665833416445,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "09:48",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 0.3681738108247965,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "11:38",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 0.3955665833416445,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.6448118708185329,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "14:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Noodle Stix",
+        "distance_km": 0.5732239765098004,
+        "coordinates": [
+          "42.374947",
+          "-71.15063"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.6448118708185329,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37890443542076,
+          -71.15509684320466
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.6448118708185329,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37890443542076,
+          -71.15509684320466
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37890443542076,
+        -71.15509684320466
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:42, I want to social, I go to Majic Construction by walking which takes 0-10 minutes.",
+    "On 09:48, I want to recreation, I go to Glacken Field by walking which takes 10-20 minutes.",
+    "On 11:38, I want to social, I go to Majic Construction by public_transit which takes 10-20 minutes.",
+    "On 13:15, I want to shop, I go to Star Market by walking which takes 10-20 minutes.",
+    "On 14:45, I want to eat, I go to Noodle Stix by walking which takes 10-20 minutes.",
+    "On 15:15, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 16:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:45, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

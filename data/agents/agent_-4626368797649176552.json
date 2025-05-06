@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Robin Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:39",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Korean Church In Cambridge",
+        "distance_km": 0.2006233823008974,
+        "coordinates": [
+          "42.363454",
+          "-71.106872"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3638597808918,
+          -71.10924515655346
+        ]
+      }
+    },
+    {
+      "start_time": "10:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.3354236436109981,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "11:16",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Korean Church In Cambridge",
+        "distance_km": 0.2006233823008974,
+        "coordinates": [
+          "42.363454",
+          "-71.106872"
+        ]
+      }
+    },
+    {
+      "start_time": "14:23",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.5002003743513221,
+        "coordinates": [
+          "42.360979",
+          "-71.113912"
+        ]
+      }
+    },
+    {
+      "start_time": "15:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.3354236436109981,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "16:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3638597808918,
+          -71.10924515655346
+        ]
+      }
+    },
+    {
+      "start_time": "17:53",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "First Cambridge Realty Corporation",
+        "distance_km": 0.517674202745995,
+        "coordinates": [
+          "42.368479",
+          "-71.108412"
+        ]
+      }
+    },
+    {
+      "start_time": "19:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3638597808918,
+          -71.10924515655346
+        ]
+      }
+    },
+    {
+      "start_time": "20:33",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.5093766211116653,
+        "coordinates": [
+          "42.374189",
+          "-71.121151"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3638597808918,
+        -71.10924515655346
+      ]
+    },
+    "work": {
+      "name": "Korean Church In Cambridge",
+      "coordinates": [
+        "42.363454",
+        "-71.106872"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:39, I want to work, I go to Korean Church In Cambridge by walking which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 10:03, I want to shop, I go to Western Market by public_transit which takes 10-20 minutes.",
+    "On 11:16, I want to work, I go to Korean Church In Cambridge by walking which takes 0-10 minutes.",
+    "On 14:23, I want to eat, I go to Taqueria by walking which takes 10-20 minutes.",
+    "On 15:02, I want to shop, I go to Western Market by walking which takes 10-20 minutes.",
+    "On 16:42, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:53, I want to social, I go to First Cambridge Realty Corporation by public_transit which takes 10-20 minutes.",
+    "On 19:55, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:33, I want to eat, I go to Dunkin' by public_transit which takes 10-20 minutes."
+  ]
+}

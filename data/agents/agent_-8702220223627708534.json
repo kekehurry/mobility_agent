@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Jacob Flores\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"some_college\", \"household_size\": 4, \"household_income\": \"50k-75k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:05",
+      "desire": "school",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Martin Luther King Jr",
+        "distance_km": 0.40998481451061675,
+        "coordinates": [
+          "42.370994",
+          "-71.104264"
+        ]
+      }
+    },
+    {
+      "start_time": "10:36",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "All Star Sandwich Bar",
+        "distance_km": 0.16849443408256867,
+        "coordinates": [
+          "42.373506",
+          "-71.098188"
+        ]
+      }
+    },
+    {
+      "start_time": "11:18",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Richdale Food Store",
+        "distance_km": 0.3849827167336791,
+        "coordinates": [
+          "42.369673",
+          "-71.101087"
+        ]
+      }
+    },
+    {
+      "start_time": "14:01",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 0.6273815587589391,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "15:46",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 0.4491402806314889,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "16:56",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fitness Together",
+        "distance_km": 0.3323614659717181,
+        "coordinates": [
+          "42.371124",
+          "-71.097079"
+        ]
+      }
+    },
+    {
+      "start_time": "19:01",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Martin Brothers Liquors",
+        "distance_km": 0.2980968138899394,
+        "coordinates": [
+          "42.373016",
+          "-71.096528"
+        ]
+      }
+    },
+    {
+      "start_time": "20:26",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Phylonix Pharmaceuticals",
+        "distance_km": 0.18758755348000852,
+        "coordinates": [
+          "42.371731",
+          "-71.101538"
+        ]
+      }
+    },
+    {
+      "start_time": "21:46",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37306791508502,
+          -71.10014653540141
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37306791508502,
+        -71.10014653540141
+      ]
+    },
+    "school": {
+      "name": "Martin Luther King Jr",
+      "coordinates": [
+        "42.370994",
+        "-71.104264"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "All Star Sandwich Bar",
+      "coordinates": [
+        "42.373506",
+        "-71.098188"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:05, I want to school, I go to Martin Luther King Jr by auto_passenger which takes 0-10 minutes.",
+    "On 10:36, I want to work, I go to All Star Sandwich Bar by walking which takes 0-10 minutes.",
+    "On 11:18, I want to shop, I go to Richdale Food Store by walking which takes 0-10 minutes.",
+    "On 14:01, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 10-20 minutes.",
+    "On 15:46, I want to maintenance, I go to C L M Inc by walking which takes 0-10 minutes.",
+    "On 16:56, I want to recreation, I go to Fitness Together by walking which takes 10-20 minutes.",
+    "On 19:01, I want to shop, I go to Martin Brothers Liquors by biking which takes 0-10 minutes.",
+    "On 20:26, I want to recreation, I go to Phylonix Pharmaceuticals by walking which takes 0-10 minutes.",
+    "On 21:46, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

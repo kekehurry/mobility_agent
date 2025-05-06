@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Kristina Allen\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:41",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 1.7757408809559923,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355983206355724,
+          -71.08706794984333
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355983206355724,
+          -71.08706794984333
+        ]
+      }
+    },
+    {
+      "start_time": "18:28",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355983206355724,
+          -71.08706794984333
+        ]
+      }
+    },
+    {
+      "start_time": "20:16",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355983206355724,
+          -71.08706794984333
+        ]
+      }
+    },
+    {
+      "start_time": "20:31",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Best Buy",
+        "distance_km": 1.5131526545415745,
+        "coordinates": [
+          "42.367519",
+          "-71.077299"
+        ]
+      }
+    },
+    {
+      "start_time": "20:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355983206355724,
+          -71.08706794984333
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.355983206355724,
+        -71.08706794984333
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:41, I want to social, I go to Wellmet Project by private_auto which takes 10-20 minutes.",
+    "On 08:20, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 13:20, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:28, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 20:16, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 20:31, I want to shop, I go to Best Buy by private_auto which takes 10-20 minutes.",
+    "On 20:35, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

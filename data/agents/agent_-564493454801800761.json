@@ -1,0 +1,180 @@
+{
+  "profile": "{\n\n  \"name\": \"Mr. Andre Marquez\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 3,\n  \"household_income\": \"75k-100k\",\n  \"available_vehicles\": \"one\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "SannECURE",
+        "distance_km": 1.5189288345444447,
+        "coordinates": [
+          "42.371224",
+          "-71.080296"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 2.781451061283917,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Naco Taco",
+        "distance_km": 0.2636207010392857,
+        "coordinates": [
+          "42.362452",
+          "-71.098"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 0.2785485249764179,
+        "coordinates": [
+          "42.363707",
+          "-71.09312"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "LabCentral",
+        "distance_km": 0.2697462428928549,
+        "coordinates": [
+          "42.362253",
+          "-71.09503"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36447958989299,
+          -71.09633690909071
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shalimar of India",
+        "distance_km": 0.5023146764231912,
+        "coordinates": [
+          "42.364284",
+          "-71.102429"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dirty Water Fitness",
+        "distance_km": 1.5395263628755862,
+        "coordinates": [
+          "42.371324",
+          "-71.080085"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36447958989299,
+          -71.09633690909071
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36447958989299,
+        -71.09633690909071
+      ]
+    },
+    "work": {
+      "name": "SannECURE",
+      "coordinates": [
+        "42.371224",
+        "-71.080296"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to SannECURE by public_transit which takes 10-10 minutes.",
+    "On 09:00, I want to shop, I go to Evergood Super Market by biking which takes 10-20 minutes.",
+    "On 11:30, I want to eat, I go to Naco Taco by walking which takes 0-10 minutes.",
+    "On 12:30, I want to recreation, I go to Cambridge Athletic Club by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to LabCentral by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Shalimar of India by biking which takes 10-20 minutes.",
+    "On 20:30, I want to recreation, I go to Dirty Water Fitness by biking which takes 10-20 minutes.",
+    "On 22:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

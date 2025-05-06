@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Anna O'Connor\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 1.504812745019546,
+        "coordinates": [
+          "42.390886",
+          "-71.139725"
+        ]
+      }
+    },
+    {
+      "start_time": "08:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.388236617317055,
+          -71.12180307144413
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "S H Construction",
+        "distance_km": 1.5346869026252576,
+        "coordinates": [
+          "42.387879",
+          "-71.140434"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wok N' Roll",
+        "distance_km": 0.15791824751571817,
+        "coordinates": [
+          "42.388796",
+          "-71.12004"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Walden Square Community Association",
+        "distance_km": 0.6466332343796531,
+        "coordinates": [
+          "42.389148",
+          "-71.129559"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 2.5062239957441625,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.388236617317055,
+          -71.12180307144413
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CrossFit Medusa",
+        "distance_km": 0.2249425747107643,
+        "coordinates": [
+          "42.389901",
+          "-71.120247"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.388236617317055,
+          -71.12180307144413
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.388236617317055,
+        -71.12180307144413
+      ]
+    },
+    "work": {
+      "name": "S H Construction",
+      "coordinates": [
+        "42.387879",
+        "-71.140434"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to recreation, I go to CorePower Yoga by auto_passenger which takes 10-20 minutes.",
+    "On 08:10, I want to home, I go to home by auto_passenger which takes 10-20 minutes.",
+    "On 09:00, I want to work, I go to S H Construction by auto_passenger which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Wok N' Roll by walking which takes 0-10 minutes.",
+    "On 13:00, I want to social, I go to Walden Square Community Association by auto_passenger which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Vermas Market by public_transit which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by auto_passenger which takes 0-10 minutes.",
+    "On 18:30, I want to recreation, I go to CrossFit Medusa by auto_passenger which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by auto_passenger which takes 0-10 minutes."
+  ]
+}

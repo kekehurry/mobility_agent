@@ -1,0 +1,155 @@
+{
+  "profile": "{\n  \"name\": \"Shannon Gibson\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 76,\n  \"gender\": \"female\",\n  \"employment_status\": \"retired\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": \"zero\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Francis J McCrehan Memorial Swimming and Wading Pool",
+        "distance_km": 0.1833291146802673,
+        "coordinates": [
+          "42.394485",
+          "-71.137132"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39330421575223,
+          -71.13868761072213
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.35079523668632756,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Comeau Field",
+        "distance_km": 0.1602569899004032,
+        "coordinates": [
+          "42.394742",
+          "-71.138527"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brickworks Condominiums",
+        "distance_km": 0.20830769602225202,
+        "coordinates": [
+          "42.392231",
+          "-71.136613"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.37787032699704703,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39330421575223,
+          -71.13868761072213
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brickworks Condominiums",
+        "distance_km": 0.20830769602225202,
+        "coordinates": [
+          "42.392231",
+          "-71.136613"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39330421575223,
+        -71.13868761072213
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to recreation, I go to Francis J McCrehan Memorial Swimming and Wading Pool by walking which takes 0-10 minutes.",
+    "On 11:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Comeau Field by walking which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to Brickworks Condominiums by walking which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Bread & Circus by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to Brickworks Condominiums by walking which takes 0-10 minutes."
+  ]
+}

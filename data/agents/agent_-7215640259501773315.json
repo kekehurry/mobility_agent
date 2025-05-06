@@ -1,0 +1,154 @@
+{
+  "profile": "{\"name\": \"Ryan Kelley\", \"city\": \"Cambridge,MA\", \"age\": 22, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:09",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Rising",
+        "distance_km": 2.508741010670738,
+        "coordinates": [
+          "42.373055",
+          "-71.096973"
+        ]
+      }
+    },
+    {
+      "start_time": "09:01",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Lesley College",
+        "distance_km": 3.8996729743741505,
+        "coordinates": [
+          "42.388249",
+          "-71.118112"
+        ]
+      }
+    },
+    {
+      "start_time": "09:24",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "First United Market",
+        "distance_km": 0.5600449500235573,
+        "coordinates": [
+          "42.357512",
+          "-71.108056"
+        ]
+      }
+    },
+    {
+      "start_time": "15:40",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 2.503255454974688,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Rising",
+        "distance_km": 2.508741010670738,
+        "coordinates": [
+          "42.373055",
+          "-71.096973"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Zephyr On the Charles",
+        "distance_km": 0.5424402312509825,
+        "coordinates": [
+          "42.353765",
+          "-71.10548"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35343138620393,
+          -71.11204838965617
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35343138620393,
+        -71.11204838965617
+      ]
+    },
+    "work": {
+      "name": "The Rising",
+      "coordinates": [
+        "42.373055",
+        "-71.096973"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Lesley College",
+      "coordinates": [
+        "42.388249",
+        "-71.118112"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:09, I want to work, I go to The Rising by public_transit which takes 30-40 minutes.",
+    "On 09:01, I want to school, I go to Lesley College by public_transit which takes 30-40 minutes.",
+    "On 09:24, I want to shop, I go to First United Market by biking which takes 0-10 minutes.",
+    "On 15:40, I want to recreation, I go to Spaulding National Running Center by public_transit which takes 30-40 minutes.",
+    "On 16:15, I want to work, I go to The Rising by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Zephyr On the Charles by walking which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

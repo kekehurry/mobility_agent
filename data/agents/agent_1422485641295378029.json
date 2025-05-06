@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Larry Garcia\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Head of the Charles",
+        "distance_km": 0.8051747405639895,
+        "coordinates": [
+          "42.372262",
+          "-71.133935"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nicholas Athletic Center",
+        "distance_km": 0.7693779003234124,
+        "coordinates": [
+          "42.372661",
+          "-71.135912"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Head of the Charles",
+        "distance_km": 0.8051747405639895,
+        "coordinates": [
+          "42.372262",
+          "-71.133935"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.2843570670774158,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366211697648765,
+          -71.13931835491948
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366211697648765,
+        -71.13931835491948
+      ]
+    },
+    "work": {
+      "name": "Head of the Charles",
+      "coordinates": [
+        "42.372262",
+        "-71.133935"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Head of the Charles by walking which takes 0-10 minutes.",
+    "On 10:00, I want to recreation, I go to Nicholas Athletic Center by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Head of the Charles by walking which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

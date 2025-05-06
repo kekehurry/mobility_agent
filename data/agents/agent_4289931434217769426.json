@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"James White\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 1.5103288450577244,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 1.5103288450577244,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 1.505376150996438,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 1.5103288450577244,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.688871272644617,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "House of Chang",
+        "distance_km": 1.531808680924227,
+        "coordinates": [
+          "42.383521",
+          "-71.133739"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 1.5103288450577244,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38106316987391,
+          -71.15204169520358
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38106316987391,
+        -71.15204169520358
+      ]
+    },
+    "work": {
+      "name": "Shama Yoga",
+      "coordinates": [
+        "42.383673",
+        "-71.134043"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to work, I go to Shama Yoga by on_demand_auto which takes 10-20 minutes.",
+    "On 09:00, I want to work, I go to Shama Yoga by on_demand_auto which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to Concord Avenue Cafe by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to work, I go to Shama Yoga by on_demand_auto which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to House of Chang by public_transit which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Shama Yoga by public_transit which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

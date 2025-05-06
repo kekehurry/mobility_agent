@@ -1,0 +1,104 @@
+{
+  "profile": "{\"name\": \"Ryan Kennedy\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.6027903938687895,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Karma Yoga Studio",
+        "distance_km": 0.27605059593131837,
+        "coordinates": [
+          "42.370637",
+          "-71.113978"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368496977051,
+          -71.11227420322344
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Waypoint",
+        "distance_km": 0.10473926227356235,
+        "coordinates": [
+          "42.369431",
+          "-71.1121"
+        ]
+      }
+    },
+    {
+      "start_time": "18:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368496977051,
+          -71.11227420322344
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.368496977051,
+        -71.11227420322344
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:05, I want to shop, I go to Broadway Marketplace by walking which takes 10-20 minutes.",
+    "On 11:15, I want to recreation, I go to Karma Yoga Studio by walking which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 17:08, I want to eat, I go to Waypoint by auto_passenger which takes 0-10 minutes.",
+    "On 18:40, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

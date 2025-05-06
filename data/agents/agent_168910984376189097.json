@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Kathryn Leon\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:25",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 0.46167801031704164,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 0.3743266237535042,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35940558308438,
+          -71.07906151350517
+        ]
+      }
+    },
+    {
+      "start_time": "11:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 0.3743266237535042,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "13:31",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 1.5517447961681026,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "14:11",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 0.3743266237535042,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "18:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tatte Bakery",
+        "distance_km": 0.366503717393979,
+        "coordinates": [
+          "42.362212",
+          "-71.081401"
+        ]
+      }
+    },
+    {
+      "start_time": "19:11",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35940558308438,
+          -71.07906151350517
+        ]
+      }
+    },
+    {
+      "start_time": "21:36",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 0.4991621689019339,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35940558308438,
+        -71.07906151350517
+      ]
+    },
+    "work": {
+      "name": "Kendall Club",
+      "coordinates": [
+        "42.362192",
+        "-71.081617"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:25, I want to social, I go to MIT Wong Auditorium by auto_passenger which takes 0-10 minutes.",
+    "On 07:35, I want to recreation, I go to Kendall Club by public_transit which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 11:26, I want to work, I go to Kendall Club by auto_passenger which takes 0-10 minutes.",
+    "On 13:31, I want to recreation, I go to Simoni Skating Rink by auto_passenger which takes 10-20 minutes.",
+    "On 14:11, I want to work, I go to Kendall Club by auto_passenger which takes 0-10 minutes.",
+    "On 18:26, I want to eat, I go to Tatte Bakery by public_transit which takes 0-10 minutes.",
+    "On 19:11, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 21:36, I want to shop, I go to Brothers Market by public_transit which takes 0-10 minutes."
+  ]
+}

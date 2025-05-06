@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Charles Hill\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pearl Street Market",
+        "distance_km": 0.6006723342571623,
+        "coordinates": [
+          "42.362714",
+          "-71.105034"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zephyr On the Charles",
+        "distance_km": 0.40339983281340647,
+        "coordinates": [
+          "42.353765",
+          "-71.10548"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bytes At University Park",
+        "distance_km": 0.576244240417308,
+        "coordinates": [
+          "42.36105",
+          "-71.101189"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.677016953626605,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 0.32556110908485913,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 1.3240052313154116,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.357366065234764,
+          -71.1061137005918
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zephyr On the Charles",
+        "distance_km": 0.40339983281340647,
+        "coordinates": [
+          "42.353765",
+          "-71.10548"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 0.32556110908485913,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.357366065234764,
+        -71.1061137005918
+      ]
+    },
+    "work": {
+      "name": "Zephyr On the Charles",
+      "coordinates": [
+        "42.353765",
+        "-71.10548"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:40, I want to shop, I go to Pearl Street Market by walking which takes 0-10 minutes.",
+    "On 08:20, I want to work, I go to Zephyr On the Charles by private_auto which takes 10-20 minutes.",
+    "On 10:00, I want to eat, I go to Bytes At University Park by walking which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Trader Joe's by walking which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Yoga of Energy Flow by walking which takes 10-20 minutes.",
+    "On 15:00, I want to social, I go to Kemsley Education by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Zephyr On the Charles by walking which takes 10-20 minutes.",
+    "On 21:00, I want to recreation, I go to Yoga of Energy Flow by walking which takes 10-20 minutes."
+  ]
+}

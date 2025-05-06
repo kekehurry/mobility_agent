@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Joseph Spence\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 2.1812235757657947,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 1.2815401088631715,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pepita Coffee",
+        "distance_km": 0.30686370475436425,
+        "coordinates": [
+          "42.367815",
+          "-71.097951"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ahearn Field",
+        "distance_km": 0.5280263150507298,
+        "coordinates": [
+          "42.368554",
+          "-71.087952"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 1.2815401088631715,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "BostonDigital io Computer Repair",
+        "distance_km": 1.3620568553973216,
+        "coordinates": [
+          "42.368827",
+          "-71.110894"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chicken Now",
+        "distance_km": 1.500354063350858,
+        "coordinates": [
+          "42.368204",
+          "-71.076154"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 1.6953861147275051,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368556509445646,
+          -71.09436234449558
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Hoyt Field",
+        "distance_km": 1.5930214713795467,
+        "coordinates": [
+          "42.363705",
+          "-71.112561"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.368556509445646,
+        -71.09436234449558
+      ]
+    },
+    "work": {
+      "name": "Victoria Goodman Santana Properties Team",
+      "coordinates": [
+        "42.36912",
+        "-71.109902"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to social, I go to Cambridge Forum by public_transit which takes 20-30 minutes.",
+    "On 08:30, I want to work, I go to Victoria Goodman Santana Properties Team by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Pepita Coffee by walking which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Ahearn Field by walking which takes 10-20 minutes.",
+    "On 15:00, I want to work, I go to Victoria Goodman Santana Properties Team by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to BostonDigital io Computer Repair by walking which takes 20-30 minutes.",
+    "On 17:30, I want to eat, I go to Chicken Now by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to social, I go to Society for Critical Aesthetics by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 21:00, I want to recreation, I go to Hoyt Field by walking which takes 20-30 minutes."
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Shelby Garcia\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Castro Construction",
+        "distance_km": 1.1049189067785279,
+        "coordinates": [
+          "42.388775",
+          "-71.127224"
+        ]
+      }
+    },
+    {
+      "start_time": "09:22",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 0.3039440423476553,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "11:07",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37887035551901,
+          -71.12846070450095
+        ]
+      }
+    },
+    {
+      "start_time": "12:53",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cabot Cafe",
+        "distance_km": 0.5001485750811658,
+        "coordinates": [
+          "42.381988",
+          "-71.124079"
+        ]
+      }
+    },
+    {
+      "start_time": "14:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Castro Construction",
+        "distance_km": 1.1049189067785279,
+        "coordinates": [
+          "42.388775",
+          "-71.127224"
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37887035551901,
+          -71.12846070450095
+        ]
+      }
+    },
+    {
+      "start_time": "17:54",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.7903734061937459,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "19:37",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 0.4574611412560574,
+        "coordinates": [
+          "42.376328",
+          "-71.124091"
+        ]
+      }
+    },
+    {
+      "start_time": "20:37",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37887035551901,
+          -71.12846070450095
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37887035551901,
+        -71.12846070450095
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:42, I want to social, I go to Castro Construction by walking which takes 0-10 minutes.",
+    "On 09:22, I want to recreation, I go to Quadrangle Recreational Athletic Center by walking which takes 0-10 minutes.",
+    "On 11:07, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:53, I want to eat, I go to Cabot Cafe by walking which takes 20-30 minutes.",
+    "On 14:50, I want to social, I go to Castro Construction by walking which takes 0-10 minutes.",
+    "On 15:50, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:54, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 19:37, I want to eat, I go to Costa Coffee by walking which takes 0-10 minutes.",
+    "On 20:37, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}
