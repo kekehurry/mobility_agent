@@ -49,7 +49,11 @@ class BehaviorGraph:
             return time.hour+time.minute/60
 
         def durationt2str(duration_time):
-            return f"{int(math.floor(duration_time/10)*10)}-{int(math.ceil(duration_time/10)*10)}"
+            min_duration = int(math.floor(duration_time/10)*10)
+            max_duration = int(math.ceil(duration_time/10)*10)
+            if min_duration == max_duration:
+                max_duration += 10
+            return f"{min_duration}-{max_duration}"
         
         def get_fakename(gender):
             fake = Faker()
@@ -413,9 +417,9 @@ class BehaviorGraph:
             
         for node in intention_nodes:
             attrs = subgraph.nodes[node]
-            simple_labels[node] = f"{attrs['props']['primary_mode']}_{attrs['props']['duration_minutes']}"
+            simple_labels[node] = f"{attrs['props']['primary_mode']}\n{attrs['props']['duration_minutes']} min"
 
-        nx.draw_networkx_labels(subgraph, hierarchy_pos, labels=simple_labels, font_size=8, ax=ax1)
+        nx.draw_networkx_labels(subgraph, hierarchy_pos, labels=simple_labels, font_size=9, ax=ax1)
         
         # Create legend for nodes and edges
         legend_handles = [

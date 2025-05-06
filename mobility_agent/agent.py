@@ -86,9 +86,78 @@ class MobilityAgent:
         # Also update the working memory string to include this information
         self.memory_locations[location_type] = location_data
         return location_data
+    
+    def get_mode_prefernce_without_reference(self, desire,time,distance=None):
+
+        def number2strtime(numeric_time):
+            hours = int(numeric_time)
+            minutes = int((numeric_time - hours) * 60)
+            return f"{hours:02d}:{minutes:02d}"
+
+        time = number2strtime(time)
+
+        mode_list = ['walking', 'biking', 'auto_passenger', 'public_transit',
+       'private_auto', 'other_travel_mode', 'on_demand_auto']
+        duration_list = ['0-10','10-20','20-30', '30-40', '40-50','50-60']
+
+        if not distance : 
+            distance = 'unknown'
+
+        choice_template = f""" You are {self.profile}, tasked with simulating realistic transportation behavior based on reference data from people with similar profiles. 
+
+        Current Time: {time}
+        Current Desire: {desire}
+        Current memory: {self.working_memory}
+        Target Distance: {distance}
+
+        What transportation mode and duration minutes do you prefer?
+
+        Available Mode Choices : {mode_list}
+        Available Duration Choices : {duration_list}
+
+        Note: 
+        - Output your reason and preference weight of different choices
+        - You should consider your profile and the available choices.
+        - The sum of all weights should equals to 1.
+
+        Answer Format:
+        {{
+        'think': [list your reason in short sentences (up to 4 points)]
+        'choice_weights':[
+        {{'primary_mode': mode1, 'duration_minutes': duration1, weight: weight1 }},
+        {{'primary_mode': mode2, 'duration_minutes': duration2, weight: weight2 }},
+        ...
+        ]
+        }}
+        """
+        system_prompt = "You are a transportation behavior simulator that makes realistic choices based on statistical patterns."
+
+        try:
+            response = self.client.beta.chat.completions.parse(
+            model=MODEL,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": choice_template}
+            ],
+            temperature=0.7,  # Some randomness for variety
+            response_format=TransportationChoice,
+            )
+            result = json.loads(response.choices[0].message.content)
+            return result
+        except Exception as e:
+            print(e)
+            return None
         
     def get_mode_prefernce(self, desire,time,distance=None):
+
+        def number2strtime(numeric_time):
+            hours = int(numeric_time)
+            minutes = int((numeric_time - hours) * 60)
+            return f"{hours:02d}:{minutes:02d}"
+        
         _,weights =self.behavior_graph.preference_modelling(profile=self.profile,desire=desire,time=time)
+
+        time = number2strtime(time)
 
         if not distance : 
             distance = 'unknown'
