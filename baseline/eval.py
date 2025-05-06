@@ -194,11 +194,14 @@ def cal_topk_acc(model=None, X_eval=None, y_eval=None, result_df=None,k=3):
             
             # Fill score matrix with weights from choice_weights
             for i, choice_weights_json in enumerate(result_df['choice_weights']):
-                choices = json.loads(choice_weights_json)
-                for choice in choices:
-                    val = choice[col]
-                    if val in value_to_idx:  # Skip values not in ground truth set
-                        y_score[i, value_to_idx[val]] = choice['weight']
+                try:
+                    choices = json.loads(choice_weights_json)
+                    for choice in choices:
+                        val = choice[col]
+                        if val in value_to_idx:  # Skip values not in ground truth set
+                            y_score[i, value_to_idx[val]] = choice['weight']
+                except Exception as e:
+                    pass
             
             # Convert ground truth to indices
             y_true_idx = np.array([value_to_idx.get(val, -1) for val in y_true])
