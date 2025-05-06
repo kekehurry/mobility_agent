@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Michael Ross\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dumpling House",
+        "distance_km": 1.7134912321143738,
+        "coordinates": [
+          "42.368689",
+          "-71.109924"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 1.6682356669851062,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Halal Buns",
+        "distance_km": 1.8809123121103333,
+        "coordinates": [
+          "42.374045",
+          "-71.100616"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Meeting Place",
+        "distance_km": 0.20696779126210776,
+        "coordinates": [
+          "42.382788",
+          "-71.118822"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38177765224224,
+          -71.12093360058641
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harkness Commons",
+        "distance_km": 0.10028303860556273,
+        "coordinates": [
+          "42.381136",
+          "-71.120077"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 0.3034332776476554,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38177765224224,
+        -71.12093360058641
+      ]
+    },
+    "work": {
+      "name": "Dumpling House",
+      "coordinates": [
+        "42.368689",
+        "-71.109924"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Dumpling House by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to social, I go to Kemsley Education by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Halal Buns by biking which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Meeting Place by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Harkness Commons by walking which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to Radcliffe Quadrangle by walking which takes 0-10 minutes."
+  ]
+}

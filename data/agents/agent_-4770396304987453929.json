@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Maria Strickland\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"2\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Loews Sony Theatres",
+        "distance_km": 0.20192191281220256,
+        "coordinates": [
+          "42.374256",
+          "-71.119386"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374448387357994,
+          -71.12182382894184
+        ]
+      }
+    },
+    {
+      "start_time": "11:47",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Lawner Peter PHD",
+        "distance_km": 0.5571762650255665,
+        "coordinates": [
+          "42.374779",
+          "-71.128574"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kane Ellen Social Worker",
+        "distance_km": 0.32673943521370136,
+        "coordinates": [
+          "42.374113",
+          "-71.125765"
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374448387357994,
+          -71.12182382894184
+        ]
+      }
+    },
+    {
+      "start_time": "14:52",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 0.4078995841545016,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "15:12",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Armageddon Shop",
+        "distance_km": 0.2381688828846788,
+        "coordinates": [
+          "42.372315",
+          "-71.121535"
+        ]
+      }
+    },
+    {
+      "start_time": "16:07",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374448387357994,
+          -71.12182382894184
+        ]
+      }
+    },
+    {
+      "start_time": "17:53",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Armageddon Shop",
+        "distance_km": 0.2381688828846788,
+        "coordinates": [
+          "42.372315",
+          "-71.121535"
+        ]
+      }
+    },
+    {
+      "start_time": "19:47",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374448387357994,
+          -71.12182382894184
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.374448387357994,
+        -71.12182382894184
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Loews Sony Theatres by auto_passenger which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 11:47, I want to recreation, I go to Lawner Peter PHD by private_auto which takes 10-10 minutes.",
+    "On 12:38, I want to social, I go to Kane Ellen Social Worker by private_auto which takes 0-10 minutes.",
+    "On 13:37, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 14:52, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 10-10 minutes.",
+    "On 15:12, I want to shop, I go to Armageddon Shop by walking which takes 0-10 minutes.",
+    "On 16:07, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 17:53, I want to shop, I go to Armageddon Shop by private_auto which takes 0-10 minutes.",
+    "On 19:47, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

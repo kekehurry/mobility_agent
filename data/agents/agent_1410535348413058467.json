@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Ashley Bowman\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Moves & Vibes Dance Co",
+        "distance_km": 0.5063720099203898,
+        "coordinates": [
+          "42.371681",
+          "-71.082923"
+        ]
+      }
+    },
+    {
+      "start_time": "09:02",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Freshens",
+        "distance_km": 0.30207475870625494,
+        "coordinates": [
+          "42.36849",
+          "-71.076159"
+        ]
+      }
+    },
+    {
+      "start_time": "10:16",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Spira Yoga Shala",
+        "distance_km": 0.12127299247802234,
+        "coordinates": [
+          "42.371005",
+          "-71.078271"
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Ma Sears Appliance Repair",
+        "distance_km": 0.41456641810469963,
+        "coordinates": [
+          "42.367438",
+          "-71.076567"
+        ]
+      }
+    },
+    {
+      "start_time": "13:48",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dr Detail Car Cleaning Service",
+        "distance_km": 0.34964699554639994,
+        "coordinates": [
+          "42.36813",
+          "-71.075692"
+        ]
+      }
+    },
+    {
+      "start_time": "14:03",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sweet Touch Cafe",
+        "distance_km": 0.2599987374996349,
+        "coordinates": [
+          "42.371195",
+          "-71.079971"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371165605387674,
+          -71.07681468066596
+        ]
+      }
+    },
+    {
+      "start_time": "17:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371165605387674,
+          -71.07681468066596
+        ]
+      }
+    },
+    {
+      "start_time": "17:53",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Surya Indian Express",
+        "distance_km": 0.2786114180420834,
+        "coordinates": [
+          "42.368663",
+          "-71.076589"
+        ]
+      }
+    },
+    {
+      "start_time": "18:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Freshens",
+        "distance_km": 0.30207475870625494,
+        "coordinates": [
+          "42.36849",
+          "-71.076159"
+        ]
+      }
+    },
+    {
+      "start_time": "18:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371165605387674,
+          -71.07681468066596
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.371165605387674,
+        -71.07681468066596
+      ]
+    },
+    "work": {
+      "name": "Spira Yoga Shala",
+      "coordinates": [
+        "42.371005",
+        "-71.078271"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Moves & Vibes Dance Co by public_transit which takes 0-10 minutes.",
+    "On 09:02, I want to eat, I go to Freshens by public_transit which takes 0-10 minutes.",
+    "On 10:16, I want to work, I go to Spira Yoga Shala by walking which takes 0-10 minutes.",
+    "On 13:23, I want to shop, I go to Cambridge Ma Sears Appliance Repair by public_transit which takes 0-10 minutes.",
+    "On 13:48, I want to maintenance, I go to Dr Detail Car Cleaning Service by auto_passenger which takes 0-10 minutes.",
+    "On 14:03, I want to eat, I go to Sweet Touch Cafe by walking which takes 0-10 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:33, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:53, I want to shop, I go to Surya Indian Express by walking which takes 0-10 minutes.",
+    "On 18:25, I want to eat, I go to Freshens by public_transit which takes 0-10 minutes.",
+    "On 18:42, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

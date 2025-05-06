@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Chad Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mass Ave Diner",
+        "distance_km": 2.5473064284869356,
+        "coordinates": [
+          "42.368157",
+          "-71.108699"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ana's Kitchen",
+        "distance_km": 0.16073952628605354,
+        "coordinates": [
+          "42.385967",
+          "-71.131135"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.6317702169587559,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Skip Viglirolo Ice Rink",
+        "distance_km": 0.25054146843810465,
+        "coordinates": [
+          "42.382888",
+          "-71.131551"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Tiger Sugar",
+        "distance_km": 1.5325608272145097,
+        "coordinates": [
+          "42.37316",
+          "-71.119994"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Skip Viglirolo Ice Rink",
+        "distance_km": 0.25054146843810465,
+        "coordinates": [
+          "42.382888",
+          "-71.131551"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trattoria Pulcinella",
+        "distance_km": 0.2383900602657678,
+        "coordinates": [
+          "42.382759",
+          "-71.130809"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 0.34675922234774903,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.384810947986125,
+          -71.12996098935
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.384810947986125,
+        -71.12996098935
+      ]
+    },
+    "work": {
+      "name": "Ana's Kitchen",
+      "coordinates": [
+        "42.385967",
+        "-71.131135"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:25, I want to eat, I go to Mass Ave Diner by public_transit which takes 20-30 minutes.",
+    "On 08:15, I want to work, I go to Ana's Kitchen by biking which takes 0-10 minutes.",
+    "On 10:00, I want to shop, I go to Thistle & Shamrock by biking which takes 0-10 minutes.",
+    "On 11:30, I want to recreation, I go to Skip Viglirolo Ice Rink by walking which takes 0-10 minutes.",
+    "On 13:00, I want to eat, I go to Tiger Sugar by public_transit which takes 20-30 minutes.",
+    "On 15:30, I want to recreation, I go to Skip Viglirolo Ice Rink by walking which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Trattoria Pulcinella by walking which takes 0-10 minutes.",
+    "On 18:30, I want to social, I go to Up Stage by walking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

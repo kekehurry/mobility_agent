@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Omar Jones\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelor's degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "THOMAS COYNE MD",
+        "distance_km": 0.5058026393541839,
+        "coordinates": [
+          "42.379998",
+          "-71.121376"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.0588120681417421,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cilantro",
+        "distance_km": 1.5197024849049479,
+        "coordinates": [
+          "42.370879",
+          "-71.113552"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.146558840184233,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 2.049782476180183,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "La Market",
+        "distance_km": 1.635672583568716,
+        "coordinates": [
+          "42.39632",
+          "-71.129537"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Barcelona Wine Bar & Restaurant",
+        "distance_km": 0.18814706541751025,
+        "coordinates": [
+          "42.382723",
+          "-71.11999"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "S H Construction",
+        "distance_km": 1.8506666260593567,
+        "coordinates": [
+          "42.387879",
+          "-71.140434"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38404588721384,
+          -71.11856321328925
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38404588721384,
+        -71.11856321328925
+      ]
+    },
+    "work": {
+      "name": "THOMAS COYNE MD",
+      "coordinates": [
+        "42.379998",
+        "-71.121376"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to THOMAS COYNE MD by biking which takes 10-20 minutes.",
+    "On 09:00, I want to social, I go to Cambridge Forum by public_transit which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Cilantro by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to shop, I go to Market In the Square by public_transit which takes 10-20 minutes.",
+    "On 14:00, I want to maintenance, I go to Mavis Tires & Brakes by biking which takes 10-20 minutes.",
+    "On 16:30, I want to shop, I go to La Market by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Barcelona Wine Bar & Restaurant by walking which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to S H Construction by biking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

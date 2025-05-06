@@ -1,0 +1,104 @@
+{
+  "profile": "{\"name\": \"Sandra Fritz\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.22335546036330492,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pavement Coffeehouse",
+        "distance_km": 0.16859328528068226,
+        "coordinates": [
+          "42.373076",
+          "-71.118722"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 0.4577120081211391,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.15216004446361797,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3719271828207,
+          -71.11738433970639
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3719271828207,
+        -71.11738433970639
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to shop, I go to Newbury Comics by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Pavement Coffeehouse by walking which takes 0-10 minutes.",
+    "On 13:00, I want to social, I go to Done Right Care by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Used Sounds of Harvard Square by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

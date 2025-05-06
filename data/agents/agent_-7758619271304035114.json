@@ -1,0 +1,180 @@
+{
+  "profile": "{\n  \"name\": \"Tiffany Davis\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"Under 25k\",\n  \"available_vehicles\": \"unknown_num_vehicles\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Koreana",
+        "distance_km": 0.2379503324955416,
+        "coordinates": [
+          "42.36908",
+          "-71.100912"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tite's Tropical Mart",
+        "distance_km": 0.1947326347985622,
+        "coordinates": [
+          "42.366474",
+          "-71.100663"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.3970398129559499,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.3372187315746572,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36758862603789,
+          -71.09883833078051
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Koreana",
+        "distance_km": 0.2379503324955416,
+        "coordinates": [
+          "42.36908",
+          "-71.100912"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tite's Tropical Mart",
+        "distance_km": 0.19472930978518124,
+        "coordinates": [
+          "42.366474",
+          "-71.100663"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Insight Meditation Center",
+        "distance_km": 0.37531840409472156,
+        "coordinates": [
+          "42.369975",
+          "-71.102064"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36758862603789,
+          -71.09883833078051
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36758862603789,
+        -71.09883833078051
+      ]
+    },
+    "work": {
+      "name": "Koreana",
+      "coordinates": [
+        "42.36908",
+        "-71.100912"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:40, I want to work, I go to Koreana by walking which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Tite's Tropical Mart by walking which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to RJ Realty Management by public_transit which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Formaggio Kitchen by public_transit which takes 0-10 minutes.",
+    "On 15:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:00, I want to work, I go to Koreana by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Tite's Tropical Mart by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Cambridge Insight Meditation Center by walking which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

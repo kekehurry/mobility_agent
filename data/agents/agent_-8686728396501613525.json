@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Hannah Lyons\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Schiffman L Robt",
+        "distance_km": 1.6235662941283848,
+        "coordinates": [
+          "42.374411",
+          "-71.133491"
+        ]
+      }
+    },
+    {
+      "start_time": "10:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Northwest Cafe",
+        "distance_km": 0.2578099538067615,
+        "coordinates": [
+          "42.380267",
+          "-71.115397"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 0.5713011209009756,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.476493854010451,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Super",
+        "distance_km": 1.5140268851779117,
+        "coordinates": [
+          "42.371419",
+          "-71.098356"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.476493854010451,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "17:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.25984229828615263,
+        "coordinates": [
+          "42.376364",
+          "-71.116569"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.378065835031244,
+          -71.11440442235681
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.378065835031244,
+        -71.11440442235681
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:10, I want to recreation, I go to Schiffman L Robt by private_auto which takes 10-20 minutes.",
+    "On 10:10, I want to eat, I go to Northwest Cafe by walking which takes 0-10 minutes.",
+    "On 12:10, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 10-10 minutes.",
+    "On 13:20, I want to shop, I go to Broadway Marketplace by walking which takes 10-20 minutes.",
+    "On 15:00, I want to social, I go to The Super by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Broadway Marketplace by walking which takes 10-20 minutes.",
+    "On 17:10, I want to eat, I go to Clover Food Lab by walking which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

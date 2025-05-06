@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Jason Johnson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ANDREW BISHARA",
+        "distance_km": 0.2042642145108888,
+        "coordinates": [
+          "42.369682",
+          "-71.110715"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.37091438408402183,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "10:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ANDREW BISHARA",
+        "distance_km": 0.2042642145108888,
+        "coordinates": [
+          "42.369682",
+          "-71.110715"
+        ]
+      }
+    },
+    {
+      "start_time": "15:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.5889649869938928,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ANDREW BISHARA",
+        "distance_km": 0.2042642145108888,
+        "coordinates": [
+          "42.369682",
+          "-71.110715"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36859555082315,
+          -71.11271573748179
+        ]
+      }
+    },
+    {
+      "start_time": "17:16",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 0.5808295951082759,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "18:05",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36859555082315,
+          -71.11271573748179
+        ]
+      }
+    },
+    {
+      "start_time": "21:12",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Karma Yoga Studio",
+        "distance_km": 0.2494646363520757,
+        "coordinates": [
+          "42.370637",
+          "-71.113978"
+        ]
+      }
+    },
+    {
+      "start_time": "21:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kung Fu Tea",
+        "distance_km": 0.33614747857516475,
+        "coordinates": [
+          "42.371255",
+          "-71.114663"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36859555082315,
+        -71.11271573748179
+      ]
+    },
+    "work": {
+      "name": "ANDREW BISHARA",
+      "coordinates": [
+        "42.369682",
+        "-71.110715"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:46, I want to work, I go to ANDREW BISHARA by walking which takes 0-10 minutes.",
+    "On 10:05, I want to shop, I go to Vermas Market by walking which takes 10-20 minutes.",
+    "On 10:46, I want to work, I go to ANDREW BISHARA by walking which takes 0-10 minutes.",
+    "On 15:02, I want to shop, I go to Broadway Marketplace by walking which takes 10-20 minutes.",
+    "On 15:50, I want to work, I go to ANDREW BISHARA by walking which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:16, I want to shop, I go to In Your Ear Records by private_auto which takes 10-20 minutes.",
+    "On 18:05, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:12, I want to recreation, I go to Karma Yoga Studio by walking which takes 0-10 minutes.",
+    "On 21:40, I want to eat, I go to Kung Fu Tea by private_auto which takes 10-20 minutes."
+  ]
+}

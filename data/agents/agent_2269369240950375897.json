@@ -1,0 +1,180 @@
+{
+  "profile": "{\n  \"name\": \"Lauren Fernandez\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 35,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor's_degree\",\n  \"household_size\": 2,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": \"1\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Village Fitness",
+        "distance_km": 0.3132877070183553,
+        "coordinates": [
+          "42.381332",
+          "-71.13843"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 0.3230416997534315,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.1854076444067014,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37929919525836,
+          -71.135793067227
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brickworks Condominiums",
+        "distance_km": 1.438060944183141,
+        "coordinates": [
+          "42.392231",
+          "-71.136613"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 0.3230416997534315,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.1722402936594836,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37929919525836,
+          -71.135793067227
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jeff Sraeel Fitness",
+        "distance_km": 0.26708818732059053,
+        "coordinates": [
+          "42.381667",
+          "-71.135229"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37929919525836,
+        -71.135793067227
+      ]
+    },
+    "work": {
+      "name": "Village Fitness",
+      "coordinates": [
+        "42.381332",
+        "-71.13843"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to work, I go to Village Fitness by public_transit which takes 0-10 minutes.",
+    "On 11:45, I want to eat, I go to The Village Kitchen by private_auto which takes 0-10 minutes.",
+    "On 12:15, I want to shop, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to Brickworks Condominiums by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to The Village Kitchen by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to shop, I go to Star Market by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to recreation, I go to Jeff Sraeel Fitness by walking which takes 0-10 minutes."
+  ]
+}

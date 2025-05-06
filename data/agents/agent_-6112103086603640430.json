@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Lisa White\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Your Center Pilates Based Exercise",
+        "distance_km": 0.15829394181611223,
+        "coordinates": [
+          "42.370083",
+          "-71.102333"
+        ]
+      }
+    },
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "IRVING WEINTRAUB MD",
+        "distance_km": 0.11191499678533315,
+        "coordinates": [
+          "42.369743",
+          "-71.105077"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mickey Barr",
+        "distance_km": 0.30803302992777015,
+        "coordinates": [
+          "42.366695",
+          "-71.105346"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 0.5743045636702211,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Richdale Food Store",
+        "distance_km": 0.23579065460710402,
+        "coordinates": [
+          "42.369673",
+          "-71.101087"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.1757782142216247,
+        "coordinates": [
+          "42.368123",
+          "-71.102394"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369249911332886,
+          -71.10389214986931
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369249911332886,
+        -71.10389214986931
+      ]
+    },
+    "work": {
+      "name": "IRVING WEINTRAUB MD",
+      "coordinates": [
+        "42.369743",
+        "-71.105077"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to other_activities, I go to Your Center Pilates Based Exercise by private_auto which takes 0-10 minutes.",
+    "On 07:20, I want to work, I go to IRVING WEINTRAUB MD by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to recreation, I go to Mickey Barr by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to Kemsley Education by public_transit which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Richdale Food Store by walking which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Taqueria by on_demand_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "profile": "{\n  \"name\": \"William Williams\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 55,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 2,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": \"zero\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:13",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 1.664404025062874,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "09:07",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe Central Square",
+        "distance_km": 1.5024102079164812,
+        "coordinates": [
+          "42.366709",
+          "-71.105369"
+        ]
+      }
+    },
+    {
+      "start_time": "10:17",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Richdale Food Store",
+        "distance_km": 1.0450578789109257,
+        "coordinates": [
+          "42.369673",
+          "-71.101087"
+        ]
+      }
+    },
+    {
+      "start_time": "11:35",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.587149049647074,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37298426490827,
+          -71.0892110486599
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 2.722213893632867,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "15:53",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 1.533539259756685,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Scalable Display Technology",
+        "distance_km": 1.5300660767809702,
+        "coordinates": [
+          "42.365903",
+          "-71.105144"
+        ]
+      }
+    },
+    {
+      "start_time": "16:58",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe Central Square",
+        "distance_km": 1.5024102079164812,
+        "coordinates": [
+          "42.366709",
+          "-71.105369"
+        ]
+      }
+    },
+    {
+      "start_time": "18:37",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 1.664404025062874,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "19:58",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37298426490827,
+          -71.0892110486599
+        ]
+      }
+    },
+    {
+      "start_time": "21:12",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 2.016182813766586,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "21:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37298426490827,
+          -71.0892110486599
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37298426490827,
+        -71.0892110486599
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:13, I want to shop, I go to Vermas Market by public_transit which takes 20-30 minutes.",
+    "On 09:07, I want to eat, I go to Life Alive Organic Cafe Central Square by walking which takes 20-30 minutes.",
+    "On 10:17, I want to shop, I go to Richdale Food Store by public_transit which takes 20-30 minutes.",
+    "On 11:35, I want to social, I go to Trinity Property Management by walking which takes 20-30 minutes.",
+    "On 12:38, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 14:20, I want to maintenance, I go to Nick's Magazine Auto R by public_transit which takes 20-30 minutes.",
+    "On 15:53, I want to recreation, I go to Spaulding National Running Center by public_transit which takes 20-30 minutes.",
+    "On 16:03, I want to shop, I go to Scalable Display Technology by walking which takes 20-30 minutes.",
+    "On 16:58, I want to eat, I go to Life Alive Organic Cafe Central Square by public_transit which takes 20-30 minutes.",
+    "On 18:37, I want to shop, I go to Vermas Market by public_transit which takes 20-30 minutes.",
+    "On 19:58, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 21:12, I want to recreation, I go to McCarter R Harris Psycholgst by public_transit which takes 20-30 minutes.",
+    "On 21:42, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

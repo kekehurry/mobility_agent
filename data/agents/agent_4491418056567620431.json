@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Adam Bauer\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greek Corner Restaurant",
+        "distance_km": 0.23167739688764277,
+        "coordinates": [
+          "42.396425",
+          "-71.129578"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Umami Omakase",
+        "distance_km": 0.2620320119496593,
+        "coordinates": [
+          "42.396725",
+          "-71.129765"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39542951343693,
+          -71.12710537208379
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inner Strength Fitness",
+        "distance_km": 0.32377406221327687,
+        "coordinates": [
+          "42.397124",
+          "-71.130305"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.21334925471995883,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Capone Foods Cambridge",
+        "distance_km": 0.04040504785263182,
+        "coordinates": [
+          "42.39507",
+          "-71.12718"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39542951343693,
+          -71.12710537208379
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Masscraft Masonry & Construction",
+        "distance_km": 0.2189330637715265,
+        "coordinates": [
+          "42.395211",
+          "-71.129748"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nadia Colburn Align Your Light",
+        "distance_km": 0.2970235899751042,
+        "coordinates": [
+          "42.395164",
+          "-71.130695"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39542951343693,
+        -71.12710537208379
+      ]
+    },
+    "work": {
+      "name": "Greek Corner Restaurant",
+      "coordinates": [
+        "42.396425",
+        "-71.129578"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Greek Corner Restaurant by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Umami Omakase by walking which takes 0-10 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Inner Strength Fitness by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Pemberton Farms by walking which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Capone Foods Cambridge by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Masscraft Masonry & Construction by walking which takes 0-10 minutes.",
+    "On 21:00, I want to recreation, I go to Nadia Colburn Align Your Light by private_auto which takes 0-10 minutes."
+  ]
+}

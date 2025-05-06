@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Albert Jacobs\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:36",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "KAREN MACHELEDT MD",
+        "distance_km": 0.1835301145851759,
+        "coordinates": [
+          "42.359886",
+          "-71.101014"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 2.5071298433980567,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "10:55",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "KAREN MACHELEDT MD",
+        "distance_km": 0.1835301145851759,
+        "coordinates": [
+          "42.359886",
+          "-71.101014"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Commonwealth Restaurant and Market",
+        "distance_km": 1.5020113450565271,
+        "coordinates": [
+          "42.363323",
+          "-71.08247"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Q Audio",
+        "distance_km": 0.605641260417152,
+        "coordinates": [
+          "42.36385",
+          "-71.101686"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 1.530929986406661,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Commonwealth Restaurant and Market",
+        "distance_km": 1.5020113450565271,
+        "coordinates": [
+          "42.363323",
+          "-71.08247"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3586287551823,
+          -71.09956857267322
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3586287551823,
+        -71.09956857267322
+      ]
+    },
+    "work": {
+      "name": "KAREN MACHELEDT MD",
+      "coordinates": [
+        "42.359886",
+        "-71.101014"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:36, I want to work, I go to KAREN MACHELEDT MD by private_auto which takes 0-10 minutes.",
+    "On 09:30, I want to recreation, I go to Mesomorpheus by private_auto which takes 10-20 minutes.",
+    "On 10:55, I want to work, I go to KAREN MACHELEDT MD by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Commonwealth Restaurant and Market by private_auto which takes 10-20 minutes.",
+    "On 13:15, I want to shop, I go to Q Audio by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to recreation, I go to Kendall Club by private_auto which takes 10-20 minutes.",
+    "On 16:45, I want to eat, I go to Commonwealth Restaurant and Market by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Linda Smith\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.4064593637165057,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CSA Construction Services",
+        "distance_km": 0.3433371794244594,
+        "coordinates": [
+          "42.394225",
+          "-71.151749"
+        ]
+      }
+    },
+    {
+      "start_time": "10:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "TechFusion",
+        "distance_km": 0.4450125255521122,
+        "coordinates": [
+          "42.394085",
+          "-71.15794"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Marketing & Distribution",
+        "distance_km": 0.3731458251327989,
+        "coordinates": [
+          "42.394098",
+          "-71.151357"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.4064593637165057,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39682705928945,
+          -71.15399956281132
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39682705928945,
+        -71.15399956281132
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to eat, I go to SANTE Mobile Farmhouse Cafe by biking which takes 0-10 minutes.",
+    "On 07:45, I want to social, I go to CSA Construction Services by private_auto which takes 0-10 minutes.",
+    "On 10:45, I want to shop, I go to TechFusion by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Boston Marketing & Distribution by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to SANTE Mobile Farmhouse Cafe by biking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

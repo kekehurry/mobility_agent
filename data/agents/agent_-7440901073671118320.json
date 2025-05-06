@@ -1,0 +1,155 @@
+{
+  "profile": "{\n  \"name\": \"Brittany Campbell\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 5,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": \"one\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Luigi's Variety",
+        "distance_km": 0.36044370839453843,
+        "coordinates": [
+          "42.371552",
+          "-71.084926"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Snack Bar",
+        "distance_km": 0.11414077272554934,
+        "coordinates": [
+          "42.372244",
+          "-71.088087"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "rent24 Coworking Cambridge",
+        "distance_km": 0.23206609947093107,
+        "coordinates": [
+          "42.371769",
+          "-71.086622"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Xo Communications Operations",
+        "distance_km": 0.4285228727429084,
+        "coordinates": [
+          "42.369378",
+          "-71.087663"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37315344654698,
+          -71.08873204152817
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Petsi Pies",
+        "distance_km": 0.2577806008391081,
+        "coordinates": [
+          "42.371691",
+          "-71.086302"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "rent24 Coworking Cambridge",
+        "distance_km": 0.23206609947093107,
+        "coordinates": [
+          "42.371769",
+          "-71.086622"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37315344654698,
+          -71.08873204152817
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37315344654698,
+        -71.08873204152817
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:30, I want to shop, I go to Luigi's Variety by auto_passenger which takes 0-10 minutes.",
+    "On 11:15, I want to eat, I go to The Snack Bar by auto_passenger which takes 0-10 minutes.",
+    "On 12:15, I want to social, I go to rent24 Coworking Cambridge by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Xo Communications Operations by public_transit which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Petsi Pies by walking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to rent24 Coworking Cambridge by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

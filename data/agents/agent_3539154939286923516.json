@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Destiny Gonzalez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:45",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "280 Harvard House Condo Trust",
+        "distance_km": 1.5458742580085696,
+        "coordinates": [
+          "42.36892",
+          "-71.104274"
+        ]
+      }
+    },
+    {
+      "start_time": "06:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3605697100672,
+          -71.08926139012684
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Come To Yoga With Barbara Lyon",
+        "distance_km": 1.5084110590440594,
+        "coordinates": [
+          "42.370093",
+          "-71.102315"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dimitrios Cuisine",
+        "distance_km": 1.564387270210925,
+        "coordinates": [
+          "42.357364",
+          "-71.107752"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Come To Yoga With Barbara Lyon",
+        "distance_km": 1.5084110590440594,
+        "coordinates": [
+          "42.370093",
+          "-71.102315"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 1.040937426958365,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Come To Yoga With Barbara Lyon",
+        "distance_km": 1.5084110590440594,
+        "coordinates": [
+          "42.370093",
+          "-71.102315"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3605697100672,
+          -71.08926139012684
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Faialense Sport Club",
+        "distance_km": 1.5036990697378598,
+        "coordinates": [
+          "42.373202",
+          "-71.095823"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.591992699715368,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3605697100672,
+          -71.08926139012684
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3605697100672,
+        -71.08926139012684
+      ]
+    },
+    "work": {
+      "name": "Come To Yoga With Barbara Lyon",
+      "coordinates": [
+        "42.370093",
+        "-71.102315"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:45, I want to other_activities, I go to 280 Harvard House Condo Trust by private_auto which takes 10-20 minutes.",
+    "On 06:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 07:30, I want to work, I go to Come To Yoga With Barbara Lyon by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Dimitrios Cuisine by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Come To Yoga With Barbara Lyon by private_auto which takes 10-20 minutes.",
+    "On 15:30, I want to shop, I go to Formaggio Kitchen by public_transit which takes 10-20 minutes.",
+    "On 16:30, I want to work, I go to Come To Yoga With Barbara Lyon by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Faialense Sport Club by biking which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to Central House by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

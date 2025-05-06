@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"Daniel Green\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": \"1\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:52",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Blue Bag Records",
+        "distance_km": 0.37900431256071027,
+        "coordinates": [
+          "42.395903",
+          "-71.128191"
+        ]
+      }
+    },
+    {
+      "start_time": "08:47",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Benjamin Banneker Charter Public School",
+        "distance_km": 0.16365055112624932,
+        "coordinates": [
+          "42.392113",
+          "-71.131734"
+        ]
+      }
+    },
+    {
+      "start_time": "12:33",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "La Market",
+        "distance_km": 0.34701701948631153,
+        "coordinates": [
+          "42.39632",
+          "-71.129537"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kadampa Meditation Center Boston",
+        "distance_km": 0.33850261206301296,
+        "coordinates": [
+          "42.395081",
+          "-71.127985"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Blue Bag Records",
+        "distance_km": 0.37900431256071027,
+        "coordinates": [
+          "42.395903",
+          "-71.128191"
+        ]
+      }
+    },
+    {
+      "start_time": "16:27",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "La Market",
+        "distance_km": 0.34701701948631153,
+        "coordinates": [
+          "42.39632",
+          "-71.129537"
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Blue Bag Records",
+        "distance_km": 0.37900431256071027,
+        "coordinates": [
+          "42.395903",
+          "-71.128191"
+        ]
+      }
+    },
+    {
+      "start_time": "18:32",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39358082401679,
+          -71.13156349485011
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 0.6558853961155546,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "22:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39358082401679,
+          -71.13156349485011
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39358082401679,
+        -71.13156349485011
+      ]
+    },
+    "work": {
+      "name": "Blue Bag Records",
+      "coordinates": [
+        "42.395903",
+        "-71.128191"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Benjamin Banneker Charter Public School",
+      "coordinates": [
+        "42.392113",
+        "-71.131734"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:52, I want to work, I go to Blue Bag Records by walking which takes 0-10 minutes.",
+    "On 08:47, I want to school, I go to Benjamin Banneker Charter Public School by private_auto which takes 0-10 minutes.",
+    "On 12:33, I want to shop, I go to La Market by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Kadampa Meditation Center Boston by biking which takes 0-10 minutes.",
+    "On 14:43, I want to work, I go to Blue Bag Records by walking which takes 0-10 minutes.",
+    "On 16:27, I want to shop, I go to La Market by walking which takes 0-10 minutes.",
+    "On 16:50, I want to work, I go to Blue Bag Records by walking which takes 0-10 minutes.",
+    "On 18:32, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:43, I want to maintenance, I go to Mavis Tires & Brakes by walking which takes 0-10 minutes.",
+    "On 22:45, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

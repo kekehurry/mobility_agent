@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Stephanie Booker\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"1\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Commonwealth Restaurant and Market",
+        "distance_km": 1.501383149926797,
+        "coordinates": [
+          "42.363323",
+          "-71.08247"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Miracle of Science Bar Grill",
+        "distance_km": 0.1668741563989766,
+        "coordinates": [
+          "42.362611",
+          "-71.098646"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Z Park Innovation Center Boston",
+        "distance_km": 1.0977051909118043,
+        "coordinates": [
+          "42.368951",
+          "-71.110915"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Miracle of Science Bar Grill",
+        "distance_km": 0.1668741563989766,
+        "coordinates": [
+          "42.362611",
+          "-71.098646"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.3007968559961662,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 0.3070651065953258,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.45406667728567107,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "La Fabrica Central",
+        "distance_km": 0.11098842808369738,
+        "coordinates": [
+          "42.363581",
+          "-71.101086"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36263028130329,
+          -71.10067152821483
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36263028130329,
+        -71.10067152821483
+      ]
+    },
+    "work": {
+      "name": "Commonwealth Restaurant and Market",
+      "coordinates": [
+        "42.363323",
+        "-71.08247"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to work, I go to Commonwealth Restaurant and Market by walking which takes 20-30 minutes.",
+    "On 08:00, I want to eat, I go to Miracle of Science Bar Grill by walking which takes 0-10 minutes.",
+    "On 10:30, I want to social, I go to Z Park Innovation Center Boston by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Miracle of Science Bar Grill by walking which takes 0-10 minutes.",
+    "On 13:15, I want to shop, I go to Shalimar India Food & Spices by walking which takes 10-20 minutes.",
+    "On 15:00, I want to recreation, I go to Clement G Morgan Park by walking which takes 0-10 minutes.",
+    "On 17:00, I want to social, I go to Wellmet Project by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to La Fabrica Central by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

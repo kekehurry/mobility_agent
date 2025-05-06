@@ -1,0 +1,104 @@
+{
+  "profile": "{\"name\": \"Zachary Welch\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "14:20",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.743167152355199,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "First United Market",
+        "distance_km": 0.38598759678031136,
+        "coordinates": [
+          "42.357512",
+          "-71.108056"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dimi's Place",
+        "distance_km": 0.35991571412418555,
+        "coordinates": [
+          "42.35735",
+          "-71.107772"
+        ]
+      }
+    },
+    {
+      "start_time": "17:12",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35437620020437,
+          -71.10603747951109
+        ]
+      }
+    },
+    {
+      "start_time": "19:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 0.899464605370006,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35437620020437,
+        -71.10603747951109
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 14:20, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes 10-20 minutes.",
+    "On 16:03, I want to shop, I go to First United Market by private_auto which takes 0-10 minutes.",
+    "On 17:08, I want to eat, I go to Dimi's Place by biking which takes 0-10 minutes.",
+    "On 17:12, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 19:42, I want to social, I go to ForestCity by private_auto which takes 0-10 minutes."
+  ]
+}

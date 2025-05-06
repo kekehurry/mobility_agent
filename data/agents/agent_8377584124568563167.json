@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Eric McGuire\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "9Zaab",
+        "distance_km": 0.33870393250312797,
+        "coordinates": [
+          "42.371948",
+          "-71.085774"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fernandes Market",
+        "distance_km": 0.1465153571161032,
+        "coordinates": [
+          "42.372604",
+          "-71.091379"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37188767910307,
+          -71.08988534827729
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.7703373918886361,
+        "coordinates": [
+          "42.364982",
+          "-71.089027"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "9Zaab",
+        "distance_km": 0.33870393250312797,
+        "coordinates": [
+          "42.371948",
+          "-71.085774"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37188767910307,
+          -71.08988534827729
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Souper Roll Up Cafe",
+        "distance_km": 0.08402192472017787,
+        "coordinates": [
+          "42.372072",
+          "-71.088896"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37188767910307,
+          -71.08988534827729
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ahern Field",
+        "distance_km": 0.4564634366861317,
+        "coordinates": [
+          "42.36864",
+          "-71.08649"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37188767910307,
+        -71.08988534827729
+      ]
+    },
+    "work": {
+      "name": "9Zaab",
+      "coordinates": [
+        "42.371948",
+        "-71.085774"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to 9Zaab by auto_passenger which takes 0-10 minutes.",
+    "On 10:00, I want to shop, I go to Fernandes Market by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 13:15, I want to recreation, I go to CorePower Yoga by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to work, I go to 9Zaab by private_auto which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Souper Roll Up Cafe by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to recreation, I go to Ahern Field by private_auto which takes 0-10 minutes."
+  ]
+}

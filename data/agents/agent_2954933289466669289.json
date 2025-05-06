@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Michael Hill\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Windsor Realty",
+        "distance_km": 0.23258521442030597,
+        "coordinates": [
+          "42.390226",
+          "-71.12153"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Walden Square Community Association",
+        "distance_km": 0.5322846106300189,
+        "coordinates": [
+          "42.389148",
+          "-71.129559"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.29752201158234703,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Catholic Charitable Bureau of the Archdiocese of Boston",
+        "distance_km": 0.5326714681279588,
+        "coordinates": [
+          "42.389163",
+          "-71.129561"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.29752201158234703,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Windsor Realty",
+        "distance_km": 0.23258521442030597,
+        "coordinates": [
+          "42.390226",
+          "-71.12153"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ninety Nine Restaurant & Pub",
+        "distance_km": 1.5722390867764484,
+        "coordinates": [
+          "42.388687",
+          "-71.142244"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38851186241641,
+          -71.12315209238503
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38851186241641,
+        -71.12315209238503
+      ]
+    },
+    "work": {
+      "name": "Windsor Realty",
+      "coordinates": [
+        "42.390226",
+        "-71.12153"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Windsor Realty by private_auto which takes 0-10 minutes.",
+    "On 11:15, I want to social, I go to Walden Square Community Association by auto_passenger which takes 10-20 minutes.",
+    "On 12:15, I want to shop, I go to Gourmet Express by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Catholic Charitable Bureau of the Archdiocese of Boston by auto_passenger which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Gourmet Express by walking which takes 0-10 minutes.",
+    "On 16:30, I want to social, I go to Windsor Realty by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Ninety Nine Restaurant & Pub by auto_passenger which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

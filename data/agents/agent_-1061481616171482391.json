@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Barbara Clark\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"75k-100k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:40",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MICHAEL CHIN MD PhD",
+        "distance_km": 0.33668604184262796,
+        "coordinates": [
+          "42.360616",
+          "-71.100757"
+        ]
+      }
+    },
+    {
+      "start_time": "07:35",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 0.9656940451315656,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.38202003490673053,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 0.3021280537741854,
+        "coordinates": [
+          "42.363767",
+          "-71.096816"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 0.21428997560779725,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "International Convenience",
+        "distance_km": 0.30376321045558835,
+        "coordinates": [
+          "42.365842",
+          "-71.098293"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "5 Spices House Cambridge",
+        "distance_km": 0.1714863130482994,
+        "coordinates": [
+          "42.364343",
+          "-71.102333"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 0.2426172048841469,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36364002534374,
+          -71.10047961427419
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36364002534374,
+        -71.10047961427419
+      ]
+    },
+    "school": {
+      "name": "Broad Institute",
+      "coordinates": [
+        "42.362837",
+        "-71.088807"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:40, I want to social, I go to MICHAEL CHIN MD PhD by public_transit which takes 0-10 minutes.",
+    "On 07:35, I want to school, I go to Broad Institute by public_transit which takes 0-10 minutes.",
+    "On 11:55, I want to social, I go to Wellmet Project by public_transit which takes 0-10 minutes.",
+    "On 12:45, I want to eat, I go to Newtowne Variety by public_transit which takes 0-10 minutes.",
+    "On 14:20, I want to recreation, I go to Clement G Morgan Park by walking which takes 0-10 minutes.",
+    "On 15:50, I want to shop, I go to International Convenience by private_auto which takes 0-10 minutes.",
+    "On 17:45, I want to eat, I go to 5 Spices House Cambridge by walking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to ForestCity by auto_passenger which takes 0-10 minutes.",
+    "On 21:15, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

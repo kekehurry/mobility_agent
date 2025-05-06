@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Robert Peterson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.076970968816639,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "08:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.5032692451207996,
+        "coordinates": [
+          "42.372246",
+          "-71.07982"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frozen Yogi",
+        "distance_km": 0.21350639133506502,
+        "coordinates": [
+          "42.364144",
+          "-71.107505"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.257818835981822,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Kane Ellen Social Worker",
+        "distance_km": 1.669435797282702,
+        "coordinates": [
+          "42.374113",
+          "-71.125765"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Beantown Taqueria Cafe",
+        "distance_km": 0.10837155874516839,
+        "coordinates": [
+          "42.364783",
+          "-71.108787"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Focht Birkerts Lynn Licsw",
+        "distance_km": 0.2602837079138603,
+        "coordinates": [
+          "42.368078",
+          "-71.10932"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3657534744026,
+          -71.10892185906872
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3657534744026,
+        -71.10892185906872
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.372246",
+        "-71.07982"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to maintenance, I go to Nick's Magazine Auto R by walking which takes 0-10 minutes.",
+    "On 08:40, I want to work, I go to Dunkin' by public_transit which takes 20-30 minutes.",
+    "On 11:00, I want to eat, I go to Frozen Yogi by walking which takes 0-10 minutes.",
+    "On 11:30, I want to shop, I go to Vermas Market by walking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Kane Ellen Social Worker by public_transit which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Beantown Taqueria Cafe by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Focht Birkerts Lynn Licsw by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

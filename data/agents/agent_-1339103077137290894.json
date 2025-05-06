@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Gabriel Higgins\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"student\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Leone Jas P Psycholgst",
+        "distance_km": 0.6995143820205767,
+        "coordinates": [
+          "42.367909",
+          "-71.107379"
+        ]
+      }
+    },
+    {
+      "start_time": "08:47",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fitlab Pilates",
+        "distance_km": 0.35755333633248704,
+        "coordinates": [
+          "42.373758",
+          "-71.099378"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friedman Cary MD",
+        "distance_km": 0.6950894305162503,
+        "coordinates": [
+          "42.367945",
+          "-71.107356"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fitlab Pilates",
+        "distance_km": 0.35755333633248704,
+        "coordinates": [
+          "42.373758",
+          "-71.099378"
+        ]
+      }
+    },
+    {
+      "start_time": "16:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37358947291775,
+          -71.10371316775165
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Halal Buns",
+        "distance_km": 0.2600654525871723,
+        "coordinates": [
+          "42.374045",
+          "-71.100616"
+        ]
+      }
+    },
+    {
+      "start_time": "17:03",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 0.73906965927931,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "17:01",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37358947291775,
+          -71.10371316775165
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 0.3083692487979464,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37358947291775,
+        -71.10371316775165
+      ]
+    },
+    "work": {
+      "name": "Fitlab Pilates",
+      "coordinates": [
+        "42.373758",
+        "-71.099378"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Leone Jas P Psycholgst by biking which takes 0-10 minutes.",
+    "On 08:47, I want to work, I go to Fitlab Pilates by auto_passenger which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Friedman Cary MD by biking which takes 0-10 minutes.",
+    "On 14:43, I want to work, I go to Fitlab Pilates by biking which takes 0-10 minutes.",
+    "On 16:40, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 17:08, I want to eat, I go to Halal Buns by biking which takes 0-10 minutes.",
+    "On 17:03, I want to maintenance, I go to C L M Inc by biking which takes 0-10 minutes.",
+    "On 17:01, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Inman Square Supermarket by walking which takes 0-10 minutes."
+  ]
+}

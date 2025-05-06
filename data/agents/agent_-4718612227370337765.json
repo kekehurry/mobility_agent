@@ -1,0 +1,171 @@
+{
+  "profile": "{\"name\": \"Sergio Hendricks\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 1.5126029452973278,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "07:18",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 1.5905332180910363,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "08:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 1.5126029452973278,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "09:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37248728819965,
+          -71.08962047814761
+        ]
+      }
+    },
+    {
+      "start_time": "09:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 1.5126029452973278,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "15:43",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 1.5905332180910363,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "18:31",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37248728819965,
+          -71.08962047814761
+        ]
+      }
+    },
+    {
+      "start_time": "21:11",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Moves & Vibes Dance Co",
+        "distance_km": 0.5588700627332976,
+        "coordinates": [
+          "42.371681",
+          "-71.082923"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37248728819965,
+        -71.08962047814761
+      ]
+    },
+    "work": {
+      "name": "Spaulding National Running Center",
+      "coordinates": [
+        "42.375709",
+        "-71.107464"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Hult International Business School",
+      "coordinates": [
+        "42.36979",
+        "-71.070656"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:05, I want to work, I go to Spaulding National Running Center by public_transit which takes 10-20 minutes.",
+    "On 07:18, I want to school, I go to Hult International Business School by public_transit which takes 10-20 minutes.",
+    "On 08:05, I want to work, I go to Spaulding National Running Center by public_transit which takes 10-20 minutes.",
+    "On 09:35, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 09:58, I want to work, I go to Spaulding National Running Center by public_transit which takes 10-20 minutes.",
+    "On 15:43, I want to school, I go to Hult International Business School by public_transit which takes 10-20 minutes.",
+    "On 18:31, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 21:11, I want to recreation, I go to Moves & Vibes Dance Co by walking which takes 10-20 minutes."
+  ]
+}

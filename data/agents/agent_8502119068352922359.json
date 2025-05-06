@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Tammy Gonzalez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Amigos School",
+        "distance_km": 0.3818841434031457,
+        "coordinates": [
+          "42.36296",
+          "-71.108215"
+        ]
+      }
+    },
+    {
+      "start_time": "12:16",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Riverside Pizza & Seafoods",
+        "distance_km": 0.3393249104460935,
+        "coordinates": [
+          "42.362479",
+          "-71.113329"
+        ]
+      }
+    },
+    {
+      "start_time": "13:55",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 0.9569356617396204,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "15:27",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-0"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.14381682063960793,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "17:13",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 1.276657747578453,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "19:28",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36526854543449,
+          -71.11165017900363
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36526854543449,
+        -71.11165017900363
+      ]
+    },
+    "school": {
+      "name": "Amigos School",
+      "coordinates": [
+        "42.36296",
+        "-71.108215"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to school, I go to Amigos School by walking which takes 10-20 minutes.",
+    "On 12:16, I want to eat, I go to Riverside Pizza & Seafoods by walking which takes 10-20 minutes.",
+    "On 13:55, I want to maintenance, I go to Nick's Magazine Auto R by walking which takes 10-20 minutes.",
+    "On 15:27, I want to shop, I go to Western Market by private_auto which takes 0-0 minutes.",
+    "On 17:13, I want to social, I go to Done Right Care by walking which takes 0-10 minutes.",
+    "On 19:28, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

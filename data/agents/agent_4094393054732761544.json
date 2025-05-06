@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Carolyn Roman\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:38",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Jackowicz Oriental Medical Therapy Associates",
+        "distance_km": 0.5413183774754136,
+        "coordinates": [
+          "42.373925",
+          "-71.151588"
+        ]
+      }
+    },
+    {
+      "start_time": "09:49",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Genki Ya Cambridge",
+        "distance_km": 1.5219569657568368,
+        "coordinates": [
+          "42.389225",
+          "-71.143495"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Associates In Orthopaedics & Sports Medicine",
+        "distance_km": 1.7167977262672385,
+        "coordinates": [
+          "42.374232",
+          "-71.134459"
+        ]
+      }
+    },
+    {
+      "start_time": "13:07",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.5736627205910376,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "14:49",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "SOFRA Bakery & Cafe",
+        "distance_km": 0.507933188335148,
+        "coordinates": [
+          "42.374917",
+          "-71.150379"
+        ]
+      }
+    },
+    {
+      "start_time": "16:12",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hadley Terry P MD",
+        "distance_km": 0.6934978081387045,
+        "coordinates": [
+          "42.375551",
+          "-71.146998"
+        ]
+      }
+    },
+    {
+      "start_time": "17:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37826309464808,
+          -71.15458231620319
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37826309464808,
+        -71.15458231620319
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:38, I want to recreation, I go to Jackowicz Oriental Medical Therapy Associates by walking which takes 10-20 minutes.",
+    "On 09:49, I want to eat, I go to Genki Ya Cambridge by walking which takes 20-30 minutes.",
+    "On 12:10, I want to recreation, I go to Associates In Orthopaedics & Sports Medicine by walking which takes 20-30 minutes.",
+    "On 13:07, I want to shop, I go to Trader Joe's by public_transit which takes 10-20 minutes.",
+    "On 14:49, I want to eat, I go to SOFRA Bakery & Cafe by walking which takes 10-20 minutes.",
+    "On 16:12, I want to social, I go to Hadley Terry P MD by walking which takes 10-20 minutes.",
+    "On 17:40, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

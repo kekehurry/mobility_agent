@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Christopher James\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rendezvous In Central Square",
+        "distance_km": 0.5109063534322728,
+        "coordinates": [
+          "42.36396",
+          "-71.101891"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Curry House",
+        "distance_km": 2.624115803050839,
+        "coordinates": [
+          "42.388768",
+          "-71.119885"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rendezvous In Central Square",
+        "distance_km": 0.5109063534322728,
+        "coordinates": [
+          "42.36396",
+          "-71.101891"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36766307048911,
+          -71.10556965970689
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Albert's Market",
+        "distance_km": 1.5901555534577234,
+        "coordinates": [
+          "42.371765",
+          "-71.087074"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 1.5023979174189603,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36766307048911,
+          -71.10556965970689
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36766307048911,
+        -71.10556965970689
+      ]
+    },
+    "work": {
+      "name": "Rendezvous In Central Square",
+      "coordinates": [
+        "42.36396",
+        "-71.101891"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to work, I go to Rendezvous In Central Square by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Curry House by public_transit which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Rendezvous In Central Square by walking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:00, I want to shop, I go to Albert's Market by walking which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to Harvest by walking which takes 20-30 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

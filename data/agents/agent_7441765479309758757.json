@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Thomas Middleton\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kenneth D Quat",
+        "distance_km": 0.11800219458135316,
+        "coordinates": [
+          "42.365626",
+          "-71.104446"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Q Audio",
+        "distance_km": 0.27418297114668355,
+        "coordinates": [
+          "42.36385",
+          "-71.101686"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 0.1728835438262883,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kenneth D Quat",
+        "distance_km": 0.11800219458135316,
+        "coordinates": [
+          "42.365626",
+          "-71.104446"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bachata Room",
+        "distance_km": 0.3213982982926406,
+        "coordinates": [
+          "42.36342",
+          "-71.101296"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "International Convenience",
+        "distance_km": 0.5575654029278012,
+        "coordinates": [
+          "42.365842",
+          "-71.098293"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Amorino Gelato",
+        "distance_km": 1.5244411749816658,
+        "coordinates": [
+          "42.372027",
+          "-71.120423"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.28291154215809416,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "City Girl Cafe",
+        "distance_km": 1.0138028710448128,
+        "coordinates": [
+          "42.373097",
+          "-71.100335"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.364607628988374,
+        -71.10485374193533
+      ]
+    },
+    "work": {
+      "name": "Kenneth D Quat",
+      "coordinates": [
+        "42.365626",
+        "-71.104446"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Kenneth D Quat by walking which takes 0-10 minutes.",
+    "On 08:30, I want to shop, I go to Q Audio by walking which takes 10-20 minutes.",
+    "On 11:30, I want to eat, I go to Moge Tee Cambridge by walking which takes 0-10 minutes.",
+    "On 12:30, I want to work, I go to Kenneth D Quat by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Bachata Room by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to International Convenience by walking which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Amorino Gelato by walking which takes 20-30 minutes.",
+    "On 18:00, I want to social, I go to Central House by walking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to City Girl Cafe by walking which takes 20-30 minutes."
+  ]
+}

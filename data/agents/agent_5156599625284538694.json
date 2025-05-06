@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Rachel Baker\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Francis J McCrehan Memorial Swimming and Wading Pool",
+        "distance_km": 0.363201988790713,
+        "coordinates": [
+          "42.394485",
+          "-71.137132"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Russell Field",
+        "distance_km": 0.19014389940677348,
+        "coordinates": [
+          "42.396585",
+          "-71.138062"
+        ]
+      }
+    },
+    {
+      "start_time": "11:47",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pioneer Property Group",
+        "distance_km": 0.47764727503046966,
+        "coordinates": [
+          "42.395699",
+          "-71.131169"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Alewife Cafe",
+        "distance_km": 0.3080038908991381,
+        "coordinates": [
+          "42.398487",
+          "-71.139892"
+        ]
+      }
+    },
+    {
+      "start_time": "14:52",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Always Best Care",
+        "distance_km": 0.7571079800248154,
+        "coordinates": [
+          "42.394924",
+          "-71.127906"
+        ]
+      }
+    },
+    {
+      "start_time": "15:12",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "J & K Han A Rum Oriental Market",
+        "distance_km": 0.5488553385924991,
+        "coordinates": [
+          "42.396718",
+          "-71.129772"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39769688839512,
+          -71.13630611259694
+        ]
+      }
+    },
+    {
+      "start_time": "17:17",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bertucci's Italian Restaurant",
+        "distance_km": 0.5188964041218163,
+        "coordinates": [
+          "42.39559",
+          "-71.141931"
+        ]
+      }
+    },
+    {
+      "start_time": "17:56",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.46380281034635346,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "18:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39769688839512,
+          -71.13630611259694
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39769688839512,
+        -71.13630611259694
+      ]
+    },
+    "work": {
+      "name": "Russell Field",
+      "coordinates": [
+        "42.396585",
+        "-71.138062"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Francis J McCrehan Memorial Swimming and Wading Pool by walking which takes 0-10 minutes.",
+    "On 09:00, I want to work, I go to Russell Field by public_transit which takes 0-10 minutes.",
+    "On 11:47, I want to social, I go to Pioneer Property Group by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Alewife Cafe by walking which takes 0-10 minutes.",
+    "On 14:52, I want to social, I go to Always Best Care by public_transit which takes 0-10 minutes.",
+    "On 15:12, I want to shop, I go to J & K Han A Rum Oriental Market by public_transit which takes 0-10 minutes.",
+    "On 15:55, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 17:17, I want to eat, I go to Bertucci's Italian Restaurant by public_transit which takes 10-20 minutes.",
+    "On 17:56, I want to shop, I go to Friendly Corner Convenience Store by auto_passenger which takes 0-10 minutes.",
+    "On 18:42, I want to home, I go to home by public_transit which takes 0-10 minutes."
+  ]
+}

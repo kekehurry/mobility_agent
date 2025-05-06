@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Jennifer Gonzalez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"25k-49k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ANTHONY LEE MD",
+        "distance_km": 0.20717713415443,
+        "coordinates": [
+          "42.370063",
+          "-71.073148"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 1.558840097703643,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Mobile Sound and Security",
+        "distance_km": 0.5053351397580287,
+        "coordinates": [
+          "42.372852",
+          "-71.080675"
+        ]
+      }
+    },
+    {
+      "start_time": "15:38",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37144164240659,
+          -71.07484205958897
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tahaza Hummus Kitchen",
+        "distance_km": 0.25319861322595133,
+        "coordinates": [
+          "42.369777",
+          "-71.076942"
+        ]
+      }
+    },
+    {
+      "start_time": "17:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Surya Indian Express",
+        "distance_km": 0.3405466675228545,
+        "coordinates": [
+          "42.368663",
+          "-71.076589"
+        ]
+      }
+    },
+    {
+      "start_time": "18:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37144164240659,
+          -71.07484205958897
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tenoch Mexican",
+        "distance_km": 0.3214559331299562,
+        "coordinates": [
+          "42.370335",
+          "-71.071236"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37144164240659,
+          -71.07484205958897
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37144164240659,
+        -71.07484205958897
+      ]
+    },
+    "work": {
+      "name": "ANTHONY LEE MD",
+      "coordinates": [
+        "42.370063",
+        "-71.073148"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:38, I want to work, I go to ANTHONY LEE MD by on_demand_auto which takes 0-10 minutes.",
+    "On 12:38, I want to social, I go to Fairlane Properties by biking which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Cambridge Mobile Sound and Security by public_transit which takes 10-20 minutes.",
+    "On 15:38, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Tahaza Hummus Kitchen by walking which takes 0-10 minutes.",
+    "On 17:40, I want to shop, I go to Surya Indian Express by walking which takes 0-10 minutes.",
+    "On 18:40, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:45, I want to eat, I go to Tenoch Mexican by public_transit which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

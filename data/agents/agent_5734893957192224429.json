@@ -1,0 +1,104 @@
+{
+  "profile": "{\"name\": \"Larry Shaw\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Magnolia",
+        "distance_km": 0.9323782807542605,
+        "coordinates": [
+          "42.367449",
+          "-71.077102"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361696009330444,
+          -71.08534387648564
+        ]
+      }
+    },
+    {
+      "start_time": "16:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kinematix",
+        "distance_km": 0.5943133735121999,
+        "coordinates": [
+          "42.366701",
+          "-71.082794"
+        ]
+      }
+    },
+    {
+      "start_time": "16:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361696009330444,
+          -71.08534387648564
+        ]
+      }
+    },
+    {
+      "start_time": "18:53",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ecoATM",
+        "distance_km": 1.033692250879969,
+        "coordinates": [
+          "42.368035",
+          "-71.076157"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.361696009330444,
+        -71.08534387648564
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:10, I want to shop, I go to Magnolia by walking which takes 10-20 minutes.",
+    "On 12:38, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 16:05, I want to shop, I go to Kinematix by walking which takes 10-20 minutes.",
+    "On 16:40, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:53, I want to shop, I go to ecoATM by private_auto which takes 10-20 minutes."
+  ]
+}

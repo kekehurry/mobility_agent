@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Brandon Anderson\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelor\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rosie's Bakery",
+        "distance_km": 1.5164989202737136,
+        "coordinates": [
+          "42.38608",
+          "-71.119594"
+        ]
+      }
+    },
+    {
+      "start_time": "07:47",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381564519914875,
+          -71.1369726284755
+        ]
+      }
+    },
+    {
+      "start_time": "08:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rosie's Bakery",
+        "distance_km": 1.5164989202737136,
+        "coordinates": [
+          "42.38608",
+          "-71.119594"
+        ]
+      }
+    },
+    {
+      "start_time": "10:17",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majestic Yoga Studio",
+        "distance_km": 0.19945425949338,
+        "coordinates": [
+          "42.380914",
+          "-71.13923"
+        ]
+      }
+    },
+    {
+      "start_time": "12:46",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 0.36583962847687324,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381564519914875,
+          -71.1369726284755
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.551874361841507,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "21:27",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381564519914875,
+          -71.1369726284755
+        ]
+      }
+    },
+    {
+      "start_time": "21:56",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Talulla",
+        "distance_km": 0.3107337599618581,
+        "coordinates": [
+          "42.383696",
+          "-71.134529"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.381564519914875,
+        -71.1369726284755
+      ]
+    },
+    "work": {
+      "name": "Rosie's Bakery",
+      "coordinates": [
+        "42.38608",
+        "-71.119594"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Rosie's Bakery by public_transit which takes 10-20 minutes.",
+    "On 07:47, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 08:46, I want to work, I go to Rosie's Bakery by walking which takes 10-20 minutes.",
+    "On 10:17, I want to other_activities, I go to Majestic Yoga Studio by walking which takes 0-10 minutes.",
+    "On 12:46, I want to social, I go to Up Stage by walking which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Market In the Square by walking which takes 20-30 minutes.",
+    "On 21:27, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:56, I want to eat, I go to Talulla by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Keith Fischer\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"three_plus\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Super",
+        "distance_km": 0.25993950897931295,
+        "coordinates": [
+          "42.371419",
+          "-71.098356"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Fire Department Inman Square",
+        "distance_km": 0.12905595113317736,
+        "coordinates": [
+          "42.373478",
+          "-71.100845"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 0.3648302343247869,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Casa Portugal",
+        "distance_km": 0.3287779344220431,
+        "coordinates": [
+          "42.373117",
+          "-71.097391"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fitlab Pilates",
+        "distance_km": 0.21910410568674382,
+        "coordinates": [
+          "42.373758",
+          "-71.099378"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Martin Brothers Liquors",
+        "distance_km": 0.39565256824702894,
+        "coordinates": [
+          "42.373016",
+          "-71.096528"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Fire Department Inman Square",
+        "distance_km": 0.12905595113317736,
+        "coordinates": [
+          "42.373478",
+          "-71.100845"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "City Girl Cafe",
+        "distance_km": 0.11156063895395801,
+        "coordinates": [
+          "42.373097",
+          "-71.100335"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 0.6491106015144729,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Corcoran Field",
+        "distance_km": 2.701588164456129,
+        "coordinates": [
+          "42.38662",
+          "-71.127817"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37235531293765,
+        -71.10124825532714
+      ]
+    },
+    "work": {
+      "name": "Cambridge Fire Department Inman Square",
+      "coordinates": [
+        "42.373478",
+        "-71.100845"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:30, I want to social, I go to The Super by private_auto which takes 0-10 minutes.",
+    "On 07:00, I want to work, I go to Cambridge Fire Department Inman Square by private_auto which takes 0-10 minutes.",
+    "On 08:00, I want to shop, I go to Eli Incorporated by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Casa Portugal by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Fitlab Pilates by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Martin Brothers Liquors by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to work, I go to Cambridge Fire Department Inman Square by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to City Girl Cafe by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Fairlane Properties by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to recreation, I go to Corcoran Field by biking which takes 10-20 minutes."
+  ]
+}

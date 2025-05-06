@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Brandon Campbell\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Heffernan Paul M DPM",
+        "distance_km": 0.6301356953387945,
+        "coordinates": [
+          "42.37453",
+          "-71.104202"
+        ]
+      }
+    },
+    {
+      "start_time": "07:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 1.5130849828830093,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37418822306725,
+          -71.11183877989568
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.5048673886120594,
+        "coordinates": [
+          "42.360905",
+          "-71.11543"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Restorative Yoga with Bo Forbes",
+        "distance_km": 1.7326714911771568,
+        "coordinates": [
+          "42.388881",
+          "-71.118903"
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "White Hen Pantry",
+        "distance_km": 1.6547281598940868,
+        "coordinates": [
+          "42.387924",
+          "-71.119615"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 1.5130849828830093,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.22096920068238243,
+        "coordinates": [
+          "42.374979",
+          "-71.109377"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37418822306725,
+          -71.11183877989568
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "SoniYoga",
+        "distance_km": 2.106241727072558,
+        "coordinates": [
+          "42.383643",
+          "-71.134007"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37418822306725,
+          -71.11183877989568
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37418822306725,
+        -71.11183877989568
+      ]
+    },
+    "work": {
+      "name": "Clement G Morgan Park",
+      "coordinates": [
+        "42.364855",
+        "-71.098459"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:10, I want to recreation, I go to Heffernan Paul M DPM by walking which takes 10-20 minutes.",
+    "On 07:05, I want to work, I go to Clement G Morgan Park by biking which takes 10-20 minutes.",
+    "On 11:15, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Dunkin' by biking which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Restorative Yoga with Bo Forbes by biking which takes 10-20 minutes.",
+    "On 15:45, I want to shop, I go to White Hen Pantry by biking which takes 10-20 minutes.",
+    "On 16:30, I want to work, I go to Clement G Morgan Park by biking which takes 10-20 minutes.",
+    "On 17:45, I want to eat, I go to Darwin's by on_demand_auto which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to SoniYoga by biking which takes 10-20 minutes.",
+    "On 21:15, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "profile": "{\"name\": \"Javier Gonzalez\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:13",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Feinberg Paul I Atty",
+        "distance_km": 1.5138269399727973,
+        "coordinates": [
+          "42.382842",
+          "-71.129603"
+        ]
+      }
+    },
+    {
+      "start_time": "09:15",
+      "desire": "school",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lesley College",
+        "distance_km": 1.7244686177724313,
+        "coordinates": [
+          "42.388249",
+          "-71.118112"
+        ]
+      }
+    },
+    {
+      "start_time": "09:45",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.784881847545905,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 0.3428208946578356,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37273709455909,
+          -71.1172697292447
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "BerryLine",
+        "distance_km": 0.27000022701510046,
+        "coordinates": [
+          "42.371278",
+          "-71.114648"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Feinberg Paul I Atty",
+        "distance_km": 1.5138269399727973,
+        "coordinates": [
+          "42.382842",
+          "-71.129603"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 0.5177542501974207,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evolve Fitness",
+        "distance_km": 2.505282243093387,
+        "coordinates": [
+          "42.387936",
+          "-71.139745"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "BerryLine",
+        "distance_km": 0.27000022701510046,
+        "coordinates": [
+          "42.371278",
+          "-71.114648"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.2647943158574082,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37273709455909,
+          -71.1172697292447
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37273709455909,
+        -71.1172697292447
+      ]
+    },
+    "work": {
+      "name": "Feinberg Paul I Atty",
+      "coordinates": [
+        "42.382842",
+        "-71.129603"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Lesley College",
+      "coordinates": [
+        "42.388249",
+        "-71.118112"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:13, I want to work, I go to Feinberg Paul I Atty by public_transit which takes 10-20 minutes.",
+    "On 09:15, I want to school, I go to Lesley College by auto_passenger which takes 10-20 minutes.",
+    "On 09:45, I want to maintenance, I go to Nick's Magazine Auto R by auto_passenger which takes 10-20 minutes.",
+    "On 10:30, I want to shop, I go to Wholesome Fresh by walking which takes 10-20 minutes.",
+    "On 11:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to BerryLine by walking which takes 10-20 minutes.",
+    "On 13:30, I want to work, I go to Feinberg Paul I Atty by walking which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to Louie's Superette by public_transit which takes 10-20 minutes.",
+    "On 15:00, I want to recreation, I go to Evolve Fitness by auto_passenger which takes 10-20 minutes.",
+    "On 16:30, I want to eat, I go to BerryLine by walking which takes 10-20 minutes.",
+    "On 17:30, I want to shop, I go to Gap by walking which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

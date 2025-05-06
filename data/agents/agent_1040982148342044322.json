@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Claudia Diaz\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 0.7739533243139756,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Handle Bar Indoor Cycling Studio",
+        "distance_km": 0.2181908663291404,
+        "coordinates": [
+          "42.369484",
+          "-71.112153"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.3312245142355824,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.1601546957632943,
+        "coordinates": [
+          "42.368966",
+          "-71.11369"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 2.484085075822938,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.3312245142355824,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.2571785360480705,
+        "coordinates": [
+          "42.36963",
+          "-71.11144"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367620617300794,
+          -71.11299096465024
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.367620617300794,
+        -71.11299096465024
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to social, I go to Society for Critical Aesthetics by walking which takes 10-20 minutes.",
+    "On 09:00, I want to recreation, I go to The Handle Bar Indoor Cycling Studio by walking which takes 0-10 minutes.",
+    "On 11:00, I want to shop, I go to Western Market by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Darwin's by walking which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to One Broadway by walking which takes 20-30 minutes.",
+    "On 16:00, I want to shop, I go to Western Market by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

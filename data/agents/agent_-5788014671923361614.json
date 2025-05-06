@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Andrea Hansen\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chivo Taqueria",
+        "distance_km": 1.5004208114246287,
+        "coordinates": [
+          "42.384156",
+          "-71.119803"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadsheet Coffee Roasters",
+        "distance_km": 0.2824574398745129,
+        "coordinates": [
+          "42.377946",
+          "-71.107261"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 0.6487933219652899,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mona Lisa Pizza & Grill",
+        "distance_km": 0.3067244984043289,
+        "coordinates": [
+          "42.374969",
+          "-71.109126"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 0.34691409093318615,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 0.5108026635351265,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadsheet Coffee Roasters",
+        "distance_km": 0.2824574398745129,
+        "coordinates": [
+          "42.377946",
+          "-71.107261"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 0.6487933219652899,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadsheet Coffee Roasters",
+        "distance_km": 0.2824574398745129,
+        "coordinates": [
+          "42.377946",
+          "-71.107261"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.375741917129055,
+          -71.1055507704877
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.375741917129055,
+        -71.1055507704877
+      ]
+    },
+    "work": {
+      "name": "Broadsheet Coffee Roasters",
+      "coordinates": [
+        "42.377946",
+        "-71.107261"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to eat, I go to Chivo Taqueria by on_demand_auto which takes 10-20 minutes.",
+    "On 08:15, I want to work, I go to Broadsheet Coffee Roasters by walking which takes 0-10 minutes.",
+    "On 11:45, I want to social, I go to Society for Critical Aesthetics by walking which takes 0-10 minutes.",
+    "On 12:45, I want to eat, I go to Mona Lisa Pizza & Grill by public_transit which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Cambridge War Memorial Recreation Center by walking which takes 0-10 minutes.",
+    "On 15:15, I want to shop, I go to Inman Square Supermarket by walking which takes 0-10 minutes.",
+    "On 16:30, I want to eat, I go to Broadsheet Coffee Roasters by walking which takes 0-10 minutes.",
+    "On 17:30, I want to social, I go to Society for Critical Aesthetics by walking which takes 0-10 minutes.",
+    "On 18:30, I want to work, I go to Broadsheet Coffee Roasters by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

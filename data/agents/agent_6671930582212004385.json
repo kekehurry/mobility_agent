@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Nathaniel Davis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Phillips Alfred J DPM",
+        "distance_km": 2.5199592344118504,
+        "coordinates": [
+          "42.374723",
+          "-71.104304"
+        ]
+      }
+    },
+    {
+      "start_time": "11:21",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.42662786068991176,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.3431262705642635,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.3431262705642635,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jose's Mexican Restaurant",
+        "distance_km": 0.4000275842001561,
+        "coordinates": [
+          "42.390185",
+          "-71.132847"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38753782853187,
+          -71.1295533552551
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38753782853187,
+        -71.1295533552551
+      ]
+    },
+    "work": {
+      "name": "Mavis Tires & Brakes",
+      "coordinates": [
+        "42.399464",
+        "-71.132241"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to recreation, I go to Phillips Alfred J DPM by auto_passenger which takes 10-20 minutes.",
+    "On 11:21, I want to shop, I go to Thistle & Shamrock by private_auto which takes 0-10 minutes.",
+    "On 14:20, I want to maintenance, I go to Mavis Tires & Brakes by private_auto which takes 10-20 minutes.",
+    "On 14:43, I want to work, I go to Mavis Tires & Brakes by private_auto which takes 0-10 minutes.",
+    "On 17:08, I want to eat, I go to Jose's Mexican Restaurant by walking which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

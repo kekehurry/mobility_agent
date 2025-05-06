@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Frederick Johnson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Handle Bar Indoor Cycling Studio",
+        "distance_km": 0.2707406552567822,
+        "coordinates": [
+          "42.369484",
+          "-71.112153"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard University Police Department",
+        "distance_km": 0.3061658008750374,
+        "coordinates": [
+          "42.369905",
+          "-71.112101"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Burger Company",
+        "distance_km": 0.34536860283757786,
+        "coordinates": [
+          "42.370905",
+          "-71.11358"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Karma Yoga Studio",
+        "distance_km": 0.30916221145199974,
+        "coordinates": [
+          "42.370637",
+          "-71.113978"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3678986895358,
+          -71.1146495912352
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.5249442037520057,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Sunset Cafe",
+        "distance_km": 2.019932975272875,
+        "coordinates": [
+          "42.372668",
+          "-71.090985"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ABG Commercial",
+        "distance_km": 2.7901133316844886,
+        "coordinates": [
+          "42.371467",
+          "-71.08112"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Karma Yoga Studio",
+        "distance_km": 0.30916221145199974,
+        "coordinates": [
+          "42.370637",
+          "-71.113978"
+        ]
+      }
+    },
+    {
+      "start_time": "22:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3678986895358,
+          -71.1146495912352
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3678986895358,
+        -71.1146495912352
+      ]
+    },
+    "work": {
+      "name": "Harvard University Police Department",
+      "coordinates": [
+        "42.369905",
+        "-71.112101"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to other_activities, I go to The Handle Bar Indoor Cycling Studio by private_auto which takes 0-10 minutes.",
+    "On 07:15, I want to work, I go to Harvard University Police Department by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to eat, I go to Boston Burger Company by auto_passenger which takes 0-10 minutes.",
+    "On 14:30, I want to recreation, I go to Karma Yoga Studio by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:45, I want to shop, I go to Vermas Market by auto_passenger which takes 10-20 minutes.",
+    "On 18:15, I want to eat, I go to The Sunset Cafe by auto_passenger which takes 10-20 minutes.",
+    "On 19:30, I want to social, I go to ABG Commercial by auto_passenger which takes 10-20 minutes.",
+    "On 21:30, I want to recreation, I go to Karma Yoga Studio by private_auto which takes 0-10 minutes.",
+    "On 22:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

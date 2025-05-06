@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Heather Jackson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"three_plus\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Courthouse Seafood Restaurant",
+        "distance_km": 0.5023290532067413,
+        "coordinates": [
+          "42.371483",
+          "-71.084626"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Earnest Drinks",
+        "distance_km": 0.12589409091525425,
+        "coordinates": [
+          "42.367958",
+          "-71.090294"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Real Property Management Commonwealth",
+        "distance_km": 0.9605788010848976,
+        "coordinates": [
+          "42.363577",
+          "-71.078927"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "G & J Variety",
+        "distance_km": 0.3345861072391575,
+        "coordinates": [
+          "42.369191",
+          "-71.092624"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Landmark Theaters",
+        "distance_km": 0.1049030893605434,
+        "coordinates": [
+          "42.368264",
+          "-71.090065"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Beantowne Coffee",
+        "distance_km": 0.2473631147544883,
+        "coordinates": [
+          "42.366417",
+          "-71.090625"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368183262303106,
+          -71.08879612475843
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.368183262303106,
+        -71.08879612475843
+      ]
+    },
+    "work": {
+      "name": "Courthouse Seafood Restaurant",
+      "coordinates": [
+        "42.371483",
+        "-71.084626"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Courthouse Seafood Restaurant by private_auto which takes 10-10 minutes.",
+    "On 12:30, I want to eat, I go to Earnest Drinks by walking which takes 0-10 minutes.",
+    "On 13:00, I want to social, I go to Real Property Management Commonwealth by private_auto which takes 10-10 minutes.",
+    "On 16:00, I want to shop, I go to G & J Variety by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Landmark Theaters by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Beantowne Coffee by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

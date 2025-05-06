@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Ryan Gray\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Zoe's",
+        "distance_km": 0.2517312571871991,
+        "coordinates": [
+          "42.370759",
+          "-71.113401"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Scalable Display Technology",
+        "distance_km": 0.6632941314088547,
+        "coordinates": [
+          "42.365903",
+          "-71.105144"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 1.6062381613860506,
+        "coordinates": [
+          "42.363707",
+          "-71.09312"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tajine",
+        "distance_km": 0.23675745234559378,
+        "coordinates": [
+          "42.370646",
+          "-71.113236"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Zoe's",
+        "distance_km": 0.2517312571871991,
+        "coordinates": [
+          "42.370759",
+          "-71.113401"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.31678238709715556,
+        "coordinates": [
+          "42.368985",
+          "-71.11368"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 1.7582322614209558,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370442953334496,
+          -71.11037469893942
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370442953334496,
+        -71.11037469893942
+      ]
+    },
+    "work": {
+      "name": "Zoe's",
+      "coordinates": [
+        "42.370759",
+        "-71.113401"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to work, I go to Zoe's by walking which takes 0-10 minutes.",
+    "On 10:05, I want to shop, I go to Scalable Display Technology by walking which takes 10-20 minutes.",
+    "On 11:00, I want to recreation, I go to Cambridge Athletic Club by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Tajine by walking which takes 0-10 minutes.",
+    "On 16:30, I want to work, I go to Zoe's by walking which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Darwin's by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to recreation, I go to Johnson Ice Rink by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

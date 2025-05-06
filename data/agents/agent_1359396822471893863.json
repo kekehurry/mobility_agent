@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Angela Cisneros\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.18519735456960243,
+        "coordinates": [
+          "42.373855",
+          "-71.112969"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Yenching Restaurant",
+        "distance_km": 0.30340505750735647,
+        "coordinates": [
+          "42.372864",
+          "-71.117942"
+        ]
+      }
+    },
+    {
+      "start_time": "13:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hemenway Gymnasium",
+        "distance_km": 0.4700942410650089,
+        "coordinates": [
+          "42.377055",
+          "-71.119606"
+        ]
+      }
+    },
+    {
+      "start_time": "14:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Patagonia",
+        "distance_km": 0.5009353720406626,
+        "coordinates": [
+          "42.373779",
+          "-71.121021"
+        ]
+      }
+    },
+    {
+      "start_time": "17:32",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yenching Restaurant",
+        "distance_km": 0.30340505750735647,
+        "coordinates": [
+          "42.372864",
+          "-71.117942"
+        ]
+      }
+    },
+    {
+      "start_time": "18:05",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Yenching Restaurant",
+        "distance_km": 0.30340505750735647,
+        "coordinates": [
+          "42.372864",
+          "-71.117942"
+        ]
+      }
+    },
+    {
+      "start_time": "19:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37453130498049,
+          -71.11502422949114
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37453130498049,
+        -71.11502422949114
+      ]
+    },
+    "work": {
+      "name": "Yenching Restaurant",
+      "coordinates": [
+        "42.372864",
+        "-71.117942"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 08:20, I want to work, I go to Yenching Restaurant by private_auto which takes 0-10 minutes.",
+    "On 13:45, I want to recreation, I go to Hemenway Gymnasium by walking which takes 0-10 minutes.",
+    "On 14:58, I want to shop, I go to Patagonia by walking which takes 10-20 minutes.",
+    "On 17:32, I want to work, I go to Yenching Restaurant by walking which takes 10-20 minutes.",
+    "On 18:05, I want to eat, I go to Yenching Restaurant by public_transit which takes 0-10 minutes.",
+    "On 19:20, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

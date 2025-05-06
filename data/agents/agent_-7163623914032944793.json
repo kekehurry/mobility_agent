@@ -1,0 +1,171 @@
+{
+  "profile": "{\"name\": \"Andre Oneill\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 1.5058075421119805,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "07:35",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Martin Luther King Jr",
+        "distance_km": 0.3326003636796738,
+        "coordinates": [
+          "42.370994",
+          "-71.104264"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvest of India",
+        "distance_km": 0.3951500018865931,
+        "coordinates": [
+          "42.369549",
+          "-71.111356"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 0.30939571377015945,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.3468375856036591,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37210209245079,
+          -71.1080153326374
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 0.4378178430107006,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37210209245079,
+          -71.1080153326374
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37210209245079,
+        -71.1080153326374
+      ]
+    },
+    "school": {
+      "name": "Martin Luther King Jr",
+      "coordinates": [
+        "42.370994",
+        "-71.104264"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Harvest of India",
+      "coordinates": [
+        "42.369549",
+        "-71.111356"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:02, I want to shop, I go to Evergood Super Market by walking which takes 20-20 minutes.",
+    "On 07:35, I want to school, I go to Martin Luther King Jr by walking which takes 10-10 minutes.",
+    "On 11:50, I want to work, I go to Harvest of India by walking which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Cambridge War Memorial Recreation Center by walking which takes 10-20 minutes.",
+    "On 14:15, I want to eat, I go to Barismo by walking which takes 10-20 minutes.",
+    "On 16:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:45, I want to social, I go to Kemsley Education by walking which takes 10-20 minutes.",
+    "On 20:15, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

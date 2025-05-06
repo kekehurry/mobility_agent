@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Matthew Gomez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Francis J McCrehan Memorial Swimming and Wading Pool",
+        "distance_km": 1.541408234123878,
+        "coordinates": [
+          "42.394485",
+          "-71.137132"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.691939122968989,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nornie B's Sandwich & Donut Shoppe",
+        "distance_km": 1.5850582312299872,
+        "coordinates": [
+          "42.374283",
+          "-71.121254"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.5664992703932805,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rohrbaugh Associates",
+        "distance_km": 0.5834115543095628,
+        "coordinates": [
+          "42.386263",
+          "-71.126612"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Windsor Realty",
+        "distance_km": 0.21680856550690614,
+        "coordinates": [
+          "42.390226",
+          "-71.12153"
+        ]
+      }
+    },
+    {
+      "start_time": "21:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38853191724486,
+          -71.1202223562104
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38853191724486,
+        -71.1202223562104
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to recreation, I go to Francis J McCrehan Memorial Swimming and Wading Pool by biking which takes 10-20 minutes.",
+    "On 11:30, I want to shop, I go to Evergood Super Market by auto_passenger which takes 10-20 minutes.",
+    "On 15:00, I want to eat, I go to Nornie B's Sandwich & Donut Shoppe by public_transit which takes 10-20 minutes.",
+    "On 16:30, I want to maintenance, I go to Mavis Tires & Brakes by auto_passenger which takes 10-20 minutes.",
+    "On 18:00, I want to recreation, I go to Rohrbaugh Associates by public_transit which takes 10-20 minutes.",
+    "On 20:30, I want to social, I go to Windsor Realty by walking which takes 0-10 minutes.",
+    "On 21:45, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

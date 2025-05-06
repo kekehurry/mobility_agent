@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"David Blackburn\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"car\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Oleana Restaurant",
+        "distance_km": 0.3400731944491772,
+        "coordinates": [
+          "42.370543",
+          "-71.09718"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Al Hoda Market",
+        "distance_km": 0.3676475279508614,
+        "coordinates": [
+          "42.372744",
+          "-71.098472"
+        ]
+      }
+    },
+    {
+      "start_time": "11:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Oleana Restaurant",
+        "distance_km": 0.3400731944491772,
+        "coordinates": [
+          "42.370543",
+          "-71.09718"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 1.500080370661324,
+        "coordinates": [
+          "42.368604",
+          "-71.076587"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 1.5680483056183527,
+        "coordinates": [
+          "42.364147",
+          "-71.078686"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 1.5869500767217226,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Oleana Restaurant",
+        "distance_km": 0.3400731944491772,
+        "coordinates": [
+          "42.370543",
+          "-71.09718"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Taste",
+        "distance_km": 0.3268600058237061,
+        "coordinates": [
+          "42.369986",
+          "-71.096053"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.7505552936588974,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Coffee Shop",
+        "distance_km": 0.2599854001229465,
+        "coordinates": [
+          "42.372537",
+          "-71.090863"
+        ]
+      }
+    },
+    {
+      "start_time": "22:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37251276003372,
+          -71.09401930437113
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37251276003372,
+        -71.09401930437113
+      ]
+    },
+    "work": {
+      "name": "Oleana Restaurant",
+      "coordinates": [
+        "42.370543",
+        "-71.09718"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Oleana Restaurant by walking which takes 10-20 minutes.",
+    "On 10:30, I want to shop, I go to Al Hoda Market by walking which takes 10-20 minutes.",
+    "On 11:20, I want to work, I go to Oleana Restaurant by walking which takes 10-20 minutes.",
+    "On 13:30, I want to eat, I go to Chipotle Mexican Grill by walking which takes 20-30 minutes.",
+    "On 14:00, I want to recreation, I go to Cambridge Athletic Club by walking which takes 20-30 minutes.",
+    "On 15:30, I want to shop, I go to Apple CambridgeSide by public_transit which takes 20-30 minutes.",
+    "On 17:00, I want to work, I go to Oleana Restaurant by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to The Taste by walking which takes 10-20 minutes.",
+    "On 19:00, I want to maintenance, I go to Advance Tire Company Inc by walking which takes 10-20 minutes.",
+    "On 21:30, I want to eat, I go to Cambridge Coffee Shop by walking which takes 10-20 minutes.",
+    "On 22:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}
