@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Jerry Clark\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sacred Heart Of Jesus Parish",
+        "distance_km": 1.530997304665428,
+        "coordinates": [
+          "42.370514",
+          "-71.085304"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.5075560137276103,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mindful Boston",
+        "distance_km": 1.516513831703114,
+        "coordinates": [
+          "42.372739",
+          "-71.119647"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 1.5163781772264888,
+        "coordinates": [
+          "42.36255",
+          "-71.085605"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.941011656843833,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.605383759381832,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36667182450509,
+          -71.10315383215256
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cascap",
+        "distance_km": 0.16868908097104576,
+        "coordinates": [
+          "42.365521",
+          "-71.10449"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Jerusalem Palace Truck",
+        "distance_km": 1.5001347254313104,
+        "coordinates": [
+          "42.361099",
+          "-71.086566"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.6641471065600988,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36667182450509,
+          -71.10315383215256
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36667182450509,
+        -71.10315383215256
+      ]
+    },
+    "work": {
+      "name": "Sacred Heart Of Jesus Parish",
+      "coordinates": [
+        "42.370514",
+        "-71.085304"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Sacred Heart Of Jesus Parish by biking which takes 10-20 minutes.",
+    "On 08:45, I want to shop, I go to Stereo Lab by biking which takes 10-20 minutes.",
+    "On 10:00, I want to recreation, I go to Mindful Boston by biking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Chipotle Mexican Grill by biking which takes 10-20 minutes.",
+    "On 13:30, I want to maintenance, I go to Advance Tire Company Inc by biking which takes 10-20 minutes.",
+    "On 14:30, I want to shop, I go to Gap by biking which takes 10-20 minutes.",
+    "On 15:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 18:00, I want to recreation, I go to Cascap by walking which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Jerusalem Palace Truck by biking which takes 10-20 minutes.",
+    "On 20:00, I want to social, I go to Trinity Property Management by biking which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

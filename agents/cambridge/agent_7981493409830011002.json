@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Nicole Vazquez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 0.35129439779241606,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Surya Indian Express",
+        "distance_km": 2.998682014518934,
+        "coordinates": [
+          "42.368663",
+          "-71.076589"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Genji Sushi Bars",
+        "distance_km": 1.5001235054618531,
+        "coordinates": [
+          "42.360997",
+          "-71.113944"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Boathouse",
+        "distance_km": 0.5021368077061527,
+        "coordinates": [
+          "42.371436",
+          "-71.116713"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37443637669465,
+          -71.11215301503876
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.6120741525979752,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 1.006173351476467,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Churn2 Superior Ice Cream",
+        "distance_km": 0.3970613511693998,
+        "coordinates": [
+          "42.376225",
+          "-71.116327"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37443637669465,
+          -71.11215301503876
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37443637669465,
+        -71.11215301503876
+      ]
+    },
+    "work": {
+      "name": "Genji Sushi Bars",
+      "coordinates": [
+        "42.360997",
+        "-71.113944"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to eat, I go to Atrium Restaurant by walking which takes 10-20 minutes.",
+    "On 09:30, I want to shop, I go to Surya Indian Express by biking which takes 10-20 minutes.",
+    "On 11:00, I want to work, I go to Genji Sushi Bars by walking which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to The Boathouse by walking which takes 10-20 minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to Cambridge Forum by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Inman Square Supermarket by walking which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Churn2 Superior Ice Cream by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Carol Boyd\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"45k-65k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 0.28175665992695964,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Souper Roll Up Cafe",
+        "distance_km": 0.30980083313331813,
+        "coordinates": [
+          "42.372072",
+          "-71.088896"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Coffee Shop",
+        "distance_km": 0.24644414610023022,
+        "coordinates": [
+          "42.372537",
+          "-71.090863"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Souper Roll Up Cafe",
+        "distance_km": 0.30980083313331813,
+        "coordinates": [
+          "42.372072",
+          "-71.088896"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 0.36848862712282315,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 0.28175665992695964,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 1.2561246648548705,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Souper Roll Up Cafe",
+        "distance_km": 0.30980083313331813,
+        "coordinates": [
+          "42.372072",
+          "-71.088896"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.27805157844913664,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37048008840401,
+          -71.09198431945053
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37048008840401,
+        -71.09198431945053
+      ]
+    },
+    "work": {
+      "name": "Cambridge Coffee Shop",
+      "coordinates": [
+        "42.372537",
+        "-71.090863"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 0-10 minutes.",
+    "On 07:45, I want to eat, I go to Souper Roll Up Cafe by public_transit which takes 0-10 minutes.",
+    "On 08:15, I want to work, I go to Cambridge Coffee Shop by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Souper Roll Up Cafe by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to social, I go to Fairlane Properties by public_transit which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to CLEAR Kiosk by public_transit which takes 10-20 minutes.",
+    "On 16:00, I want to eat, I go to Souper Roll Up Cafe by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to social, I go to RJ Realty Management by walking which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

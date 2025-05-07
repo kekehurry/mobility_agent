@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Trevor Peters\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Phylonix Pharmaceuticals",
+        "distance_km": 0.5020767576411206,
+        "coordinates": [
+          "42.371731",
+          "-71.101538"
+        ]
+      }
+    },
+    {
+      "start_time": "07:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "New Republik",
+        "distance_km": 0.10138416362482217,
+        "coordinates": [
+          "42.373056",
+          "-71.096998"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Haveli Restaurant",
+        "distance_km": 0.21702739811521246,
+        "coordinates": [
+          "42.373288",
+          "-71.098427"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fitness Together",
+        "distance_km": 0.25797520273720725,
+        "coordinates": [
+          "42.371124",
+          "-71.097079"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 0.348631066753502,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corazon De Frida",
+        "distance_km": 0.2598255486604886,
+        "coordinates": [
+          "42.373666",
+          "-71.098895"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 1.3351080717063737,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37324155252732,
+          -71.09579279170472
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37324155252732,
+        -71.09579279170472
+      ]
+    },
+    "work": {
+      "name": "New Republik",
+      "coordinates": [
+        "42.373056",
+        "-71.096998"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Phylonix Pharmaceuticals by walking which takes 10-20 minutes.",
+    "On 07:50, I want to work, I go to New Republik by on_demand_auto which takes 0-10 minutes.",
+    "On 12:10, I want to eat, I go to Haveli Restaurant by on_demand_auto which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Fitness Together by on_demand_auto which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Inman Square Supermarket by on_demand_auto which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Corazon De Frida by biking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Kemsley Education by biking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by biking which takes 0-10 minutes."
+  ]
+}

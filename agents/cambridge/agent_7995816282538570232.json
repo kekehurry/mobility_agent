@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Juan Garcia\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n\t",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ahern Field",
+        "distance_km": 0.5067330577161555,
+        "coordinates": [
+          "42.36864",
+          "-71.08649"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36868063104669,
+          -71.09264160720912
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Price Waterhouse Llp",
+        "distance_km": 0.25741090407121636,
+        "coordinates": [
+          "42.36732",
+          "-71.090112"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36868063104669,
+          -71.09264160720912
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 0.5502782579550906,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.3100798924081421,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.20580131788614336,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "sweetgreen",
+        "distance_km": 0.5129045036837543,
+        "coordinates": [
+          "42.364902",
+          "-71.089063"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "G & J Variety",
+        "distance_km": 0.056710562528447375,
+        "coordinates": [
+          "42.369191",
+          "-71.092624"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36868063104669,
+          -71.09264160720912
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 0.640480541311593,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36868063104669,
+          -71.09264160720912
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36868063104669,
+        -71.09264160720912
+      ]
+    },
+    "work": {
+      "name": "Price Waterhouse Llp",
+      "coordinates": [
+        "42.36732",
+        "-71.090112"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Ahern Field by walking which takes 10-20 minutes.",
+    "On 07:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 08:30, I want to work, I go to Price Waterhouse Llp by walking which takes 0-10 minutes.",
+    "On 12:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to Fairlane Properties by walking which takes 0-10 minutes.",
+    "On 13:30, I want to maintenance, I go to Advance Tire Company Inc by walking which takes 0-10 minutes.",
+    "On 14:30, I want to shop, I go to Formaggio Kitchen by walking which takes 0-10 minutes.",
+    "On 16:00, I want to eat, I go to sweetgreen by walking which takes 20-30 minutes.",
+    "On 17:30, I want to shop, I go to G & J Variety by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Clement G Morgan Park by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

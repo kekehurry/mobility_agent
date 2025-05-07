@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Mitchell Williams\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.37912761875846,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Restorative Yoga with Bo Forbes",
+        "distance_km": 2.1097413848810525,
+        "coordinates": [
+          "42.388881",
+          "-71.118903"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.5322453976773395,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zinneken's Belgian Waffles Harvard Square",
+        "distance_km": 0.3043668384428479,
+        "coordinates": [
+          "42.371169",
+          "-71.114539"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 0.5058968102332386,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370846192526194,
+          -71.11086951494264
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370846192526194,
+        -71.11086951494264
+      ]
+    },
+    "work": {
+      "name": "Zinneken's Belgian Waffles Harvard Square",
+      "coordinates": [
+        "42.371169",
+        "-71.114539"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 11:30, I want to shop, I go to Vermas Market by walking which takes 10-20 minutes.",
+    "On 14:00, I want to recreation, I go to Restorative Yoga with Bo Forbes by biking which takes 10-20 minutes.",
+    "On 16:30, I want to eat, I go to Barismo by public_transit which takes 10-20 minutes.",
+    "On 17:30, I want to work, I go to Zinneken's Belgian Waffles Harvard Square by walking which takes 10-20 minutes.",
+    "On 18:30, I want to shop, I go to Weirdo Records by public_transit which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

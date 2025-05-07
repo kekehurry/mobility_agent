@@ -1,0 +1,146 @@
+{
+  "profile": "{\n\n  \"name\": \"Jessica Andrews\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 55,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 2,\n  \"household_income\": \"75k-100k\",\n  \"available_vehicles\": \"two\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:02",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 0.18295229065603022,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "12:05",
+      "desire": "lunch",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.5276340213158901,
+        "coordinates": [
+          "42.373154",
+          "-71.095093"
+        ]
+      }
+    },
+    {
+      "start_time": "12:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Z Park Innovation Center Boston",
+        "distance_km": 0.8721346559319244,
+        "coordinates": [
+          "42.368951",
+          "-71.110915"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.33146072699695717,
+        "coordinates": [
+          "42.367987",
+          "-71.102185"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Huan's Tai Chi",
+        "distance_km": 0.5343470093817447,
+        "coordinates": [
+          "42.366737",
+          "-71.104219"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.31646164583699565,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370730523366746,
+          -71.10060243916028
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370730523366746,
+        -71.10060243916028
+      ]
+    },
+    "work": {
+      "name": "Brooklyn Bagel Factory",
+      "coordinates": [
+        "42.371845",
+        "-71.098967"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:02, I want to work, I go to Brooklyn Bagel Factory by walking which takes 0-10 minutes.",
+    "On 12:05, I want to lunch, I go to Clover Food Lab by private_auto which takes 10-20 minutes.",
+    "On 12:50, I want to social, I go to Z Park Innovation Center Boston by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 16:45, I want to recreation, I go to Huan's Tai Chi by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Barismo by public_transit which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

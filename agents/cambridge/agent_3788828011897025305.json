@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Donna Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:05",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.22295056426171042,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36522307392225,
+          -71.10494967728769
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 0.17747193588155807,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "11:43",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.11101406631775981,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "12:21",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36522307392225,
+          -71.10494967728769
+        ]
+      }
+    },
+    {
+      "start_time": "15:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36522307392225,
+          -71.10494967728769
+        ]
+      }
+    },
+    {
+      "start_time": "18:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brookline Lunch",
+        "distance_km": 0.3032882146928353,
+        "coordinates": [
+          "42.363808",
+          "-71.101801"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36522307392225,
+        -71.10494967728769
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:05, I want to social, I go to Central House by walking which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 10:05, I want to shop, I go to Harvest Co Op Markets by walking which takes 0-10 minutes.",
+    "On 11:43, I want to social, I go to Wellmet Project by walking which takes 0-10 minutes.",
+    "On 12:21, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:10, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:25, I want to eat, I go to Brookline Lunch by private_auto which takes 0-10 minutes."
+  ]
+}

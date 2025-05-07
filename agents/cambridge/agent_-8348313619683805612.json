@@ -1,0 +1,121 @@
+{
+  "profile": "{\n  \"name\": \"Jacqueline Alvarez\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"female\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"bachelor_degree\",\n  \"household_size\": 4,\n  \"household_income\": \"25k-50k\",\n  \"available_vehicles\": \"zero\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 0.6658001225580136,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.3769598273538091,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.5663518575403766,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Structural Integration with Ali Mischke",
+        "distance_km": 0.4152942688277891,
+        "coordinates": [
+          "42.398381",
+          "-71.131949"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hana Sushi",
+        "distance_km": 0.6763793165880512,
+        "coordinates": [
+          "42.396633",
+          "-71.12982"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.4009495346904,
+          -71.13561434231298
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.4009495346904,
+        -71.13561434231298
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to social, I go to Investments Limited by walking which takes 0-10 minutes.",
+    "On 13:15, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to Friendly Corner Convenience Store by walking which takes 10-20 minutes.",
+    "On 15:30, I want to recreation, I go to Structural Integration with Ali Mischke by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Hana Sushi by walking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\":\"Nathan Cooper\",\"city\":\"Cambridge,MA\",\"age\":34,\"gender\":\"male\",\"employment_status\":\"employed\",\"education\":\"advanced_degree\",\"household_size\":1,\"household_income\":\"150k+\",\"available_vehicles\":\"1 vehicle\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Third Eye",
+        "distance_km": 0.39887332589714447,
+        "coordinates": [
+          "42.391248",
+          "-71.123483"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Third Eye",
+        "distance_km": 0.39887332589714447,
+        "coordinates": [
+          "42.391248",
+          "-71.123483"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38832452732869,
+          -71.12629572526541
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wasabi at Porter",
+        "distance_km": 0.39997416168575245,
+        "coordinates": [
+          "42.391257",
+          "-71.123477"
+        ]
+      }
+    },
+    {
+      "start_time": "17:52",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.5508831008663917,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "19:32",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38832452732869,
+          -71.12629572526541
+        ]
+      }
+    },
+    {
+      "start_time": "21:12",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond Entertainment Cinemas",
+        "distance_km": 1.0294647458643187,
+        "coordinates": [
+          "42.391289",
+          "-71.138141"
+        ]
+      }
+    },
+    {
+      "start_time": "21:27",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38832452732869,
+          -71.12629572526541
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38832452732869,
+        -71.12629572526541
+      ]
+    },
+    "work": {
+      "name": "Third Eye",
+      "coordinates": [
+        "42.391248",
+        "-71.123483"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Third Eye by walking which takes 0-10 minutes.",
+    "On 14:43, I want to work, I go to Third Eye by walking which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:08, I want to eat, I go to Wasabi at Porter by walking which takes 0-10 minutes.",
+    "On 17:52, I want to shop, I go to Gourmet Express by biking which takes 0-10 minutes.",
+    "On 19:32, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:12, I want to recreation, I go to Fresh Pond Entertainment Cinemas by walking which takes 0-10 minutes.",
+    "On 21:27, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

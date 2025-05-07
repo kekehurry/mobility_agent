@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Elizabeth Taylor\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"1\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:56",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 0.5311530772487609,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "11:10",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 2.124010566849244,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "15:56",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Summer Shack Cambridge",
+        "distance_km": 0.2864087502733601,
+        "coordinates": [
+          "42.393743",
+          "-71.141012"
+        ]
+      }
+    },
+    {
+      "start_time": "16:06",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392859322536005,
+          -71.13774424405598
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.3781811808254827,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:33",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.3696041652980554,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "17:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392859322536005,
+          -71.13774424405598
+        ]
+      }
+    },
+    {
+      "start_time": "18:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.3696041652980554,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "18:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.3781811808254827,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "19:11",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392859322536005,
+          -71.13774424405598
+        ]
+      }
+    },
+    {
+      "start_time": "22:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392859322536005,
+          -71.13774424405598
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.392859322536005,
+        -71.13774424405598
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:56, I want to recreation, I go to Soccer Nights by walking which takes 10-20 minutes.",
+    "On 11:10, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 10-20 minutes.",
+    "On 15:56, I want to eat, I go to Summer Shack Cambridge by private_auto which takes 0-10 minutes.",
+    "On 16:06, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:35, I want to shop, I go to Bread & Circus by private_auto which takes 0-10 minutes.",
+    "On 17:33, I want to eat, I go to McDonald's by private_auto which takes 0-10 minutes.",
+    "On 17:43, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:26, I want to eat, I go to McDonald's by private_auto which takes 10-20 minutes.",
+    "On 18:35, I want to shop, I go to Bread & Circus by biking which takes 0-10 minutes.",
+    "On 19:11, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 22:33, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

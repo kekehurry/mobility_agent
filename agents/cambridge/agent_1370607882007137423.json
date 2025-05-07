@@ -1,0 +1,112 @@
+{
+  "profile": "{\n  \"name\": \"Bryan Fisher\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"male\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor's_degree\",\n  \"household_size\": 3,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": \"zero\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 4.02916874168935,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 4.02916874168935,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Izzy's Restaurant & Sub Shop",
+        "distance_km": 0.18414390732889716,
+        "coordinates": [
+          "42.366289",
+          "-71.095569"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36720922257228,
+          -71.09742843220711
+        ]
+      }
+    },
+    {
+      "start_time": "21:27",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "HealthAF",
+        "distance_km": 2.9890281587319096,
+        "coordinates": [
+          "42.388886",
+          "-71.118932"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36720922257228,
+        -71.09742843220711
+      ]
+    },
+    "work": {
+      "name": "Frank's Steak House",
+      "coordinates": [
+        "42.395359",
+        "-71.128283"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:15, I want to work, I go to Frank's Steak House by on_demand_auto which takes 20-30 minutes.",
+    "On 16:50, I want to work, I go to Frank's Steak House by on_demand_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Izzy's Restaurant & Sub Shop by walking which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by on_demand_auto which takes 20-30 minutes.",
+    "On 21:27, I want to recreation, I go to HealthAF by on_demand_auto which takes 20-30 minutes."
+  ]
+}

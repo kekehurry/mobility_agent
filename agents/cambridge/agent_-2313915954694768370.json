@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Duane Garcia\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:22",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 2.518410392294818,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.4466255826188968,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 0.1978201212092696,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "14:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.40550981515291723,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Faro",
+        "distance_km": 0.45720217743397507,
+        "coordinates": [
+          "42.371271",
+          "-71.114651"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 0.5624326720633942,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37537765753423,
+          -71.11427816481988
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37537765753423,
+        -71.11427816481988
+      ]
+    },
+    "work": {
+      "name": "Broad Institute",
+      "coordinates": [
+        "42.362837",
+        "-71.088807"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:22, I want to work, I go to Broad Institute by public_transit which takes 20-30 minutes.",
+    "On 12:15, I want to social, I go to Cambridge Forum by walking which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Harvard Film Archive by walking which takes 0-10 minutes.",
+    "On 14:45, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 0-10 minutes.",
+    "On 18:15, I want to eat, I go to Faro by walking which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Spaulding National Running Center by walking which takes 10-20 minutes.",
+    "On 21:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

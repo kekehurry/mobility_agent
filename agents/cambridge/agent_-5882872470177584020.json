@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Kathleen Gill\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Caselden Law",
+        "distance_km": 0.5011401358239462,
+        "coordinates": [
+          "42.393556",
+          "-71.131074"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Capone Foods Cambridge",
+        "distance_km": 0.5491939614192727,
+        "coordinates": [
+          "42.39507",
+          "-71.12718"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Structural Integration with Ali Mischke",
+        "distance_km": 0.07637845301525265,
+        "coordinates": [
+          "42.398381",
+          "-71.131949"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "La Market",
+        "distance_km": 0.31058289426215796,
+        "coordinates": [
+          "42.39632",
+          "-71.129537"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Season To Go",
+        "distance_km": 0.14113026747483817,
+        "coordinates": [
+          "42.39835",
+          "-71.131022"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 0.26386061132808364,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greek Corner Restaurant",
+        "distance_km": 0.30124741053917886,
+        "coordinates": [
+          "42.396425",
+          "-71.129578"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.397916888790604,
+          -71.13263347943527
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.397916888790604,
+        -71.13263347943527
+      ]
+    },
+    "work": {
+      "name": "Caselden Law",
+      "coordinates": [
+        "42.393556",
+        "-71.131074"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Caselden Law by auto_passenger which takes 10-10 minutes.",
+    "On 12:30, I want to eat, I go to Capone Foods Cambridge by auto_passenger which takes 10-10 minutes.",
+    "On 13:15, I want to recreation, I go to Structural Integration with Ali Mischke by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to La Market by auto_passenger which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Season To Go by private_auto which takes 0-10 minutes.",
+    "On 18:15, I want to social, I go to Investments Limited by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Greek Corner Restaurant by private_auto which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

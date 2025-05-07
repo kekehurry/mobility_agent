@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Alexis Duncan\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "American Jiann Shyong Kung Fu Center",
+        "distance_km": 0.2584163367738394,
+        "coordinates": [
+          "42.371385",
+          "-71.080086"
+        ]
+      }
+    },
+    {
+      "start_time": "09:07",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Brothers Market",
+        "distance_km": 0.1110495377168778,
+        "coordinates": [
+          "42.371307",
+          "-71.083079"
+        ]
+      }
+    },
+    {
+      "start_time": "11:10",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cove Kendall",
+        "distance_km": 0.8834721809728988,
+        "coordinates": [
+          "42.364359",
+          "-71.083481"
+        ]
+      }
+    },
+    {
+      "start_time": "12:11",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Courtside",
+        "distance_km": 0.21472464656542642,
+        "coordinates": [
+          "42.37126",
+          "-71.080774"
+        ]
+      }
+    },
+    {
+      "start_time": "13:32",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 0.12373874944611016,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372303363027875,
+          -71.08296858548991
+        ]
+      }
+    },
+    {
+      "start_time": "16:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Brothers Market",
+        "distance_km": 0.1110495377168778,
+        "coordinates": [
+          "42.371307",
+          "-71.083079"
+        ]
+      }
+    },
+    {
+      "start_time": "17:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372303363027875,
+          -71.08296858548991
+        ]
+      }
+    },
+    {
+      "start_time": "18:12",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lone Star Taco Bar",
+        "distance_km": 0.3231744264688887,
+        "coordinates": [
+          "42.372127",
+          "-71.086885"
+        ]
+      }
+    },
+    {
+      "start_time": "19:31",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Albert's Market",
+        "distance_km": 0.34339553922349914,
+        "coordinates": [
+          "42.371765",
+          "-71.087074"
+        ]
+      }
+    },
+    {
+      "start_time": "20:32",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.513410914937382,
+        "coordinates": [
+          "42.370556",
+          "-71.077198"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372303363027875,
+        -71.08296858548991
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to American Jiann Shyong Kung Fu Center by walking which takes 0-10 minutes.",
+    "On 09:07, I want to shop, I go to The Brothers Market by walking which takes 0-10 minutes.",
+    "On 11:10, I want to social, I go to Cove Kendall by walking which takes 0-10 minutes.",
+    "On 12:11, I want to eat, I go to Courtside by auto_passenger which takes 0-10 minutes.",
+    "On 13:32, I want to recreation, I go to Simoni Skating Rink by auto_passenger which takes 0-10 minutes.",
+    "On 15:55, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:22, I want to shop, I go to The Brothers Market by walking which takes 0-10 minutes.",
+    "On 17:33, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:12, I want to eat, I go to Lone Star Taco Bar by auto_passenger which takes 0-10 minutes.",
+    "On 19:31, I want to shop, I go to Albert's Market by walking which takes 0-10 minutes.",
+    "On 20:32, I want to eat, I go to Starbucks by walking which takes 10-20 minutes."
+  ]
+}

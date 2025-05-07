@@ -1,0 +1,248 @@
+{
+  "profile": "{\"name\": \"Jody Gonzalez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Community Legal Services & Counseling Center",
+        "distance_km": 0.18341020867731156,
+        "coordinates": [
+          "42.369642",
+          "-71.103435"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lipomed",
+        "distance_km": 1.65454814409779,
+        "coordinates": [
+          "42.362826",
+          "-71.083914"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36808138521767,
+          -71.10270782310673
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Community Legal Services & Counseling Center",
+        "distance_km": 0.18341020867731156,
+        "coordinates": [
+          "42.369642",
+          "-71.103435"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.2628608191643645,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.3385261590794223,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36808138521767,
+          -71.10270782310673
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.5808112195726731,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36808138521767,
+          -71.10270782310673
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Community Legal Services & Counseling Center",
+        "distance_km": 0.18341020867731156,
+        "coordinates": [
+          "42.369642",
+          "-71.103435"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tasty Burger",
+        "distance_km": 0.23601227400750663,
+        "coordinates": [
+          "42.366066",
+          "-71.103615"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.2628608191643645,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36808138521767,
+          -71.10270782310673
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36808138521767,
+        -71.10270782310673
+      ]
+    },
+    "work": {
+      "name": "Community Legal Services & Counseling Center",
+      "coordinates": [
+        "42.369642",
+        "-71.103435"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Community Legal Services & Counseling Center by walking which takes 0-10 minutes.",
+    "On 07:30, I want to recreation, I go to Lipomed by public_transit which takes 10-20 minutes.",
+    "On 08:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 09:00, I want to work, I go to Community Legal Services & Counseling Center by walking which takes 0-10 minutes.",
+    "On 11:00, I want to social, I go to Wellmet Project by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Go! Go! Curry! by walking which takes 10-20 minutes.",
+    "On 13:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Joe's Kwik Mart by walking which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:00, I want to work, I go to Community Legal Services & Counseling Center by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Tasty Burger by walking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Wellmet Project by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

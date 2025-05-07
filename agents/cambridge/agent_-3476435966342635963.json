@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Kathryn Santana\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellbridge Athletic Club",
+        "distance_km": 0.4710188576755227,
+        "coordinates": [
+          "42.372013",
+          "-71.122573"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nubar",
+        "distance_km": 0.13017141723447828,
+        "coordinates": [
+          "42.377187",
+          "-71.122917"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 1.380294110406219,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 2.0485369502510253,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Karma Yoga Studio",
+        "distance_km": 1.0095481692233124,
+        "coordinates": [
+          "42.370637",
+          "-71.113978"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 0.3079062783812592,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 0.31927584339818077,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 0.32418748103928924,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Toscano",
+        "distance_km": 0.2552748400455772,
+        "coordinates": [
+          "42.374203",
+          "-71.122099"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37616988535419,
+          -71.12370197534331
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37616988535419,
+        -71.12370197534331
+      ]
+    },
+    "work": {
+      "name": "Mesomorpheus",
+      "coordinates": [
+        "42.373425",
+        "-71.122552"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to recreation, I go to Wellbridge Athletic Club by public_transit which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Nubar by auto_passenger which takes 0-10 minutes.",
+    "On 11:30, I want to social, I go to Victoria Goodman Santana Properties Team by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to shop, I go to Whole Foods Market by auto_passenger which takes 10-20 minutes.",
+    "On 14:00, I want to recreation, I go to Karma Yoga Studio by private_auto which takes 10-20 minutes.",
+    "On 15:30, I want to eat, I go to Harvest by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to work, I go to Mesomorpheus by public_transit which takes 0-10 minutes.",
+    "On 19:00, I want to shop, I go to Market In the Square by public_transit which takes 0-10 minutes.",
+    "On 20:00, I want to eat, I go to Toscano by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

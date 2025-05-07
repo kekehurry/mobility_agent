@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Amber Erickson\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"100k-150k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wright Patricia MD",
+        "distance_km": 0.17443931096451082,
+        "coordinates": [
+          "42.378671",
+          "-71.143096"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 0.6131498448615124,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wright Patricia MD",
+        "distance_km": 0.17443931096451082,
+        "coordinates": [
+          "42.378671",
+          "-71.143096"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.5184723833374816,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 0.6558308411392438,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37710127164964,
+          -71.14315722825182
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 0.6113634070826665,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37710127164964,
+          -71.14315722825182
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37710127164964,
+        -71.14315722825182
+      ]
+    },
+    "work": {
+      "name": "Wright Patricia MD",
+      "coordinates": [
+        "42.378671",
+        "-71.143096"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Wright Patricia MD by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to The Village Kitchen by walking which takes 0-10 minutes.",
+    "On 12:45, I want to work, I go to Wright Patricia MD by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Star Market by public_transit which takes 0-10 minutes.",
+    "On 17:30, I want to recreation, I go to Fresh Pond by walking which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Majic Construction by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

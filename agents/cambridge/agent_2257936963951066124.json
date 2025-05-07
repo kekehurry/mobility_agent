@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Evelyn Goodman\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.41547862801364494,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Basta Pasta Trattoria",
+        "distance_km": 0.3234519511197761,
+        "coordinates": [
+          "42.36469",
+          "-71.113258"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 0.15322526207687767,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.4750625085125922,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Deli & Grill",
+        "distance_km": 0.20619976421761252,
+        "coordinates": [
+          "42.364093",
+          "-71.107693"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.4750625085125922,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Huan's Tai Chi",
+        "distance_km": 0.6102917623125829,
+        "coordinates": [
+          "42.366737",
+          "-71.104219"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.4351156877931008,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36319809385823,
+          -71.10988603276012
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36319809385823,
+        -71.10988603276012
+      ]
+    },
+    "work": {
+      "name": "Whole Foods Market",
+      "coordinates": [
+        "42.360963",
+        "-71.11393"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to work, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 07:15, I want to eat, I go to Basta Pasta Trattoria by private_auto which takes 0-10 minutes.",
+    "On 08:00, I want to recreation, I go to Willis Moore Youth Center by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to social, I go to Central House by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Cambridge Deli & Grill by walking which takes 0-10 minutes.",
+    "On 13:30, I want to social, I go to Central House by private_auto which takes 0-10 minutes.",
+    "On 14:30, I want to recreation, I go to Huan's Tai Chi by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Gap by public_transit which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

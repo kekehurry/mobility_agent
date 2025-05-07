@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Austin Roberts\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ISA International Studies Abroad Boston Office",
+        "distance_km": 1.803078086277814,
+        "coordinates": [
+          "42.394891",
+          "-71.1279"
+        ]
+      }
+    },
+    {
+      "start_time": "10:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.5154757380172306,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "12:13",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 0.34947107214184914,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.5154757380172306,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "18:31",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nubar",
+        "distance_km": 0.21930740042979568,
+        "coordinates": [
+          "42.377187",
+          "-71.122917"
+        ]
+      }
+    },
+    {
+      "start_time": "19:31",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37888191843119,
+          -71.12428259538419
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37888191843119,
+        -71.12428259538419
+      ]
+    },
+    "work": {
+      "name": "ISA International Studies Abroad Boston Office",
+      "coordinates": [
+        "42.394891",
+        "-71.1279"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to ISA International Studies Abroad Boston Office by private_auto which takes 10-20 minutes.",
+    "On 10:03, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 12:13, I want to recreation, I go to Quadrangle Recreational Athletic Center by walking which takes 0-10 minutes.",
+    "On 16:03, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 18:31, I want to eat, I go to Nubar by walking which takes 0-10 minutes.",
+    "On 19:31, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

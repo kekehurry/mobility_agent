@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Ashley Cervantes\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"car\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:50",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Insight Meditation Center",
+        "distance_km": 0.49564191541211944,
+        "coordinates": [
+          "42.369975",
+          "-71.102064"
+        ]
+      }
+    },
+    {
+      "start_time": "06:16",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kolbeh of Kabob",
+        "distance_km": 0.1622023401668516,
+        "coordinates": [
+          "42.374083",
+          "-71.104671"
+        ]
+      }
+    },
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mona Lisa Pizza & Grill",
+        "distance_km": 0.3093822159884486,
+        "coordinates": [
+          "42.374969",
+          "-71.109126"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kolbeh of Kabob",
+        "distance_km": 0.1622023401668516,
+        "coordinates": [
+          "42.374083",
+          "-71.104671"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 0.5189050172879897,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 0.8169823566061926,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37319308530806,
+          -71.10623235001799
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37319308530806,
+        -71.10623235001799
+      ]
+    },
+    "work": {
+      "name": "Mona Lisa Pizza & Grill",
+      "coordinates": [
+        "42.374969",
+        "-71.109126"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:50, I want to other_activities, I go to Cambridge Insight Meditation Center by biking which takes 0-10 minutes.",
+    "On 06:16, I want to eat, I go to Kolbeh of Kabob by private_auto which takes 0-10 minutes.",
+    "On 07:20, I want to work, I go to Mona Lisa Pizza & Grill by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Kolbeh of Kabob by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Inman Square Supermarket by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to recreation, I go to Harvard Yard by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

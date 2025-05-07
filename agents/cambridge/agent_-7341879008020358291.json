@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Carl Young\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:18",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Healy Michael C PHD",
+        "distance_km": 0.1256734445289693,
+        "coordinates": [
+          "42.382448",
+          "-71.119251"
+        ]
+      }
+    },
+    {
+      "start_time": "09:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.026866834165466,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "12:33",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cafe Barada",
+        "distance_km": 1.5237139420056727,
+        "coordinates": [
+          "42.394752",
+          "-71.126895"
+        ]
+      }
+    },
+    {
+      "start_time": "13:40",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Breathe Cambridge",
+        "distance_km": 1.129546725291688,
+        "coordinates": [
+          "42.372732",
+          "-71.119681"
+        ]
+      }
+    },
+    {
+      "start_time": "15:08",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 1.6054622711516129,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.382804915537704,
+          -71.11780288594446
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Healy Michael C PHD",
+        "distance_km": 0.1256734445289693,
+        "coordinates": [
+          "42.382448",
+          "-71.119251"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Northwest Cafe",
+        "distance_km": 0.3445756734435958,
+        "coordinates": [
+          "42.380267",
+          "-71.115397"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mount Auburn Pathologists",
+        "distance_km": 1.6121021526008967,
+        "coordinates": [
+          "42.374362",
+          "-71.133724"
+        ]
+      }
+    },
+    {
+      "start_time": "21:23",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.382804915537704,
+          -71.11780288594446
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.382804915537704,
+        -71.11780288594446
+      ]
+    },
+    "work": {
+      "name": "Healy Michael C PHD",
+      "coordinates": [
+        "42.382448",
+        "-71.119251"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:18, I want to work, I go to Healy Michael C PHD by biking which takes 0-10 minutes.",
+    "On 09:22, I want to shop, I go to Market In the Square by public_transit which takes 10-20 minutes.",
+    "On 12:33, I want to eat, I go to Cafe Barada by public_transit which takes 10-20 minutes.",
+    "On 13:40, I want to recreation, I go to Breathe Cambridge by public_transit which takes 10-20 minutes.",
+    "On 15:08, I want to shop, I go to Louie's Superette by public_transit which takes 10-20 minutes.",
+    "On 16:35, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 16:50, I want to work, I go to Healy Michael C PHD by public_transit which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Northwest Cafe by walking which takes 10-20 minutes.",
+    "On 19:15, I want to recreation, I go to Mount Auburn Pathologists by public_transit which takes 10-20 minutes.",
+    "On 21:23, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Kimberly Humphrey\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 3, \"household_income\": \"25k-50k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lane John C Atty",
+        "distance_km": 0.19736763284164313,
+        "coordinates": [
+          "42.393109",
+          "-71.149959"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge House of Pizza",
+        "distance_km": 1.574523441728651,
+        "coordinates": [
+          "42.397326",
+          "-71.130785"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kevin Cueto Santana Properties Team",
+        "distance_km": 0.28755287390950385,
+        "coordinates": [
+          "42.39445",
+          "-71.146172"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Francis J McCrehan Memorial Swimming and Wading Pool",
+        "distance_km": 1.0289869997315304,
+        "coordinates": [
+          "42.394485",
+          "-71.137132"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 1.5836506457791797,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hana Sushi",
+        "distance_km": 1.6418777854499966,
+        "coordinates": [
+          "42.396633",
+          "-71.12982"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39486778573806,
+          -71.14961861330458
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39486778573806,
+        -71.14961861330458
+      ]
+    },
+    "work": {
+      "name": "Lane John C Atty",
+      "coordinates": [
+        "42.393109",
+        "-71.149959"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Lane John C Atty by walking which takes 0-10 minutes.",
+    "On 10:00, I want to eat, I go to Cambridge House of Pizza by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to social, I go to Kevin Cueto Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Francis J McCrehan Memorial Swimming and Wading Pool by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Friendly Corner Convenience Store by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Hana Sushi by private_auto which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

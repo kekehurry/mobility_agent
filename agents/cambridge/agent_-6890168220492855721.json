@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Stephen Ellis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:14",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.306075596295119,
+        "coordinates": [
+          "42.374189",
+          "-71.121151"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Tea Stop",
+        "distance_km": 0.1702545240267705,
+        "coordinates": [
+          "42.37185",
+          "-71.120517"
+        ]
+      }
+    },
+    {
+      "start_time": "13:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.5790620090105855,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "14:36",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 0.19820008372936437,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 1.5560477865922482,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 0.2514483409541911,
+        "coordinates": [
+          "42.372736",
+          "-71.119893"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.4053593598378059,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Moge Tee",
+        "distance_km": 0.16861396150498928,
+        "coordinates": [
+          "42.371918",
+          "-71.120552"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37164073277695,
+          -71.1225646717772
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37164073277695,
+        -71.1225646717772
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:14, I want to eat, I go to Dunkin' by biking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Boston Tea Stop by biking which takes 0-10 minutes.",
+    "On 13:05, I want to shop, I go to Used Sounds of Harvard Square by public_transit which takes 10-20 minutes.",
+    "On 14:36, I want to recreation, I go to Mesomorpheus by biking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Adt by biking which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Ben & Jerry's by walking which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to Cambridge Forum by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Moge Tee by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

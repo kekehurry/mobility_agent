@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Jeffrey Washington\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:10",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spievack Alan R MD",
+        "distance_km": 0.4296464807312447,
+        "coordinates": [
+          "42.376361",
+          "-71.145118"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3750304831187,
+          -71.15001623216826
+        ]
+      }
+    },
+    {
+      "start_time": "15:25",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.7190217641626708,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 1.1838847046560625,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "19:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3750304831187,
+          -71.15001623216826
+        ]
+      }
+    },
+    {
+      "start_time": "21:12",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kiskaddon Robert MD",
+        "distance_km": 1.2947295850708163,
+        "coordinates": [
+          "42.374236",
+          "-71.134333"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3750304831187,
+        -71.15001623216826
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:10, I want to other_activities, I go to Spievack Alan R MD by walking which takes 10-20 minutes.",
+    "On 12:45, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 15:25, I want to shop, I go to Whole Foods Market by walking which takes 10-20 minutes.",
+    "On 16:15, I want to eat, I go to The Village Kitchen by private_auto which takes 0-10 minutes.",
+    "On 19:40, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 21:12, I want to recreation, I go to Kiskaddon Robert MD by walking which takes 0-10 minutes."
+  ]
+}

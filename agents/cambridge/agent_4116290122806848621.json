@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Jennifer Lin\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:33",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 2.5053054021375267,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36487974140721,
+          -71.08078369731516
+        ]
+      }
+    },
+    {
+      "start_time": "09:27",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Charley's",
+        "distance_km": 0.5323926649086429,
+        "coordinates": [
+          "42.368538",
+          "-71.076608"
+        ]
+      }
+    },
+    {
+      "start_time": "10:58",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Rindge And Latin",
+        "distance_km": 2.758382456604408,
+        "coordinates": [
+          "42.374469",
+          "-71.111674"
+        ]
+      }
+    },
+    {
+      "start_time": "11:27",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 2.5053054021375267,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 0.5581630278905103,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36487974140721,
+          -71.08078369731516
+        ]
+      }
+    },
+    {
+      "start_time": "15:43",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pearl Street Market",
+        "distance_km": 2.0121048652193547,
+        "coordinates": [
+          "42.362714",
+          "-71.105034"
+        ]
+      }
+    },
+    {
+      "start_time": "17:57",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36487974140721,
+          -71.08078369731516
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36487974140721,
+        -71.08078369731516
+      ]
+    },
+    "work": {
+      "name": "Spaulding National Running Center",
+      "coordinates": [
+        "42.375709",
+        "-71.107464"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Cambridge Rindge And Latin",
+      "coordinates": [
+        "42.374469",
+        "-71.111674"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:33, I want to work, I go to Spaulding National Running Center by public_transit which takes 20-30 minutes.",
+    "On 08:20, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 09:27, I want to eat, I go to Charley's by walking which takes 10-20 minutes.",
+    "On 10:58, I want to school, I go to Cambridge Rindge And Latin by public_transit which takes 20-30 minutes.",
+    "On 11:27, I want to work, I go to Spaulding National Running Center by public_transit which takes 20-30 minutes.",
+    "On 12:38, I want to social, I go to MIT Wong Auditorium by walking which takes 0-10 minutes.",
+    "On 15:00, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 15:43, I want to shop, I go to Pearl Street Market by public_transit which takes 20-30 minutes.",
+    "On 17:57, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

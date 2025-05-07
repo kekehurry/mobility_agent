@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Christopher Jones\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 0.17729216462579506,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 2.227899520670675,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ten Tables",
+        "distance_km": 0.29867459775795574,
+        "coordinates": [
+          "42.379312",
+          "-71.12724"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.3827996921129617,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 0.17729216462579506,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.3827996921129617,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 0.17729216462579506,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38038130347215,
+          -71.12391249994722
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38038130347215,
+        -71.12391249994722
+      ]
+    },
+    "work": {
+      "name": "Radcliffe Quadrangle",
+      "coordinates": [
+        "42.38189",
+        "-71.124615"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Radcliffe Quadrangle by auto_passenger which takes 0-10 minutes.",
+    "On 10:00, I want to maintenance, I go to Mavis Tires & Brakes by biking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Ten Tables by walking which takes 0-10 minutes.",
+    "On 14:20, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 15:30, I want to work, I go to Radcliffe Quadrangle by walking which takes 0-10 minutes.",
+    "On 17:30, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Radcliffe Quadrangle by walking which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

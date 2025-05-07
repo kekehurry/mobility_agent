@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Laura Murray\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "STANLEY HOCHBERG MD",
+        "distance_km": 0.10126105258789836,
+        "coordinates": [
+          "42.367326",
+          "-71.090107"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Blue Room",
+        "distance_km": 0.20104205094777491,
+        "coordinates": [
+          "42.366449",
+          "-71.090833"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.3221948681908183,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36822131486559,
+          -71.0903383335403
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Landmark Theaters",
+        "distance_km": 0.023008705029871044,
+        "coordinates": [
+          "42.368264",
+          "-71.090065"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.40097460375529054,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36822131486559,
+          -71.0903383335403
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36822131486559,
+        -71.0903383335403
+      ]
+    },
+    "work": {
+      "name": "STANLEY HOCHBERG MD",
+      "coordinates": [
+        "42.367326",
+        "-71.090107"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to work, I go to STANLEY HOCHBERG MD by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to The Blue Room by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to social, I go to RJ Realty Management by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to recreation, I go to Landmark Theaters by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Formaggio Kitchen by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

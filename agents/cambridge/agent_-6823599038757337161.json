@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Dean Lewis\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.3422547694502621,
+        "coordinates": [
+          "42.381838",
+          "-71.11941"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Northwest Cafe",
+        "distance_km": 0.26175897988023134,
+        "coordinates": [
+          "42.380267",
+          "-71.115397"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Northwest Cafe",
+        "distance_km": 0.26175897988023134,
+        "coordinates": [
+          "42.380267",
+          "-71.115397"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Westbridge",
+        "distance_km": 1.5020708074858677,
+        "coordinates": [
+          "42.388138",
+          "-71.132046"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38262347217728,
+          -71.11539137061645
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Northwest Cafe",
+        "distance_km": 0.26175897988023134,
+        "coordinates": [
+          "42.380267",
+          "-71.115397"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sacramento Field",
+        "distance_km": 0.2188477569734842,
+        "coordinates": [
+          "42.383018",
+          "-71.117995"
+        ]
+      }
+    },
+    {
+      "start_time": "22:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38262347217728,
+          -71.11539137061645
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38262347217728,
+        -71.11539137061645
+      ]
+    },
+    "work": {
+      "name": "Northwest Cafe",
+      "coordinates": [
+        "42.380267",
+        "-71.115397"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:45, I want to eat, I go to Hi Rise Bread Company by private_auto which takes 0-10 minutes.",
+    "On 11:45, I want to work, I go to Northwest Cafe by private_auto which takes 0-10 minutes.",
+    "On 13:15, I want to eat, I go to Northwest Cafe by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Westbridge by public_transit which takes 20-30 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:15, I want to eat, I go to Northwest Cafe by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to recreation, I go to Sacramento Field by private_auto which takes 0-10 minutes.",
+    "On 22:45, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

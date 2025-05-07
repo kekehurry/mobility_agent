@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Steven Ball\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-30"
+      },
+      "destination": {
+        "name": "Base Crave",
+        "distance_km": 2.510332769834233,
+        "coordinates": [
+          "42.381077",
+          "-71.137932"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3710250278437,
+          -71.11063348456622
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 0.7325992750738518,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3710250278437,
+          -71.11063348456622
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Singh's Dhaba",
+        "distance_km": 0.16119097452882994,
+        "coordinates": [
+          "42.369631",
+          "-71.111177"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-30"
+      },
+      "destination": {
+        "name": "Dirty Water Fitness",
+        "distance_km": 2.5164226510886727,
+        "coordinates": [
+          "42.371324",
+          "-71.080085"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3710250278437,
+          -71.11063348456622
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3710250278437,
+        -71.11063348456622
+      ]
+    },
+    "work": {
+      "name": "Base Crave",
+      "coordinates": [
+        "42.381077",
+        "-71.137932"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:45, I want to work, I go to Base Crave by private_auto which takes 30-30 minutes.",
+    "On 12:00, I want to home, I go to home by private_auto which takes 30-30 minutes.",
+    "On 13:00, I want to shop, I go to Adt by on_demand_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 30-30 minutes.",
+    "On 18:30, I want to eat, I go to Singh's Dhaba by on_demand_auto which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Dirty Water Fitness by private_auto which takes 30-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-30 minutes."
+  ]
+}

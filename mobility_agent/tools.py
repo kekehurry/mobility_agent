@@ -152,12 +152,13 @@ class POISearchTool:
                 "sub_category": poi['SUB_CATEGORY'],
                 "distance_km": poi["distance_km"],
                 "latitude": poi["LATITUDE"],
-                "longitude": poi["LONGITUDE"]  # Fixed typo from original code
+                "longitude": poi["LONGITUDE"],
+                "popularity": poi["RAW_VISIT_COUNTS"],
             })
         
         return {"status": "success", "pois": formatted_results}
 
-    
+
 class ProfileGeneratorTool:
     """Tool for generating realistic demographic profiles for mobility agents."""
     

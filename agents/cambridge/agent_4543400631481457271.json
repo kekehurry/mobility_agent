@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Mackenzie Castro\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.3624300125228188,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "10:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Honor System Books",
+        "distance_km": 0.31327732755901216,
+        "coordinates": [
+          "42.374334",
+          "-71.122119"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Swearingen Chas MD",
+        "distance_km": 0.35118408124110645,
+        "coordinates": [
+          "42.374238",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.3624300125228188,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.5994224093692745,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37715317211993,
+          -71.12222516030968
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.3624300125228188,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Nornie B's Sandwich & Donut Shoppe",
+        "distance_km": 0.3287008621426093,
+        "coordinates": [
+          "42.374283",
+          "-71.121254"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37715317211993,
+          -71.12222516030968
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37715317211993,
+        -71.12222516030968
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to social, I go to Cambridge Forum by walking which takes 10-20 minutes.",
+    "On 10:10, I want to eat, I go to Honor System Books by walking which takes 10-20 minutes.",
+    "On 11:00, I want to recreation, I go to Swearingen Chas MD by walking which takes 10-20 minutes.",
+    "On 13:20, I want to social, I go to Cambridge Forum by walking which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Evergood Super Market by walking which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to Cambridge Forum by walking which takes 10-10 minutes.",
+    "On 18:00, I want to eat, I go to Nornie B's Sandwich & Donut Shoppe by walking which takes 10-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

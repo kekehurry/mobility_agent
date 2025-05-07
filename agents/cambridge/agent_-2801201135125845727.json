@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Benjamin Fowler\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"three_plus\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Asgard",
+        "distance_km": 0.3082612509437669,
+        "coordinates": [
+          "42.362621",
+          "-71.099484"
+        ]
+      }
+    },
+    {
+      "start_time": "07:02",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Office of the Arts Studio 74",
+        "distance_km": 2.15972798736372,
+        "coordinates": [
+          "42.371771",
+          "-71.118582"
+        ]
+      }
+    },
+    {
+      "start_time": "08:32",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.2516724180291369,
+        "coordinates": [
+          "42.36247",
+          "-71.098354"
+        ]
+      }
+    },
+    {
+      "start_time": "09:49",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Asgard",
+        "distance_km": 0.3082612509437669,
+        "coordinates": [
+          "42.362621",
+          "-71.099484"
+        ]
+      }
+    },
+    {
+      "start_time": "13:19",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 0.222140281432406,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    },
+    {
+      "start_time": "14:26",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.7797166243149211,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "15:39",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Asgard",
+        "distance_km": 0.3082612509437669,
+        "coordinates": [
+          "42.362621",
+          "-71.099484"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Pizza",
+        "distance_km": 0.17021585804935593,
+        "coordinates": [
+          "42.361834",
+          "-71.097083"
+        ]
+      }
+    },
+    {
+      "start_time": "18:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Q Audio",
+        "distance_km": 0.5280584938155708,
+        "coordinates": [
+          "42.36385",
+          "-71.101686"
+        ]
+      }
+    },
+    {
+      "start_time": "19:44",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 0.3053846912929771,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36031909001473,
+          -71.09739400006968
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36031909001473,
+        -71.09739400006968
+      ]
+    },
+    "work": {
+      "name": "The Asgard",
+      "coordinates": [
+        "42.362621",
+        "-71.099484"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to The Asgard by walking which takes 10-20 minutes.",
+    "On 07:02, I want to recreation, I go to Harvard Office of the Arts Studio 74 by biking which takes 10-20 minutes.",
+    "On 08:32, I want to eat, I go to Darwin's by walking which takes 0-10 minutes.",
+    "On 09:49, I want to work, I go to The Asgard by walking which takes 0-10 minutes.",
+    "On 13:19, I want to recreation, I go to Johnson Ice Rink by walking which takes 0-10 minutes.",
+    "On 14:26, I want to maintenance, I go to Advance Tire Company Inc by walking which takes 0-10 minutes.",
+    "On 15:39, I want to work, I go to The Asgard by walking which takes 0-10 minutes.",
+    "On 17:08, I want to eat, I go to Cambridge Pizza by walking which takes 0-10 minutes.",
+    "On 18:35, I want to shop, I go to Q Audio by walking which takes 0-10 minutes.",
+    "On 19:44, I want to social, I go to ForestCity by walking which takes 10-20 minutes.",
+    "On 22:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

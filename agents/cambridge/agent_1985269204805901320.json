@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Wendy Jackson\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:40",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Community Ice Skating at Kendall Square",
+        "distance_km": 0.220854015616203,
+        "coordinates": [
+          "42.36438",
+          "-71.081363"
+        ]
+      }
+    },
+    {
+      "start_time": "07:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36246582693345,
+          -71.08063806916645
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Real Property Management Commonwealth",
+        "distance_km": 0.18735817917955433,
+        "coordinates": [
+          "42.363577",
+          "-71.078927"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Commonwealth Restaurant and Market",
+        "distance_km": 0.17843815848910255,
+        "coordinates": [
+          "42.363323",
+          "-71.08247"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 0.3715210454074567,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 0.22252943631063474,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Community Ice Skating at Kendall Square",
+        "distance_km": 0.220854015616203,
+        "coordinates": [
+          "42.36438",
+          "-71.081363"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Commonwealth Restaurant and Market",
+        "distance_km": 0.17843815848910255,
+        "coordinates": [
+          "42.363323",
+          "-71.08247"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36246582693345,
+          -71.08063806916645
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36246582693345,
+        -71.08063806916645
+      ]
+    },
+    "work": {
+      "name": "Real Property Management Commonwealth",
+      "coordinates": [
+        "42.363577",
+        "-71.078927"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:40, I want to other_activities, I go to Community Ice Skating at Kendall Square by walking which takes 0-10 minutes.",
+    "On 07:10, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 07:30, I want to work, I go to Real Property Management Commonwealth by walking which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to Commonwealth Restaurant and Market by walking which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to MIT Wong Auditorium by walking which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Brothers Market by walking which takes 0-10 minutes.",
+    "On 16:30, I want to recreation, I go to Community Ice Skating at Kendall Square by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Commonwealth Restaurant and Market by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

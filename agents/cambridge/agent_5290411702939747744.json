@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Jacob Hill\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:35",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Al's Tech Square Cafe",
+        "distance_km": 1.5160039605270277,
+        "coordinates": [
+          "42.363148",
+          "-71.093133"
+        ]
+      }
+    },
+    {
+      "start_time": "08:31",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pizza Ring",
+        "distance_km": 0.08891736774410788,
+        "coordinates": [
+          "42.364618",
+          "-71.110605"
+        ]
+      }
+    },
+    {
+      "start_time": "09:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Al's Tech Square Cafe",
+        "distance_km": 1.5160039605270277,
+        "coordinates": [
+          "42.363148",
+          "-71.093133"
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Al's Tech Square Cafe",
+        "distance_km": 1.5160039605270277,
+        "coordinates": [
+          "42.363148",
+          "-71.093133"
+        ]
+      }
+    },
+    {
+      "start_time": "17:03",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frozen Yogi",
+        "distance_km": 0.3363396003712856,
+        "coordinates": [
+          "42.364144",
+          "-71.107505"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36521503269538,
+          -71.11132401711669
+        ]
+      }
+    },
+    {
+      "start_time": "19:41",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 0.39584821282871957,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "21:11",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 0.1213975070185174,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "22:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36521503269538,
+          -71.11132401711669
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36521503269538,
+        -71.11132401711669
+      ]
+    },
+    "work": {
+      "name": "Al's Tech Square Cafe",
+      "coordinates": [
+        "42.363148",
+        "-71.093133"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:35, I want to work, I go to Al's Tech Square Cafe by auto_passenger which takes 10-20 minutes.",
+    "On 08:31, I want to eat, I go to Pizza Ring by on_demand_auto which takes 0-10 minutes.",
+    "On 09:58, I want to work, I go to Al's Tech Square Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 16:50, I want to work, I go to Al's Tech Square Cafe by walking which takes 0-10 minutes.",
+    "On 17:03, I want to eat, I go to Frozen Yogi by auto_passenger which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by auto_passenger which takes 0-10 minutes.",
+    "On 19:41, I want to social, I go to Kemsley Education by on_demand_auto which takes 0-10 minutes.",
+    "On 21:11, I want to recreation, I go to Willis Moore Youth Center by on_demand_auto which takes 0-10 minutes.",
+    "On 22:45, I want to home, I go to home by auto_passenger which takes 0-10 minutes."
+  ]
+}

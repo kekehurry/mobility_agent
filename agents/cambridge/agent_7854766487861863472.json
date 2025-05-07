@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Jesse Rice\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.4721277919985951,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "07:47",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.3337549270186634,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "08:25",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Arthur Murray Dance Centers",
+        "distance_km": 0.3990142135951706,
+        "coordinates": [
+          "42.393418",
+          "-71.14121"
+        ]
+      }
+    },
+    {
+      "start_time": "11:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.4721277919985951,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.3337549270186634,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Uproot Events",
+        "distance_km": 0.2084431736362966,
+        "coordinates": [
+          "42.395381",
+          "-71.147399"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39380346947795,
+          -71.14602805587818
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.3337549270186634,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39380346947795,
+          -71.14602805587818
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39380346947795,
+        -71.14602805587818
+      ]
+    },
+    "school": {
+      "name": "Arthur Murray Dance Centers",
+      "coordinates": [
+        "42.393418",
+        "-71.14121"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:02, I want to shop, I go to Trader Joe's by private_auto which takes 0-10 minutes.",
+    "On 07:47, I want to eat, I go to SANTE Mobile Farmhouse Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 08:25, I want to school, I go to Arthur Murray Dance Centers by private_auto which takes 0-10 minutes.",
+    "On 11:20, I want to shop, I go to Trader Joe's by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to SANTE Mobile Farmhouse Cafe by walking which takes 0-10 minutes.",
+    "On 13:20, I want to recreation, I go to Uproot Events by walking which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to SANTE Mobile Farmhouse Cafe by walking which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

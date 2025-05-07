@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Wendy Williams\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lyons Stacy MD",
+        "distance_km": 1.1023776206270428,
+        "coordinates": [
+          "42.390641",
+          "-71.122146"
+        ]
+      }
+    },
+    {
+      "start_time": "11:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Planet Fitness",
+        "distance_km": 1.5466591532547973,
+        "coordinates": [
+          "42.387421",
+          "-71.118937"
+        ]
+      }
+    },
+    {
+      "start_time": "11:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lyons Stacy MD",
+        "distance_km": 1.1023776206270428,
+        "coordinates": [
+          "42.390641",
+          "-71.122146"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Anna's Taqueria",
+        "distance_km": 1.5011713288850181,
+        "coordinates": [
+          "42.388398",
+          "-71.118251"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Infante Property Management",
+        "distance_km": 2.8427726186727487,
+        "coordinates": [
+          "42.373434",
+          "-71.12253"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39830864942689,
+          -71.13064583882877
+        ]
+      }
+    },
+    {
+      "start_time": "18:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Anna's Taqueria",
+        "distance_km": 1.5011713288850181,
+        "coordinates": [
+          "42.388398",
+          "-71.118251"
+        ]
+      }
+    },
+    {
+      "start_time": "18:41",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39830864942689,
+          -71.13064583882877
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39830864942689,
+        -71.13064583882877
+      ]
+    },
+    "work": {
+      "name": "Lyons Stacy MD",
+      "coordinates": [
+        "42.390641",
+        "-71.122146"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to work, I go to Lyons Stacy MD by public_transit which takes 10-20 minutes.",
+    "On 11:10, I want to recreation, I go to Planet Fitness by public_transit which takes 10-20 minutes.",
+    "On 11:26, I want to work, I go to Lyons Stacy MD by public_transit which takes 10-20 minutes.",
+    "On 12:15, I want to eat, I go to Anna's Taqueria by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to social, I go to Infante Property Management by public_transit which takes 10-20 minutes.",
+    "On 15:55, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 18:26, I want to eat, I go to Anna's Taqueria by public_transit which takes 10-20 minutes.",
+    "On 18:41, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

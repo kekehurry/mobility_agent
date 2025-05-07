@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Michael James\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ken's Kitchen",
+        "distance_km": 0.22565412256976128,
+        "coordinates": [
+          "42.368945",
+          "-71.083919"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ABG Commercial",
+        "distance_km": 0.18415537090558481,
+        "coordinates": [
+          "42.371467",
+          "-71.08112"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "TopMac",
+        "distance_km": 0.19234595542223262,
+        "coordinates": [
+          "42.370887",
+          "-71.080891"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ahern Field",
+        "distance_km": 0.3686253004574485,
+        "coordinates": [
+          "42.36864",
+          "-71.08649"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37091037566813,
+          -71.08322599249352
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Albert's Market",
+        "distance_km": 0.3308616977028349,
+        "coordinates": [
+          "42.371765",
+          "-71.087074"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "TopMac",
+        "distance_km": 0.19234595542223262,
+        "coordinates": [
+          "42.370887",
+          "-71.080891"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pinball Over Boston",
+        "distance_km": 0.7782205088685579,
+        "coordinates": [
+          "42.366492",
+          "-71.090558"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37091037566813,
+          -71.08322599249352
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37091037566813,
+        -71.08322599249352
+      ]
+    },
+    "work": {
+      "name": "Ken's Kitchen",
+      "coordinates": [
+        "42.368945",
+        "-71.083919"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Ken's Kitchen by biking which takes 0-10 minutes.",
+    "On 11:00, I want to social, I go to ABG Commercial by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to TopMac by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Ahern Field by walking which takes 10-20 minutes.",
+    "On 16:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:30, I want to shop, I go to Albert's Market by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to TopMac by walking which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Pinball Over Boston by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Matthew Davis\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Community Running Association",
+        "distance_km": 1.5035303030904772,
+        "coordinates": [
+          "42.358694",
+          "-71.097494"
+        ]
+      }
+    },
+    {
+      "start_time": "12:14",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.5076715913273169,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "12:58",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Magazine Beach Bath House & Pool",
+        "distance_km": 0.39257045558752773,
+        "coordinates": [
+          "42.356921",
+          "-71.115233"
+        ]
+      }
+    },
+    {
+      "start_time": "14:21",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Community Running Association",
+        "distance_km": 1.5035303030904772,
+        "coordinates": [
+          "42.358694",
+          "-71.097494"
+        ]
+      }
+    },
+    {
+      "start_time": "16:58",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Community Running Association",
+        "distance_km": 1.5035303030904772,
+        "coordinates": [
+          "42.358694",
+          "-71.097494"
+        ]
+      }
+    },
+    {
+      "start_time": "18:16",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Basta Pasta Trattoria",
+        "distance_km": 0.5091921058056367,
+        "coordinates": [
+          "42.36469",
+          "-71.113258"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360445117305396,
+          -71.11559118352297
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.360445117305396,
+        -71.11559118352297
+      ]
+    },
+    "work": {
+      "name": "Community Running Association",
+      "coordinates": [
+        "42.358694",
+        "-71.097494"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:26, I want to work, I go to Community Running Association by biking which takes 10-20 minutes.",
+    "On 12:14, I want to shop, I go to Gap by public_transit which takes 40-50 minutes.",
+    "On 12:58, I want to recreation, I go to Magazine Beach Bath House & Pool by walking which takes 0-10 minutes.",
+    "On 14:21, I want to work, I go to Community Running Association by walking which takes 10-20 minutes.",
+    "On 16:58, I want to recreation, I go to Community Running Association by biking which takes 10-20 minutes.",
+    "On 18:16, I want to eat, I go to Basta Pasta Trattoria by walking which takes 10-20 minutes.",
+    "On 19:43, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

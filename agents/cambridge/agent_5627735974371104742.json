@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Janet Parks\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:42",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Julia's Polish Deli",
+        "distance_km": 0.30730507602292706,
+        "coordinates": [
+          "42.395756",
+          "-71.141414"
+        ]
+      }
+    },
+    {
+      "start_time": "07:33",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fayerweather Street School",
+        "distance_km": 0.8566553269806895,
+        "coordinates": [
+          "42.391282",
+          "-71.154148"
+        ]
+      }
+    },
+    {
+      "start_time": "11:25",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sincere Construction",
+        "distance_km": 0.27464354898639476,
+        "coordinates": [
+          "42.392925",
+          "-71.147361"
+        ]
+      }
+    },
+    {
+      "start_time": "12:53",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Julia's Polish Deli",
+        "distance_km": 0.30730507602292706,
+        "coordinates": [
+          "42.395756",
+          "-71.141414"
+        ]
+      }
+    },
+    {
+      "start_time": "15:53",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.394251765805535,
+          -71.14454637420876
+        ]
+      }
+    },
+    {
+      "start_time": "17:53",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.4865946148296311,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Julia's Polish Deli",
+        "distance_km": 0.30730507602292706,
+        "coordinates": [
+          "42.395756",
+          "-71.141414"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.394251765805535,
+          -71.14454637420876
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.394251765805535,
+        -71.14454637420876
+      ]
+    },
+    "school": {
+      "name": "Fayerweather Street School",
+      "coordinates": [
+        "42.391282",
+        "-71.154148"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:42, I want to eat, I go to Julia's Polish Deli by walking which takes 10-20 minutes.",
+    "On 07:33, I want to school, I go to Fayerweather Street School by public_transit which takes 0-10 minutes.",
+    "On 11:25, I want to social, I go to Sincere Construction by public_transit which takes 0-10 minutes.",
+    "On 12:53, I want to eat, I go to Julia's Polish Deli by public_transit which takes 0-10 minutes.",
+    "On 15:53, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 17:53, I want to shop, I go to Trader Joe's by walking which takes 0-10 minutes.",
+    "On 19:45, I want to eat, I go to Julia's Polish Deli by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

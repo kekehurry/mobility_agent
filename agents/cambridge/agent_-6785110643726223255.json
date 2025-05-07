@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Tiffany Dean\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ung Feodor MD",
+        "distance_km": 0.12235644731164882,
+        "coordinates": [
+          "42.374499",
+          "-71.104161"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pizza Pie er",
+        "distance_km": 0.3260018167075478,
+        "coordinates": [
+          "42.372739",
+          "-71.099413"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 0.2624254146686223,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fitlab Pilates",
+        "distance_km": 0.31157206159684175,
+        "coordinates": [
+          "42.373758",
+          "-71.099378"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Haveli Restaurant",
+        "distance_km": 0.3922887086979639,
+        "coordinates": [
+          "42.373288",
+          "-71.098427"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37368537532477,
+          -71.10315958912632
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 0.2624254146686223,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37368537532477,
+          -71.10315958912632
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ung Feodor MD",
+        "distance_km": 0.12235644731164882,
+        "coordinates": [
+          "42.374499",
+          "-71.104161"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37368537532477,
+        -71.10315958912632
+      ]
+    },
+    "work": {
+      "name": "Ung Feodor MD",
+      "coordinates": [
+        "42.374499",
+        "-71.104161"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Ung Feodor MD by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Pizza Pie er by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Inman Square Supermarket by biking which takes 0-10 minutes.",
+    "On 15:45, I want to recreation, I go to Fitlab Pilates by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Haveli Restaurant by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to shop, I go to Inman Square Supermarket by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to other_activities, I go to Ung Feodor MD by private_auto which takes 0-10 minutes."
+  ]
+}

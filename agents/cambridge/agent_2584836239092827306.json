@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Megan Ferguson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": \"2\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majestic Yoga Studio",
+        "distance_km": 0.2925531969115401,
+        "coordinates": [
+          "42.380914",
+          "-71.13923"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37901599286629,
+          -71.14169276106404
+        ]
+      }
+    },
+    {
+      "start_time": "10:18",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Village Kitchen",
+        "distance_km": 0.37383167026281755,
+        "coordinates": [
+          "42.381406",
+          "-71.138497"
+        ]
+      }
+    },
+    {
+      "start_time": "12:48",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37901599286629,
+          -71.14169276106404
+        ]
+      }
+    },
+    {
+      "start_time": "13:31",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majestic Yoga Studio",
+        "distance_km": 0.2925531969115401,
+        "coordinates": [
+          "42.380914",
+          "-71.13923"
+        ]
+      }
+    },
+    {
+      "start_time": "13:36",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37901599286629,
+          -71.14169276106404
+        ]
+      }
+    },
+    {
+      "start_time": "16:21",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37901599286629,
+          -71.14169276106404
+        ]
+      }
+    },
+    {
+      "start_time": "18:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.7311055327413603,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "18:28",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37901599286629,
+          -71.14169276106404
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37901599286629,
+        -71.14169276106404
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Majestic Yoga Studio by private_auto which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 10:18, I want to eat, I go to The Village Kitchen by private_auto which takes 0-10 minutes.",
+    "On 12:48, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 13:31, I want to recreation, I go to Majestic Yoga Studio by private_auto which takes 0-10 minutes.",
+    "On 13:36, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:21, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:25, I want to eat, I go to Starbucks by private_auto which takes 0-10 minutes.",
+    "On 18:28, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Gilbert Graves\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"student\", \"education\": \"bachelor's_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Technology Enabling Corporation",
+        "distance_km": 0.29310823133566116,
+        "coordinates": [
+          "42.362093",
+          "-71.084863"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tatte Bakery",
+        "distance_km": 0.24448618779427156,
+        "coordinates": [
+          "42.362212",
+          "-71.081401"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 0.23664573085106735,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "15:25",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 0.28049070165736983,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "17:05",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Memorial Drive Cafe",
+        "distance_km": 0.15085138797028488,
+        "coordinates": [
+          "42.361325",
+          "-71.081525"
+        ]
+      }
+    },
+    {
+      "start_time": "17:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 0.2597127279056536,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360153316311134,
+          -71.08245079875165
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 0.23664573085106735,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360153316311134,
+          -71.08245079875165
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.360153316311134,
+        -71.08245079875165
+      ]
+    },
+    "work": {
+      "name": "Technology Enabling Corporation",
+      "coordinates": [
+        "42.362093",
+        "-71.084863"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to work, I go to Technology Enabling Corporation by biking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Tatte Bakery by walking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Kendall Club by walking which takes 0-10 minutes.",
+    "On 15:25, I want to shop, I go to Brothers Market by biking which takes 0-10 minutes.",
+    "On 17:05, I want to eat, I go to One Memorial Drive Cafe by walking which takes 0-10 minutes.",
+    "On 17:20, I want to social, I go to CIC Cambridge by walking which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:30, I want to recreation, I go to Kendall Club by walking which takes 0-10 minutes.",
+    "On 21:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

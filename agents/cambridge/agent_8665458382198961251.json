@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Kelli Frost\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 0.4849458820250189,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "11:05",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.33025613474188537,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370763069426815,
+          -71.09696959722307
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Super",
+        "distance_km": 0.1354591330945497,
+        "coordinates": [
+          "42.371419",
+          "-71.098356"
+        ]
+      }
+    },
+    {
+      "start_time": "14:56",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370763069426815,
+          -71.09696959722307
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.33025613474188537,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "16:53",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "International Convenience",
+        "distance_km": 0.5573980691578488,
+        "coordinates": [
+          "42.365842",
+          "-71.098293"
+        ]
+      }
+    },
+    {
+      "start_time": "17:17",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 0.20374166071979696,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "18:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370763069426815,
+          -71.09696959722307
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Taste",
+        "distance_km": 0.11467666762871806,
+        "coordinates": [
+          "42.369986",
+          "-71.096053"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370763069426815,
+          -71.09696959722307
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370763069426815,
+        -71.09696959722307
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Greene Rose Heritage Park by private_auto which takes 0-10 minutes.",
+    "On 11:05, I want to social, I go to RJ Realty Management by walking which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 13:23, I want to social, I go to The Super by walking which takes 0-10 minutes.",
+    "On 14:56, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:15, I want to social, I go to RJ Realty Management by walking which takes 0-10 minutes.",
+    "On 16:53, I want to shop, I go to International Convenience by private_auto which takes 10-20 minutes.",
+    "On 17:17, I want to eat, I go to Brooklyn Bagel Factory by walking which takes 10-20 minutes.",
+    "On 18:42, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:45, I want to eat, I go to The Taste by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

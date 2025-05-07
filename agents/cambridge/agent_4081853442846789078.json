@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Carrie Peck\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"bachelor_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Griffin Properties",
+        "distance_km": 1.437605763326415,
+        "coordinates": [
+          "42.394597",
+          "-71.126698"
+        ]
+      }
+    },
+    {
+      "start_time": "06:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 1.2554357788296435,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "House of Chang",
+        "distance_km": 0.1960567148590948,
+        "coordinates": [
+          "42.383521",
+          "-71.133739"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.9573272394471452,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 1.2554357788296435,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.2321399406835874,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SoniYoga",
+        "distance_km": 0.22134822131453666,
+        "coordinates": [
+          "42.383643",
+          "-71.134007"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 0.2553056236312405,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "T W Food",
+        "distance_km": 0.2575907588702025,
+        "coordinates": [
+          "42.383748",
+          "-71.134468"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.9573272394471452,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38227790248815,
+          -71.1320489456054
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38227790248815,
+        -71.1320489456054
+      ]
+    },
+    "work": {
+      "name": "Done Right Care",
+      "coordinates": [
+        "42.373435",
+        "-71.122556"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:15, I want to social, I go to Griffin Properties by walking which takes 10-20 minutes.",
+    "On 06:30, I want to work, I go to Done Right Care by walking which takes 0-10 minutes.",
+    "On 07:30, I want to eat, I go to House of Chang by walking which takes 0-10 minutes.",
+    "On 10:00, I want to shop, I go to Thistle & Shamrock by walking which takes 0-10 minutes.",
+    "On 11:30, I want to work, I go to Done Right Care by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Concord Avenue Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to SoniYoga by walking which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to Up Stage by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to T W Food by walking which takes 0-10 minutes.",
+    "On 18:30, I want to shop, I go to Thistle & Shamrock by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

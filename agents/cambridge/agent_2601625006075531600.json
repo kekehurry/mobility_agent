@@ -1,0 +1,95 @@
+{
+  "profile": "{\"name\": \"Jessica Acosta\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"unemployed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "11:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pathology Consultants",
+        "distance_km": 0.6556560592545081,
+        "coordinates": [
+          "42.35417",
+          "-71.109511"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sub Zero Ice Cream & Yogurt",
+        "distance_km": 0.4908249270615771,
+        "coordinates": [
+          "42.360735",
+          "-71.115368"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.5487442218309702,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35645497744119,
+          -71.11684863393528
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35645497744119,
+        -71.11684863393528
+      ]
+    },
+    "work": {
+      "name": "Pathology Consultants",
+      "coordinates": [
+        "42.35417",
+        "-71.109511"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 11:00, I want to work, I go to Pathology Consultants by auto_passenger which takes 0-10 minutes.",
+    "On 14:30, I want to eat, I go to Sub Zero Ice Cream & Yogurt by auto_passenger which takes 0-10 minutes.",
+    "On 17:00, I want to shop, I go to H Mart by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

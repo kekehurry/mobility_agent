@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Meghan Miller\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Phillips Alfred J DPM",
+        "distance_km": 1.5106807112973093,
+        "coordinates": [
+          "42.374723",
+          "-71.104304"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363407216068026,
+          -71.09413073624748
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "LabCentral",
+        "distance_km": 0.1480737101413785,
+        "coordinates": [
+          "42.362253",
+          "-71.09503"
+        ]
+      }
+    },
+    {
+      "start_time": "13:31",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Community Gymnastics",
+        "distance_km": 0.5232694500371893,
+        "coordinates": [
+          "42.358901",
+          "-71.095982"
+        ]
+      }
+    },
+    {
+      "start_time": "13:36",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363407216068026,
+          -71.09413073624748
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363407216068026,
+          -71.09413073624748
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.363407216068026,
+        -71.09413073624748
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Phillips Alfred J DPM by private_auto which takes 10-20 minutes.",
+    "On 08:20, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 13:23, I want to social, I go to LabCentral by private_auto which takes 0-10 minutes.",
+    "On 13:31, I want to recreation, I go to Cambridge Community Gymnastics by private_auto which takes 10-20 minutes.",
+    "On 13:36, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 19:35, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

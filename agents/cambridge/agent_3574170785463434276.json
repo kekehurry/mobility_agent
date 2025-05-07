@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"William Bauer\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"75k-100k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 0.24652181522421435,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Burger King",
+        "distance_km": 1.1667401249028821,
+        "coordinates": [
+          "42.39049",
+          "-71.150472"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 0.24652181522421435,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 0.4097058541743305,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.6881744213029696,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 0.24652181522421435,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 1.5707148178671169,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380348745546996,
+          -71.15416096938021
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 0.24652181522421435,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380348745546996,
+          -71.15416096938021
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.380348745546996,
+        -71.15416096938021
+      ]
+    },
+    "work": {
+      "name": "Glacken Field",
+      "coordinates": [
+        "42.380494",
+        "-71.151174"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Glacken Field by private_auto which takes 0-10 minutes.",
+    "On 08:30, I want to eat, I go to Burger King by private_auto which takes 10-20 minutes.",
+    "On 09:00, I want to work, I go to Glacken Field by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to social, I go to Majic Construction by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Starbucks by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Glacken Field by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to McDonald's by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Glacken Field by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

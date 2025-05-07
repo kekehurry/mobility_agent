@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Joseph Carroll\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"car\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:51",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pronto Cafe",
+        "distance_km": 0.30904485543695154,
+        "coordinates": [
+          "42.372118",
+          "-71.087085"
+        ]
+      }
+    },
+    {
+      "start_time": "11:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.45150025338862304,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "13:13",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Katie Lowe Pilates",
+        "distance_km": 0.29421584466379463,
+        "coordinates": [
+          "42.372892",
+          "-71.087891"
+        ]
+      }
+    },
+    {
+      "start_time": "15:24",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pronto Cafe",
+        "distance_km": 0.30904485543695154,
+        "coordinates": [
+          "42.372118",
+          "-71.087085"
+        ]
+      }
+    },
+    {
+      "start_time": "17:35",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Silk Road Uyghur Cuisine",
+        "distance_km": 0.3058637300563885,
+        "coordinates": [
+          "42.372122",
+          "-71.087128"
+        ]
+      }
+    },
+    {
+      "start_time": "19:46",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "G & J Variety",
+        "distance_km": 0.2760005569874887,
+        "coordinates": [
+          "42.369191",
+          "-71.092624"
+        ]
+      }
+    },
+    {
+      "start_time": "21:57",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Office of the Arts Studio 74",
+        "distance_km": 2.3042495073602165,
+        "coordinates": [
+          "42.371771",
+          "-71.118582"
+        ]
+      }
+    },
+    {
+      "start_time": "23:08",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37118121440138,
+          -71.09061796190609
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37118121440138,
+        -71.09061796190609
+      ]
+    },
+    "work": {
+      "name": "Pronto Cafe",
+      "coordinates": [
+        "42.372118",
+        "-71.087085"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:51, I want to work, I go to Pronto Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 11:02, I want to shop, I go to Formaggio Kitchen by auto_passenger which takes 0-10 minutes.",
+    "On 13:13, I want to recreation, I go to Katie Lowe Pilates by walking which takes 0-10 minutes.",
+    "On 15:24, I want to work, I go to Pronto Cafe by private_auto which takes 0-10 minutes.",
+    "On 17:35, I want to eat, I go to Silk Road Uyghur Cuisine by auto_passenger which takes 0-10 minutes.",
+    "On 19:46, I want to shop, I go to G & J Variety by private_auto which takes 0-10 minutes.",
+    "On 21:57, I want to recreation, I go to Harvard Office of the Arts Studio 74 by public_transit which takes 10-20 minutes.",
+    "On 23:08, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

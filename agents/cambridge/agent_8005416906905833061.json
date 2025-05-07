@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Michael Cruz\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:51",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Benjamin Banneker Charter Public School",
+        "distance_km": 0.1480048566639451,
+        "coordinates": [
+          "42.392113",
+          "-71.131734"
+        ]
+      }
+    },
+    {
+      "start_time": "10:06",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 0.16768904998186024,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "10:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.6183339150269169,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 0.16768904998186024,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39160449192508,
+          -71.13339541950143
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CLUBWAKA Boston",
+        "distance_km": 0.3102810016303043,
+        "coordinates": [
+          "42.388815",
+          "-71.133199"
+        ]
+      }
+    },
+    {
+      "start_time": "14:21",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 0.8782006837029042,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "14:41",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "La Market",
+        "distance_km": 0.6126164267316009,
+        "coordinates": [
+          "42.39632",
+          "-71.129537"
+        ]
+      }
+    },
+    {
+      "start_time": "15:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39160449192508,
+          -71.13339541950143
+        ]
+      }
+    },
+    {
+      "start_time": "18:31",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39160449192508,
+          -71.13339541950143
+        ]
+      }
+    },
+    {
+      "start_time": "20:41",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39160449192508,
+          -71.13339541950143
+        ]
+      }
+    },
+    {
+      "start_time": "21:11",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.5074903669144826,
+        "coordinates": [
+          "42.390828",
+          "-71.139469"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39160449192508,
+        -71.13339541950143
+      ]
+    },
+    "school": {
+      "name": "Benjamin Banneker Charter Public School",
+      "coordinates": [
+        "42.392113",
+        "-71.131734"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:51, I want to school, I go to Benjamin Banneker Charter Public School by walking which takes 0-10 minutes.",
+    "On 10:06, I want to other_activities, I go to Soccer Nights by walking which takes 0-10 minutes.",
+    "On 10:15, I want to shop, I go to Bread & Circus by walking which takes 10-20 minutes.",
+    "On 11:30, I want to recreation, I go to Soccer Nights by walking which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to CLUBWAKA Boston by walking which takes 0-10 minutes.",
+    "On 14:21, I want to maintenance, I go to Mavis Tires & Brakes by walking which takes 0-10 minutes.",
+    "On 14:41, I want to shop, I go to La Market by walking which takes 10-20 minutes.",
+    "On 15:43, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:31, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:41, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:11, I want to recreation, I go to CorePower Yoga by walking which takes 10-20 minutes."
+  ]
+}

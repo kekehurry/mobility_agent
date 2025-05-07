@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Christina Phillips\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"unemployed\", \"education\": \"some_college\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:27",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 0.4831699788234561,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "07:48",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "Harvard",
+        "distance_km": 3.5599758733484244,
+        "coordinates": [
+          "42.377157",
+          "-71.117476"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shy Bird",
+        "distance_km": 0.4056037500634258,
+        "coordinates": [
+          "42.362666",
+          "-71.083994"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36244477424015,
+          -71.07907940240567
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nop Riverfront Office Office Park",
+        "distance_km": 0.10338259611265437,
+        "coordinates": [
+          "42.362238",
+          "-71.080303"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 0.15742420360093237,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 0.37027367341680884,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 1.5012682118928211,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36244477424015,
+          -71.07907940240567
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 0.15742420360093237,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mother Juice",
+        "distance_km": 0.3346777169950086,
+        "coordinates": [
+          "42.364512",
+          "-71.082035"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36244477424015,
+          -71.07907940240567
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36244477424015,
+        -71.07907940240567
+      ]
+    },
+    "school": {
+      "name": "Harvard",
+      "coordinates": [
+        "42.377157",
+        "-71.117476"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:27, I want to social, I go to MIT Wong Auditorium by private_auto which takes 0-10 minutes.",
+    "On 07:48, I want to school, I go to Harvard by public_transit which takes 20-20 minutes.",
+    "On 08:45, I want to eat, I go to Shy Bird by walking which takes 10-20 minutes.",
+    "On 10:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 11:15, I want to social, I go to Nop Riverfront Office Office Park by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to recreation, I go to CAC Express by auto_passenger which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to eat, I go to MrBeast Burger by public_transit which takes 20-20 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to recreation, I go to CAC Express by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Mother Juice by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}
