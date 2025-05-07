@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Alicia Parrish\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "DR. NELSON AWEH MD",
+        "distance_km": 0.28851471282140834,
+        "coordinates": [
+          "42.386673",
+          "-71.135831"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 0.5012169727517003,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0,10"
+      },
+      "destination": {
+        "name": "Casbah",
+        "distance_km": 0.19575751564252294,
+        "coordinates": [
+          "42.387876",
+          "-71.140391"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38631015061391,
+          -71.1393002662825
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Alice Heller Dance",
+        "distance_km": 0.16122163649956261,
+        "coordinates": [
+          "42.386167",
+          "-71.137352"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38631015061391,
+          -71.1393002662825
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Basha Cafe",
+        "distance_km": 0.19610613516419112,
+        "coordinates": [
+          "42.387878",
+          "-71.140395"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38631015061391,
+          -71.1393002662825
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38631015061391,
+        -71.1393002662825
+      ]
+    },
+    "work": {
+      "name": "DR. NELSON AWEH MD",
+      "coordinates": [
+        "42.386673",
+        "-71.135831"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to DR. NELSON AWEH MD by walking which takes 0-10 minutes.",
+    "On 11:30, I want to social, I go to Up Stage by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Casbah by auto_passenger which takes 0,10 minutes.",
+    "On 13:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Alice Heller Dance by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Basha Cafe by private_auto which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

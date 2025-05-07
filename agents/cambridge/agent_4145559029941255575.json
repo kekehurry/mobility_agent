@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Ryan Liu\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "American Jiann Shyong Kung Fu Center",
+        "distance_km": 4.575137756796553,
+        "coordinates": [
+          "42.371385",
+          "-71.080086"
+        ]
+      }
+    },
+    {
+      "start_time": "09:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Echomail",
+        "distance_km": 1.737805166276491,
+        "coordinates": [
+          "42.390462",
+          "-71.151312"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.45638438701297646,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "12:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38900476553545,
+          -71.13029935961426
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38900476553545,
+          -71.13029935961426
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "American Jiann Shyong Kung Fu Center",
+        "distance_km": 4.575137756796553,
+        "coordinates": [
+          "42.371385",
+          "-71.080086"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.6674840416967444,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "18:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38900476553545,
+          -71.13029935961426
+        ]
+      }
+    },
+    {
+      "start_time": "21:11",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pentose Pharmaceuticals",
+        "distance_km": 1.5087129796363346,
+        "coordinates": [
+          "42.391266",
+          "-71.148366"
+        ]
+      }
+    },
+    {
+      "start_time": "21:23",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.6572960190787208,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38900476553545,
+        -71.13029935961426
+      ]
+    },
+    "work": {
+      "name": "American Jiann Shyong Kung Fu Center",
+      "coordinates": [
+        "42.371385",
+        "-71.080086"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:46, I want to work, I go to American Jiann Shyong Kung Fu Center by public_transit which takes 30-40 minutes.",
+    "On 09:05, I want to shop, I go to Echomail by walking which takes 20-30 minutes.",
+    "On 10:05, I want to shop, I go to Thistle & Shamrock by walking which takes 10-20 minutes.",
+    "On 12:33, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 16:50, I want to work, I go to American Jiann Shyong Kung Fu Center by walking which takes 10-20 minutes.",
+    "On 17:08, I want to eat, I go to Concord Avenue Cafe by walking which takes 10-20 minutes.",
+    "On 18:40, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 21:11, I want to recreation, I go to Pentose Pharmaceuticals by walking which takes 20-30 minutes.",
+    "On 21:23, I want to shop, I go to Pemberton Farms by walking which takes 10-20 minutes."
+  ]
+}

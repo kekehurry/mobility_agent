@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Danielle Avery\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Marketing & Distribution",
+        "distance_km": 0.21941699926588376,
+        "coordinates": [
+          "42.394098",
+          "-71.151357"
+        ]
+      }
+    },
+    {
+      "start_time": "10:36",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395567602907235,
+          -71.15313763501061
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Marketing & Distribution",
+        "distance_km": 0.21941699926588376,
+        "coordinates": [
+          "42.394098",
+          "-71.151357"
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sincere Construction",
+        "distance_km": 0.5589223377346987,
+        "coordinates": [
+          "42.392925",
+          "-71.147361"
+        ]
+      }
+    },
+    {
+      "start_time": "14:25",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Marketing & Distribution",
+        "distance_km": 0.21941699926588376,
+        "coordinates": [
+          "42.394098",
+          "-71.151357"
+        ]
+      }
+    },
+    {
+      "start_time": "18:16",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Marketing & Distribution",
+        "distance_km": 0.21941699926588376,
+        "coordinates": [
+          "42.394098",
+          "-71.151357"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.395567602907235,
+        -71.15313763501061
+      ]
+    },
+    "work": {
+      "name": "Boston Marketing & Distribution",
+      "coordinates": [
+        "42.394098",
+        "-71.151357"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to work, I go to Boston Marketing & Distribution by private_auto which takes 0-10 minutes.",
+    "On 10:36, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 12:38, I want to work, I go to Boston Marketing & Distribution by private_auto which takes 0-10 minutes.",
+    "On 13:23, I want to social, I go to Sincere Construction by private_auto which takes 0-10 minutes.",
+    "On 14:25, I want to work, I go to Boston Marketing & Distribution by private_auto which takes 0-10 minutes.",
+    "On 18:16, I want to work, I go to Boston Marketing & Distribution by private_auto which takes 0-10 minutes."
+  ]
+}

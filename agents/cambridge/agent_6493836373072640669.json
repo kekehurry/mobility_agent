@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Sandra Garcia\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gymnastic Academy of Boston",
+        "distance_km": 1.6200563680873064,
+        "coordinates": [
+          "42.393583",
+          "-71.15013"
+        ]
+      }
+    },
+    {
+      "start_time": "10:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kendall Kitchen At The Quad",
+        "distance_km": 1.6034334926124338,
+        "coordinates": [
+          "42.392449",
+          "-71.150193"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 1.5871380616303739,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.5330206135474774,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 0.44548063357066386,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Echomail",
+        "distance_km": 1.6810996532261042,
+        "coordinates": [
+          "42.390462",
+          "-71.151312"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.390511533272004,
+          -71.13089611889792
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kendall Kitchen At The Quad",
+        "distance_km": 1.6034334926124338,
+        "coordinates": [
+          "42.392449",
+          "-71.150193"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 1.5871380616303739,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.390511533272004,
+          -71.13089611889792
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.390511533272004,
+        -71.13089611889792
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:00, I want to recreation, I go to Gymnastic Academy of Boston by private_auto which takes 10-20 minutes.",
+    "On 10:45, I want to eat, I go to Kendall Kitchen At The Quad by private_auto which takes 10-20 minutes.",
+    "On 11:30, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to Thistle & Shamrock by auto_passenger which takes 0-10 minutes.",
+    "On 15:30, I want to recreation, I go to St Peters Field by private_auto which takes 10-20 minutes.",
+    "On 16:15, I want to shop, I go to Echomail by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Kendall Kitchen At The Quad by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

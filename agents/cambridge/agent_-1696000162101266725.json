@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Jaclyn Conway\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 6, \"household_income\": \"50k-75k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.3163947963545028,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 0.6364893394564075,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.3163947963545028,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.5379582308098975,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sincere Construction",
+        "distance_km": 0.21722516380932774,
+        "coordinates": [
+          "42.392925",
+          "-71.147361"
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39450335506061,
+          -71.1458034070655
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39450335506061,
+        -71.1458034070655
+      ]
+    },
+    "work": {
+      "name": "SANTE Mobile Farmhouse Cafe",
+      "coordinates": [
+        "42.395428",
+        "-71.149438"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to SANTE Mobile Farmhouse Cafe by walking which takes 0-10 minutes.",
+    "On 12:15, I want to social, I go to Charlotte Huguenor Santana Properties Team by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to eat, I go to SANTE Mobile Farmhouse Cafe by public_transit which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Trader Joe's by walking which takes 0-10 minutes.",
+    "On 17:30, I want to social, I go to Sincere Construction by walking which takes 0-10 minutes.",
+    "On 18:45, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

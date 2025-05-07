@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"James Harmon\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 0.6186555155750751,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "06:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.749046879686469,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Stone Hearth Pizza",
+        "distance_km": 0.5180013036582085,
+        "coordinates": [
+          "42.38584",
+          "-71.119631"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Barcelona Wine Bar & Restaurant",
+        "distance_km": 0.178156505214952,
+        "coordinates": [
+          "42.382723",
+          "-71.11999"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ISA International Studies Abroad Boston Office",
+        "distance_km": 1.676163023181193,
+        "coordinates": [
+          "42.394891",
+          "-71.1279"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.7372670319201101,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381179845100796,
+          -71.11940051470663
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Patagonia",
+        "distance_km": 0.8328534256665056,
+        "coordinates": [
+          "42.373779",
+          "-71.121021"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Varga Golovcsenko Steven MD",
+        "distance_km": 1.7732101206843927,
+        "coordinates": [
+          "42.367927",
+          "-71.107399"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381179845100796,
+          -71.11940051470663
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.381179845100796,
+        -71.11940051470663
+      ]
+    },
+    "work": {
+      "name": "Barcelona Wine Bar & Restaurant",
+      "coordinates": [
+        "42.382723",
+        "-71.11999"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "ISA International Studies Abroad Boston Office",
+      "coordinates": [
+        "42.394891",
+        "-71.1279"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:15, I want to recreation, I go to Quadrangle Recreational Athletic Center by walking which takes 10-20 minutes.",
+    "On 06:55, I want to shop, I go to Gourmet Express by public_transit which takes 10-20 minutes.",
+    "On 07:30, I want to eat, I go to Stone Hearth Pizza by public_transit which takes 10-20 minutes.",
+    "On 08:00, I want to work, I go to Barcelona Wine Bar & Restaurant by private_auto which takes 0-10 minutes.",
+    "On 10:00, I want to school, I go to ISA International Studies Abroad Boston Office by public_transit which takes 10-20 minutes.",
+    "On 15:00, I want to social, I go to Cambridge Forum by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 19:00, I want to shop, I go to Patagonia by biking which takes 0-10 minutes.",
+    "On 20:00, I want to recreation, I go to Varga Golovcsenko Steven MD by public_transit which takes 10-20 minutes.",
+    "On 21:15, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

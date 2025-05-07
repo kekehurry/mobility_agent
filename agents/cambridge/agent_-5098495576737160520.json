@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Chad Sullivan\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Law Office Of Joel Z Eigerman",
+        "distance_km": 3.0404795278859735,
+        "coordinates": [
+          "42.381019",
+          "-71.135691"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "DR. EVA GASSIRARO MD",
+        "distance_km": 2.5034319158035956,
+        "coordinates": [
+          "42.374085",
+          "-71.132896"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 0.25603181206984776,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central Kitchen",
+        "distance_km": 0.2570132903666198,
+        "coordinates": [
+          "42.364865",
+          "-71.102484"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Law Office Of Joel Z Eigerman",
+        "distance_km": 3.0404795278859735,
+        "coordinates": [
+          "42.381019",
+          "-71.135691"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Albert's Market",
+        "distance_km": 1.5068941650483698,
+        "coordinates": [
+          "42.371765",
+          "-71.087074"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pepper Sky's Thai Sensation",
+        "distance_km": 0.30755709973350315,
+        "coordinates": [
+          "42.364217",
+          "-71.102907"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Hagopian Varant Phys",
+        "distance_km": 2.600335141157928,
+        "coordinates": [
+          "42.373888",
+          "-71.134221"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 0.1743371302492457,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36683609840901,
+          -71.10411797385747
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36683609840901,
+        -71.10411797385747
+      ]
+    },
+    "work": {
+      "name": "Law Office Of Joel Z Eigerman",
+      "coordinates": [
+        "42.381019",
+        "-71.135691"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Law Office Of Joel Z Eigerman by public_transit which takes 20-30 minutes.",
+    "On 08:00, I want to maintenance, I go to DR. EVA GASSIRARO MD by public_transit which takes 20-30 minutes.",
+    "On 11:30, I want to shop, I go to Harvest Co Op Markets by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Central Kitchen by walking which takes 10-20 minutes.",
+    "On 13:30, I want to work, I go to Law Office Of Joel Z Eigerman by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to shop, I go to Albert's Market by public_transit which takes 20-30 minutes.",
+    "On 16:30, I want to eat, I go to Pepper Sky's Thai Sensation by auto_passenger which takes 0-10 minutes.",
+    "On 17:30, I want to recreation, I go to Hagopian Varant Phys by public_transit which takes 20-30 minutes.",
+    "On 19:30, I want to shop, I go to Adt by walking which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

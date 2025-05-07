@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Alan Jackson\", \"city\": \"Cambridge,MA\", \"age\": 32, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "American Jiann Shyong Kung Fu Center",
+        "distance_km": 2.5894581133935946,
+        "coordinates": [
+          "42.371385",
+          "-71.080086"
+        ]
+      }
+    },
+    {
+      "start_time": "10:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "TopMac",
+        "distance_km": 2.5103620025457296,
+        "coordinates": [
+          "42.370887",
+          "-71.080891"
+        ]
+      }
+    },
+    {
+      "start_time": "12:11",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 1.745086457076596,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "12:46",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36473329417001,
+          -71.11021537836365
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Focht Birkerts Lynn Licsw",
+        "distance_km": 0.37878145266556085,
+        "coordinates": [
+          "42.368078",
+          "-71.10932"
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chang Shing Tofu",
+        "distance_km": 2.5684933935919982,
+        "coordinates": [
+          "42.366227",
+          "-71.0791"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36473329417001,
+          -71.11021537836365
+        ]
+      }
+    },
+    {
+      "start_time": "18:11",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5186876950769351,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "19:21",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Riverside Pizza & Seafoods",
+        "distance_km": 0.3584581928671498,
+        "coordinates": [
+          "42.362479",
+          "-71.113329"
+        ]
+      }
+    },
+    {
+      "start_time": "20:41",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36473329417001,
+          -71.11021537836365
+        ]
+      }
+    },
+    {
+      "start_time": "21:56",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Emma's",
+        "distance_km": 1.5088132795526905,
+        "coordinates": [
+          "42.366349",
+          "-71.092029"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36473329417001,
+        -71.11021537836365
+      ]
+    },
+    "work": {
+      "name": "American Jiann Shyong Kung Fu Center",
+      "coordinates": [
+        "42.371385",
+        "-71.080086"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:26, I want to work, I go to American Jiann Shyong Kung Fu Center by private_auto which takes 10-20 minutes.",
+    "On 10:45, I want to eat, I go to TopMac by auto_passenger which takes 10-20 minutes.",
+    "On 12:11, I want to social, I go to Harvard Square Rental Properties by auto_passenger which takes 10-20 minutes.",
+    "On 12:46, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Focht Birkerts Lynn Licsw by walking which takes 10-20 minutes.",
+    "On 15:45, I want to shop, I go to Chang Shing Tofu by auto_passenger which takes 10-20 minutes.",
+    "On 16:35, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:11, I want to shop, I go to Whole Foods Market by walking which takes 10-20 minutes.",
+    "On 19:21, I want to eat, I go to Riverside Pizza & Seafoods by walking which takes 10-20 minutes.",
+    "On 20:41, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 21:56, I want to eat, I go to Emma's by private_auto which takes 10-20 minutes."
+  ]
+}

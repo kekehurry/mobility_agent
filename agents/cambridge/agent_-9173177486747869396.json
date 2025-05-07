@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Vanessa Newman\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:41",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 2.016496183657761,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35842277863199,
+          -71.10212495520327
+        ]
+      }
+    },
+    {
+      "start_time": "10:18",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bytes At University Park",
+        "distance_km": 0.30184693705682436,
+        "coordinates": [
+          "42.36105",
+          "-71.101189"
+        ]
+      }
+    },
+    {
+      "start_time": "11:27",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bytes At University Park",
+        "distance_km": 0.30184693705682436,
+        "coordinates": [
+          "42.36105",
+          "-71.101189"
+        ]
+      }
+    },
+    {
+      "start_time": "12:05",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "D&R Construction",
+        "distance_km": 1.53389066192365,
+        "coordinates": [
+          "42.369534",
+          "-71.091069"
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 0.6461344724536776,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "14:41",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.0126365651451907,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "16:33",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 1.5134695312272637,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "17:11",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bayside Realty",
+        "distance_km": 1.069558096704571,
+        "coordinates": [
+          "42.367459",
+          "-71.106609"
+        ]
+      }
+    },
+    {
+      "start_time": "17:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35842277863199,
+          -71.10212495520327
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35842277863199,
+        -71.10212495520327
+      ]
+    },
+    "work": {
+      "name": "Bytes At University Park",
+      "coordinates": [
+        "42.36105",
+        "-71.101189"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:41, I want to social, I go to Society for Critical Aesthetics by public_transit which takes 10-20 minutes.",
+    "On 08:20, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 10:18, I want to eat, I go to Bytes At University Park by walking which takes 0-10 minutes.",
+    "On 11:27, I want to work, I go to Bytes At University Park by public_transit which takes 10-20 minutes.",
+    "On 12:05, I want to social, I go to D&R Construction by private_auto which takes 10-20 minutes.",
+    "On 13:23, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by walking which takes 0-10 minutes.",
+    "On 14:41, I want to shop, I go to Whole Foods Market by private_auto which takes 10-20 minutes.",
+    "On 16:33, I want to eat, I go to Brooklyn Bagel Factory by public_transit which takes 10-20 minutes.",
+    "On 17:11, I want to social, I go to Bayside Realty by private_auto which takes 10-20 minutes.",
+    "On 17:50, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

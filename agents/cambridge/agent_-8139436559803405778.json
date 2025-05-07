@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Melinda Powell\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.1557103113840796,
+        "coordinates": [
+          "42.390886",
+          "-71.139725"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Summer Shack Cambridge",
+        "distance_km": 0.18177906808461175,
+        "coordinates": [
+          "42.393743",
+          "-71.141012"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 0.21359327734917646,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.3415525949519359,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Summer Shack Cambridge",
+        "distance_km": 0.18177906808461175,
+        "coordinates": [
+          "42.393743",
+          "-71.141012"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392139423865736,
+          -71.14057167340518
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 0.21359327734917646,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Summer Shack Cambridge",
+        "distance_km": 0.18177906808461175,
+        "coordinates": [
+          "42.393743",
+          "-71.141012"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392139423865736,
+          -71.14057167340518
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.392139423865736,
+        -71.14057167340518
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:10, I want to recreation, I go to CorePower Yoga by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Summer Shack Cambridge by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to Charlotte Huguenor Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 15:30, I want to eat, I go to Summer Shack Cambridge by private_auto which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to social, I go to Charlotte Huguenor Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Summer Shack Cambridge by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

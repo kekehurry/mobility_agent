@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Matthew Herring\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sakana",
+        "distance_km": 0.2618285563819289,
+        "coordinates": [
+          "42.369345",
+          "-71.110752"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.145959282150334,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36966212850871,
+          -71.10760220180829
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.31613780362465965,
+        "coordinates": [
+          "42.36963",
+          "-71.11144"
+        ]
+      }
+    },
+    {
+      "start_time": "17:12",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36966212850871,
+          -71.10760220180829
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.1902061318006726,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36966212850871,
+          -71.10760220180829
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36966212850871,
+        -71.10760220180829
+      ]
+    },
+    "work": {
+      "name": "Sakana",
+      "coordinates": [
+        "42.369345",
+        "-71.110752"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:58, I want to work, I go to Sakana by auto_passenger which takes 0-10 minutes.",
+    "On 14:20, I want to maintenance, I go to C L M Inc by walking which takes 0-10 minutes.",
+    "On 15:45, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:08, I want to eat, I go to Dunkin' by auto_passenger which takes 0-10 minutes.",
+    "On 17:12, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Vermas Market by walking which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

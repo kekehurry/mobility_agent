@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jamie Martinez\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Down Under Yoga Cambridge",
+        "distance_km": 0.24193041153423045,
+        "coordinates": [
+          "42.390306",
+          "-71.121621"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39248207462688,
+          -71.12149857529666
+        ]
+      }
+    },
+    {
+      "start_time": "09:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Elephant Walk",
+        "distance_km": 0.1552623743962525,
+        "coordinates": [
+          "42.391465",
+          "-71.122792"
+        ]
+      }
+    },
+    {
+      "start_time": "11:43",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.1763481293840756,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "15:11",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.3749759548102927,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Elephant Walk",
+        "distance_km": 0.1552623743962525,
+        "coordinates": [
+          "42.391465",
+          "-71.122792"
+        ]
+      }
+    },
+    {
+      "start_time": "18:41",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39248207462688,
+          -71.12149857529666
+        ]
+      }
+    },
+    {
+      "start_time": "18:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McCabe's Bar and Grille",
+        "distance_km": 0.20400640583480936,
+        "coordinates": [
+          "42.390956",
+          "-71.122877"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39248207462688,
+        -71.12149857529666
+      ]
+    },
+    "work": {
+      "name": "The Elephant Walk",
+      "coordinates": [
+        "42.391465",
+        "-71.122792"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Down Under Yoga Cambridge by walking which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 09:38, I want to work, I go to The Elephant Walk by walking which takes 0-10 minutes.",
+    "On 11:43, I want to maintenance, I go to Mavis Tires & Brakes by walking which takes 10-20 minutes.",
+    "On 15:11, I want to shop, I go to Pemberton Farms by private_auto which takes 10-20 minutes.",
+    "On 17:26, I want to work, I go to The Elephant Walk by walking which takes 0-10 minutes.",
+    "On 18:41, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:25, I want to eat, I go to McCabe's Bar and Grille by walking which takes 0-10 minutes."
+  ]
+}

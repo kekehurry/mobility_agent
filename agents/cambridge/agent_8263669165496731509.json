@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Lori Cobb\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard University Hillel",
+        "distance_km": 0.17988620017965345,
+        "coordinates": [
+          "42.371219",
+          "-71.117438"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.3039407274371225,
+        "coordinates": [
+          "42.373053",
+          "-71.122393"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard University Hillel",
+        "distance_km": 0.17988620017965345,
+        "coordinates": [
+          "42.371219",
+          "-71.117438"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Algiers Coffee House",
+        "distance_km": 0.3015706596363825,
+        "coordinates": [
+          "42.373566",
+          "-71.121524"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Office of the Arts Studio 74",
+        "distance_km": 0.1035821170258351,
+        "coordinates": [
+          "42.371771",
+          "-71.118582"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Democracy Center",
+        "distance_km": 0.2705945056911767,
+        "coordinates": [
+          "42.371292",
+          "-71.116337"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371246343882696,
+          -71.11962163595734
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Russell House Tavern",
+        "distance_km": 0.20585706703708662,
+        "coordinates": [
+          "42.373092",
+          "-71.119396"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371246343882696,
+          -71.11962163595734
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.371246343882696,
+        -71.11962163595734
+      ]
+    },
+    "school": {
+      "name": "Harvard University Hillel",
+      "coordinates": [
+        "42.371219",
+        "-71.117438"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to school, I go to Harvard University Hillel by walking which takes 0-10 minutes.",
+    "On 07:15, I want to eat, I go to Flour Bakery Cafe by public_transit which takes 0-10 minutes.",
+    "On 08:00, I want to school, I go to Harvard University Hillel by walking which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to Algiers Coffee House by walking which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Harvard Office of the Arts Studio 74 by walking which takes 0-10 minutes.",
+    "On 15:00, I want to social, I go to The Democracy Center by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Russell House Tavern by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

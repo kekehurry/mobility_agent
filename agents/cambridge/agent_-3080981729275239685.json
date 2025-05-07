@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Corey Hammond\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"2\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 1.5131680928566076,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37036357281027,
+          -71.10929226224337
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 1.5131680928566076,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mickey Barr",
+        "distance_km": 0.5212716383624297,
+        "coordinates": [
+          "42.366695",
+          "-71.105346"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 1.5131680928566076,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37036357281027,
+          -71.10929226224337
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "King's Famous Pizzeria Roast Beef And Seafood",
+        "distance_km": 0.5108171535460294,
+        "coordinates": [
+          "42.374961",
+          "-71.109151"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37036357281027,
+          -71.10929226224337
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37036357281027,
+        -71.10929226224337
+      ]
+    },
+    "work": {
+      "name": "Micro Center",
+      "coordinates": [
+        "42.35724",
+        "-71.114217"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Micro Center by biking which takes 10-20 minutes.",
+    "On 12:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 13:00, I want to shop, I go to Micro Center by biking which takes 10-20 minutes.",
+    "On 15:00, I want to recreation, I go to Mickey Barr by walking which takes 10-20 minutes.",
+    "On 16:30, I want to work, I go to Micro Center by walking which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to King's Famous Pizzeria Roast Beef And Seafood by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

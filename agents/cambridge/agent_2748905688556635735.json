@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Grant Hart\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Catalyst Restaurant",
+        "distance_km": 1.5162670270124454,
+        "coordinates": [
+          "42.363027",
+          "-71.091578"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Andala Coffee House",
+        "distance_km": 2.5213002496755434,
+        "coordinates": [
+          "42.364708",
+          "-71.105739"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 1.546482154557519,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 1.5750532052918753,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 1.5042570897643,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Catalyst Restaurant",
+        "distance_km": 1.5162670270124454,
+        "coordinates": [
+          "42.363027",
+          "-71.091578"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37044155293002,
+          -71.07612301413997
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37044155293002,
+        -71.07612301413997
+      ]
+    },
+    "work": {
+      "name": "Catalyst Restaurant",
+      "coordinates": [
+        "42.363027",
+        "-71.091578"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Catalyst Restaurant by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Andala Coffee House by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to recreation, I go to Come to Yoga With Barbara Lyon by private_auto which takes 10-20 minutes.",
+    "On 16:30, I want to shop, I go to Formaggio Kitchen by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to social, I go to RJ Realty Management by private_auto which takes 10-20 minutes.",
+    "On 19:30, I want to eat, I go to Catalyst Restaurant by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

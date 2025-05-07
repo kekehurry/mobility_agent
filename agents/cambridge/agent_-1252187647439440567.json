@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Todd Woodard\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Structural Integration with Ali Mischke",
+        "distance_km": 0.1378693555786074,
+        "coordinates": [
+          "42.398381",
+          "-71.131949"
+        ]
+      }
+    },
+    {
+      "start_time": "08:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Structural Integration with Ali Mischke",
+        "distance_km": 0.1378693555786074,
+        "coordinates": [
+          "42.398381",
+          "-71.131949"
+        ]
+      }
+    },
+    {
+      "start_time": "08:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.2809537799810301,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Structural Integration with Ali Mischke",
+        "distance_km": 0.1378693555786074,
+        "coordinates": [
+          "42.398381",
+          "-71.131949"
+        ]
+      }
+    },
+    {
+      "start_time": "17:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hana Sushi",
+        "distance_km": 0.3901915541446139,
+        "coordinates": [
+          "42.396633",
+          "-71.12982"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 0.378131586060204,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.2809537799810301,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.09918830687972577,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39957379859225,
+        -71.13241189466457
+      ]
+    },
+    "work": {
+      "name": "Structural Integration with Ali Mischke",
+      "coordinates": [
+        "42.398381",
+        "-71.131949"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Structural Integration with Ali Mischke by walking which takes 0-10 minutes.",
+    "On 08:10, I want to recreation, I go to Structural Integration with Ali Mischke by walking which takes 0-10 minutes.",
+    "On 08:40, I want to shop, I go to Friendly Corner Convenience Store by walking which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Structural Integration with Ali Mischke by walking which takes 0-10 minutes.",
+    "On 17:10, I want to eat, I go to Hana Sushi by walking which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to Investments Limited by walking which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Friendly Corner Convenience Store by walking which takes 0-10 minutes.",
+    "On 21:00, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes."
+  ]
+}

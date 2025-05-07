@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Marissa Randolph\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Armando's Pizza & Subs",
+        "distance_km": 0.43626229788893495,
+        "coordinates": [
+          "42.382382",
+          "-71.131433"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Exarchos Aristides E DMD",
+        "distance_km": 0.39141666033225025,
+        "coordinates": [
+          "42.382297",
+          "-71.130487"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.7907595663850605,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Castro Construction",
+        "distance_km": 1.084902387246175,
+        "coordinates": [
+          "42.388775",
+          "-71.127224"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Armando's Pizza & Subs",
+        "distance_km": 0.43626229788893495,
+        "coordinates": [
+          "42.382382",
+          "-71.131433"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.44590753379148385,
+        "coordinates": [
+          "42.382482",
+          "-71.131438"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37906188064241,
+          -71.12860322640087
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37906188064241,
+        -71.12860322640087
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to eat, I go to Armando's Pizza & Subs by walking which takes 10-20 minutes.",
+    "On 07:00, I want to recreation, I go to Exarchos Aristides E DMD by walking which takes 0-10 minutes.",
+    "On 08:00, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 10:00, I want to social, I go to Castro Construction by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Armando's Pizza & Subs by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Hi Rise Bread Company by walking which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "profile": "{\"name\": \"Samantha Cortez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"student\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bondir Cambridge",
+        "distance_km": 0.20900622443719666,
+        "coordinates": [
+          "42.36826",
+          "-71.097791"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370001003450035,
+          -71.09682866715539
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Cambridge Street Upper School",
+        "distance_km": 0.5014572884511173,
+        "coordinates": [
+          "42.372203",
+          "-71.091514"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370001003450035,
+          -71.09682866715539
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.0041019804754285,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370001003450035,
+          -71.09682866715539
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 2.0152129659087734,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370001003450035,
+          -71.09682866715539
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Romes Fitness",
+        "distance_km": 1.5101661730459481,
+        "coordinates": [
+          "42.366543",
+          "-71.079098"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.0030537924001262,
+        "coordinates": [
+          "42.363906",
+          "-71.087844"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370001003450035,
+          -71.09682866715539
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "The Super",
+        "distance_km": 0.2015849454982158,
+        "coordinates": [
+          "42.371419",
+          "-71.098356"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370001003450035,
+          -71.09682866715539
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370001003450035,
+        -71.09682866715539
+      ]
+    },
+    "work": {
+      "name": "Bondir Cambridge",
+      "coordinates": [
+        "42.36826",
+        "-71.097791"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Cambridge Street Upper School",
+      "coordinates": [
+        "42.372203",
+        "-71.091514"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Bondir Cambridge by walking which takes 0-10 minutes.",
+    "On 08:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 11:00, I want to school, I go to Cambridge Street Upper School by public_transit which takes 10-10 minutes.",
+    "On 11:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Flour Bakery Cafe by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Micro Center by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Romes Fitness by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Starbucks by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to The Super by public_transit which takes 10-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

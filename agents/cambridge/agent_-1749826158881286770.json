@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Donna Barton\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"1\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:50",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "Stoked Pizza Company Cambridge",
+        "distance_km": 2.538117904741251,
+        "coordinates": [
+          "42.380164",
+          "-71.119632"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "5 Spices House Cambridge",
+        "distance_km": 0.30069712255309416,
+        "coordinates": [
+          "42.364343",
+          "-71.102333"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Roxy's Grilled Cheese",
+        "distance_km": 0.24735859022927048,
+        "coordinates": [
+          "42.361999",
+          "-71.098471"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pearl Street Market",
+        "distance_km": 0.3154007376480676,
+        "coordinates": [
+          "42.362714",
+          "-71.105034"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pacific Street Cafe",
+        "distance_km": 0.20182872013919306,
+        "coordinates": [
+          "42.359985",
+          "-71.102192"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 0.17671152675212035,
+        "coordinates": [
+          "42.362525",
+          "-71.099602"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36171648520205,
+          -71.10144940134235
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36171648520205,
+        -71.10144940134235
+      ]
+    },
+    "work": {
+      "name": "5 Spices House Cambridge",
+      "coordinates": [
+        "42.364343",
+        "-71.102333"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:50, I want to other_activities, I go to Stoked Pizza Company Cambridge by private_auto which takes 20-20 minutes.",
+    "On 07:00, I want to work, I go to 5 Spices House Cambridge by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Roxy's Grilled Cheese by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Pearl Street Market by auto_passenger which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Pacific Street Cafe by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to VIM Fitness by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-20 minutes."
+  ]
+}

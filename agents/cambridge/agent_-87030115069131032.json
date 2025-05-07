@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"Joseph Rivera\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rohrbaugh Associates",
+        "distance_km": 0.26851355578610336,
+        "coordinates": [
+          "42.386263",
+          "-71.126612"
+        ]
+      }
+    },
+    {
+      "start_time": "09:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.5405783154304884,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "09:50",
+      "desire": "school",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "St Peter School",
+        "distance_km": 0.506975062803862,
+        "coordinates": [
+          "42.381345",
+          "-71.129702"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bbn Technologies",
+        "distance_km": 1.5259644036985716,
+        "coordinates": [
+          "42.389788",
+          "-71.147614"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dumpling House",
+        "distance_km": 2.519554099249042,
+        "coordinates": [
+          "42.368689",
+          "-71.109924"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Skip Viglirolo Ice Rink",
+        "distance_km": 0.3639297985680467,
+        "coordinates": [
+          "42.382888",
+          "-71.131551"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.5405783154304884,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.5187724494552348,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3859079200521,
+          -71.12983734461412
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "First Cambridge Realty Corporation",
+        "distance_km": 2.6195252719448305,
+        "coordinates": [
+          "42.368479",
+          "-71.108412"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3859079200521,
+        -71.12983734461412
+      ]
+    },
+    "school": {
+      "name": "St Peter School",
+      "coordinates": [
+        "42.381345",
+        "-71.129702"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Bbn Technologies",
+      "coordinates": [
+        "42.389788",
+        "-71.147614"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Rohrbaugh Associates by walking which takes 0-10 minutes.",
+    "On 09:20, I want to shop, I go to Thistle & Shamrock by walking which takes 0-10 minutes.",
+    "On 09:50, I want to school, I go to St Peter School by auto_passenger which takes 10-20 minutes.",
+    "On 10:30, I want to work, I go to Bbn Technologies by auto_passenger which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Dumpling House by auto_passenger which takes 20-30 minutes.",
+    "On 15:00, I want to recreation, I go to Skip Viglirolo Ice Rink by public_transit which takes 10-20 minutes.",
+    "On 16:30, I want to shop, I go to Thistle & Shamrock by walking which takes 0-10 minutes.",
+    "On 17:30, I want to maintenance, I go to Mavis Tires & Brakes by auto_passenger which takes 10-20 minutes.",
+    "On 18:30, I want to home, I go to home by auto_passenger which takes 20-30 minutes.",
+    "On 21:00, I want to social, I go to First Cambridge Realty Corporation by auto_passenger which takes 20-30 minutes."
+  ]
+}

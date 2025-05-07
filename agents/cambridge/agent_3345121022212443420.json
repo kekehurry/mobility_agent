@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Robert Hawkins\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 1.5943315330069514,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dr Detail Car Cleaning Service",
+        "distance_km": 1.8885185102960536,
+        "coordinates": [
+          "42.36813",
+          "-71.075692"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Donut Villa Diner",
+        "distance_km": 0.6677104345643353,
+        "coordinates": [
+          "42.36587",
+          "-71.10343"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Carberry's Bakery & Coffee House",
+        "distance_km": 0.5359106231860563,
+        "coordinates": [
+          "42.366781",
+          "-71.102404"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.22604782856413003,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Insight Meditation Center",
+        "distance_km": 0.3105174481655692,
+        "coordinates": [
+          "42.369975",
+          "-71.102064"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.22604782856413003,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Kiraz",
+        "distance_km": 0.20165939796275867,
+        "coordinates": [
+          "42.369968",
+          "-71.096073"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37057284733845,
+          -71.09838137615938
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37057284733845,
+        -71.09838137615938
+      ]
+    },
+    "work": {
+      "name": "Carberry's Bakery & Coffee House",
+      "coordinates": [
+        "42.366781",
+        "-71.102404"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to social, I go to MIT Wong Auditorium by public_transit which takes 10-20 minutes.",
+    "On 08:30, I want to maintenance, I go to Dr Detail Car Cleaning Service by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Donut Villa Diner by walking which takes 10-20 minutes.",
+    "On 12:45, I want to work, I go to Carberry's Bakery & Coffee House by walking which takes 10-20 minutes.",
+    "On 14:30, I want to shop, I go to Joe's Kwik Mart by private_auto which takes 0-10 minutes.",
+    "On 15:15, I want to recreation, I go to Cambridge Insight Meditation Center by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Joe's Kwik Mart by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Cafe Kiraz by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

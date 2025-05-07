@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Brittany Smith\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:18",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Jose's Mexican Restaurant",
+        "distance_km": 1.5048867207893386,
+        "coordinates": [
+          "42.390185",
+          "-71.132847"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 1.5731302139826524,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "13:05",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Always Best Care",
+        "distance_km": 1.6789666923848947,
+        "coordinates": [
+          "42.394924",
+          "-71.127906"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.9475638811434566,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "17:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39785782944459,
+          -71.14791016536073
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 1.5087588391433404,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39785782944459,
+          -71.14791016536073
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39785782944459,
+        -71.14791016536073
+      ]
+    },
+    "work": {
+      "name": "Jose's Mexican Restaurant",
+      "coordinates": [
+        "42.390185",
+        "-71.132847"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:18, I want to work, I go to Jose's Mexican Restaurant by biking which takes 10-20 minutes.",
+    "On 12:15, I want to eat, I go to Verna's Coffee & Donut Shop by biking which takes 10-20 minutes.",
+    "On 13:05, I want to social, I go to Always Best Care by public_transit which takes 10-20 minutes.",
+    "On 16:10, I want to shop, I go to Trader Joe's by public_transit which takes 10-20 minutes.",
+    "On 17:20, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 18:15, I want to recreation, I go to Soccer Nights by public_transit which takes 10-20 minutes.",
+    "On 19:45, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

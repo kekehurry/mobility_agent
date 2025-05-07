@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jeffrey Vance\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bachata Room",
+        "distance_km": 0.3307435431614579,
+        "coordinates": [
+          "42.36342",
+          "-71.101296"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36484365964715,
+          -71.10482232591447
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 0.15836080451676862,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bachata Room",
+        "distance_km": 0.3307435431614579,
+        "coordinates": [
+          "42.36342",
+          "-71.101296"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36484365964715,
+          -71.10482232591447
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "La Fabrica Central",
+        "distance_km": 0.33823680307083687,
+        "coordinates": [
+          "42.363581",
+          "-71.101086"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sahaj Kaur",
+        "distance_km": 0.20650269829271603,
+        "coordinates": [
+          "42.366662",
+          "-71.105344"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.13753442799069032,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36484365964715,
+        -71.10482232591447
+      ]
+    },
+    "work": {
+      "name": "Bachata Room",
+      "coordinates": [
+        "42.36342",
+        "-71.101296"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Bachata Room by auto_passenger which takes 0-10 minutes.",
+    "On 12:00, I want to home, I go to home by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to shop, I go to Harvest Co Op Markets by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to work, I go to Bachata Room by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to La Fabrica Central by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Sahaj Kaur by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to social, I go to Wellmet Project by auto_passenger which takes 0-10 minutes."
+  ]
+}

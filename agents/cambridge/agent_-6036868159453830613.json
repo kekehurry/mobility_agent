@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Amy Gibson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wasabi at Porter",
+        "distance_km": 1.568273458468003,
+        "coordinates": [
+          "42.391257",
+          "-71.123477"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "House of Chang",
+        "distance_km": 1.5035647803016678,
+        "coordinates": [
+          "42.383521",
+          "-71.133739"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lawner Peter PHD",
+        "distance_km": 1.008909433707468,
+        "coordinates": [
+          "42.374779",
+          "-71.128574"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 1.1442523662540869,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 1.5135823545907188,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "House of Chang",
+        "distance_km": 1.5035647803016678,
+        "coordinates": [
+          "42.383521",
+          "-71.133739"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lawner Peter PHD",
+        "distance_km": 1.008909433707468,
+        "coordinates": [
+          "42.374779",
+          "-71.128574"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37795448343804,
+          -71.11709718823204
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Churn2 Superior Ice Cream",
+        "distance_km": 0.2023134685326217,
+        "coordinates": [
+          "42.376225",
+          "-71.116327"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Z Park Innovation Center Boston",
+        "distance_km": 1.1222750870340363,
+        "coordinates": [
+          "42.368951",
+          "-71.110915"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37795448343804,
+          -71.11709718823204
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37795448343804,
+        -71.11709718823204
+      ]
+    },
+    "work": {
+      "name": "Wasabi at Porter",
+      "coordinates": [
+        "42.391257",
+        "-71.123477"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Wasabi at Porter by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to House of Chang by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to recreation, I go to Lawner Peter PHD by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to social, I go to Kemsley Education by public_transit which takes 10-20 minutes.",
+    "On 14:30, I want to shop, I go to Western Market by public_transit which takes 10-20 minutes.",
+    "On 16:00, I want to eat, I go to House of Chang by public_transit which takes 10-20 minutes.",
+    "On 17:30, I want to recreation, I go to Lawner Peter PHD by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Churn2 Superior Ice Cream by walking which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to Z Park Innovation Center Boston by public_transit which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Frederick Peters\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.3969498932940031,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Margolin June Psychothrpst",
+        "distance_km": 0.6137688327489567,
+        "coordinates": [
+          "42.384475",
+          "-71.120488"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stoked Pizza Company Cambridge",
+        "distance_km": 0.24088168069406996,
+        "coordinates": [
+          "42.380164",
+          "-71.119632"
+        ]
+      }
+    },
+    {
+      "start_time": "12:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.7119682502782465,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fit Fix",
+        "distance_km": 0.3150112284417007,
+        "coordinates": [
+          "42.381162",
+          "-71.120043"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.6156248342485545,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Velozo's Food Service",
+        "distance_km": 0.2897718502000156,
+        "coordinates": [
+          "42.377706",
+          "-71.114483"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fit Fix",
+        "distance_km": 0.3150112284417007,
+        "coordinates": [
+          "42.381162",
+          "-71.120043"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37968182537922,
+          -71.1167803400697
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37968182537922,
+        -71.1167803400697
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:45, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 09:30, I want to recreation, I go to Margolin June Psychothrpst by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Stoked Pizza Company Cambridge by walking which takes 0-10 minutes.",
+    "On 12:40, I want to shop, I go to Broadway Marketplace by walking which takes 10-20 minutes.",
+    "On 13:30, I want to recreation, I go to Fit Fix by walking which takes 10-20 minutes.",
+    "On 16:00, I want to social, I go to Cambridge Forum by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Velozo's Food Service by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Fit Fix by walking which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

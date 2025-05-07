@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Wayne Smith\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Season To Go",
+        "distance_km": 0.48812892641865346,
+        "coordinates": [
+          "42.39835",
+          "-71.131022"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.5280725929101626,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.40360872509512524,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.5280725929101626,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Westbridge",
+        "distance_km": 1.540325675469496,
+        "coordinates": [
+          "42.388138",
+          "-71.132046"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Griffin Properties",
+        "distance_km": 1.0357358875861853,
+        "coordinates": [
+          "42.394597",
+          "-71.126698"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.40187952106077,
+          -71.13455396900135
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.40187952106077,
+        -71.13455396900135
+      ]
+    },
+    "work": {
+      "name": "Season To Go",
+      "coordinates": [
+        "42.39835",
+        "-71.131022"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Season To Go by walking which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Trader Joe's by walking which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Trader Joe's by walking which takes 20-30 minutes.",
+    "On 16:00, I want to recreation, I go to Westbridge by walking which takes 20-30 minutes.",
+    "On 18:30, I want to social, I go to Griffin Properties by walking which takes 20-30 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\":\"Heather Henderson\",\"city\":\"Cambridge,MA\",\"age\":34,\"gender\":\"female\",\"employment_status\":\"not_in_labor_force\",\"education\":\"bachelor's_degree\",\"household_size\":1,\"household_income\":\"150k+\",\"available_vehicles\":\"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 0.21086520319478172,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sacramento Field",
+        "distance_km": 0.32657508697378307,
+        "coordinates": [
+          "42.383018",
+          "-71.117995"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Little Crepe Cafe",
+        "distance_km": 0.23064513140318424,
+        "coordinates": [
+          "42.383127",
+          "-71.116045"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 0.4460461005749982,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 0.21086520319478172,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.4468059134725237,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sacramento Field",
+        "distance_km": 0.32657508697378307,
+        "coordinates": [
+          "42.383018",
+          "-71.117995"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.38380330715549515,
+        "coordinates": [
+          "42.381838",
+          "-71.11941"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38126162519207,
+          -71.11481489079193
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38126162519207,
+        -71.11481489079193
+      ]
+    },
+    "work": {
+      "name": "Lesley University",
+      "coordinates": [
+        "42.38099",
+        "-71.117349"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Lesley University by walking which takes 0-10 minutes.",
+    "On 08:00, I want to recreation, I go to Sacramento Field by walking which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to The Little Crepe Cafe by walking which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to Marc's Handyman by walking which takes 10-20 minutes.",
+    "On 14:00, I want to work, I go to Lesley University by walking which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Evergood Super Market by auto_passenger which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Sacramento Field by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Hi Rise Bread Company by auto_passenger which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "profile": "{\"name\": \"Keith Reyes\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": \"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:37",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Law Office Of Geraldine Kluska",
+        "distance_km": 2.5038333912543242,
+        "coordinates": [
+          "42.372728",
+          "-71.080545"
+        ]
+      }
+    },
+    {
+      "start_time": "07:54",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.8116010604527393,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "09:51",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Magazine",
+        "distance_km": 0.2754100347029434,
+        "coordinates": [
+          "42.372416",
+          "-71.113445"
+        ]
+      }
+    },
+    {
+      "start_time": "10:06",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Law Office Of Geraldine Kluska",
+        "distance_km": 2.5038333912543242,
+        "coordinates": [
+          "42.372728",
+          "-71.080545"
+        ]
+      }
+    },
+    {
+      "start_time": "10:23",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.18016426760314525,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "12:56",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 0.5005981394291911,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Restorative Yoga with Bo Forbes",
+        "distance_km": 1.7777190186857998,
+        "coordinates": [
+          "42.388881",
+          "-71.118903"
+        ]
+      }
+    },
+    {
+      "start_time": "15:13",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374019312321316,
+          -71.11089443809351
+        ]
+      }
+    },
+    {
+      "start_time": "18:32",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Faculty Club",
+        "distance_km": 0.2905618573467952,
+        "coordinates": [
+          "42.37324",
+          "-71.114262"
+        ]
+      }
+    },
+    {
+      "start_time": "18:52",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.4522468087517078,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374019312321316,
+          -71.11089443809351
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.374019312321316,
+        -71.11089443809351
+      ]
+    },
+    "work": {
+      "name": "Law Office Of Geraldine Kluska",
+      "coordinates": [
+        "42.372728",
+        "-71.080545"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Harvard Magazine",
+      "coordinates": [
+        "42.372416",
+        "-71.113445"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:37, I want to work, I go to Law Office Of Geraldine Kluska by private_auto which takes 10-20 minutes.",
+    "On 07:54, I want to maintenance, I go to Advance Tire Company Inc by biking which takes 10-20 minutes.",
+    "On 09:51, I want to school, I go to Harvard Magazine by walking which takes 0-10 minutes.",
+    "On 10:06, I want to work, I go to Law Office Of Geraldine Kluska by private_auto which takes 10-20 minutes.",
+    "On 10:23, I want to shop, I go to Broadway Marketplace by walking which takes 0-10 minutes.",
+    "On 12:56, I want to eat, I go to Flame Hot Pot & Sushi by public_transit which takes 10-20 minutes.",
+    "On 13:23, I want to recreation, I go to Restorative Yoga with Bo Forbes by biking which takes 10-20 minutes.",
+    "On 15:13, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:32, I want to eat, I go to Harvard Faculty Club by walking which takes 0-10 minutes.",
+    "On 18:52, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

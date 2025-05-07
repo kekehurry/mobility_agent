@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Shelly Coffey\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:48",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Body & Brain Yoga Tai Chi",
+        "distance_km": 0.31470906394418685,
+        "coordinates": [
+          "42.38549",
+          "-71.119013"
+        ]
+      }
+    },
+    {
+      "start_time": "11:06",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38267198630414,
+          -71.11940757905136
+        ]
+      }
+    },
+    {
+      "start_time": "11:21",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.5833469567375813,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "13:11",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38267198630414,
+          -71.11940757905136
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Castro Construction",
+        "distance_km": 0.9348249891176367,
+        "coordinates": [
+          "42.388775",
+          "-71.127224"
+        ]
+      }
+    },
+    {
+      "start_time": "14:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38267198630414,
+          -71.11940757905136
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38267198630414,
+          -71.11940757905136
+        ]
+      }
+    },
+    {
+      "start_time": "16:41",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38267198630414,
+          -71.11940757905136
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Simon's Coffee Shop",
+        "distance_km": 0.20470163438601585,
+        "coordinates": [
+          "42.384488",
+          "-71.11983"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38267198630414,
+          -71.11940757905136
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38267198630414,
+        -71.11940757905136
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:48, I want to recreation, I go to Body & Brain Yoga Tai Chi by walking which takes 10-20 minutes.",
+    "On 11:06, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 11:21, I want to shop, I go to Gourmet Express by walking which takes 10-20 minutes.",
+    "On 13:11, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 13:23, I want to social, I go to Castro Construction by walking which takes 10-20 minutes.",
+    "On 14:50, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 16:41, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:45, I want to eat, I go to Simon's Coffee Shop by walking which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

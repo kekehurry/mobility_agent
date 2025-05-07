@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Penny Riley\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:41",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.3034051811708824,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 0.5077747174361884,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trattoria Pulcinella",
+        "distance_km": 0.30239941787819025,
+        "coordinates": [
+          "42.382759",
+          "-71.130809"
+        ]
+      }
+    },
+    {
+      "start_time": "11:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Infante Property Management",
+        "distance_km": 1.3076370280783625,
+        "coordinates": [
+          "42.373434",
+          "-71.12253"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38449164047686,
+          -71.12797667717545
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Infante Property Management",
+        "distance_km": 1.3076370280783625,
+        "coordinates": [
+          "42.373434",
+          "-71.12253"
+        ]
+      }
+    },
+    {
+      "start_time": "14:23",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rohrbaugh Associates",
+        "distance_km": 0.22659496670939552,
+        "coordinates": [
+          "42.386263",
+          "-71.126612"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38449164047686,
+          -71.12797667717545
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ana's Kitchen",
+        "distance_km": 0.3074123271959684,
+        "coordinates": [
+          "42.385967",
+          "-71.131135"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rohrbaugh Associates",
+        "distance_km": 0.22659496670939552,
+        "coordinates": [
+          "42.386263",
+          "-71.126612"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Fire Department Taylor Square",
+        "distance_km": 0.1577603236788879,
+        "coordinates": [
+          "42.384248",
+          "-71.129864"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38449164047686,
+        -71.12797667717545
+      ]
+    },
+    "work": {
+      "name": "Cambridge Fire Department Taylor Square",
+      "coordinates": [
+        "42.384248",
+        "-71.129864"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:41, I want to social, I go to Cambridge Forum by walking which takes 0-10 minutes.",
+    "On 07:35, I want to recreation, I go to Shama Yoga by walking which takes 0-10 minutes.",
+    "On 09:30, I want to eat, I go to Trattoria Pulcinella by walking which takes 0-10 minutes.",
+    "On 11:20, I want to social, I go to Infante Property Management by walking which takes 0-10 minutes.",
+    "On 12:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:20, I want to social, I go to Infante Property Management by walking which takes 0-10 minutes.",
+    "On 14:23, I want to recreation, I go to Rohrbaugh Associates by walking which takes 0-10 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:30, I want to eat, I go to Ana's Kitchen by walking which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Rohrbaugh Associates by walking which takes 0-10 minutes.",
+    "On 19:15, I want to work, I go to Cambridge Fire Department Taylor Square by walking which takes 0-10 minutes."
+  ]
+}

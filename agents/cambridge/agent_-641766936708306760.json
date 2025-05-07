@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"John Oliver\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 4, \"household_income\": \"50k-75k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "13:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "One Cell Systems",
+        "distance_km": 1.5028289847196534,
+        "coordinates": [
+          "42.371724",
+          "-71.101542"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 0.8050476520614382,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "G & J Variety",
+        "distance_km": 1.5506151864752566,
+        "coordinates": [
+          "42.369191",
+          "-71.092624"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Surya Indian Kitchen",
+        "distance_km": 0.4771321639288067,
+        "coordinates": [
+          "42.35987",
+          "-71.109958"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35837717174745,
+          -71.10452741106252
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ahearn Field",
+        "distance_km": 1.7726649979294673,
+        "coordinates": [
+          "42.368554",
+          "-71.087952"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Abide",
+        "distance_km": 0.6820170609702616,
+        "coordinates": [
+          "42.36256",
+          "-71.098467"
+        ]
+      }
+    },
+    {
+      "start_time": "21:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35837717174745,
+          -71.10452741106252
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35837717174745,
+        -71.10452741106252
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 13:15, I want to recreation, I go to One Cell Systems by public_transit which takes 10-20 minutes.",
+    "On 14:15, I want to maintenance, I go to Nick's Magazine Auto R by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to shop, I go to G & J Variety by private_auto which takes 10-20 minutes.",
+    "On 18:15, I want to eat, I go to Surya Indian Kitchen by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 20:00, I want to recreation, I go to Ahearn Field by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to eat, I go to Abide by walking which takes 10-20 minutes.",
+    "On 21:45, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

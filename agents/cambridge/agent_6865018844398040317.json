@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Timothy Woods\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Faculty Club",
+        "distance_km": 0.3394035562215389,
+        "coordinates": [
+          "42.37324",
+          "-71.114262"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.3148002834420609,
+        "coordinates": [
+          "42.373855",
+          "-71.112969"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Faculty Club",
+        "distance_km": 0.3394035562215389,
+        "coordinates": [
+          "42.37324",
+          "-71.114262"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.6755529239960346,
+        "coordinates": [
+          "42.372045",
+          "-71.120965"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.3067702237000733,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.3148002834420609,
+        "coordinates": [
+          "42.373855",
+          "-71.112969"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hollis Hall",
+        "distance_km": 0.1252511128723266,
+        "coordinates": [
+          "42.375248",
+          "-71.115747"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.376242053871394,
+          -71.1150291821281
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Churn2 Superior Ice Cream",
+        "distance_km": 0.10690627121992011,
+        "coordinates": [
+          "42.376225",
+          "-71.116327"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.376242053871394,
+          -71.1150291821281
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.376242053871394,
+        -71.1150291821281
+      ]
+    },
+    "work": {
+      "name": "Harvard Faculty Club",
+      "coordinates": [
+        "42.37324",
+        "-71.114262"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Harvard Faculty Club by auto_passenger which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Starbucks by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to work, I go to Harvard Faculty Club by walking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to CorePower Yoga by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Broadway Marketplace by walking which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Starbucks by walking which takes 10-20 minutes.",
+    "On 17:30, I want to social, I go to Hollis Hall by auto_passenger which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:00, I want to eat, I go to Churn2 Superior Ice Cream by auto_passenger which takes 0-10 minutes.",
+    "On 22:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

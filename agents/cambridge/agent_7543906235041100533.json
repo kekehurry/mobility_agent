@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Jose Martinez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"25k-50k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 1.5062759803603496,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.5671892413967522,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 1.5062759803603496,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 0.1371590792894382,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Uproot Events",
+        "distance_km": 0.27706216511102044,
+        "coordinates": [
+          "42.395381",
+          "-71.147399"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.5671892413967522,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395014207070396,
+          -71.14407057134702
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bertucci's Italian Restaurant",
+        "distance_km": 0.1874153315448881,
+        "coordinates": [
+          "42.39559",
+          "-71.141931"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Uproot Events",
+        "distance_km": 0.27706216511102044,
+        "coordinates": [
+          "42.395381",
+          "-71.147399"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395014207070396,
+          -71.14407057134702
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.395014207070396,
+        -71.14407057134702
+      ]
+    },
+    "work": {
+      "name": "Shama Yoga",
+      "coordinates": [
+        "42.383673",
+        "-71.134043"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Shama Yoga by public_transit which takes 10-20 minutes.",
+    "On 08:30, I want to shop, I go to Trader Joe's by walking which takes 0-10 minutes.",
+    "On 09:30, I want to work, I go to Shama Yoga by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Revival Cafe & Kitchen by walking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Uproot Events by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Trader Joe's by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Bertucci's Italian Restaurant by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Uproot Events by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

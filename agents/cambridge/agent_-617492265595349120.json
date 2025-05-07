@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Sarah Key\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "First United Market",
+        "distance_km": 1.6249128176453453,
+        "coordinates": [
+          "42.357512",
+          "-71.108056"
+        ]
+      }
+    },
+    {
+      "start_time": "17:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Royal East Restaurant",
+        "distance_km": 0.5232700517535515,
+        "coordinates": [
+          "42.363082",
+          "-71.096974"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "International Convenience",
+        "distance_km": 0.5165415001306155,
+        "coordinates": [
+          "42.365842",
+          "-71.098293"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe Kendall Square",
+        "distance_km": 0.5118788321493307,
+        "coordinates": [
+          "42.362826",
+          "-71.087572"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.5224987008507993,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36603783325026,
+          -71.0920279057332
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36603783325026,
+        -71.0920279057332
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 16:30, I want to shop, I go to First United Market by public_transit which takes 20-20 minutes.",
+    "On 17:20, I want to eat, I go to Royal East Restaurant by walking which takes 10-20 minutes.",
+    "On 18:20, I want to shop, I go to International Convenience by public_transit which takes 20-20 minutes.",
+    "On 19:00, I want to eat, I go to Life Alive Organic Cafe Kendall Square by walking which takes 10-20 minutes.",
+    "On 19:30, I want to social, I go to Trinity Property Management by public_transit which takes 20-20 minutes.",
+    "On 20:15, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

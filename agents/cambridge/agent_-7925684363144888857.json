@@ -1,0 +1,129 @@
+{
+  "profile": "{\n  \"name\": \"Melinda Jackson\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor_degree\",\n  \"household_size\": 4,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": \"zero\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bbn Technologies",
+        "distance_km": 1.5266934220531994,
+        "coordinates": [
+          "42.389788",
+          "-71.147614"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 1.5365261193371578,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.7677567642800105,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.6264115185007899,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hemenway Gymnasium",
+        "distance_km": 1.521952014050602,
+        "coordinates": [
+          "42.377055",
+          "-71.119606"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38880065002307,
+          -71.12912143923442
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38880065002307,
+        -71.12912143923442
+      ]
+    },
+    "work": {
+      "name": "Bbn Technologies",
+      "coordinates": [
+        "42.389788",
+        "-71.147614"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to work, I go to Bbn Technologies by auto_passenger which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Revival Cafe & Kitchen by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to social, I go to Cambridge Forum by public_transit which takes 10-20 minutes.",
+    "On 14:30, I want to shop, I go to Pemberton Farms by public_transit which takes 10-20 minutes.",
+    "On 16:00, I want to recreation, I go to Hemenway Gymnasium by public_transit which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

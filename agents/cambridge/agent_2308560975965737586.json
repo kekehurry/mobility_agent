@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Crystal Le\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": \"unknown_num_vehicles\"}\n                ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:07",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 1.610299455509648,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "10:28",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Boston Swing Central",
+        "distance_km": 1.53044043501189,
+        "coordinates": [
+          "42.387908",
+          "-71.140388"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ten Tables",
+        "distance_km": 0.32191394675198837,
+        "coordinates": [
+          "42.379312",
+          "-71.12724"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 1.610299455509648,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ten Tables",
+        "distance_km": 0.32191394675198837,
+        "coordinates": [
+          "42.379312",
+          "-71.12724"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381136431054315,
+          -71.12420298199228
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.381136431054315,
+        -71.12420298199228
+      ]
+    },
+    "work": {
+      "name": "Boston Swing Central",
+      "coordinates": [
+        "42.387908",
+        "-71.140388"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:07, I want to shop, I go to Louie's Superette by biking which takes 10-20 minutes.",
+    "On 10:28, I want to work, I go to Boston Swing Central by biking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Ten Tables by public_transit which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Louie's Superette by biking which takes 10-20 minutes.",
+    "On 16:00, I want to eat, I go to Ten Tables by public_transit which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

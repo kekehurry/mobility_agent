@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Jennifer Small\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "JOSEPH YOUNG MD",
+        "distance_km": 2.5348781465300023,
+        "coordinates": [
+          "42.369903",
+          "-71.073289"
+        ]
+      }
+    },
+    {
+      "start_time": "10:58",
+      "desire": "school",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "College Year In Athens",
+        "distance_km": 0.45972936009226867,
+        "coordinates": [
+          "42.363602",
+          "-71.099565"
+        ]
+      }
+    },
+    {
+      "start_time": "11:23",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kendall Kitchen",
+        "distance_km": 1.0079199982569151,
+        "coordinates": [
+          "42.366056",
+          "-71.092182"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Nop Riverfront Office Office Park",
+        "distance_km": 1.707689336284891,
+        "coordinates": [
+          "42.362238",
+          "-71.080303"
+        ]
+      }
+    },
+    {
+      "start_time": "14:57",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.359551852056825,
+          -71.10071329701653
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "ABG Commercial",
+        "distance_km": 2.087280853715842,
+        "coordinates": [
+          "42.371467",
+          "-71.08112"
+        ]
+      }
+    },
+    {
+      "start_time": "16:43",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Q Audio",
+        "distance_km": 0.4841173340390473,
+        "coordinates": [
+          "42.36385",
+          "-71.101686"
+        ]
+      }
+    },
+    {
+      "start_time": "17:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.359551852056825,
+          -71.10071329701653
+        ]
+      }
+    },
+    {
+      "start_time": "20:32",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pearl Street Market",
+        "distance_km": 0.5000731655148175,
+        "coordinates": [
+          "42.362714",
+          "-71.105034"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.359551852056825,
+        -71.10071329701653
+      ]
+    },
+    "work": {
+      "name": "JOSEPH YOUNG MD",
+      "coordinates": [
+        "42.369903",
+        "-71.073289"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "College Year In Athens",
+      "coordinates": [
+        "42.363602",
+        "-71.099565"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to work, I go to JOSEPH YOUNG MD by auto_passenger which takes 10-20 minutes.",
+    "On 10:58, I want to school, I go to College Year In Athens by biking which takes 0-10 minutes.",
+    "On 11:23, I want to eat, I go to Kendall Kitchen by auto_passenger which takes 10-20 minutes.",
+    "On 12:38, I want to social, I go to Nop Riverfront Office Office Park by walking which takes 20-30 minutes.",
+    "On 14:57, I want to home, I go to home by auto_passenger which takes 10-20 minutes.",
+    "On 16:15, I want to social, I go to ABG Commercial by walking which takes 20-30 minutes.",
+    "On 16:43, I want to shop, I go to Q Audio by biking which takes 0-10 minutes.",
+    "On 17:35, I want to home, I go to home by auto_passenger which takes 10-20 minutes.",
+    "On 20:32, I want to shop, I go to Pearl Street Market by auto_passenger which takes 10-20 minutes."
+  ]
+}

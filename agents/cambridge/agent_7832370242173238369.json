@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Rebecca Howell\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Russell Field",
+        "distance_km": 0.32512635307069304,
+        "coordinates": [
+          "42.396585",
+          "-71.138062"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.22469166659793363,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.22469166659793363,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.22469166659793363,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "12:55",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pioneer Property Group",
+        "distance_km": 0.6705235087643417,
+        "coordinates": [
+          "42.395699",
+          "-71.131169"
+        ]
+      }
+    },
+    {
+      "start_time": "13:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Russell Field",
+        "distance_km": 0.32512635307069304,
+        "coordinates": [
+          "42.396585",
+          "-71.138062"
+        ]
+      }
+    },
+    {
+      "start_time": "13:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.399483569192505,
+          -71.13751360448454
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.6081408340363952,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.22469166659793363,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.22469166659793363,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.399483569192505,
+          -71.13751360448454
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.399483569192505,
+        -71.13751360448454
+      ]
+    },
+    "work": {
+      "name": "Corporate Cafe",
+      "coordinates": [
+        "42.398528",
+        "-71.139919"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Russell Field by walking which takes 0-10 minutes.",
+    "On 08:20, I want to work, I go to Corporate Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 11:45, I want to eat, I go to Corporate Cafe by walking which takes 0-10 minutes.",
+    "On 12:38, I want to work, I go to Corporate Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 12:55, I want to social, I go to Pioneer Property Group by auto_passenger which takes 0-10 minutes.",
+    "On 13:45, I want to recreation, I go to Russell Field by walking which takes 10-20 minutes.",
+    "On 13:55, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Friendly Corner Convenience Store by auto_passenger which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Corporate Cafe by walking which takes 0-10 minutes.",
+    "On 20:30, I want to eat, I go to Corporate Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 22:00, I want to home, I go to home by auto_passenger which takes 0-10 minutes."
+  ]
+}

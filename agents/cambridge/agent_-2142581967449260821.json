@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Christopher Lynch\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kimchi Kitchen",
+        "distance_km": 0.26814891501594224,
+        "coordinates": [
+          "42.372553",
+          "-71.090859"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Taste",
+        "distance_km": 0.30882761684996574,
+        "coordinates": [
+          "42.369986",
+          "-71.096053"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.4072276175479142,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.7360507553862894,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 0.5068045754593886,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Super",
+        "distance_km": 0.3655037910606451,
+        "coordinates": [
+          "42.371419",
+          "-71.098356"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Taste",
+        "distance_km": 0.30882761684996574,
+        "coordinates": [
+          "42.369986",
+          "-71.096053"
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372361203921535,
+          -71.09410429136386
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372361203921535,
+        -71.09410429136386
+      ]
+    },
+    "work": {
+      "name": "Kimchi Kitchen",
+      "coordinates": [
+        "42.372553",
+        "-71.090859"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Kimchi Kitchen by walking which takes 10-20 minutes.",
+    "On 11:45, I want to eat, I go to The Taste by walking which takes 10-20 minutes.",
+    "On 12:30, I want to shop, I go to Joe's Kwik Mart by walking which takes 10-20 minutes.",
+    "On 14:15, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes 0-10 minutes.",
+    "On 16:15, I want to shop, I go to Inman Square Supermarket by walking which takes 10-20 minutes.",
+    "On 17:30, I want to social, I go to The Super by walking which takes 10-20 minutes.",
+    "On 19:15, I want to eat, I go to The Taste by walking which takes 10-20 minutes.",
+    "On 19:45, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

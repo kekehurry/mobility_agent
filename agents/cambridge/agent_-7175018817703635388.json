@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Sheila McCarthy\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:40",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 0.614616256036843,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "07:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cafe Kiraz",
+        "distance_km": 1.5002595539685504,
+        "coordinates": [
+          "42.369968",
+          "-71.096073"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 2.261255642938167,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "13:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 2.0221426315265396,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.358059223718,
+          -71.08748150766803
+        ]
+      }
+    },
+    {
+      "start_time": "16:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Melting Sun",
+        "distance_km": 0.268801431237259,
+        "coordinates": [
+          "42.360213",
+          "-71.085994"
+        ]
+      }
+    },
+    {
+      "start_time": "17:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.358059223718,
+          -71.08748150766803
+        ]
+      }
+    },
+    {
+      "start_time": "19:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Melting Sun",
+        "distance_km": 0.268801431237259,
+        "coordinates": [
+          "42.360213",
+          "-71.085994"
+        ]
+      }
+    },
+    {
+      "start_time": "20:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.358059223718,
+          -71.08748150766803
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.358059223718,
+        -71.08748150766803
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:40, I want to social, I go to One Broadway by walking which takes 10-20 minutes.",
+    "On 07:10, I want to eat, I go to Cafe Kiraz by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to social, I go to Kemsley Education by public_transit which takes 20-30 minutes.",
+    "On 13:45, I want to shop, I go to Inman Square Supermarket by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:40, I want to eat, I go to Melting Sun by walking which takes 0-10 minutes.",
+    "On 17:55, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 19:20, I want to eat, I go to Melting Sun by walking which takes 0-10 minutes.",
+    "On 20:10, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

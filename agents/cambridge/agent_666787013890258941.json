@@ -1,0 +1,129 @@
+{
+  "profile": "{\n\n  \"name\": \"Reginald Evans\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"employed\",\n  \"education\": \"some_college\",\n  \"household_size\": 2,\n  \"household_income\": \"50k-75k\",\n  \"available_vehicles\": \"zero\"\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:01",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.37472777146965974,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "07:24",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Maria L Baldwin",
+        "distance_km": 0.34323479604479185,
+        "coordinates": [
+          "42.382355",
+          "-71.116616"
+        ]
+      }
+    },
+    {
+      "start_time": "13:04",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fit Fix",
+        "distance_km": 0.2718668616807147,
+        "coordinates": [
+          "42.381162",
+          "-71.120043"
+        ]
+      }
+    },
+    {
+      "start_time": "13:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Poke City",
+        "distance_km": 0.535317043581099,
+        "coordinates": [
+          "42.383958",
+          "-71.119827"
+        ]
+      }
+    },
+    {
+      "start_time": "16:02",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Punjabi Dhaba",
+        "distance_km": 1.5244981980930388,
+        "coordinates": [
+          "42.373889",
+          "-71.100811"
+        ]
+      }
+    },
+    {
+      "start_time": "18:34",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37938614782851,
+          -71.11777138800778
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37938614782851,
+        -71.11777138800778
+      ]
+    },
+    "school": {
+      "name": "Maria L Baldwin",
+      "coordinates": [
+        "42.382355",
+        "-71.116616"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:01, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 07:24, I want to school, I go to Maria L Baldwin by walking which takes 0-10 minutes.",
+    "On 13:04, I want to recreation, I go to Fit Fix by walking which takes 0-10 minutes.",
+    "On 13:26, I want to eat, I go to Poke City by walking which takes 10-20 minutes.",
+    "On 16:02, I want to eat, I go to Punjabi Dhaba by walking which takes 20-30 minutes.",
+    "On 18:34, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

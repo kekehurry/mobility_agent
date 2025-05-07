@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Anne Lewis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sapporo Ramen at H Mart",
+        "distance_km": 1.5467167202818572,
+        "coordinates": [
+          "42.365032",
+          "-71.102756"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37537929695126,
+          -71.115321595314
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 1.5223818054988112,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.4502248611825899,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.24813191322945174,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 0.2170638967889599,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bon Me Harvard Truck",
+        "distance_km": 0.17308217576999838,
+        "coordinates": [
+          "42.37644",
+          "-71.116861"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37537929695126,
+          -71.115321595314
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37537929695126,
+        -71.115321595314
+      ]
+    },
+    "work": {
+      "name": "Sapporo Ramen at H Mart",
+      "coordinates": [
+        "42.365032",
+        "-71.102756"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Sapporo Ramen at H Mart by private_auto which takes 10-20 minutes.",
+    "On 07:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Moge Tee Cambridge by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Broadway Marketplace by walking which takes 0-10 minutes.",
+    "On 16:00, I want to recreation, I go to Harvard Film Archive by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Bon Me Harvard Truck by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

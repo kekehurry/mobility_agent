@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jeremiah Sanders\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": \"1\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cellay Inc",
+        "distance_km": 0.24606686715921747,
+        "coordinates": [
+          "42.371643",
+          "-71.101198"
+        ]
+      }
+    },
+    {
+      "start_time": "10:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "City Girl Cafe",
+        "distance_km": 0.1114144991294145,
+        "coordinates": [
+          "42.373097",
+          "-71.100335"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.23073881905818702,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 0.5341831305473065,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cellay Inc",
+        "distance_km": 0.24606686715921747,
+        "coordinates": [
+          "42.371643",
+          "-71.101198"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ginger Exchange",
+        "distance_km": 0.1882372082289603,
+        "coordinates": [
+          "42.373661",
+          "-71.098946"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Phylonix Pharmaceuticals",
+        "distance_km": 0.23777203252648563,
+        "coordinates": [
+          "42.371731",
+          "-71.101538"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373858171782246,
+          -71.10121590336391
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.373858171782246,
+        -71.10121590336391
+      ]
+    },
+    "work": {
+      "name": "Cellay Inc",
+      "coordinates": [
+        "42.371643",
+        "-71.101198"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to work, I go to Cellay Inc by private_auto which takes 0-10 minutes.",
+    "On 10:15, I want to eat, I go to City Girl Cafe by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to shop, I go to Joe's Kwik Mart by walking which takes 0-10 minutes.",
+    "On 14:00, I want to maintenance, I go to C L M Inc by walking which takes 0-10 minutes.",
+    "On 16:00, I want to work, I go to Cellay Inc by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Ginger Exchange by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Phylonix Pharmaceuticals by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

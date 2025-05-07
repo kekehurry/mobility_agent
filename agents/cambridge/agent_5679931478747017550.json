@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Tamara Mendoza\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": \"three_plus\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "05:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 0.19718626665501643,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "07:16",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38366395179266,
+          -71.12452660313768
+        ]
+      }
+    },
+    {
+      "start_time": "11:13",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Thayer & Associates",
+        "distance_km": 0.5423668425829443,
+        "coordinates": [
+          "42.386771",
+          "-71.119446"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Boathouse",
+        "distance_km": 1.5030197430400223,
+        "coordinates": [
+          "42.371436",
+          "-71.116713"
+        ]
+      }
+    },
+    {
+      "start_time": "15:08",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38366395179266,
+          -71.12452660313768
+        ]
+      }
+    },
+    {
+      "start_time": "17:29",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cabot Cafe",
+        "distance_km": 0.1897801375043927,
+        "coordinates": [
+          "42.381988",
+          "-71.124079"
+        ]
+      }
+    },
+    {
+      "start_time": "18:35",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.094225131612489,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "20:13",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Borofsky Richard M Psycholgst",
+        "distance_km": 0.3157497254858582,
+        "coordinates": [
+          "42.386371",
+          "-71.123357"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38366395179266,
+        -71.12452660313768
+      ]
+    },
+    "work": {
+      "name": "Thayer & Associates",
+      "coordinates": [
+        "42.386771",
+        "-71.119446"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 05:42, I want to social, I go to Radcliffe Quadrangle by walking which takes 0-10 minutes.",
+    "On 07:16, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 11:13, I want to work, I go to Thayer & Associates by public_transit which takes 10-20 minutes.",
+    "On 12:45, I want to eat, I go to The Boathouse by public_transit which takes 10-20 minutes.",
+    "On 15:08, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:29, I want to eat, I go to Cabot Cafe by walking which takes 0-10 minutes.",
+    "On 18:35, I want to social, I go to Trinity Property Management by public_transit which takes 10-20 minutes.",
+    "On 20:13, I want to recreation, I go to Borofsky Richard M Psycholgst by public_transit which takes 10-20 minutes."
+  ]
+}

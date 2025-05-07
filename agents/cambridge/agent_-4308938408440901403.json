@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mark Thomas\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ANA MARIA RIZZUTO MD",
+        "distance_km": 0.14777163574756647,
+        "coordinates": [
+          "42.36569",
+          "-71.077216"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thai Accent Cambridge",
+        "distance_km": 0.26903934820940567,
+        "coordinates": [
+          "42.368134",
+          "-71.076244"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Romes Fitness",
+        "distance_km": 0.31377503414139646,
+        "coordinates": [
+          "42.366543",
+          "-71.079098"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "American Eagle Store Cambridgeside Galleria",
+        "distance_km": 0.25673700775878433,
+        "coordinates": [
+          "42.368089",
+          "-71.075734"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.346381776025122,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thai Accent Cambridge",
+        "distance_km": 0.26903934820940567,
+        "coordinates": [
+          "42.368134",
+          "-71.076244"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.365788962539725,
+          -71.07542707335881
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.365788962539725,
+        -71.07542707335881
+      ]
+    },
+    "work": {
+      "name": "ANA MARIA RIZZUTO MD",
+      "coordinates": [
+        "42.36569",
+        "-71.077216"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to ANA MARIA RIZZUTO MD by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Thai Accent Cambridge by walking which takes 0-10 minutes.",
+    "On 13:15, I want to recreation, I go to Romes Fitness by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to American Eagle Store Cambridgeside Galleria by walking which takes 0-10 minutes.",
+    "On 16:30, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Thai Accent Cambridge by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

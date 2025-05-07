@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Alvin Nash\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"100k-149k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:48",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 1.673541725959584,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "10:13",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 0.49549450794523103,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "10:57",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.7693647730084602,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "16:31",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.0182961800643753,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Noodle Stix",
+        "distance_km": 0.7078255420855036,
+        "coordinates": [
+          "42.374947",
+          "-71.15063"
+        ]
+      }
+    },
+    {
+      "start_time": "20:09",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 0.3764805477274175,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "21:03",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3800857123277,
+          -71.15571210923001
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3800857123277,
+        -71.15571210923001
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:48, I want to social, I go to Charlotte Huguenor Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 10:13, I want to social, I go to Majic Construction by walking which takes 0-10 minutes.",
+    "On 10:57, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 16:31, I want to recreation, I go to Fresh Pond by auto_passenger which takes 0-10 minutes.",
+    "On 18:15, I want to eat, I go to Noodle Stix by walking which takes 0-10 minutes.",
+    "On 20:09, I want to recreation, I go to Glacken Field by walking which takes 0-10 minutes.",
+    "On 21:03, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

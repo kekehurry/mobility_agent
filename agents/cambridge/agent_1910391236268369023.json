@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"David James\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Garden at the Cellar",
+        "distance_km": 0.2787901844242612,
+        "coordinates": [
+          "42.36947",
+          "-71.110897"
+        ]
+      }
+    },
+    {
+      "start_time": "08:50",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Ramen O Bowl",
+        "distance_km": 1.5070861109292566,
+        "coordinates": [
+          "42.381964",
+          "-71.120074"
+        ]
+      }
+    },
+    {
+      "start_time": "11:25",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Garden at the Cellar",
+        "distance_km": 0.2787901844242612,
+        "coordinates": [
+          "42.36947",
+          "-71.110897"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shanghai Fresh",
+        "distance_km": 0.6168082993093946,
+        "coordinates": [
+          "42.366518",
+          "-71.104991"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.5193933484011972,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sacramento Field",
+        "distance_km": 1.5061322412396803,
+        "coordinates": [
+          "42.383018",
+          "-71.117995"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.5174395544734445,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.173568004891785,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "22:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37135660878818,
+          -71.10866477733086
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37135660878818,
+        -71.10866477733086
+      ]
+    },
+    "work": {
+      "name": "Garden at the Cellar",
+      "coordinates": [
+        "42.36947",
+        "-71.110897"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Garden at the Cellar by walking which takes 10-20 minutes.",
+    "On 08:50, I want to eat, I go to Ramen O Bowl by walking which takes 20-30 minutes.",
+    "On 11:25, I want to work, I go to Garden at the Cellar by walking which takes 10-20 minutes.",
+    "On 12:45, I want to eat, I go to Shanghai Fresh by walking which takes 10-20 minutes.",
+    "On 14:15, I want to shop, I go to Trader Joe's by public_transit which takes 20-30 minutes.",
+    "On 16:00, I want to recreation, I go to Sacramento Field by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Flour Bakery Cafe by walking which takes 20-30 minutes.",
+    "On 19:45, I want to maintenance, I go to C L M Inc by walking which takes 20-30 minutes.",
+    "On 22:15, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

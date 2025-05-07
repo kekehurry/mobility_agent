@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Sherri Cunningham\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sacramento Field",
+        "distance_km": 0.47249433631180915,
+        "coordinates": [
+          "42.383018",
+          "-71.117995"
+        ]
+      }
+    },
+    {
+      "start_time": "08:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38040289854101,
+          -71.11347000992527
+        ]
+      }
+    },
+    {
+      "start_time": "10:56",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38040289854101,
+          -71.11347000992527
+        ]
+      }
+    },
+    {
+      "start_time": "12:13",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Velozo's Food Service",
+        "distance_km": 0.3109729938922806,
+        "coordinates": [
+          "42.377706",
+          "-71.114483"
+        ]
+      }
+    },
+    {
+      "start_time": "15:56",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.581967744267463,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38040289854101,
+          -71.11347000992527
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 0.4870548024445834,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38040289854101,
+        -71.11347000992527
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to recreation, I go to Sacramento Field by walking which takes 0-10 minutes.",
+    "On 08:20, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 10:56, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:13, I want to eat, I go to Velozo's Food Service by walking which takes 0-10 minutes.",
+    "On 15:56, I want to shop, I go to Evergood Super Market by public_transit which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:45, I want to recreation, I go to Harvard Yard by public_transit which takes 0-10 minutes."
+  ]
+}

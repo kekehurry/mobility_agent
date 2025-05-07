@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"John Ward\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"homemaker\", \"education\": \"bachelor\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"2\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 1.5068225944353015,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.1239118587717527,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 1.5068225944353015,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Mad Monkfish",
+        "distance_km": 0.5077488039187484,
+        "coordinates": [
+          "42.364103",
+          "-71.102124"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.0037298112223119,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Redline Fight Sports",
+        "distance_km": 0.3657002748333109,
+        "coordinates": [
+          "42.364986",
+          "-71.103424"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367736107406174,
+          -71.10586457262984
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bar Enza",
+        "distance_km": 1.5039913233395157,
+        "coordinates": [
+          "42.372265",
+          "-71.123072"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.3663768427328008,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367736107406174,
+          -71.10586457262984
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.367736107406174,
+        -71.10586457262984
+      ]
+    },
+    "work": {
+      "name": "Broad Institute",
+      "coordinates": [
+        "42.362837",
+        "-71.088807"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Broad Institute by public_transit which takes 10-20 minutes.",
+    "On 09:30, I want to maintenance, I go to C L M Inc by walking which takes 0-10 minutes.",
+    "On 12:00, I want to work, I go to Broad Institute by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to The Mad Monkfish by auto_passenger which takes 10-20 minutes.",
+    "On 13:30, I want to shop, I go to Whole Foods Market by auto_passenger which takes 10-20 minutes.",
+    "On 15:00, I want to recreation, I go to Redline Fight Sports by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:15, I want to eat, I go to Bar Enza by auto_passenger which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to Victoria Goodman Santana Properties Team by auto_passenger which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

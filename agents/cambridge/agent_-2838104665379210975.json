@@ -1,0 +1,248 @@
+{
+  "profile": "{\"name\": \"Julie Moore\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 1.5017372602846335,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 1.025879760370864,
+        "coordinates": [
+          "42.364819",
+          "-71.103271"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CrossFit Medusa",
+        "distance_km": 2.515843609392584,
+        "coordinates": [
+          "42.389901",
+          "-71.120247"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "First Cambridge Realty Corporation",
+        "distance_km": 0.5649922749523218,
+        "coordinates": [
+          "42.368479",
+          "-71.108412"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "SalsaBoston Entertainment",
+        "distance_km": 1.0027268314071631,
+        "coordinates": [
+          "42.358545",
+          "-71.114815"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.36377290113396044,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367568409748245,
+          -71.11516024807788
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Democracy Center",
+        "distance_km": 0.42482367522370856,
+        "coordinates": [
+          "42.371292",
+          "-71.116337"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Sushi Shoten",
+        "distance_km": 0.36477031410201044,
+        "coordinates": [
+          "42.370568",
+          "-71.113358"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Orangetheory Fitness",
+        "distance_km": 2.7409865938391733,
+        "coordinates": [
+          "42.366125",
+          "-71.081942"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367568409748245,
+          -71.11516024807788
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Domino's Pizza",
+        "distance_km": 0.3630832630945558,
+        "coordinates": [
+          "42.369751",
+          "-71.111879"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367568409748245,
+          -71.11516024807788
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.367568409748245,
+        -71.11516024807788
+      ]
+    },
+    "work": {
+      "name": "Lesley University",
+      "coordinates": [
+        "42.38099",
+        "-71.117349"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to work, I go to Lesley University by public_transit which takes 10-20 minutes.",
+    "On 07:30, I want to eat, I go to Chipotle Mexican Grill by public_transit which takes 10-20 minutes.",
+    "On 09:00, I want to recreation, I go to CrossFit Medusa by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to social, I go to First Cambridge Realty Corporation by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to SalsaBoston Entertainment by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to shop, I go to Western Market by walking which takes 0-10 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to The Democracy Center by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Cafe Sushi Shoten by walking which takes 0-10 minutes.",
+    "On 18:00, I want to recreation, I go to Orangetheory Fitness by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:00, I want to eat, I go to Domino's Pizza by public_transit which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

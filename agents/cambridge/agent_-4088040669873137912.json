@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Scott Mullen\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 0.5017597568663484,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frozen Yogi",
+        "distance_km": 0.21271175403820436,
+        "coordinates": [
+          "42.364144",
+          "-71.107505"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36514244352722,
+          -71.10970842915746
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 0.17113128194781752,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.3411591648707156,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36514244352722,
+          -71.10970842915746
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frozen Yogi",
+        "distance_km": 0.21271175403820436,
+        "coordinates": [
+          "42.364144",
+          "-71.107505"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36514244352722,
+          -71.10970842915746
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36514244352722,
+        -71.10970842915746
+      ]
+    },
+    "work": {
+      "name": "Flame Hot Pot & Sushi",
+      "coordinates": [
+        "42.369519",
+        "-71.111216"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Flame Hot Pot & Sushi by walking which takes 10-20 minutes.",
+    "On 10:00, I want to eat, I go to Frozen Yogi by walking which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Willis Moore Youth Center by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Vermas Market by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Frozen Yogi by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

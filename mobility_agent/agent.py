@@ -44,7 +44,7 @@ class POISelection(BaseModel):
     selection: int = Field(description="The selected destination option number")
     
 class MobilityAgent:
-    def __init__(self,profile=None,city='Cambridge,MA',sample_num=1000,reference_city=REFERENCE_CITY):
+    def __init__(self,profile=None,city='Cambridge,MA',sample_num=1000,reference_city=REFERENCE_CITY,save_dir="data/agents"):
         self.client = OpenAI(base_url=BASE_URL,api_key=API_KEY)
         self.profile = profile
         self.city = city
@@ -56,6 +56,7 @@ class MobilityAgent:
         self.behavior_graph = BehaviorGraph(sample_num=sample_num)
         self.memory_locations = {}
         self.working_memory = ["Today is a normal weekday"]
+        self.save_dir = save_dir
         if not profile:
             self._generate_profile()
         return
@@ -86,22 +87,32 @@ class MobilityAgent:
         # Also update the working memory string to include this information
         self.memory_locations[location_type] = location_data
         return location_data
-    
-    def get_mode_prefernce_without_reference(self, desire,time,distance=None):
+        
+    def get_mode_prefernce(self, desire,time,use_reference=True,distance=None):
 
         def number2strtime(numeric_time):
             hours = int(numeric_time)
             minutes = int((numeric_time - hours) * 60)
             return f"{hours:02d}:{minutes:02d}"
+        if use_reference:
+            _,weights =self.behavior_graph.preference_modelling(profile=self.profile,desire=desire,time=time)
+            reference_prompt = f"""Context: This is the reference choices of people who have similar profiles in {self.reference_city} in a normal workday. Higher wights means more likely to be chosen by people with similar profile.
+            Available Mode Choices : {[d['primary_mode'] for d in weights]}
+            Available Duration Choices : {[d['duration_minutes'] for d in weights]}
+            """
+            reference_note = f"- You should consider your profile, the choices, and the possible cultural difference between {self.reference_city} and {self.city}."
+        else:
+            reference_prompt = """"
+            Available Mode Choices : ['walking', 'biking', 'auto_passenger','public_transit','private_auto', 'on_demand_auto','other_travel_mode']
+            Available Duration Choices :[ '0-10','10-20','20-30', '30-40', '40-50', '50-60']
+            """
+            reference_note = ""
 
         time = number2strtime(time)
 
-        mode_list = ['walking', 'biking', 'auto_passenger', 'public_transit',
-       'private_auto', 'other_travel_mode', 'on_demand_auto']
-        duration_list = ['0-10','10-20','20-30', '30-40', '40-50','50-60']
-
         if not distance : 
             distance = 'unknown'
+
 
         choice_template = f""" You are {self.profile}, tasked with simulating realistic transportation behavior based on reference data from people with similar profiles. 
 
@@ -109,76 +120,14 @@ class MobilityAgent:
         Current Desire: {desire}
         Current memory: {self.working_memory}
         Target Distance: {distance}
-
+        {reference_prompt}
+        
         What transportation mode and duration minutes do you prefer?
-
-        Available Mode Choices : {mode_list}
-        Available Duration Choices : {duration_list}
 
         Note: 
         - Output your reason and preference weight of different choices
-        - You should consider your profile and the available choices.
         - The sum of all weights should equals to 1.
-
-        Answer Format:
-        {{
-        'think': [list your reason in short sentences (up to 4 points)]
-        'choice_weights':[
-        {{'primary_mode': mode1, 'duration_minutes': duration1, weight: weight1 }},
-        {{'primary_mode': mode2, 'duration_minutes': duration2, weight: weight2 }},
-        ...
-        ]
-        }}
-        """
-        system_prompt = "You are a transportation behavior simulator that makes realistic choices based on statistical patterns."
-
-        try:
-            response = self.client.beta.chat.completions.parse(
-            model=MODEL,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": choice_template}
-            ],
-            temperature=0.7,  # Some randomness for variety
-            response_format=TransportationChoice,
-            )
-            result = json.loads(response.choices[0].message.content)
-            return result
-        except Exception as e:
-            print(e)
-            return None
-        
-    def get_mode_prefernce(self, desire,time,distance=None):
-
-        def number2strtime(numeric_time):
-            hours = int(numeric_time)
-            minutes = int((numeric_time - hours) * 60)
-            return f"{hours:02d}:{minutes:02d}"
-        
-        _,weights =self.behavior_graph.preference_modelling(profile=self.profile,desire=desire,time=time)
-
-        time = number2strtime(time)
-
-        if not distance : 
-            distance = 'unknown'
-
-        choice_template = f""" You are {self.profile}, tasked with simulating realistic transportation behavior based on reference data from people with similar profiles. 
-
-        Current Time: {time}
-        Current Desire: {desire}
-        Current memory: {self.working_memory}
-        Context: This is the reference choices of people who have similar profiles in {self.reference_city} in a normal workday. Higher wights means more likely to be chosen by people with similar profile.
-        Target Distance: {distance}
-
-        What transportation mode and duration minutes do you prefer?
-
-        Available Mode Choices : {[d['primary_mode'] for d in weights]}
-        Available Duration Choices : {[d['duration_minutes'] for d in weights]}
-
-        Note: 
-        - Output your reason and preference weight of different choices
-        - You should consider your profile, the choices, and the possible cultural difference between {self.reference_city} and {self.city}.
-        - The sum of all weights should equals to 1.
+        {reference_note}
 
         Answer Format:
         {{
@@ -208,7 +157,7 @@ class MobilityAgent:
             print(e)
             return None
     
-    def get_location_choice(self,current_lat,current_lon,desire,time):
+    def get_location_choice(self,current_lat,current_lon,desire,time,use_reference=True):
         # First check if this destination type exists in memory
         if desire in self.memory_locations:
             # Use the existing location from memory
@@ -220,7 +169,7 @@ class MobilityAgent:
             distance_km = geodesic(current_coords, destination_coords).kilometers
             
             # Get mode preferences still to determine travel mode
-            mode_preference = self.get_mode_prefernce(desire=desire, time=time, distance=distance_km)
+            mode_preference = self.get_mode_prefernce(desire=desire, time=time, distance=distance_km,use_reference=use_reference)
             choice_weights = mode_preference['choice_weights']
 
             # Select the mode with the highest weight
@@ -244,7 +193,7 @@ class MobilityAgent:
                 'reasoning': f"This is my regular {desire} location."
             }
         
-        mode_prefernce = self.get_mode_prefernce(desire=desire,time=time)
+        mode_prefernce = self.get_mode_prefernce(desire=desire,time=time,use_reference=use_reference)
         choice_weights = mode_prefernce['choice_weights']
         modes = [choice['primary_mode'] for choice in choice_weights]
         weights = [choice['weight'] for choice in choice_weights]
@@ -335,6 +284,9 @@ class MobilityAgent:
             
             Available destinations:
             {poi_text}
+
+            Note:
+            Higher popularity means more people are likely to choose
             
             Please select the number of the best option (1-{len(tool_result["pois"])}) and explain your reasoning.
             """
@@ -401,10 +353,15 @@ class MobilityAgent:
             # print("The LLM didn't call the search tool as expected.")
             return None
         
-    def make_a_plan(self):
-        subgraph,_ =self.behavior_graph.preference_modelling(profile=self.profile,desire='work',time=10)
+    def make_a_plan(self,use_reference=True):
+        
 
-        reference_schedule = [d['props'] for _,d in subgraph.nodes(data=True) if d['type']=='desire']
+        if use_reference:
+            subgraph,_ =self.behavior_graph.preference_modelling(profile=self.profile,desire='work',time=10)
+            reference_schedule = [d['props'] for _,d in subgraph.nodes(data=True) if d['type']=='desire']
+            reference_prompt = f"This is some reference schedule from people with similar profile : {reference_schedule}"
+        else:
+            reference_prompt = ""
 
         system_prompt = """You are an expert in human mobility patterns and daily routines.
         Your task is to create a realistic daily transport schedule for a person based on their profile and the memory."""
@@ -415,7 +372,7 @@ class MobilityAgent:
         IMPORTANT: Only include entries when the person needs to **travel to a new location**. 
         Do NOT include activities that happen at the current location (e.g., eating breakfast at home while already at home should not be included).
 
-        This is some reference schedule from people with similar profile : {reference_schedule}
+        {reference_prompt}
         
         The schedule should include:
         1. Start time for each activity in HH:MM format (24-hour clock)
@@ -440,7 +397,7 @@ class MobilityAgent:
             # print(f"Error generating schedule: {e}")
             return None
         
-    def get_time_schedule(self):
+    def get_time_schedule(self,use_reference=True):
         def strtime2number(strtime):
             time = datetime.datetime.strptime(strtime, "%H:%M").time()
             return time.hour+time.minute/60
@@ -457,7 +414,7 @@ class MobilityAgent:
         prev_location = self.memory_locations["home"]["coordinates"]
         prev_desire = "home"
 
-        plan = self.make_a_plan()
+        plan = self.make_a_plan(use_reference=use_reference)
         self.time_schedule = []
 
         if plan:
@@ -466,7 +423,7 @@ class MobilityAgent:
                 desire = p['desire']
                 if desire != prev_desire:
                     try:
-                        result = self.get_location_choice(current_lat=prev_location[0],current_lon=prev_location[1],desire=desire,time=strtime2number(time))
+                        result = self.get_location_choice(current_lat=prev_location[0],current_lon=prev_location[1],desire=desire,time=strtime2number(time),use_reference=use_reference)
                         if result:
                             schedule_item = {
                                 "start_time":time,
@@ -487,11 +444,11 @@ class MobilityAgent:
     def save_schedule(self):
         """Save the current time schedule and agent state to a JSON file."""
         # Create a directory for the schedules if it doesn't exist
-        os.makedirs("data/agents", exist_ok=True)
+        os.makedirs(self.save_dir, exist_ok=True)
         
         # Generate a filename based on the agent's profile
         profile_id = hash(self.profile)
-        filename = f"data/agents/agent_{profile_id}.json"
+        filename = os.path.join(self.save_dir,f"agent_{profile_id}.json")
         
         # Save the schedule and agent state
         agent_data = {

@@ -1,0 +1,104 @@
+{
+  "profile": "{\"name\": \"Matthew Wells\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"one\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "14:23",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Donnelly Field",
+        "distance_km": 0.3299790303824674,
+        "coordinates": [
+          "42.370393",
+          "-71.0922"
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Al Hoda Market",
+        "distance_km": 0.2653382279238287,
+        "coordinates": [
+          "42.372744",
+          "-71.098472"
+        ]
+      }
+    },
+    {
+      "start_time": "16:36",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 0.30405985377434586,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "18:39",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 1.0026594067162098,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372258436938175,
+          -71.09531779765528
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372258436938175,
+        -71.09531779765528
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 14:23, I want to recreation, I go to Donnelly Field by auto_passenger which takes 0-10 minutes.",
+    "On 16:03, I want to shop, I go to Al Hoda Market by biking which takes 0-10 minutes.",
+    "On 16:36, I want to eat, I go to Brooklyn Bagel Factory by private_auto which takes 0-10 minutes.",
+    "On 18:39, I want to social, I go to Wellmet Project by private_auto which takes 0-10 minutes.",
+    "On 19:15, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

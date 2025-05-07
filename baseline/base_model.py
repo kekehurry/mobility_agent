@@ -124,22 +124,12 @@ class BaseModel:
             
         # Calculate top-k-accuracy
         topk_accuracies = cal_topk_acc(self,X_eval, y_eval, k=k)
-        
-        # Calculate KL divergence
-        if group_features is None:
-            # Use all categorical features if none specified
-            if isinstance(X_eval, pd.DataFrame):
-                group_features = [col for col in X_eval.columns 
-                                    if X_eval[col].dtype == 'object' or X_eval[col].nunique() < 10]
-            else:
-                raise ValueError("Must provide group_features when X_eval is not a DataFrame")
-
-        kl_df, overall_kl,overall_mape = cal_group_kl_divergence(self, X_eval, y_eval, group_features)
+        kl_df, overall_kl,overall_mae = cal_group_kl_divergence(self, X_eval, y_eval)
         print(f"=======Evaluating model=======")
         print(f"Top {k} accuracy: { topk_accuracies['average']:.4f}")
         print(f"Overall average KL divergence: {overall_kl:.4f}")
-        print(f"Overall mean absolute percentage error: {overall_mape:.4f}")
-        return topk_accuracies,overall_kl,overall_mape,kl_df
+        print(f"Overall mean absolute error: {overall_mae:.4f}")
+        return topk_accuracies,overall_kl,overall_mae,kl_df
     
     def save_model(self):
         """

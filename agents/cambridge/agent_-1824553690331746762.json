@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"Adam Garcia\", \"city\": \"Cambridge,MA\", \"age\": 22, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 0.2927598119366379,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "07:18",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Friends School",
+        "distance_km": 0.2544615428226777,
+        "coordinates": [
+          "42.387872",
+          "-71.130666"
+        ]
+      }
+    },
+    {
+      "start_time": "08:46",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 0.2927598119366379,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gran Gusto",
+        "distance_km": 0.28871147356060567,
+        "coordinates": [
+          "42.38851",
+          "-71.132169"
+        ]
+      }
+    },
+    {
+      "start_time": "12:35",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Griffin Properties",
+        "distance_km": 0.5621826600752742,
+        "coordinates": [
+          "42.394597",
+          "-71.126698"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.093030833719551,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "14:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.5250605576728308,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:08",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gran Gusto",
+        "distance_km": 0.28871147356060567,
+        "coordinates": [
+          "42.38851",
+          "-71.132169"
+        ]
+      }
+    },
+    {
+      "start_time": "18:31",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38988658402599,
+          -71.12919498538658
+        ]
+      }
+    },
+    {
+      "start_time": "21:11",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.4392123437127837,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38988658402599,
+        -71.12919498538658
+      ]
+    },
+    "school": {
+      "name": "Cambridge Friends School",
+      "coordinates": [
+        "42.387872",
+        "-71.130666"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Soccer Nights",
+      "coordinates": [
+        "42.391947",
+        "-71.131412"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Soccer Nights by walking which takes 0-10 minutes.",
+    "On 07:18, I want to school, I go to Cambridge Friends School by walking which takes 0-10 minutes.",
+    "On 08:46, I want to work, I go to Soccer Nights by walking which takes 0-10 minutes.",
+    "On 10:00, I want to eat, I go to Gran Gusto by walking which takes 0-10 minutes.",
+    "On 12:35, I want to social, I go to Griffin Properties by walking which takes 10-20 minutes.",
+    "On 14:20, I want to maintenance, I go to Mavis Tires & Brakes by public_transit which takes 10-20 minutes.",
+    "On 14:55, I want to shop, I go to Pemberton Farms by public_transit which takes 10-20 minutes.",
+    "On 17:08, I want to eat, I go to Gran Gusto by walking which takes 0-10 minutes.",
+    "On 18:31, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:11, I want to recreation, I go to Fresh Pond by walking which takes 0-10 minutes."
+  ]
+}

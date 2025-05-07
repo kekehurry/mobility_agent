@@ -87,6 +87,9 @@ def cal_group_kl_divergence(model=None, X_eval=None, y_eval=None, group_features
         target_cols = [f"target_{i}" for i in range(y_eval.shape[1])]
         pred_cols = [f"predicted_target_{i}" for i in range(y_eval.shape[1])]
 
+    if group_features is None:
+        group_features = ['age_group','income_group', 'employment_status', 'household_size','available_vehicles', 'education', 'trip_purpose','start_time']
+
     # Create result dataframe if not provided
     if result_df is None:
         # Get predictions
@@ -135,7 +138,7 @@ def cal_group_kl_divergence(model=None, X_eval=None, y_eval=None, group_features
                 # Calculate actual and predicted distributions
                 actual_counts = group_df[target].value_counts(normalize=True)
                 pred_counts = group_df[pred_col].value_counts(normalize=True)
-                
+
                 # Ensure distributions have the same indices
                 all_values = sorted(set(actual_counts.index) | set(pred_counts.index))
                 actual_dist = np.array([actual_counts.get(val, 0) for val in all_values])
@@ -145,6 +148,9 @@ def cal_group_kl_divergence(model=None, X_eval=None, y_eval=None, group_features
                 smooth = 1e-10
                 actual_dist = actual_dist + smooth
                 pred_dist = pred_dist + smooth
+
+                # Calculate mean absolute error(mae)
+                mae = np.mean(np.abs((actual_dist - pred_dist)))
                 
                 # Normalize
                 actual_dist = actual_dist / actual_dist.sum()
@@ -152,10 +158,6 @@ def cal_group_kl_divergence(model=None, X_eval=None, y_eval=None, group_features
                 
                 # Calculate KL divergence
                 kl_div = entropy(actual_dist, pred_dist)
-
-                # Calculate mean absolute percentage error(mape)
-                mape = np.mean(np.abs((actual_dist - pred_dist) / np.maximum(actual_dist, 1e-10)))
-                mape = np.clip(mape, 0, 1)
                 
                 # Store results
                 kl_results.append({
@@ -164,7 +166,7 @@ def cal_group_kl_divergence(model=None, X_eval=None, y_eval=None, group_features
                     'target': target,
                     'sample_size': len(group_df),
                     'kl_divergence': kl_div,
-                    'mape':mape
+                    'mae':mae
                 })
     
     # Create results dataframe
@@ -172,10 +174,10 @@ def cal_group_kl_divergence(model=None, X_eval=None, y_eval=None, group_features
     
     # Calculate overall average KL divergence
     overall_kl = kl_df['kl_divergence'].mean()
-    overall_mape = kl_df['mape'].mean()
+    overall_mae = kl_df['mae'].mean()
     # print(f"Overall average KL divergence: {overall_kl:.4f}")
-    # print(f"Overall mean absolute percentage error: {overall_mape:.4f}")
-    return kl_df, overall_kl,overall_mape
+    # print(f"Overall mean absolute percentage error: {overall_mae:.4f}")
+    return kl_df, overall_kl,overall_mae
 
 def cal_topk_acc(model=None, X_eval=None, y_eval=None, result_df=None,k=3):
     results = {}

@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"Colton Allen\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"high_school\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": \"zero\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ANNA BERKENBLIT MD",
+        "distance_km": 0.27288643450916944,
+        "coordinates": [
+          "42.394934",
+          "-71.143333"
+        ]
+      }
+    },
+    {
+      "start_time": "08:55",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Benjamin Banneker Charter Public School",
+        "distance_km": 0.9101779765257252,
+        "coordinates": [
+          "42.392113",
+          "-71.131734"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Comeau Field",
+        "distance_km": 0.29013953335132153,
+        "coordinates": [
+          "42.394742",
+          "-71.138527"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.22619893587423665,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "14:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ANNA BERKENBLIT MD",
+        "distance_km": 0.27288643450916944,
+        "coordinates": [
+          "42.394934",
+          "-71.143333"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.396639897052935,
+          -71.14094804963565
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.7114839783077953,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 1.5434582382104376,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.396639897052935,
+          -71.14094804963565
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.396639897052935,
+          -71.14094804963565
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.396639897052935,
+        -71.14094804963565
+      ]
+    },
+    "work": {
+      "name": "ANNA BERKENBLIT MD",
+      "coordinates": [
+        "42.394934",
+        "-71.143333"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Benjamin Banneker Charter Public School",
+      "coordinates": [
+        "42.392113",
+        "-71.131734"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:05, I want to work, I go to ANNA BERKENBLIT MD by walking which takes 0-10 minutes.",
+    "On 08:55, I want to school, I go to Benjamin Banneker Charter Public School by public_transit which takes 10-20 minutes.",
+    "On 11:00, I want to recreation, I go to Comeau Field by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Corporate Cafe by walking which takes 0-10 minutes.",
+    "On 14:40, I want to work, I go to ANNA BERKENBLIT MD by walking which takes 0-10 minutes.",
+    "On 15:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Bread & Circus by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Concord Avenue Cafe by biking which takes 10-20 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

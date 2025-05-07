@@ -1,0 +1,273 @@
+{
+  "profile": "{\"name\": \"Miguel Washington\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": \"two\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:49",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "India Pavilion",
+        "distance_km": 1.5001365959478417,
+        "coordinates": [
+          "42.365411",
+          "-71.104776"
+        ]
+      }
+    },
+    {
+      "start_time": "09:02",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 1.843795426626402,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "09:59",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "James F Farr Academy",
+        "distance_km": 1.6178670500884438,
+        "coordinates": [
+          "42.363191",
+          "-71.104569"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 1.507263592874676,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "10:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "India Pavilion",
+        "distance_km": 1.5001365959478417,
+        "coordinates": [
+          "42.365411",
+          "-71.104776"
+        ]
+      }
+    },
+    {
+      "start_time": "12:50",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sapporo Ramen at H Mart",
+        "distance_km": 1.6708726519461796,
+        "coordinates": [
+          "42.365032",
+          "-71.102756"
+        ]
+      }
+    },
+    {
+      "start_time": "14:14",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.6074878579965075,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "14:52",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370119698822684,
+          -71.12184490166725
+        ]
+      }
+    },
+    {
+      "start_time": "16:25",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 2.10980111459937,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370119698822684,
+          -71.12184490166725
+        ]
+      }
+    },
+    {
+      "start_time": "18:32",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Little Crepe Cafe",
+        "distance_km": 1.5217744576159442,
+        "coordinates": [
+          "42.383127",
+          "-71.116045"
+        ]
+      }
+    },
+    {
+      "start_time": "19:57",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 1.507263592874676,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "21:12",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Come To Yoga With Barbara Lyon",
+        "distance_km": 1.6086599365753684,
+        "coordinates": [
+          "42.370093",
+          "-71.102315"
+        ]
+      }
+    },
+    {
+      "start_time": "21:57",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "India Pavilion",
+        "distance_km": 1.5001365959478417,
+        "coordinates": [
+          "42.365411",
+          "-71.104776"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370119698822684,
+        -71.12184490166725
+      ]
+    },
+    "work": {
+      "name": "India Pavilion",
+      "coordinates": [
+        "42.365411",
+        "-71.104776"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "James F Farr Academy",
+      "coordinates": [
+        "42.363191",
+        "-71.104569"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:49, I want to work, I go to India Pavilion by private_auto which takes 10-20 minutes.",
+    "On 09:02, I want to social, I go to Up Stage by public_transit which takes 10-20 minutes.",
+    "On 09:59, I want to school, I go to James F Farr Academy by private_auto which takes 10-20 minutes.",
+    "On 10:05, I want to shop, I go to Daily Table Central Square by private_auto which takes 10-20 minutes.",
+    "On 10:50, I want to work, I go to India Pavilion by private_auto which takes 10-20 minutes.",
+    "On 12:50, I want to eat, I go to Sapporo Ramen at H Mart by public_transit which takes 10-20 minutes.",
+    "On 14:14, I want to maintenance, I go to Nick's Magazine Auto R by private_auto which takes 10-20 minutes.",
+    "On 14:52, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 16:25, I want to shop, I go to Thistle & Shamrock by auto_passenger which takes 10-20 minutes.",
+    "On 16:50, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:32, I want to eat, I go to The Little Crepe Cafe by public_transit which takes 10-20 minutes.",
+    "On 19:57, I want to shop, I go to Daily Table Central Square by private_auto which takes 10-20 minutes.",
+    "On 21:12, I want to recreation, I go to Come To Yoga With Barbara Lyon by private_auto which takes 10-20 minutes.",
+    "On 21:57, I want to eat, I go to India Pavilion by public_transit which takes 10-20 minutes."
+  ]
+}

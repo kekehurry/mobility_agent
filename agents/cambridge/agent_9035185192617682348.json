@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Juan Hanson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": \"2\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 2.5022583785893246,
+        "coordinates": [
+          "42.368123",
+          "-71.102394"
+        ]
+      }
+    },
+    {
+      "start_time": "09:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.7641085837733401,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "10:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 0.40409291239063583,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 1.5172271264116035,
+        "coordinates": [
+          "42.371475",
+          "-71.11686"
+        ]
+      }
+    },
+    {
+      "start_time": "13:45",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.839931500167301,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 2.3243201865574554,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    },
+    {
+      "start_time": "17:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Margolin June Psychothrpst",
+        "distance_km": 0.27169998044659244,
+        "coordinates": [
+          "42.384475",
+          "-71.120488"
+        ]
+      }
+    },
+    {
+      "start_time": "18:35",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tisan Coffee Express",
+        "distance_km": 0.32279454003871033,
+        "coordinates": [
+          "42.383962",
+          "-71.119844"
+        ]
+      }
+    },
+    {
+      "start_time": "19:40",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.128493826107453,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38414062311635,
+          -71.12375634194935
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38414062311635,
+        -71.12375634194935
+      ]
+    },
+    "work": {
+      "name": "Taqueria",
+      "coordinates": [
+        "42.368123",
+        "-71.102394"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Taqueria by public_transit which takes 20-30 minutes.",
+    "On 09:10, I want to shop, I go to Trader Joe's by private_auto which takes 10-20 minutes.",
+    "On 10:15, I want to recreation, I go to Quadrangle Recreational Athletic Center by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Blue Bottle Coffee by private_auto which takes 10-20 minutes.",
+    "On 13:45, I want to maintenance, I go to Mavis Tires & Brakes by private_auto which takes 10-20 minutes.",
+    "On 15:50, I want to shop, I go to Weirdo Records by private_auto which takes 10-20 minutes.",
+    "On 17:20, I want to recreation, I go to Margolin June Psychothrpst by walking which takes 10-20 minutes.",
+    "On 18:35, I want to eat, I go to Tisan Coffee Express by private_auto which takes 0-10 minutes.",
+    "On 19:40, I want to social, I go to Trinity Property Management by public_transit which takes 20-30 minutes.",
+    "On 21:15, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

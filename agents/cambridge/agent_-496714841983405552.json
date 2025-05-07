@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Donna Ramsey\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": \"unknown_num_vehicles\"}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 1.5932322817474731,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 1.604910630458831,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 1.6108935795619137,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Prasadam",
+        "distance_km": 1.0219434545009556,
+        "coordinates": [
+          "42.376385",
+          "-71.123888"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 1.7589830871956877,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Surya Indian Express",
+        "distance_km": 4.194353190736016,
+        "coordinates": [
+          "42.368663",
+          "-71.076589"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thayer & Associates",
+        "distance_km": 0.2655834854064462,
+        "coordinates": [
+          "42.386771",
+          "-71.119446"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Get in Shape for Women",
+        "distance_km": 0.21162775344479737,
+        "coordinates": [
+          "42.385255",
+          "-71.119626"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.385496938158816,
+          -71.1221750831896
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.385496938158816,
+        -71.1221750831896
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to recreation, I go to Cambridge War Memorial Recreation Center by private_auto which takes 10-20 minutes.",
+    "On 09:00, I want to shop, I go to T.J. Maxx by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to social, I go to Charlotte Huguenor Santana Properties Team by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Prasadam by private_auto which takes 10-20 minutes.",
+    "On 14:00, I want to maintenance, I go to Mavis Tires & Brakes by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Surya Indian Express by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to social, I go to Thayer & Associates by walking which takes 0-10 minutes.",
+    "On 18:30, I want to recreation, I go to Get in Shape for Women by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

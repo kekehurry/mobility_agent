@@ -11,10 +11,11 @@ wheels/
 .venv
 *.DS_Store
 
+# Data
 data/zip
 data/raw
 data/geo/safegraph-cambridge-poi.csv
 data/geo/safegraph-sf-poi.csv
-
+cache
 notebook
 test.ipynb
