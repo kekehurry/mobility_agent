@@ -24,16 +24,19 @@ EMBEDDING_MODEL = os.getenv('EMBEDDING_MODEL', 'mxbai-embed-large')
 class BehaviorGraph:
 
     def __init__(self,sample_num=1000,trip_file=None,graph_file=None):
+        self.num_sample = sample_num
         if not trip_file:
             trip_file = TRIP_FILE
         self.graph_file = graph_file
-        self.num_sample = sample_num
-        if graph_file and os.path.exists(graph_file):
+        if not graph_file:
+            self.graph_file = f"cache/graph/graph_{self.num_sample}"
+        if self.graph_file and os.path.exists(self.graph_file):
             self.behavior_graph = self.load_graph()
         elif trip_file and os.path.exists(trip_file):
             trip_df = self._load_data(trip_file,sample_num)
             self.behavior_graph = self._create_graph(trip_df)
             self.behavior_graph = self._embedding_graph()
+            self.save_graph()
         else:
             print("No graph file or trip file provided.")
         return
@@ -301,8 +304,6 @@ class BehaviorGraph:
         return graph,weights
     
     def save_graph(self):
-        if not self.graph_file:
-            self.graph_file = f"data/graph/graph_{self.num_sample}"
         if not os.path.exists(os.path.dirname(self.graph_file)):
             os.makedirs(os.path.dirname(self.graph_file))
         with open(self.graph_file,'wb') as f:
