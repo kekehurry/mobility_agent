@@ -44,7 +44,9 @@ class POISelection(BaseModel):
     selection: int = Field(description="The selected destination option number")
     
 class MobilityAgent:
-    def __init__(self,profile=None,city='Cambridge,MA',sample_num=1000,reference_city=REFERENCE_CITY,save_dir="data/agents"):
+    def __init__(self,profile=None,city='Cambridge,MA',sample_num=1000,reference_city=REFERENCE_CITY,
+                 reference_file = None,
+                 save_dir="data/agents"):
         self.client = OpenAI(base_url=BASE_URL,api_key=API_KEY)
         self.profile = profile
         self.city = city
@@ -53,7 +55,7 @@ class MobilityAgent:
             "profile_generator": ProfileGeneratorTool()
         }
         self.reference_city = reference_city
-        self.behavior_graph = BehaviorGraph(sample_num=sample_num)
+        self.behavior_graph = BehaviorGraph(sample_num=sample_num,trip_file=reference_file)
         self.memory_locations = {}
         self.working_memory = ["Today is a normal weekday"]
         self.save_dir = save_dir
