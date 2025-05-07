@@ -8,7 +8,7 @@ class MultilayerPerceptron(BaseModel):
         base_model = MLPClassifier(max_iter=15000, random_state=self.seed)
         self.model = MultiOutputClassifier(base_model)
         self.param_grid = {
-            'estimator__hidden_layer_sizes': [(100, 100), (200, 200), (300, 300)],
+            'estimator__hidden_layer_sizes': [(16, 16), (32, 32)],
             'estimator__activation': ['tanh', 'relu'],
             'estimator__alpha': [1e-5, 1e-4, 1e-3],
             'estimator__learning_rate_init': [1e-4, 1e-3, 1e-2],

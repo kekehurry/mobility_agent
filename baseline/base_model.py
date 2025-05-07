@@ -123,13 +123,13 @@ class BaseModel:
             y_eval = self.y_eval
             
         # Calculate top-k-accuracy
-        topk_accuracies = cal_topk_acc(self,X_eval, y_eval, k=k)
+        # topk_accuracies = cal_topk_acc(self,X_eval, y_eval, k=k)
         kl_df, overall_kl,overall_mae = cal_group_kl_divergence(self, X_eval, y_eval)
         print(f"=======Evaluating model=======")
-        print(f"Top {k} accuracy: { topk_accuracies['average']:.4f}")
+        # print(f"Top {k} accuracy: { topk_accuracies['average']:.4f}")
         print(f"Overall average KL divergence: {overall_kl:.4f}")
         print(f"Overall mean absolute error: {overall_mae:.4f}")
-        return topk_accuracies,overall_kl,overall_mae,kl_df
+        return overall_kl,overall_mae,kl_df
     
     def save_model(self):
         """
