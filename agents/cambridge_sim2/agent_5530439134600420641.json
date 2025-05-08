@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Jeanette Clark\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n   ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Boston Percussive Dance",
+        "distance_km": 1.694298798495925,
+        "coordinates": [
+          "42.363868",
+          "-71.102237"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mariposa Bakery",
+        "distance_km": 1.5558317069777552,
+        "coordinates": [
+          "42.363335",
+          "-71.100716"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35788843428006,
+          -71.08331666408793
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 0.31841414138137736,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 1.2791229479042994,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Za",
+        "distance_km": 0.6403353083849899,
+        "coordinates": [
+          "42.363653",
+          "-71.083284"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35788843428006,
+          -71.08331666408793
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 1.0839953220028775,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35788843428006,
+        -71.08331666408793
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:15, I want to recreation, I go to Boston Percussive Dance by private_auto which takes 10-20 minutes.",
+    "On 12:45, I want to eat, I go to Mariposa Bakery by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes  minutes.",
+    "On 15:45, I want to social, I go to MIT Wong Auditorium by walking which takes 0-10 minutes.",
+    "On 17:00, I want to shop, I go to Old Navy by walking which takes  minutes.",
+    "On 18:00, I want to eat, I go to Za by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes  minutes.",
+    "On 21:00, I want to recreation, I go to Johnson Ice Rink by walking which takes  minutes."
+  ]
+}

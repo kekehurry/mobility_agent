@@ -1,0 +1,154 @@
+{
+  "profile": "{\"name\": \"David Martinez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"student\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:13",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.39358942011063847,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 3.145562354820595,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 2.568141691434559,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "17:47",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.8716029146270047,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "18:43",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Handle Bar Indoor Cycling Studio",
+        "distance_km": 0.6994919424882151,
+        "coordinates": [
+          "42.369484",
+          "-71.112153"
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 0.3981454218470696,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "22:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37542840369326,
+          -71.1149555103026
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37542840369326,
+        -71.1149555103026
+      ]
+    },
+    "work": {
+      "name": "CIC Cambridge",
+      "coordinates": [
+        "42.362278",
+        "-71.081135"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Broad Institute",
+      "coordinates": [
+        "42.362837",
+        "-71.088807"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:13, I want to social, I go to Cambridge Forum by walking which takes 10-20 minutes.",
+    "On 12:00, I want to work, I go to CIC Cambridge by public_transit which takes 20-30 minutes.",
+    "On 13:37, I want to school, I go to Broad Institute by public_transit which takes 20-30 minutes.",
+    "On 17:47, I want to shop, I go to Evergood Super Market by walking which takes 10-20 minutes.",
+    "On 18:43, I want to recreation, I go to The Handle Bar Indoor Cycling Studio by walking which takes 10-20 minutes.",
+    "On 19:35, I want to eat, I go to Bon Me Smith Campus Center by on_demand_auto which takes 0-10 minutes.",
+    "On 22:45, I want to home, I go to home by on_demand_auto which takes 0-10 minutes."
+  ]
+}

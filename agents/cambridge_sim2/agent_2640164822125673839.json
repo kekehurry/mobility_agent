@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Michael Jenkins\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Radcliffe Yard",
+        "distance_km": 1.8960099309862766,
+        "coordinates": [
+          "42.375392",
+          "-71.12457"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.46519606713909484,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Colette Wine Bistro",
+        "distance_km": 0.7404491952845043,
+        "coordinates": [
+          "42.389238",
+          "-71.1203"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "user input"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 0.8654256672153893,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Radcliffe Yard",
+        "distance_km": 1.8960099309862766,
+        "coordinates": [
+          "42.375392",
+          "-71.12457"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 2.1769378060813276,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Capone Foods Cambridge",
+        "distance_km": 0.32938587990393875,
+        "coordinates": [
+          "42.39507",
+          "-71.12718"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 1.0401677051967044,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392230991786555,
+          -71.128334949432
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.392230991786555,
+        -71.128334949432
+      ]
+    },
+    "work": {
+      "name": "Radcliffe Yard",
+      "coordinates": [
+        "42.375392",
+        "-71.12457"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Radcliffe Yard by public_transit which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to Thistle & Shamrock by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Colette Wine Bistro by walking which takes 10-20 minutes.",
+    "On 14:00, I want to maintenance, I go to Mavis Tires & Brakes by walking which takes user input minutes.",
+    "On 16:00, I want to work, I go to Radcliffe Yard by walking which takes  minutes.",
+    "On 17:30, I want to shop, I go to Gap by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Capone Foods Cambridge by walking which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to Charlotte Huguenor Santana Properties Team by public_transit which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

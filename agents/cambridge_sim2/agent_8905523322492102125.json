@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Matthew Wilson\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n\t",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zephyr On the Charles",
+        "distance_km": 1.5576356440777777,
+        "coordinates": [
+          "42.353765",
+          "-71.10548"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jeans Caribbean",
+        "distance_km": 0.2068952272306827,
+        "coordinates": [
+          "42.368154",
+          "-71.098464"
+        ]
+      }
+    },
+    {
+      "start_time": "13:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zephyr On the Charles",
+        "distance_km": 1.5576356440777777,
+        "coordinates": [
+          "42.353765",
+          "-71.10548"
+        ]
+      }
+    },
+    {
+      "start_time": "17:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "uBreakiFix",
+        "distance_km": 1.049000147484244,
+        "coordinates": [
+          "42.368684",
+          "-71.10981"
+        ]
+      }
+    },
+    {
+      "start_time": "17:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lou's Place",
+        "distance_km": 1.5635668417176631,
+        "coordinates": [
+          "42.37062",
+          "-71.079303"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 2.4711339668728547,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "19:05",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366454917986154,
+          -71.09743497595065
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366454917986154,
+        -71.09743497595065
+      ]
+    },
+    "work": {
+      "name": "Zephyr On the Charles",
+      "coordinates": [
+        "42.353765",
+        "-71.10548"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:05, I want to work, I go to Zephyr On the Charles by private_auto which takes 10-20 minutes.",
+    "On 12:45, I want to eat, I go to Jeans Caribbean by walking which takes 0-10 minutes.",
+    "On 13:10, I want to work, I go to Zephyr On the Charles by walking which takes 10-20 minutes.",
+    "On 17:05, I want to shop, I go to uBreakiFix by private_auto which takes  minutes.",
+    "On 17:40, I want to eat, I go to Lou's Place by private_auto which takes 10-20 minutes.",
+    "On 18:20, I want to social, I go to Marc's Handyman by private_auto which takes 10-20 minutes.",
+    "On 19:05, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

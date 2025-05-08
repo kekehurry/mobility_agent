@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Stacey Ramos\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.8229005885063162,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.21728306062768526,
+        "coordinates": [
+          "42.36963",
+          "-71.11144"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tsaparlis Nicholas M MD",
+        "distance_km": 0.630702238712537,
+        "coordinates": [
+          "42.374491",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37150489502782,
+          -71.11068787792796
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Swissbakers",
+        "distance_km": 0.670305804273389,
+        "coordinates": [
+          "42.37252",
+          "-71.11871"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37150489502782,
+          -71.11068787792796
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37150489502782,
+        -71.11068787792796
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 15:15, I want to shop, I go to Gap by walking which takes 0-10 minutes.",
+    "On 16:00, I want to eat, I go to Dunkin' by biking which takes 0-10 minutes.",
+    "On 17:30, I want to recreation, I go to Tsaparlis Nicholas M MD by auto_passenger which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes  minutes.",
+    "On 19:15, I want to eat, I go to Swissbakers by walking which takes  minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

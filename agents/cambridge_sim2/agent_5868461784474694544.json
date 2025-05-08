@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Robin Scott\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 5, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Macy's",
+        "distance_km": 0.20131439413072028,
+        "coordinates": [
+          "42.367407",
+          "-71.075804"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cantina Bar",
+        "distance_km": 0.6276717629056888,
+        "coordinates": [
+          "42.362861",
+          "-71.083721"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366568040313574,
+          -71.0779703083208
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 0.6212307660412659,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Squeaky Beaker Cafe",
+        "distance_km": 0.40285325562621593,
+        "coordinates": [
+          "42.364706",
+          "-71.082167"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366568040313574,
+          -71.0779703083208
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366568040313574,
+          -71.0779703083208
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366568040313574,
+        -71.0779703083208
+      ]
+    },
+    "work": {
+      "name": "Macy's",
+      "coordinates": [
+        "42.367407",
+        "-71.075804"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Macy's by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Cantina Bar by walking which takes 10-20 minutes.",
+    "On 13:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes  minutes.",
+    "On 17:30, I want to eat, I go to Squeaky Beaker Cafe by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

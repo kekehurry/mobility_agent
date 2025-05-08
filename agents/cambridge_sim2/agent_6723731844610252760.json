@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Cassidy Hall\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sapporo Ramen",
+        "distance_km": 0.5732533613725476,
+        "coordinates": [
+          "42.387347",
+          "-71.118435"
+        ]
+      }
+    },
+    {
+      "start_time": "11:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 0.5141854300826051,
+        "coordinates": [
+          "42.390107",
+          "-71.117726"
+        ]
+      }
+    },
+    {
+      "start_time": "13:45",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "William James Hall",
+        "distance_km": 1.7147608335168874,
+        "coordinates": [
+          "42.377191",
+          "-71.113394"
+        ]
+      }
+    },
+    {
+      "start_time": "14:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Sapporo Ramen",
+        "distance_km": 0.5732533613725476,
+        "coordinates": [
+          "42.387347",
+          "-71.118435"
+        ]
+      }
+    },
+    {
+      "start_time": "15:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.3962674105798814,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39049819360686,
+          -71.12394812958127
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ":[{"
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 0.812867383774425,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "19:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bourbon Coffee",
+        "distance_km": 0.5345817342151076,
+        "coordinates": [
+          "42.387418",
+          "-71.11896"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39049819360686,
+          -71.12394812958127
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39049819360686,
+        -71.12394812958127
+      ]
+    },
+    "work": {
+      "name": "Sapporo Ramen",
+      "coordinates": [
+        "42.387347",
+        "-71.118435"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "William James Hall",
+      "coordinates": [
+        "42.377191",
+        "-71.113394"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:40, I want to work, I go to Sapporo Ramen by walking which takes 10-20 minutes.",
+    "On 11:40, I want to eat, I go to Ben & Jerry's by public_transit which takes 10-20 minutes.",
+    "On 13:45, I want to school, I go to William James Hall by public_transit which takes 10-20 minutes.",
+    "On 14:10, I want to work, I go to Sapporo Ramen by walking which takes  minutes.",
+    "On 15:10, I want to shop, I go to Pemberton Farms by private_auto which takes 0-10 minutes.",
+    "On 17:10, I want to home, I go to home by walking which takes  minutes.",
+    "On 18:30, I want to recreation, I go to St Peters Field by walking which takes :[{ minutes.",
+    "On 19:10, I want to eat, I go to Bourbon Coffee by walking which takes 10-20 minutes.",
+    "On 21:15, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Elizabeth Miller\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Longy School Of Music Of Bard College",
+        "distance_km": 2.5026255873634065,
+        "coordinates": [
+          "42.378529",
+          "-71.123497"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 1.4175487196565266,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Turnstyle Kendall Square",
+        "distance_km": 0.8020290726859621,
+        "coordinates": [
+          "42.365975",
+          "-71.090964"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bukowski Tavern",
+        "distance_km": 0.39368395588853533,
+        "coordinates": [
+          "42.373641",
+          "-71.098753"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Longy School Of Music Of Bard College",
+        "distance_km": 2.5026255873634065,
+        "coordinates": [
+          "42.378529",
+          "-71.123497"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Superdry",
+        "distance_km": 1.6098676145552704,
+        "coordinates": [
+          "42.367864",
+          "-71.075735"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "D&R Construction",
+        "distance_km": 0.4415157808446208,
+        "coordinates": [
+          "42.369534",
+          "-71.091069"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bukowski Tavern",
+        "distance_km": 0.39368395588853533,
+        "coordinates": [
+          "42.373641",
+          "-71.098753"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37280878158769,
+          -71.09410688645735
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37280878158769,
+        -71.09410688645735
+      ]
+    },
+    "work": {
+      "name": "Longy School Of Music Of Bard College",
+      "coordinates": [
+        "42.378529",
+        "-71.123497"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:40, I want to work, I go to Longy School Of Music Of Bard College by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to social, I go to Gravestar Inc by public_transit which takes 0-10 minutes.",
+    "On 11:50, I want to recreation, I go to Turnstyle Kendall Square by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Bukowski Tavern by public_transit which takes 0-10 minutes.",
+    "On 13:30, I want to work, I go to Longy School Of Music Of Bard College by private_auto which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Superdry by private_auto which takes  minutes.",
+    "On 17:30, I want to social, I go to D&R Construction by public_transit which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Bukowski Tavern by public_transit which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

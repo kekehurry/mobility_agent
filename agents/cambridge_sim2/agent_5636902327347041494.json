@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Bryan Smith\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ames Street Deli",
+        "distance_km": 0.43624480513500713,
+        "coordinates": [
+          "42.363226",
+          "-71.088285"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 0.8133560215816832,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nop Riverfront Office Office Park",
+        "distance_km": 1.05640170708971,
+        "coordinates": [
+          "42.362238",
+          "-71.080303"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mex Taqueria & Bar",
+        "distance_km": 0.31064948832726125,
+        "coordinates": [
+          "42.363169",
+          "-71.092664"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fitness Together",
+        "distance_km": 0.7064663206419736,
+        "coordinates": [
+          "42.371124",
+          "-71.097079"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.8421640230322639,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pardon My Cheesesteak",
+        "distance_km": 0.5083973876852292,
+        "coordinates": [
+          "42.363412",
+          "-71.097266"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.365936124101495,
+          -71.09211774670328
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.365936124101495,
+        -71.09211774670328
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:15, I want to eat, I go to Ames Street Deli by walking which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to Brothers Market by on_demand_auto which takes 0-10 minutes.",
+    "On 11:30, I want to social, I go to Nop Riverfront Office Office Park by public_transit which takes 0-10 minutes.",
+    "On 13:00, I want to eat, I go to Mex Taqueria & Bar by public_transit which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Fitness Together by walking which takes 10-20 minutes.",
+    "On 17:00, I want to shop, I go to H Mart by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Pardon My Cheesesteak by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

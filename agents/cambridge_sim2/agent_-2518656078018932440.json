@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Lisa Poole\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cellay Inc",
+        "distance_km": 0.12897202441667954,
+        "coordinates": [
+          "42.371643",
+          "-71.101198"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Punjabi Dhaba",
+        "distance_km": 0.38047681395697724,
+        "coordinates": [
+          "42.373889",
+          "-71.100811"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kinematix",
+        "distance_km": 1.5910570630373175,
+        "coordinates": [
+          "42.366701",
+          "-71.082794"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bri Grady Robert Paul Properties",
+        "distance_km": 1.1177793910568545,
+        "coordinates": [
+          "42.370813",
+          "-71.114984"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.285480034542479,
+        "coordinates": [
+          "42.367987",
+          "-71.102185"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Punjabi Dhaba",
+        "distance_km": 0.38047681395697724,
+        "coordinates": [
+          "42.373889",
+          "-71.100811"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 1.3922909946754116,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370493694277656,
+          -71.10142031598666
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370493694277656,
+        -71.10142031598666
+      ]
+    },
+    "work": {
+      "name": "Cellay Inc",
+      "coordinates": [
+        "42.371643",
+        "-71.101198"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Cellay Inc by private_auto which takes 0-10 minutes.",
+    "On 11:45, I want to eat, I go to Punjabi Dhaba by public_transit which takes 0-10 minutes.",
+    "On 12:15, I want to shop, I go to Kinematix by auto_passenger which takes 10-20 minutes.",
+    "On 13:00, I want to social, I go to Bri Grady Robert Paul Properties by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Punjabi Dhaba by auto_passenger which takes 0-10 minutes.",
+    "On 18:00, I want to recreation, I go to Cambridge Center Roof Garden by walking which takes  minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

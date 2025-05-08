@@ -1,0 +1,87 @@
+{
+  "profile": "{\"name\": \"Eric Scott\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_s_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wallace Murray",
+        "distance_km": 2.2925896824540524,
+        "coordinates": [
+          "42.374539",
+          "-71.120173"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.2222756962228426,
+        "coordinates": [
+          "42.373154",
+          "-71.095093"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 1.5440532792115422,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37321421919941,
+          -71.092395552623
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37321421919941,
+        -71.092395552623
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 18:00, I want to shop, I go to Wallace Murray by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Clover Food Lab by walking which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to MIT Wong Auditorium by private_auto which takes  minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

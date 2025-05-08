@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"John Carr\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Structural Integration with Ali Mischke",
+        "distance_km": 1.7478969323740963,
+        "coordinates": [
+          "42.398381",
+          "-71.131949"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": ":15"
+      },
+      "destination": {
+        "name": "Margolin June Psychothrpst",
+        "distance_km": 0.5831993763937712,
+        "coordinates": [
+          "42.384475",
+          "-71.120488"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 0.7347304956868301,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Changsho",
+        "distance_km": 0.6126106621174983,
+        "coordinates": [
+          "42.383525",
+          "-71.119887"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.3448000110757523,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Margolin June Psychothrpst",
+        "distance_km": 0.5831993763937712,
+        "coordinates": [
+          "42.384475",
+          "-71.120488"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.383028372009214,
+          -71.12729573069237
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Yotopia",
+        "distance_km": 0.855414791724238,
+        "coordinates": [
+          "42.387287",
+          "-71.118641"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 1.3378682538908913,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.383028372009214,
+          -71.12729573069237
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.383028372009214,
+        -71.12729573069237
+      ]
+    },
+    "work": {
+      "name": "Margolin June Psychothrpst",
+      "coordinates": [
+        "42.384475",
+        "-71.120488"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to recreation, I go to Structural Integration with Ali Mischke by biking which takes 10-20 minutes.",
+    "On 08:00, I want to work, I go to Margolin June Psychothrpst by biking which takes :15 minutes.",
+    "On 11:00, I want to social, I go to Harvard Square Rental Properties by biking which takes  minutes.",
+    "On 12:30, I want to eat, I go to Changsho by biking which takes  minutes.",
+    "On 13:30, I want to shop, I go to Whole Foods Market by public_transit which takes 0-10 minutes.",
+    "On 15:30, I want to work, I go to Margolin June Psychothrpst by biking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Yotopia by biking which takes  minutes.",
+    "On 19:00, I want to shop, I go to T.J. Maxx by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

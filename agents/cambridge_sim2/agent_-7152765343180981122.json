@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Brandy Dawson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n   ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mex Taqueria & Bar",
+        "distance_km": 1.5632461726973446,
+        "coordinates": [
+          "42.363169",
+          "-71.092664"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tahaza Hummus Kitchen",
+        "distance_km": 0.49258490661365223,
+        "coordinates": [
+          "42.369777",
+          "-71.076942"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mex Taqueria & Bar",
+        "distance_km": 1.5632461726973446,
+        "coordinates": [
+          "42.363169",
+          "-71.092664"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 0.6823287404407876,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37361264917563,
+          -71.07994320556377
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bom Dough",
+        "distance_km": 1.54621952806453,
+        "coordinates": [
+          "42.373563",
+          "-71.098716"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37361264917563,
+          -71.07994320556377
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37361264917563,
+        -71.07994320556377
+      ]
+    },
+    "work": {
+      "name": "Mex Taqueria & Bar",
+      "coordinates": [
+        "42.363169",
+        "-71.092664"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Mex Taqueria & Bar by walking which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Tahaza Hummus Kitchen by walking which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Mex Taqueria & Bar by walking which takes 20-30 minutes.",
+    "On 17:30, I want to shop, I go to Old Navy by walking which takes  minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 19:30, I want to eat, I go to Bom Dough by private_auto which takes 20-30 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

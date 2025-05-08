@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Kathryn Mendez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zambrero Harvard Square",
+        "distance_km": 0.5252927749747636,
+        "coordinates": [
+          "42.372057",
+          "-71.118297"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 1.4042738779523618,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36870804242218,
+          -71.11379441526478
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Gym at Karma Yoga Studio",
+        "distance_km": 0.21695235632115398,
+        "coordinates": [
+          "42.370658",
+          "-71.113944"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 2.576404557494302,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "15:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36870804242218,
+          -71.11379441526478
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zambrero Harvard Square",
+        "distance_km": 0.5252927749747636,
+        "coordinates": [
+          "42.372057",
+          "-71.118297"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.32617711578889097,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36870804242218,
+          -71.11379441526478
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hoyt Field",
+        "distance_km": 0.5649510910597243,
+        "coordinates": [
+          "42.363705",
+          "-71.112561"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36870804242218,
+          -71.11379441526478
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36870804242218,
+        -71.11379441526478
+      ]
+    },
+    "work": {
+      "name": "Zambrero Harvard Square",
+      "coordinates": [
+        "42.372057",
+        "-71.118297"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to work, I go to Zambrero Harvard Square by private_auto which takes 10-20 minutes.",
+    "On 11:30, I want to shop, I go to Eli Incorporated by private_auto which takes  minutes.",
+    "On 12:45, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 13:20, I want to recreation, I go to The Gym at Karma Yoga Studio by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes 10-20 minutes.",
+    "On 15:40, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 16:30, I want to work, I go to Zambrero Harvard Square by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Dado Tea by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 20:15, I want to recreation, I go to Hoyt Field by walking which takes 0-10 minutes.",
+    "On 22:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

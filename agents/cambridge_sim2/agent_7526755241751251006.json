@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Matthew King\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:53",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 1.581243116364067,
+        "coordinates": [
+          "42.363793",
+          "-71.096798"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Courthouse Seafood Restaurant",
+        "distance_km": 0.2754202483759877,
+        "coordinates": [
+          "42.371483",
+          "-71.084626"
+        ]
+      }
+    },
+    {
+      "start_time": "12:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "GUESS",
+        "distance_km": 0.6949600050847939,
+        "coordinates": [
+          "42.36788",
+          "-71.075732"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372423588420624,
+          -71.08153210552469
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Panda Express",
+        "distance_km": 0.5958804896274535,
+        "coordinates": [
+          "42.368495",
+          "-71.076606"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372423588420624,
+          -71.08153210552469
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372423588420624,
+        -71.08153210552469
+      ]
+    },
+    "work": {
+      "name": "Newtowne Variety",
+      "coordinates": [
+        "42.363793",
+        "-71.096798"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:53, I want to work, I go to Newtowne Variety by biking which takes 10-20 minutes.",
+    "On 11:55, I want to eat, I go to Courthouse Seafood Restaurant by on_demand_auto which takes 0-10 minutes.",
+    "On 12:58, I want to shop, I go to GUESS by on_demand_auto which takes  minutes.",
+    "On 17:00, I want to home, I go to home by on_demand_auto which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Panda Express by private_auto which takes  minutes.",
+    "On 21:15, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

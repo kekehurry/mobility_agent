@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Wendy Ochoa\", \"city\": \"Cambridge,MA\", \"age\": 32, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"50k-75k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Geppetto",
+        "distance_km": 0.20141311224955233,
+        "coordinates": [
+          "42.372012",
+          "-71.075782"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Macy's",
+        "distance_km": 0.40630731966830974,
+        "coordinates": [
+          "42.367407",
+          "-71.075804"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gong Cha",
+        "distance_km": 0.3140341010085687,
+        "coordinates": [
+          "42.368489",
+          "-71.076158"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Geppetto",
+        "distance_km": 0.20141311224955233,
+        "coordinates": [
+          "42.372012",
+          "-71.075782"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BodyScapes Fitness",
+        "distance_km": 1.1050152629758256,
+        "coordinates": [
+          "42.363642",
+          "-71.083278"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fava Bean Mediterranean",
+        "distance_km": 0.3543588265134495,
+        "coordinates": [
+          "42.368298",
+          "-71.076631"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3708003951108,
+          -71.07396275263895
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3708003951108,
+        -71.07396275263895
+      ]
+    },
+    "work": {
+      "name": "Geppetto",
+      "coordinates": [
+        "42.372012",
+        "-71.075782"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Geppetto by private_auto which takes 0-10 minutes.",
+    "On 10:00, I want to shop, I go to Macy's by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Gong Cha by on_demand_auto which takes 0-10 minutes.",
+    "On 14:00, I want to work, I go to Geppetto by private_auto which takes  minutes.",
+    "On 16:00, I want to recreation, I go to BodyScapes Fitness by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Fava Bean Mediterranean by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

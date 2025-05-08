@@ -1,0 +1,248 @@
+{
+  "profile": "{\"name\": \"Laura Valencia\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.2324794906141776,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Marine Layer",
+        "distance_km": 0.9397194498845958,
+        "coordinates": [
+          "42.373684",
+          "-71.120976"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 1.021462945753341,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "time unknown"
+      },
+      "destination": {
+        "name": "Harvard Faculty Club",
+        "distance_km": 0.6087281431487908,
+        "coordinates": [
+          "42.37324",
+          "-71.114262"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36788968051365,
+          -71.11266338610743
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "College Year In Athens",
+        "distance_km": 1.1794178552672956,
+        "coordinates": [
+          "42.363602",
+          "-71.099565"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "OggiGourmet",
+        "distance_km": 0.7252866034530744,
+        "coordinates": [
+          "42.372441",
+          "-71.118977"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.2324794906141776,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36788968051365,
+          -71.11266338610743
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.801930311965053,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.26696895663140424,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36788968051365,
+          -71.11266338610743
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sacramento Field",
+        "distance_km": 1.7368887168139504,
+        "coordinates": [
+          "42.383018",
+          "-71.117995"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36788968051365,
+        -71.11266338610743
+      ]
+    },
+    "school": {
+      "name": "College Year In Athens",
+      "coordinates": [
+        "42.363602",
+        "-71.099565"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to maintenance, I go to Nick's Magazine Auto R by walking which takes 0-10 minutes.",
+    "On 09:30, I want to shop, I go to Marine Layer by walking which takes  minutes.",
+    "On 11:00, I want to social, I go to Done Right Care by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to Harvard Faculty Club by walking which takes time unknown minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:00, I want to school, I go to College Year In Athens by walking which takes 10-20 minutes.",
+    "On 14:30, I want to eat, I go to OggiGourmet by walking which takes 10-20 minutes.",
+    "On 15:00, I want to maintenance, I go to Nick's Magazine Auto R by auto_passenger which takes 10-20 minutes.",
+    "On 16:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:30, I want to shop, I go to Newbury Comics by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Dado Tea by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:00, I want to recreation, I go to Sacramento Field by walking which takes 20-30 minutes."
+  ]
+}

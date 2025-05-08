@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Joanna Bishop\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Emma's",
+        "distance_km": 1.5854528816189568,
+        "coordinates": [
+          "42.366349",
+          "-71.092029"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Angelo's Pizza",
+        "distance_km": 0.12423341890997608,
+        "coordinates": [
+          "42.372968",
+          "-71.110736"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37230571886408,
+          -71.10952057219278
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.8634965622004914,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Dance Complex",
+        "distance_km": 1.0765010152876942,
+        "coordinates": [
+          "42.364228",
+          "-71.1023"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "King's Famous Pizzeria Roast Beef And Seafood",
+        "distance_km": 0.29651663141423285,
+        "coordinates": [
+          "42.374961",
+          "-71.109151"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 2.385603022712146,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37230571886408,
+          -71.10952057219278
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 1.1672639703233987,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37230571886408,
+          -71.10952057219278
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37230571886408,
+        -71.10952057219278
+      ]
+    },
+    "work": {
+      "name": "Emma's",
+      "coordinates": [
+        "42.366349",
+        "-71.092029"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:50, I want to work, I go to Emma's by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Angelo's Pizza by walking which takes 0-10 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Joe's Kwik Mart by walking which takes  minutes.",
+    "On 14:30, I want to recreation, I go to The Dance Complex by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to eat, I go to King's Famous Pizzeria Roast Beef And Seafood by walking which takes 0-10 minutes.",
+    "On 16:30, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to Harvard Square Rental Properties by walking which takes  minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

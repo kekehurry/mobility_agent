@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"David Martinez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 0.22099431837196665,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "10:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Otto",
+        "distance_km": 0.5104673184374273,
+        "coordinates": [
+          "42.374154",
+          "-71.119155"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 0.9819885196073427,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 1.0020400817978816,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "15:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 0.6716042185791922,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.1864833281477496,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Club Passim",
+        "distance_km": 0.5567113754266232,
+        "coordinates": [
+          "42.374223",
+          "-71.120026"
+        ]
+      }
+    },
+    {
+      "start_time": "19:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.5879051718510636,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "20:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370203500954176,
+          -71.1159887886035
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370203500954176,
+        -71.1159887886035
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:22, I want to shop, I go to Louie's Superette by walking which takes 0-10 minutes.",
+    "On 10:40, I want to eat, I go to Otto by walking which takes  minutes.",
+    "On 11:50, I want to social, I go to Harvard Square Rental Properties by walking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Adt by walking which takes  minutes.",
+    "On 15:10, I want to recreation, I go to Harvard Yard by walking which takes 0-10 minutes.",
+    "On 16:30, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Club Passim by walking which takes  minutes.",
+    "On 19:20, I want to social, I go to Trinity Property Management by walking which takes  minutes.",
+    "On 20:40, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

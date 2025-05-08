@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Katie Jordan\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Madras Dosa Cambridge",
+        "distance_km": 0.26162280691164713,
+        "coordinates": [
+          "42.37181",
+          "-71.121315"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.269655560584151,
+        "coordinates": [
+          "42.371739",
+          "-71.121116"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 0.7887699789851452,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "IHOP",
+        "distance_km": 0.2776034219687258,
+        "coordinates": [
+          "42.372106",
+          "-71.121423"
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.5832543242167187,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Down Under School of Yoga Harvard Square",
+        "distance_km": 0.44881857371441003,
+        "coordinates": [
+          "42.37291",
+          "-71.119593"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370300076470066,
+          -71.12375269267844
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370300076470066,
+        -71.12375269267844
+      ]
+    },
+    "work": {
+      "name": "Madras Dosa Cambridge",
+      "coordinates": [
+        "42.37181",
+        "-71.121315"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to work, I go to Madras Dosa Cambridge by walking which takes 0-10 minutes.",
+    "On 12:45, I want to eat, I go to Dunkin' by biking which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Louie's Superette by private_auto which takes 0-10 minutes.",
+    "On 15:15, I want to eat, I go to IHOP by private_auto which takes 0-10 minutes.",
+    "On 15:50, I want to social, I go to Cambridge Forum by walking which takes  minutes.",
+    "On 16:30, I want to recreation, I go to Down Under School of Yoga Harvard Square by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

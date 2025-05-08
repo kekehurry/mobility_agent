@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Sandra Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:07",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "International Convenience",
+        "distance_km": 0.8579608476938693,
+        "coordinates": [
+          "42.365842",
+          "-71.098293"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.6377021344978311,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 0.8655608742414328,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "15:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "International Convenience",
+        "distance_km": 0.8579608476938693,
+        "coordinates": [
+          "42.365842",
+          "-71.098293"
+        ]
+      }
+    },
+    {
+      "start_time": "17:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "time 0-10"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 0.7615385942840065,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Moksa Restaurant",
+        "distance_km": 0.5187099253991732,
+        "coordinates": [
+          "42.363577",
+          "-71.10118"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35947486919933,
+          -71.10418858640482
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35947486919933,
+        -71.10418858640482
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:07, I want to shop, I go to International Convenience by auto_passenger which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to Flour Bakery Cafe by walking which takes  minutes.",
+    "On 13:30, I want to maintenance, I go to Nick's Magazine Auto R by auto_passenger which takes 0-10 minutes.",
+    "On 15:20, I want to shop, I go to International Convenience by walking which takes 0-10 minutes.",
+    "On 17:10, I want to recreation, I go to Clement G Morgan Park by auto_passenger which takes time 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Moksa Restaurant by auto_passenger which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by auto_passenger which takes 0-10 minutes."
+  ]
+}

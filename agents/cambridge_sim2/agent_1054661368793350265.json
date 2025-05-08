@@ -1,0 +1,163 @@
+{
+  "profile": "{\n  \"name\": \"Mark Burns\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"some_college\",\n  \"household_size\": 2,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hemenway Gymnasium",
+        "distance_km": 2.054685865043011,
+        "coordinates": [
+          "42.377055",
+          "-71.119606"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 0.19993739715262107,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 0.19993739715262107,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.12629020137231134,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kadampa Meditation Center Boston",
+        "distance_km": 0.17080150688985124,
+        "coordinates": [
+          "42.395081",
+          "-71.127985"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hana Sushi",
+        "distance_km": 0.3716729019747758,
+        "coordinates": [
+          "42.396633",
+          "-71.12982"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Big Dig Records",
+        "distance_km": 0.21301610330584442,
+        "coordinates": [
+          "42.395876",
+          "-71.128184"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 0.37993769313938003,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39495055661982,
+        -71.12591804272881
+      ]
+    },
+    "work": {
+      "name": "Frank's Steak House",
+      "coordinates": [
+        "42.395359",
+        "-71.128283"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Hemenway Gymnasium by public_transit which takes 10-20 minutes.",
+    "On 08:00, I want to work, I go to Frank's Steak House by on_demand_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Frank's Steak House by on_demand_auto which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Pemberton Farms by on_demand_auto which takes 0-10 minutes.",
+    "On 15:00, I want to recreation, I go to Kadampa Meditation Center Boston by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Hana Sushi by walking which takes 0-10 minutes.",
+    "On 19:00, I want to shop, I go to Big Dig Records by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to social, I go to Investments Limited by private_auto which takes 0-10 minutes."
+  ]
+}

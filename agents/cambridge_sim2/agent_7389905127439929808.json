@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Brian Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 0.7510300674486026,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sage Hotel Corporation",
+        "distance_km": 1.5457899844577498,
+        "coordinates": [
+          "42.358603",
+          "-71.114956"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Surya Indian Express",
+        "distance_km": 2.9724672479489924,
+        "coordinates": [
+          "42.368663",
+          "-71.076589"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ": "
+      },
+      "destination": {
+        "name": "Sage Hotel Corporation",
+        "distance_km": 1.5457899844577498,
+        "coordinates": [
+          "42.358603",
+          "-71.114956"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Shy Bird",
+        "distance_km": 2.571250695506203,
+        "coordinates": [
+          "42.362666",
+          "-71.083994"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She's walking for 10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.6441508451596463,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sage Hotel Corporation",
+        "distance_km": 1.5457899844577498,
+        "coordinates": [
+          "42.358603",
+          "-71.114956"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ":  minutes."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3723816413398,
+          -71.11232632945205
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3723816413398,
+        -71.11232632945205
+      ]
+    },
+    "work": {
+      "name": "Shy Bird",
+      "coordinates": [
+        "42.362666",
+        "-71.083994"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to shop, I go to Market In the Square by walking which takes 10-20 minutes.",
+    "On 08:30, I want to eat, I go to Sage Hotel Corporation by public_transit which takes 20-30 minutes.",
+    "On 11:00, I want to shop, I go to Surya Indian Express by public_transit which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Sage Hotel Corporation by private_auto which takes :  minutes.",
+    "On 14:00, I want to work, I go to Shy Bird by public_transit which takes 20-30 minutes.",
+    "On 17:30, I want to social, I go to Cambridge Forum by walking which takes She's walking for 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Sage Hotel Corporation by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes :  minutes. minutes."
+  ]
+}

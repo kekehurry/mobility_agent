@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Logan Poole\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.5986659754838028,
+        "coordinates": [
+          "42.390828",
+          "-71.139469"
+        ]
+      }
+    },
+    {
+      "start_time": "07:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.62017586557696,
+        "coordinates": [
+          "42.390886",
+          "-71.139725"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38814616283726,
+          -71.13316269140772
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.2477847535733844,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jose's Mexican Restaurant",
+        "distance_km": 0.2279627694241736,
+        "coordinates": [
+          "42.390185",
+          "-71.132847"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evolve Fitness",
+        "distance_km": 0.542525989706525,
+        "coordinates": [
+          "42.387936",
+          "-71.139745"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 1.2594679224379581,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.6803127642095909,
+        "coordinates": [
+          "42.389201",
+          "-71.141301"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Hollis Hall",
+        "distance_km": 2.027264918846606,
+        "coordinates": [
+          "42.375248",
+          "-71.115747"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 0.17971875907406884,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 0.6538919913086887,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38814616283726,
+          -71.13316269140772
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38814616283726,
+        -71.13316269140772
+      ]
+    },
+    "work": {
+      "name": "CorePower Yoga",
+      "coordinates": [
+        "42.390886",
+        "-71.139725"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to other_activities, I go to CorePower Yoga by walking which takes 10-20 minutes.",
+    "On 07:05, I want to work, I go to CorePower Yoga by walking which takes 10-20 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes  minutes.",
+    "On 12:30, I want to shop, I go to Star Market by walking which takes 10-20 minutes.",
+    "On 13:15, I want to eat, I go to Jose's Mexican Restaurant by on_demand_auto which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Evolve Fitness by on_demand_auto which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Evergood Super Market by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Genji Express by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to Hollis Hall by walking which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to St Peters Field by on_demand_auto which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to T.J. Maxx by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

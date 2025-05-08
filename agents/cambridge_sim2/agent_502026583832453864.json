@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Brandon Trevino\", \"city\": \"Cambridge,MA\", \"age\": 22, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Inman Square Supermarket",
+        "distance_km": 2.180779891785833,
+        "coordinates": [
+          "42.37373",
+          "-71.099974"
+        ]
+      }
+    },
+    {
+      "start_time": "08:13",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 0.9324857302889029,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 1.4438831908295966,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "12:26",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355027796925576,
+          -71.10802648112961
+        ]
+      }
+    },
+    {
+      "start_time": "12:53",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.821041315091265,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.307734632783123,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355027796925576,
+          -71.10802648112961
+        ]
+      }
+    },
+    {
+      "start_time": "17:47",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.6282546813698198,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "18:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355027796925576,
+          -71.10802648112961
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 1.3569333686133689,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    },
+    {
+      "start_time": "21:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.355027796925576,
+          -71.10802648112961
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.355027796925576,
+        -71.10802648112961
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:02, I want to shop, I go to Inman Square Supermarket by private_auto which takes 10-20 minutes.",
+    "On 08:13, I want to social, I go to ForestCity by walking which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to Vermas Market by auto_passenger which takes  minutes.",
+    "On 12:26, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 12:53, I want to eat, I go to Genji Express by private_auto which takes  minutes.",
+    "On 14:00, I want to social, I go to Central House by auto_passenger which takes 10-20 minutes.",
+    "On 16:35, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 17:47, I want to shop, I go to Trader Joe's by walking which takes 10-20 minutes.",
+    "On 18:43, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 19:35, I want to shop, I go to Weirdo Records by private_auto which takes  minutes.",
+    "On 21:42, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

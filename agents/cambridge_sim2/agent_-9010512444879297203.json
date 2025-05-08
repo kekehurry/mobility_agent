@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Mary Burns\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "VO2 Vegan Cafe",
+        "distance_km": 0.377731066196912,
+        "coordinates": [
+          "42.369631",
+          "-71.111188"
+        ]
+      }
+    },
+    {
+      "start_time": "07:50",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.2844473269505128,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BKS Iyengar Yogamala",
+        "distance_km": 0.3286060663157969,
+        "coordinates": [
+          "42.366824",
+          "-71.104988"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.5914822560885867,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "International Convenience",
+        "distance_km": 0.7977457324761481,
+        "coordinates": [
+          "42.365842",
+          "-71.098293"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.2650148119632163,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-2, "
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe Central Square",
+        "distance_km": 0.32931607338277846,
+        "coordinates": [
+          "42.366709",
+          "-71.105369"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36952859970231,
+          -71.1066042742405
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 0.8062521085630797,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.20736169683184671,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.2753993357392694,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36952859970231,
+          -71.1066042742405
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36952859970231,
+        -71.1066042742405
+      ]
+    },
+    "work": {
+      "name": "VO2 Vegan Cafe",
+      "coordinates": [
+        "42.369631",
+        "-71.111188"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to VO2 Vegan Cafe by walking which takes 10-20 minutes.",
+    "On 07:50, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to recreation, I go to BKS Iyengar Yogamala by public_transit which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to Go! Go! Curry! by private_auto which takes  minutes.",
+    "On 13:00, I want to shop, I go to International Convenience by private_auto which takes  minutes.",
+    "On 15:30, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes.",
+    "On 16:15, I want to eat, I go to Life Alive Organic Cafe Central Square by walking which takes 10-2,  minutes.",
+    "On 16:45, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 17:30, I want to shop, I go to Eli Incorporated by walking which takes 10-20 minutes.",
+    "On 18:15, I want to eat, I go to Barismo by walking which takes 0-10 minutes.",
+    "On 18:45, I want to social, I go to Victoria Goodman Santana Properties Team by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

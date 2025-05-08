@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"David Martinez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 0.868633857458411,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frozen Yogi",
+        "distance_km": 0.5331139548256322,
+        "coordinates": [
+          "42.364144",
+          "-71.107505"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.8145142636432053,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Steinberg Jeffrey MD",
+        "distance_km": 1.6832423826766638,
+        "coordinates": [
+          "42.374508",
+          "-71.104192"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.948575504332982,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "17:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35943307109201,
+          -71.106268467736
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35943307109201,
+        -71.106268467736
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 19:35, I want to shop, I go to Weirdo Records by walking which takes 0-10 minutes.",
+    "On 12:20, I want to eat, I go to Frozen Yogi by on_demand_auto which takes 0-10 minutes.",
+    "On 13:00, I want to social, I go to Central House by walking which takes  minutes.",
+    "On 14:30, I want to recreation, I go to Steinberg Jeffrey MD by walking which takes 20-30 minutes.",
+    "On 15:30, I want to shop, I go to Gap by on_demand_auto which takes 10-20 minutes.",
+    "On 17:40, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

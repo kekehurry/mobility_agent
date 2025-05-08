@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Susan Baker\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "11:49",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 1.4102424720683353,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "math.random() * 5 + 0"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36640768763762,
+          -71.0999543299337
+        ]
+      }
+    },
+    {
+      "start_time": "13:11",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Rindge And Latin",
+        "distance_km": 1.3167019036107364,
+        "coordinates": [
+          "42.374469",
+          "-71.111674"
+        ]
+      }
+    },
+    {
+      "start_time": "15:12",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "BostonDigital io Computer Repair",
+        "distance_km": 0.9403433951374147,
+        "coordinates": [
+          "42.368827",
+          "-71.110894"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36640768763762,
+          -71.0999543299337
+        ]
+      }
+    },
+    {
+      "start_time": "16:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sapporo Ramen at H Mart",
+        "distance_km": 0.2767922583105535,
+        "coordinates": [
+          "42.365032",
+          "-71.102756"
+        ]
+      }
+    },
+    {
+      "start_time": "18:12",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "G & J Variety",
+        "distance_km": 0.6783641063821165,
+        "coordinates": [
+          "42.369191",
+          "-71.092624"
+        ]
+      }
+    },
+    {
+      "start_time": "19:08",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36640768763762,
+          -71.0999543299337
+        ]
+      }
+    },
+    {
+      "start_time": "20:05",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.5318249063580315,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "20:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36640768763762,
+          -71.0999543299337
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36640768763762,
+        -71.0999543299337
+      ]
+    },
+    "school": {
+      "name": "Cambridge Rindge And Latin",
+      "coordinates": [
+        "42.374469",
+        "-71.111674"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 11:49, I want to social, I go to One Broadway by walking which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes math.random() * 5 + 0 minutes.",
+    "On 13:11, I want to school, I go to Cambridge Rindge And Latin by walking which takes 0-10 minutes.",
+    "On 15:12, I want to shop, I go to BostonDigital io Computer Repair by public_transit which takes 10-20 minutes.",
+    "On 16:10, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:26, I want to eat, I go to Sapporo Ramen at H Mart by walking which takes 0-10 minutes.",
+    "On 18:12, I want to shop, I go to G & J Variety by walking which takes 0-10 minutes.",
+    "On 19:08, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:05, I want to social, I go to RJ Realty Management by public_transit which takes 10-20 minutes.",
+    "On 20:45, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

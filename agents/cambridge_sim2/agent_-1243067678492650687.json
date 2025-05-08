@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Emma Thomas\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:07",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Benjamin Banneker Charter Public School",
+        "distance_km": 0.5560911270511454,
+        "coordinates": [
+          "42.392113",
+          "-71.131734"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38717046243465,
+          -71.13280744251745
+        ]
+      }
+    },
+    {
+      "start_time": "13:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard University Press Book Orders",
+        "distance_km": 0.6558333308472446,
+        "coordinates": [
+          "42.383024",
+          "-71.127138"
+        ]
+      }
+    },
+    {
+      "start_time": "15:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.2423003582113603,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "You have no vehicles, so you cannot use private_auto or ride alone. Your reference data shows you've used walking for home trips, and the most common mode is walking. You're likely to choose walking for the short trip home. The most common duration for walking is 0-10 minutes. The weight for walking with 0-10 minutes should be the highest. Auto_passenger is also a possibility, but it's less likely than walking. The weight for auto_passenger with 10-20 minutes should be lower. The weight for walking with 0-10 minutes should be around 0.7, and auto_passenger with 10-20 minutes should be around 0.3."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38717046243465,
+          -71.13280744251745
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 1.181124489788555,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "17:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38717046243465,
+          -71.13280744251745
+        ]
+      }
+    },
+    {
+      "start_time": "20:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.729170201236185,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "22:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38717046243465,
+          -71.13280744251745
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38717046243465,
+        -71.13280744251745
+      ]
+    },
+    "school": {
+      "name": "Benjamin Banneker Charter Public School",
+      "coordinates": [
+        "42.392113",
+        "-71.131734"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Harvard University Press Book Orders",
+      "coordinates": [
+        "42.383024",
+        "-71.127138"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:07, I want to school, I go to Benjamin Banneker Charter Public School by walking which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:50, I want to work, I go to Harvard University Press Book Orders by auto_passenger which takes 0-10 minutes.",
+    "On 15:58, I want to shop, I go to Star Market by auto_passenger which takes 0-10 minutes.",
+    "On 16:10, I want to home, I go to home by walking which takes You have no vehicles, so you cannot use private_auto or ride alone. Your reference data shows you've used walking for home trips, and the most common mode is walking. You're likely to choose walking for the short trip home. The most common duration for walking is 0-10 minutes. The weight for walking with 0-10 minutes should be the highest. Auto_passenger is also a possibility, but it's less likely than walking. The weight for auto_passenger with 10-20 minutes should be lower. The weight for walking with 0-10 minutes should be around 0.7, and auto_passenger with 10-20 minutes should be around 0.3. minutes.",
+    "On 16:45, I want to shop, I go to Evergood Super Market by auto_passenger which takes 10-20 minutes.",
+    "On 17:10, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:45, I want to eat, I go to McDonald's by auto_passenger which takes 10-20 minutes.",
+    "On 22:42, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

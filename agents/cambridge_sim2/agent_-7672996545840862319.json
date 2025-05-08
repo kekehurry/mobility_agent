@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Angela Carrillo\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:05",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Quinn Dana Licensed",
+        "distance_km": 1.704746901730722,
+        "coordinates": [
+          "42.383469",
+          "-71.1242"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.19588998937412838,
+        "coordinates": [
+          "42.374979",
+          "-71.109377"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Martin Brothers Liquors",
+        "distance_km": 0.8883205608552117,
+        "coordinates": [
+          "42.373016",
+          "-71.096528"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Quinn Dana Licensed",
+        "distance_km": 1.704746901730722,
+        "coordinates": [
+          "42.383469",
+          "-71.1242"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chowhaus Graduate School Of Design",
+        "distance_km": 0.5851557794482928,
+        "coordinates": [
+          "42.376126",
+          "-71.113919"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "King's Famous Pizzeria Roast Beef And Seafood",
+        "distance_km": 0.17723491414436346,
+        "coordinates": [
+          "42.374961",
+          "-71.109151"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "King's Famous Pizzeria Roast Beef And Seafood",
+        "distance_km": 0.17723491414436346,
+        "coordinates": [
+          "42.374961",
+          "-71.109151"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Seyyide Belly Dance",
+        "distance_km": 0.6993718882469449,
+        "coordinates": [
+          "42.371696",
+          "-71.114284"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37493109877334,
+          -71.10699949235406
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37493109877334,
+        -71.10699949235406
+      ]
+    },
+    "work": {
+      "name": "King's Famous Pizzeria Roast Beef And Seafood",
+      "coordinates": [
+        "42.374961",
+        "-71.109151"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:05, I want to recreation, I go to Quinn Dana Licensed by public_transit which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Darwin's by walking which takes 0-10 minutes.",
+    "On 12:00, I want to shop, I go to Martin Brothers Liquors by public_transit which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Quinn Dana Licensed by public_transit which takes 10-20 minutes.",
+    "On 15:00, I want to eat, I go to Chowhaus Graduate School Of Design by walking which takes 0-10 minutes.",
+    "On 16:00, I want to work, I go to King's Famous Pizzeria Roast Beef And Seafood by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to King's Famous Pizzeria Roast Beef And Seafood by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Seyyide Belly Dance by walking which takes  minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

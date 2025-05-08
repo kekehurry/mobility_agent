@@ -1,0 +1,163 @@
+{
+  "profile": "{\n  \"name\": \"Lori Burns\",\n  \"city\": \"Cambridge, MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor's\",\n  \"household_size\": 3,\n  \"household_income\": \"Under 25k\",\n  \"available_vehicles\": 1\n}\n\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Memorial Drive BU Bridge gyratory",
+        "distance_km": 0.5127205107289827,
+        "coordinates": [
+          "42.354518",
+          "-71.110103"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Baraka Cafe",
+        "distance_km": 0.6635414970382211,
+        "coordinates": [
+          "42.361232",
+          "-71.115428"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 1.5182588258749379,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.3175437400808737,
+        "coordinates": [
+          "42.357991",
+          "-71.114981"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.4972976889004745,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 1.5172220633370221,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.3175437400808737,
+        "coordinates": [
+          "42.357991",
+          "-71.114981"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35528881171355,
+          -71.11623879467857
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35528881171355,
+        -71.11623879467857
+      ]
+    },
+    "work": {
+      "name": "Memorial Drive BU Bridge gyratory",
+      "coordinates": [
+        "42.354518",
+        "-71.110103"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Memorial Drive BU Bridge gyratory by walking which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Baraka Cafe by walking which takes 0-10 minutes.",
+    "On 12:00, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by walking which takes 10-20 minutes.",
+    "On 13:30, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 14:30, I want to social, I go to Central House by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Harvest Co Op Markets by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Starbucks by walking which takes  minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

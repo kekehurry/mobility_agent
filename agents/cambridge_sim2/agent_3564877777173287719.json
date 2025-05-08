@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Kevin Brock\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central Rock Gym",
+        "distance_km": 0.9154213760593103,
+        "coordinates": [
+          "42.373132",
+          "-71.120109"
+        ]
+      }
+    },
+    {
+      "start_time": "07:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.1404413637657773,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "16:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38018473785341,
+          -71.11435931920855
+        ]
+      }
+    },
+    {
+      "start_time": "18:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Rakuten USA",
+        "distance_km": 1.1620702926554822,
+        "coordinates": [
+          "42.37229",
+          "-71.123617"
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38018473785341,
+          -71.11435931920855
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rakuten USA",
+        "distance_km": 1.1620702926554822,
+        "coordinates": [
+          "42.37229",
+          "-71.123617"
+        ]
+      }
+    },
+    {
+      "start_time": "19:52",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 2.4406263306643132,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.4985820115068143,
+        "coordinates": [
+          "42.38193",
+          "-71.119937"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38018473785341,
+        -71.11435931920855
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Central Rock Gym by walking which takes 0-10 minutes.",
+    "On 07:02, I want to shop, I go to Star Market by private_auto which takes 0-10 minutes.",
+    "On 16:20, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 18:22, I want to shop, I go to Rakuten USA by private_auto which takes  minutes.",
+    "On 18:45, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 19:35, I want to shop, I go to Rakuten USA by private_auto which takes 0-10 minutes.",
+    "On 19:52, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes  minutes.",
+    "On 21:00, I want to eat, I go to Starbucks by private_auto which takes 0-10 minutes."
+  ]
+}

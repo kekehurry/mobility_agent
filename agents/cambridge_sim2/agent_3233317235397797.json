@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Jordan Anderson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 5.187002471957462,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "10:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5104320149084046,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 5.187002471957462,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "12:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5104320149084046,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 2.816304180865081,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "17:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.37096105003767815,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392597233670365,
+          -71.13733960567932
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5104320149084046,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Comeau Field",
+        "distance_km": 0.25752302708333075,
+        "coordinates": [
+          "42.394742",
+          "-71.138527"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.392597233670365,
+        -71.13733960567932
+      ]
+    },
+    "work": {
+      "name": "Broad Institute",
+      "coordinates": [
+        "42.362837",
+        "-71.088807"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:05, I want to work, I go to Broad Institute by private_auto which takes 20-30 minutes.",
+    "On 10:55, I want to shop, I go to Whole Foods Market by on_demand_auto which takes 0-10 minutes.",
+    "On 12:10, I want to work, I go to Broad Institute by on_demand_auto which takes  minutes.",
+    "On 12:55, I want to shop, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 15:30, I want to social, I go to Society for Critical Aesthetics by private_auto which takes 10-20 minutes.",
+    "On 17:20, I want to eat, I go to McDonald's by on_demand_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by on_demand_auto which takes 0-10 minutes.",
+    "On 19:15, I want to shop, I go to Whole Foods Market by on_demand_auto which takes 0-10 minutes.",
+    "On 20:00, I want to recreation, I go to Comeau Field by private_auto which takes 0-10 minutes."
+  ]
+}

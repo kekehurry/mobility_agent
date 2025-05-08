@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mary Brown\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Graham And Parks",
+        "distance_km": 0.2822465870773581,
+        "coordinates": [
+          "42.383125",
+          "-71.123854"
+        ]
+      }
+    },
+    {
+      "start_time": "12:12",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38244648875342,
+          -71.12055115172139
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Rakuten USA",
+        "distance_km": 1.156100141187991,
+        "coordinates": [
+          "42.37229",
+          "-71.123617"
+        ]
+      }
+    },
+    {
+      "start_time": "16:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "I Love Sushi",
+        "distance_km": 0.5519702686833786,
+        "coordinates": [
+          "42.387176",
+          "-71.118495"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38244648875342,
+          -71.12055115172139
+        ]
+      }
+    },
+    {
+      "start_time": "18:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "I Love Sushi",
+        "distance_km": 0.5519702686833786,
+        "coordinates": [
+          "42.387176",
+          "-71.118495"
+        ]
+      }
+    },
+    {
+      "start_time": "19:22",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38244648875342,
+          -71.12055115172139
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38244648875342,
+        -71.12055115172139
+      ]
+    },
+    "school": {
+      "name": "Graham And Parks",
+      "coordinates": [
+        "42.383125",
+        "-71.123854"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to school, I go to Graham And Parks by private_auto which takes 0-10 minutes.",
+    "On 12:12, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:03, I want to shop, I go to Rakuten USA by public_transit which takes  minutes.",
+    "On 16:48, I want to eat, I go to I Love Sushi by public_transit which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:25, I want to eat, I go to I Love Sushi by walking which takes 10-20 minutes.",
+    "On 19:22, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

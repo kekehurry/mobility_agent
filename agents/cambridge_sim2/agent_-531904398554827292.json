@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"David Barrett\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Shepen Bernard D Phys",
+        "distance_km": 3.332850979317262,
+        "coordinates": [
+          "42.37396",
+          "-71.133456"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 4.5473114150879494,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.516743430904573,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "Shepen Bernard D Phys"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.1186365732340806,
+        "coordinates": [
+          "42.367987",
+          "-71.102185"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35819129425582,
+          -71.09903434197267
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pacific Street Cafe",
+        "distance_km": 0.3276746375154063,
+        "coordinates": [
+          "42.359985",
+          "-71.102192"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pioneer Property Group",
+        "distance_km": 4.935915097087197,
+        "coordinates": [
+          "42.395699",
+          "-71.131169"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35819129425582,
+          -71.09903434197267
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35819129425582,
+        -71.09903434197267
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to recreation, I go to Shepen Bernard D Phys by private_auto which takes 20-30 minutes.",
+    "On 11:30, I want to eat, I go to Starbucks by private_auto which takes 20-30 minutes.",
+    "On 12:15, I want to social, I go to Trinity Property Management by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to shop, I go to Whole Foods Market by walking which takes Shepen Bernard D Phys minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Pacific Street Cafe by walking which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Pioneer Property Group by public_transit which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

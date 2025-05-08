@@ -1,0 +1,188 @@
+{
+  "profile": "{\n  \"name\": \"Michelle Ellis\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": 2\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Spaulding Outpatient Center",
+        "distance_km": 0.20697509017620458,
+        "coordinates": [
+          "42.375712",
+          "-71.107062"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "All Star Pizza Bar",
+        "distance_km": 0.5855365062960621,
+        "coordinates": [
+          "42.373252",
+          "-71.098086"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 2.206360751752845,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard",
+        "distance_km": 1.0696526267408737,
+        "coordinates": [
+          "42.377157",
+          "-71.117476"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 1.0149812079899108,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kane Ellen Social Worker",
+        "distance_km": 1.7205364561008585,
+        "coordinates": [
+          "42.374113",
+          "-71.125765"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lizzy's",
+        "distance_km": 1.5150722073132121,
+        "coordinates": [
+          "42.372127",
+          "-71.086848"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.0744984733440546,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37476955395239,
+          -71.10489416709063
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37476955395239,
+        -71.10489416709063
+      ]
+    },
+    "work": {
+      "name": "Spaulding Outpatient Center",
+      "coordinates": [
+        "42.375712",
+        "-71.107062"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Harvard",
+      "coordinates": [
+        "42.377157",
+        "-71.117476"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to work, I go to Spaulding Outpatient Center by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to All Star Pizza Bar by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to social, I go to One Broadway by public_transit which takes 10-20 minutes.",
+    "On 13:30, I want to school, I go to Harvard by public_transit which takes 10-20 minutes.",
+    "On 14:30, I want to shop, I go to Adt by private_auto which takes 0-10 minutes.",
+    "On 16:30, I want to recreation, I go to Kane Ellen Social Worker by public_transit which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Lizzy's by public_transit which takes 10-20 minutes.",
+    "On 18:30, I want to shop, I go to H Mart by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

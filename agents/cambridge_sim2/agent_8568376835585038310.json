@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Jennifer Serrano\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:40",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.214237335218682,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 0.6632592880726379,
+        "coordinates": [
+          "42.371475",
+          "-71.11686"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "time is unknown"
+      },
+      "destination": {
+        "name": "The Friendly Toast",
+        "distance_km": 0.6040202673927216,
+        "coordinates": [
+          "42.372227",
+          "-71.115883"
+        ]
+      }
+    },
+    {
+      "start_time": "14:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.7989561855177802,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.0455050243601427,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 0.20470575264306748,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37056065116511,
+          -71.10890255710127
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37056065116511,
+        -71.10890255710127
+      ]
+    },
+    "work": {
+      "name": "The Friendly Toast",
+      "coordinates": [
+        "42.372227",
+        "-71.115883"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:40, I want to maintenance, I go to C L M Inc by walking which takes 0-10 minutes.",
+    "On 11:45, I want to eat, I go to Blue Bottle Coffee by walking which takes  minutes.",
+    "On 12:15, I want to work, I go to The Friendly Toast by private_auto which takes time is unknown minutes.",
+    "On 14:10, I want to shop, I go to H Mart by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Cafe Anthony by walking which takes 0-10 minutes.",
+    "On 20:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

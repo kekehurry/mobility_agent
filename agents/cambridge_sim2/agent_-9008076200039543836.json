@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Mary Riley\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kates Malcolm I Optmtrst",
+        "distance_km": 0.13618944679004633,
+        "coordinates": [
+          "42.372884",
+          "-71.119217"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 0.6374330040023476,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 1.2287009463313054,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37187888249906,
+          -71.11827015694543
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kates Malcolm I Optmtrst",
+        "distance_km": 0.13618944679004633,
+        "coordinates": [
+          "42.372884",
+          "-71.119217"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37187888249906,
+          -71.11827015694543
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 0.36151745957184034,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Scalable Display Technology",
+        "distance_km": 1.2687186531897328,
+        "coordinates": [
+          "42.365903",
+          "-71.105144"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kung Fu Tea",
+        "distance_km": 0.3050860162786296,
+        "coordinates": [
+          "42.371255",
+          "-71.114663"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.32548111206258556,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37187888249906,
+          -71.11827015694543
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37187888249906,
+        -71.11827015694543
+      ]
+    },
+    "work": {
+      "name": "Kates Malcolm I Optmtrst",
+      "coordinates": [
+        "42.372884",
+        "-71.119217"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Kates Malcolm I Optmtrst by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Flame Hot Pot & Sushi by private_auto which takes  minutes.",
+    "On 11:30, I want to social, I go to Radcliffe Quadrangle by public_transit which takes 30-4,  minutes.",
+    "On 12:30, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 14:00, I want to work, I go to Kates Malcolm I Optmtrst by private_auto which takes 0-10 minutes.",
+    "On 15:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to eat, I go to Harvest by walking which takes 10-20 minutes.",
+    "On 16:30, I want to shop, I go to Scalable Display Technology by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Kung Fu Tea by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

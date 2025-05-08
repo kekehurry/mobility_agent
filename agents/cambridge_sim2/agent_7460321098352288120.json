@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Misty Schmidt\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McCabe's Bar and Grille",
+        "distance_km": 0.4828752820079573,
+        "coordinates": [
+          "42.390956",
+          "-71.122877"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shine Square Pub",
+        "distance_km": 0.5034339830932306,
+        "coordinates": [
+          "42.39081",
+          "-71.122621"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.42522397251756594,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Catholic Charitable Bureau of the Archdiocese of Boston",
+        "distance_km": 0.18834507598731834,
+        "coordinates": [
+          "42.389163",
+          "-71.129561"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 1.002065997718869,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Griffin Properties",
+        "distance_km": 0.45967051038405143,
+        "coordinates": [
+          "42.394597",
+          "-71.126698"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39074394650048,
+          -71.1287342955582
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39074394650048,
+        -71.1287342955582
+      ]
+    },
+    "work": {
+      "name": "McCabe's Bar and Grille",
+      "coordinates": [
+        "42.390956",
+        "-71.122877"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to work, I go to McCabe's Bar and Grille by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Shine Square Pub by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Pemberton Farms by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to recreation, I go to Catholic Charitable Bureau of the Archdiocese of Boston by walking which takes 0-10 minutes.",
+    "On 16:30, I want to shop, I go to T.J. Maxx by private_auto which takes  minutes.",
+    "On 19:00, I want to social, I go to Griffin Properties by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

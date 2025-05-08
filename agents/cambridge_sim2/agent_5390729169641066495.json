@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Stephen Perez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bukowski Tavern",
+        "distance_km": 0.10375696868315609,
+        "coordinates": [
+          "42.373641",
+          "-71.098753"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "LabCentral",
+        "distance_km": 1.2671606381645575,
+        "coordinates": [
+          "42.362253",
+          "-71.09503"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 1.7603934022891958,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cafe Gato Rojo",
+        "distance_km": 1.5458395097234183,
+        "coordinates": [
+          "42.373652",
+          "-71.118536"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Bukowski Tavern",
+        "distance_km": 0.10375696868315609,
+        "coordinates": [
+          "42.373641",
+          "-71.098753"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 3.8683501525882256,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373102588373385,
+          -71.09978239476432
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.373102588373385,
+        -71.09978239476432
+      ]
+    },
+    "work": {
+      "name": "Bukowski Tavern",
+      "coordinates": [
+        "42.373641",
+        "-71.098753"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to work, I go to Bukowski Tavern by biking which takes 0-10 minutes.",
+    "On 08:45, I want to social, I go to LabCentral by walking which takes 0-10 minutes.",
+    "On 11:00, I want to shop, I go to Wholesome Fresh by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to eat, I go to Cafe Gato Rojo by private_auto which takes 10-20 minutes.",
+    "On 14:30, I want to work, I go to Bukowski Tavern by private_auto which takes  minutes.",
+    "On 17:30, I want to shop, I go to Bread & Circus by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Kenneth Mclean\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ANTHONY LEE MD",
+        "distance_km": 1.5259184192483184,
+        "coordinates": [
+          "42.370063",
+          "-71.073148"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Earnest Drinks",
+        "distance_km": 0.3010209237840413,
+        "coordinates": [
+          "42.367958",
+          "-71.090294"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 2.318069384210606,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Earnest Drinks",
+        "distance_km": 0.3010209237840413,
+        "coordinates": [
+          "42.367958",
+          "-71.090294"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 0.29528376723760397,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fernandes Market",
+        "distance_km": 0.23822613920913904,
+        "coordinates": [
+          "42.372604",
+          "-71.091379"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370469909341864,
+          -71.09166532946612
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370469909341864,
+        -71.09166532946612
+      ]
+    },
+    "work": {
+      "name": "ANTHONY LEE MD",
+      "coordinates": [
+        "42.370063",
+        "-71.073148"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to ANTHONY LEE MD by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Earnest Drinks by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to shop, I go to Stereo Lab by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Earnest Drinks by public_transit which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to RJ Realty Management by walking which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Fernandes Market by on_demand_auto which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

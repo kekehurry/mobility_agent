@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Audrey Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"100k-149k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "LORI KAPLOWITZ MD",
+        "distance_km": 3.0573067341968727,
+        "coordinates": [
+          "42.368418",
+          "-71.11457"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Fresh Pond Entertainment Cinemas",
+        "distance_km": 0.8775680799737022,
+        "coordinates": [
+          "42.391289",
+          "-71.138141"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Prime",
+        "distance_km": 1.858269548352458,
+        "coordinates": [
+          "42.378086",
+          "-71.121335"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Stoked Pizza Company Cambridge",
+        "distance_km": 1.692806114163533,
+        "coordinates": [
+          "42.380164",
+          "-71.119632"
+        ]
+      }
+    },
+    {
+      "start_time": "13:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39403448935825,
+          -71.1281473482125
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 0.6909045130697857,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.9294184668439146,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Izakaya Ittoku",
+        "distance_km": 1.094942218979502,
+        "coordinates": [
+          "42.387235",
+          "-71.11852"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 0.33264968030406694,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39403448935825,
+          -71.1281473482125
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Andy's Diner",
+        "distance_km": 0.6238467113600181,
+        "coordinates": [
+          "42.390619",
+          "-71.122133"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rindge Field",
+        "distance_km": 0.31525173445277643,
+        "coordinates": [
+          "42.39121",
+          "-71.128521"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39403448935825,
+        -71.1281473482125
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to social, I go to LORI KAPLOWITZ MD by private_auto which takes 30-40 minutes.",
+    "On 09:00, I want to recreation, I go to Fresh Pond Entertainment Cinemas by private_auto which takes  minutes.",
+    "On 11:15, I want to social, I go to Cambridge Prime by private_auto which takes  minutes.",
+    "On 12:30, I want to eat, I go to Stoked Pizza Company Cambridge by private_auto which takes  minutes.",
+    "On 13:45, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 14:00, I want to maintenance, I go to Mavis Tires & Brakes by private_auto which takes  minutes.",
+    "On 16:00, I want to shop, I go to Star Market by walking which takes 10-20 minutes.",
+    "On 16:45, I want to eat, I go to Izakaya Ittoku by private_auto which takes  minutes.",
+    "On 17:00, I want to social, I go to Investments Limited by biking which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 20:00, I want to eat, I go to Andy's Diner by private_auto which takes  minutes.",
+    "On 21:00, I want to recreation, I go to Rindge Field by biking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Kenneth Mcdaniel\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Casbah",
+        "distance_km": 5.009224184882533,
+        "coordinates": [
+          "42.387876",
+          "-71.140391"
+        ]
+      }
+    },
+    {
+      "start_time": "10:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kreationz",
+        "distance_km": 0.6941482682952195,
+        "coordinates": [
+          "42.362122",
+          "-71.086732"
+        ]
+      }
+    },
+    {
+      "start_time": "11:28",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sumiao Hunan Kitchen",
+        "distance_km": 0.3916216018553261,
+        "coordinates": [
+          "42.366026",
+          "-71.081972"
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Magnolia",
+        "distance_km": 0.7057176844451486,
+        "coordinates": [
+          "42.367449",
+          "-71.077102"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 0.7642756695561148,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "American Jiann Shyong Kung Fu Center",
+        "distance_km": 0.567393236007563,
+        "coordinates": [
+          "42.371385",
+          "-71.080086"
+        ]
+      }
+    },
+    {
+      "start_time": "17:01",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36831338996636,
+          -71.08558979562102
+        ]
+      }
+    },
+    {
+      "start_time": "18:01",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Le's Sushi Bar & Restaurant",
+        "distance_km": 0.41365584596732835,
+        "coordinates": [
+          "42.37161",
+          "-71.083254"
+        ]
+      }
+    },
+    {
+      "start_time": "18:18",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 1.421207541710553,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "19:23",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36831338996636,
+          -71.08558979562102
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36831338996636,
+        -71.08558979562102
+      ]
+    },
+    "work": {
+      "name": "Casbah",
+      "coordinates": [
+        "42.387876",
+        "-71.140391"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to work, I go to Casbah by private_auto which takes 20-30 minutes.",
+    "On 10:03, I want to shop, I go to Kreationz by walking which takes 10-20 minutes.",
+    "On 11:28, I want to eat, I go to Sumiao Hunan Kitchen by private_auto which takes 0-10 minutes.",
+    "On 12:28, I want to shop, I go to Magnolia by walking which takes 10-20 minutes.",
+    "On 14:30, I want to social, I go to CIC Cambridge by private_auto which takes 0-10 minutes.",
+    "On 16:10, I want to recreation, I go to American Jiann Shyong Kung Fu Center by private_auto which takes 0-10 minutes.",
+    "On 17:01, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:01, I want to eat, I go to Le's Sushi Bar & Restaurant by walking which takes 10-20 minutes.",
+    "On 18:18, I want to shop, I go to Deep Thoughts Cambridge by private_auto which takes 10-20 minutes.",
+    "On 19:23, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

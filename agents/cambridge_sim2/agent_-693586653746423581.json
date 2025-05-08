@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Laura Valencia\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ninety Nine Restaurant & Pub",
+        "distance_km": 0.6250732240708164,
+        "coordinates": [
+          "42.388687",
+          "-71.142244"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 0.5259708394970056,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.393944653862604,
+          -71.1395384135929
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5567376125449234,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Ma Magoo's Pizza & Sub Shop",
+        "distance_km": 0.700323907567321,
+        "coordinates": [
+          "42.388006",
+          "-71.142394"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.393944653862604,
+          -71.1395384135929
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond Entertainment Cinemas",
+        "distance_km": 0.3166384314093268,
+        "coordinates": [
+          "42.391289",
+          "-71.138141"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.393944653862604,
+          -71.1395384135929
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.393944653862604,
+        -71.1395384135929
+      ]
+    },
+    "work": {
+      "name": "Ninety Nine Restaurant & Pub",
+      "coordinates": [
+        "42.388687",
+        "-71.142244"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to work, I go to Ninety Nine Restaurant & Pub by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Revival Cafe & Kitchen by walking which takes  minutes.",
+    "On 13:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Ma Magoo's Pizza & Sub Shop by walking which takes  minutes.",
+    "On 18:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Fresh Pond Entertainment Cinemas by walking which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

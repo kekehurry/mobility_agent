@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Amanda Ramos\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.3804598770354676,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.23745617342102862,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.3804598770354676,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Comeau Field",
+        "distance_km": 0.1971773708114807,
+        "coordinates": [
+          "42.394742",
+          "-71.138527"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.23745617342102862,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.3804598770354676,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39371495685246,
+          -71.14048020048735
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39371495685246,
+        -71.14048020048735
+      ]
+    },
+    "work": {
+      "name": "McDonald's",
+      "coordinates": [
+        "42.390291",
+        "-71.140598"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to work, I go to McDonald's by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 15:00, I want to work, I go to McDonald's by walking which takes  minutes.",
+    "On 16:00, I want to recreation, I go to Comeau Field by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 19:00, I want to work, I go to McDonald's by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

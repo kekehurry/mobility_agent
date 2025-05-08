@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Marc Jones\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 5.145486630459186,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.347528332749599,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Luce",
+        "distance_km": 0.917150336140534,
+        "coordinates": [
+          "42.381922",
+          "-71.120161"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38109355459951,
+          -71.13124147594118
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 5.145486630459186,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.15507634596951428,
+        "coordinates": [
+          "42.382482",
+          "-71.131438"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MJM Home Restoration",
+        "distance_km": 0.29707559695165375,
+        "coordinates": [
+          "42.380852",
+          "-71.134834"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38109355459951,
+          -71.13124147594118
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38109355459951,
+        -71.13124147594118
+      ]
+    },
+    "work": {
+      "name": "Hult International Business School",
+      "coordinates": [
+        "42.36979",
+        "-71.070656"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Hult International Business School by private_auto which takes 20-30 minutes.",
+    "On 11:00, I want to shop, I go to Stereo Lab by biking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Luce by walking which takes 0-10 minutes.",
+    "On 13:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:00, I want to work, I go to Hult International Business School by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Hi Rise Bread Company by walking which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to MJM Home Restoration by on_demand_auto which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

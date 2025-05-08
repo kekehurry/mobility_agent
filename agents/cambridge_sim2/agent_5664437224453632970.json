@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Amanda Morris\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:17",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "JUDITH WOLFBERG MD",
+        "distance_km": 2.5612770686981023,
+        "coordinates": [
+          "42.378554",
+          "-71.13342"
+        ]
+      }
+    },
+    {
+      "start_time": "15:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.5110198193902271,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "16:56",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360997470545904,
+          -71.11326209101196
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dimitrios Cuisine",
+        "distance_km": 0.6074200314521758,
+        "coordinates": [
+          "42.357364",
+          "-71.107752"
+        ]
+      }
+    },
+    {
+      "start_time": "18:07",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.8381617070820273,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "18:49",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360997470545904,
+          -71.11326209101196
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360997470545904,
+          -71.11326209101196
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.360997470545904,
+        -71.11326209101196
+      ]
+    },
+    "work": {
+      "name": "JUDITH WOLFBERG MD",
+      "coordinates": [
+        "42.378554",
+        "-71.13342"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:17, I want to work, I go to JUDITH WOLFBERG MD by public_transit which takes 10-20 minutes.",
+    "On 15:58, I want to shop, I go to Gap by public_transit which takes 10-20 minutes.",
+    "On 16:56, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:45, I want to eat, I go to Dimitrios Cuisine by public_transit which takes 0-10 minutes.",
+    "On 18:07, I want to social, I go to Central House by public_transit which takes 0-10 minutes.",
+    "On 18:49, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 20:15, I want to home, I go to home by public_transit which takes 0-10 minutes."
+  ]
+}

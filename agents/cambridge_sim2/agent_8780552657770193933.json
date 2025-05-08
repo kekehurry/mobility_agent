@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Michelle Ellis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sakana",
+        "distance_km": 1.5562854297361806,
+        "coordinates": [
+          "42.369345",
+          "-71.110752"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Judy's Bay",
+        "distance_km": 0.5472327909096204,
+        "coordinates": [
+          "42.368291",
+          "-71.097779"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "First Cambridge Realty Corporation",
+        "distance_km": 1.377952082576217,
+        "coordinates": [
+          "42.368479",
+          "-71.108412"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sakana",
+        "distance_km": 1.5562854297361806,
+        "coordinates": [
+          "42.369345",
+          "-71.110752"
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She walks to the store, which is 10-20 minutes away."
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 0.4291432764483754,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Souper Roll Up Cafe",
+        "distance_km": 0.2968800903820326,
+        "coordinates": [
+          "42.372072",
+          "-71.088896"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37063934066404,
+          -71.09193875340935
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37063934066404,
+        -71.09193875340935
+      ]
+    },
+    "work": {
+      "name": "Sakana",
+      "coordinates": [
+        "42.369345",
+        "-71.110752"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Sakana by private_auto which takes 10-20 minutes.",
+    "On 12:15, I want to eat, I go to Judy's Bay by walking which takes 10-20 minutes.",
+    "On 12:45, I want to social, I go to First Cambridge Realty Corporation by public_transit which takes 10-20 minutes.",
+    "On 13:30, I want to work, I go to Sakana by walking which takes 10-20 minutes.",
+    "On 17:15, I want to shop, I go to Eli Incorporated by walking which takes She walks to the store, which is 10-20 minutes away. minutes.",
+    "On 18:00, I want to eat, I go to Souper Roll Up Cafe by walking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

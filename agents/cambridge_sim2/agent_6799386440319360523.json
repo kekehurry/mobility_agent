@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Daniel Simmons\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.4532619121716733,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Alice Heller Dance",
+        "distance_km": 1.8318658494034163,
+        "coordinates": [
+          "42.386167",
+          "-71.137352"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wasabi at Porter",
+        "distance_km": 1.5291551535635894,
+        "coordinates": [
+          "42.391257",
+          "-71.123477"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.6365082922894096,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.4532619121716733,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.4532619121716733,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.6365082922894096,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sincere Construction",
+        "distance_km": 1.517324222428264,
+        "coordinates": [
+          "42.392925",
+          "-71.147361"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Russell Field",
+        "distance_km": 0.728927854017856,
+        "coordinates": [
+          "42.396585",
+          "-71.138062"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.40249277138401,
+          -71.13420794888047
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.40249277138401,
+        -71.13420794888047
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.398696",
+        "-71.132191"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 09:00, I want to recreation, I go to Alice Heller Dance by biking which takes 10-20 minutes.",
+    "On 11:30, I want to eat, I go to Wasabi at Porter by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to shop, I go to Friendly Corner Convenience Store by walking which takes  minutes.",
+    "On 13:30, I want to work, I go to Dunkin' by walking which takes  minutes.",
+    "On 16:00, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 17:30, I want to shop, I go to Friendly Corner Convenience Store by walking which takes 10-20 minutes.",
+    "On 18:30, I want to social, I go to Sincere Construction by walking which takes 0-10 minutes.",
+    "On 20:00, I want to recreation, I go to Russell Field by walking which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

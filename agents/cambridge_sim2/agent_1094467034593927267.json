@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Brad Rodriguez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Waypoint",
+        "distance_km": 0.38665574095240934,
+        "coordinates": [
+          "42.369431",
+          "-71.1121"
+        ]
+      }
+    },
+    {
+      "start_time": "08:13",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 1.390144602486629,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "09:38",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 0.36215808886521245,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Waypoint",
+        "distance_km": 0.38665574095240934,
+        "coordinates": [
+          "42.369431",
+          "-71.1121"
+        ]
+      }
+    },
+    {
+      "start_time": "13:49",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Winthrop Grille",
+        "distance_km": 0.2319755467827925,
+        "coordinates": [
+          "42.370282",
+          "-71.118519"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "G&G Property Services",
+        "distance_km": 2.815176115502219,
+        "coordinates": [
+          "42.370082",
+          "-71.082562"
+        ]
+      }
+    },
+    {
+      "start_time": "17:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368695223828496,
+          -71.11668805008811
+        ]
+      }
+    },
+    {
+      "start_time": "18:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.5210686710921201,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "18:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368695223828496,
+          -71.11668805008811
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 0.36215808886521245,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "22:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368695223828496,
+          -71.11668805008811
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.368695223828496,
+        -71.11668805008811
+      ]
+    },
+    "work": {
+      "name": "Waypoint",
+      "coordinates": [
+        "42.369431",
+        "-71.1121"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:40, I want to work, I go to Waypoint by auto_passenger which takes 0-10 minutes.",
+    "On 08:13, I want to social, I go to Marc's Handyman by private_auto which takes  minutes.",
+    "On 09:38, I want to shop, I go to In Your Ear Records by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to work, I go to Waypoint by private_auto which takes 0-10 minutes.",
+    "On 13:49, I want to eat, I go to Winthrop Grille by walking which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to G&G Property Services by private_auto which takes 10-20 minutes.",
+    "On 17:50, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:22, I want to shop, I go to Newbury Comics by walking which takes  minutes.",
+    "On 18:43, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:35, I want to shop, I go to In Your Ear Records by walking which takes 0-10 minutes.",
+    "On 22:45, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

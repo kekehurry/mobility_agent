@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Brianna Franklin\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tsaparlis Nicholas M MD",
+        "distance_km": 0.5064202213266172,
+        "coordinates": [
+          "42.374491",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 1.244209493075741,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "YWCA",
+        "distance_km": 0.8664604538029397,
+        "coordinates": [
+          "42.366722",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Oleana Restaurant",
+        "distance_km": 0.30719723073904964,
+        "coordinates": [
+          "42.370543",
+          "-71.09718"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tsaparlis Nicholas M MD",
+        "distance_km": 0.5064202213266172,
+        "coordinates": [
+          "42.374491",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "15:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.9693023173556284,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373184529045595,
+          -71.09828431168462
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.5892315922747764,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "19:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Birss Sarah A MD",
+        "distance_km": 0.5123358602448546,
+        "coordinates": [
+          "42.369354",
+          "-71.101749"
+        ]
+      }
+    },
+    {
+      "start_time": "20:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373184529045595,
+          -71.09828431168462
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.373184529045595,
+        -71.09828431168462
+      ]
+    },
+    "work": {
+      "name": "Tsaparlis Nicholas M MD",
+      "coordinates": [
+        "42.374491",
+        "-71.104175"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:50, I want to work, I go to Tsaparlis Nicholas M MD by auto_passenger which takes 0-10 minutes.",
+    "On 11:00, I want to social, I go to Society for Critical Aesthetics by auto_passenger which takes 0-10 minutes.",
+    "On 12:10, I want to recreation, I go to YWCA by auto_passenger which takes  minutes.",
+    "On 13:30, I want to eat, I go to Oleana Restaurant by private_auto which takes 0-10 minutes.",
+    "On 14:30, I want to work, I go to Tsaparlis Nicholas M MD by private_auto which takes 0-10 minutes.",
+    "On 15:40, I want to shop, I go to Shalimar India Food & Spices by private_auto which takes 0-10 minutes.",
+    "On 16:50, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Barismo by auto_passenger which takes 0-10 minutes.",
+    "On 19:10, I want to recreation, I go to Birss Sarah A MD by walking which takes 0-10 minutes.",
+    "On 20:20, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

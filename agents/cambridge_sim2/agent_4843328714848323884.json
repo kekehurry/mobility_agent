@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Joseph Foster\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pang Alexander MD",
+        "distance_km": 0.6630849664500008,
+        "coordinates": [
+          "42.374441",
+          "-71.10443"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Route 66 Cafe",
+        "distance_km": 1.5138621065011504,
+        "coordinates": [
+          "42.371293",
+          "-71.080101"
+        ]
+      }
+    },
+    {
+      "start_time": "08:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 1.492279539776925,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "10:35",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Route 66 Cafe",
+        "distance_km": 1.5138621065011504,
+        "coordinates": [
+          "42.371293",
+          "-71.080101"
+        ]
+      }
+    },
+    {
+      "start_time": "12:38",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30 minutes"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.8318702935304565,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "13:33",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Momi Nonmi",
+        "distance_km": 0.34139629655198545,
+        "coordinates": [
+          "42.372992",
+          "-71.096118"
+        ]
+      }
+    },
+    {
+      "start_time": "18:01",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Puritan Oyster Bar",
+        "distance_km": 0.30469791525005935,
+        "coordinates": [
+          "42.372941",
+          "-71.0969"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370448638880696,
+        -71.09844495658673
+      ]
+    },
+    "work": {
+      "name": "Route 66 Cafe",
+      "coordinates": [
+        "42.371293",
+        "-71.080101"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Pang Alexander MD by walking which takes 10-20 minutes.",
+    "On 08:30, I want to work, I go to Route 66 Cafe by walking which takes 20-30 minutes.",
+    "On 08:55, I want to shop, I go to Roche Brothers Supermarket by walking which takes 20-30 minutes.",
+    "On 10:35, I want to work, I go to Route 66 Cafe by walking which takes 20-30 minutes.",
+    "On 12:38, I want to shop, I go to Gap by walking which takes 20-30 minutes minutes.",
+    "On 13:33, I want to eat, I go to Momi Nonmi by walking which takes 10-20 minutes.",
+    "On 18:01, I want to eat, I go to Puritan Oyster Bar by private_auto which takes 0-10 minutes."
+  ]
+}

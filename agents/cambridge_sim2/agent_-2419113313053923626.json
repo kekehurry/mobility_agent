@@ -1,0 +1,121 @@
+{
+  "profile": "{\n  \"name\": \"Patrick Fisher\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 28,\n  \"gender\": \"male\",\n  \"employment_status\": \"unemployed\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"75k-100k\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.5231054661968957,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Picante Mexican Grill",
+        "distance_km": 1.5751584796908356,
+        "coordinates": [
+          "42.366514",
+          "-71.104998"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Albert's Market",
+        "distance_km": 2.0603494422924804,
+        "coordinates": [
+          "42.371765",
+          "-71.087074"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "OneZo",
+        "distance_km": 1.0564742902746729,
+        "coordinates": [
+          "42.385946",
+          "-71.119619"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.2158379126319483,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380338123583265,
+          -71.10925751866988
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.380338123583265,
+        -71.10925751866988
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to social, I go to Central House by private_auto which takes 10-20 minutes.",
+    "On 12:15, I want to eat, I go to Picante Mexican Grill by private_auto which takes 10-20 minutes.",
+    "On 12:45, I want to shop, I go to Albert's Market by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to OneZo by on_demand_auto which takes 10-20 minutes.",
+    "On 18:15, I want to shop, I go to Market In the Square by private_auto which takes  minutes.",
+    "On 20:15, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

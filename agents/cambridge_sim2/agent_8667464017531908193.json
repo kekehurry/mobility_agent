@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Misty Schmidt\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cornell Andrew P",
+        "distance_km": 0.2613878612809168,
+        "coordinates": [
+          "42.368056",
+          "-71.101673"
+        ]
+      }
+    },
+    {
+      "start_time": "14:11",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.3180817970810057,
+        "coordinates": [
+          "42.368123",
+          "-71.102394"
+        ]
+      }
+    },
+    {
+      "start_time": "15:08",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 0.5649662802375028,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "16:11",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 1.3445939996026435,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "17:05",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 0.235880443971259,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "18:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sunset Cafe",
+        "distance_km": 0.26652805679079417,
+        "coordinates": [
+          "42.367585",
+          "-71.10199"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366956822381304,
+          -71.0988672178616
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366956822381304,
+        -71.0988672178616
+      ]
+    },
+    "work": {
+      "name": "Cornell Andrew P",
+      "coordinates": [
+        "42.368056",
+        "-71.101673"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:26, I want to work, I go to Cornell Andrew P by walking which takes 0-10 minutes.",
+    "On 14:11, I want to eat, I go to Taqueria by private_auto which takes 0-10 minutes.",
+    "On 15:08, I want to shop, I go to Adt by auto_passenger which takes 0-10 minutes.",
+    "On 16:11, I want to social, I go to One Broadway by walking which takes 0-10 minutes.",
+    "On 17:05, I want to recreation, I go to Clement G Morgan Park by walking which takes 0-10 minutes.",
+    "On 18:48, I want to eat, I go to Sunset Cafe by walking which takes 0-10 minutes.",
+    "On 19:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

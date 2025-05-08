@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Elizabeth Curtis\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Four Burgers",
+        "distance_km": 0.2772994565475337,
+        "coordinates": [
+          "42.365924",
+          "-71.105145"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36495810656724,
+          -71.10824911888496
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.6449380500066147,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "17:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Little Donkey",
+        "distance_km": 0.558435885465098,
+        "coordinates": [
+          "42.364361",
+          "-71.101518"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sahaj Kaur",
+        "distance_km": 0.30510827769189,
+        "coordinates": [
+          "42.366662",
+          "-71.105344"
+        ]
+      }
+    },
+    {
+      "start_time": "19:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36495810656724,
+          -71.10824911888496
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36495810656724,
+        -71.10824911888496
+      ]
+    },
+    "work": {
+      "name": "Four Burgers",
+      "coordinates": [
+        "42.365924",
+        "-71.105145"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:45, I want to work, I go to Four Burgers by private_auto which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 17:10, I want to eat, I go to Little Donkey by private_auto which takes  minutes.",
+    "On 18:20, I want to recreation, I go to Sahaj Kaur by biking which takes 0-10 minutes.",
+    "On 19:55, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

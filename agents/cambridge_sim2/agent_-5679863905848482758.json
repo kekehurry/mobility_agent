@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Kathryn Mendez\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Sports Clubs",
+        "distance_km": 0.24279153085908559,
+        "coordinates": [
+          "42.365641",
+          "-71.102797"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bao Nation",
+        "distance_km": 0.2964149059004389,
+        "coordinates": [
+          "42.365013",
+          "-71.102404"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36758697017632,
+          -71.10145485196877
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Boston Sports Clubs",
+        "distance_km": 0.24279153085908559,
+        "coordinates": [
+          "42.365641",
+          "-71.102797"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36758697017632,
+          -71.10145485196877
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Mikkusu Sando",
+        "distance_km": 0.576345106581397,
+        "coordinates": [
+          "42.363445",
+          "-71.097241"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.2786496525492923,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36758697017632,
+          -71.10145485196877
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36758697017632,
+        -71.10145485196877
+      ]
+    },
+    "work": {
+      "name": "Boston Sports Clubs",
+      "coordinates": [
+        "42.365641",
+        "-71.102797"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Boston Sports Clubs by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Bao Nation by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:00, I want to work, I go to Boston Sports Clubs by walking which takes  minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Mikkusu Sando by private_auto which takes  minutes.",
+    "On 19:00, I want to social, I go to Wellmet Project by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

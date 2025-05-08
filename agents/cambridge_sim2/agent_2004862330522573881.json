@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Sarah Wilson\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:35",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gymnastic Academy of Boston",
+        "distance_km": 0.5514828798753639,
+        "coordinates": [
+          "42.393583",
+          "-71.15013"
+        ]
+      }
+    },
+    {
+      "start_time": "11:35",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Uproot Events",
+        "distance_km": 0.32053502880103,
+        "coordinates": [
+          "42.395381",
+          "-71.147399"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39824814127648,
+          -71.1478386102908
+        ]
+      }
+    },
+    {
+      "start_time": "15:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 1.1114818442727947,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "15:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39824814127648,
+          -71.1478386102908
+        ]
+      }
+    },
+    {
+      "start_time": "16:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bbn Technologies",
+        "distance_km": 0.9399424053347264,
+        "coordinates": [
+          "42.389788",
+          "-71.147614"
+        ]
+      }
+    },
+    {
+      "start_time": "16:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.9909115645056535,
+        "coordinates": [
+          "42.39013",
+          "-71.14285"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CSA Construction Services",
+        "distance_km": 0.5507936421564785,
+        "coordinates": [
+          "42.394225",
+          "-71.151749"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39824814127648,
+          -71.1478386102908
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39824814127648,
+        -71.1478386102908
+      ]
+    },
+    "work": {
+      "name": "Gymnastic Academy of Boston",
+      "coordinates": [
+        "42.393583",
+        "-71.15013"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:35, I want to work, I go to Gymnastic Academy of Boston by auto_passenger which takes 0-10 minutes.",
+    "On 11:35, I want to recreation, I go to Uproot Events by walking which takes 0-10 minutes.",
+    "On 11:55, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 15:20, I want to shop, I go to T.J. Maxx by walking which takes 0-10 minutes.",
+    "On 15:40, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:20, I want to shop, I go to Bbn Technologies by private_auto which takes 0-10 minutes.",
+    "On 16:40, I want to eat, I go to Dunkin' by auto_passenger which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to CSA Construction Services by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

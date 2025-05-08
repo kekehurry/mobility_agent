@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Kenneth Mclean\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Phillips Alfred J DPM",
+        "distance_km": 1.5298681300614736,
+        "coordinates": [
+          "42.374723",
+          "-71.104304"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 1.5885200981698633,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Beantown Taqueria",
+        "distance_km": 0.5319942878089514,
+        "coordinates": [
+          "42.364764",
+          "-71.108767"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360956334404676,
+          -71.10484989533707
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.6621839523693521,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 1.6335236014408738,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360956334404676,
+          -71.10484989533707
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.360956334404676,
+        -71.10484989533707
+      ]
+    },
+    "work": {
+      "name": "Phillips Alfred J DPM",
+      "coordinates": [
+        "42.374723",
+        "-71.104304"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:10, I want to work, I go to Phillips Alfred J DPM by private_auto which takes 10-20 minutes.",
+    "On 12:15, I want to shop, I go to Broadway Marketplace by private_auto which takes  minutes.",
+    "On 13:15, I want to eat, I go to Beantown Taqueria by private_auto which takes  minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 17:15, I want to social, I go to Central House by public_transit which takes 0-10 minutes.",
+    "On 18:15, I want to shop, I go to In Your Ear Records by private_auto which takes  minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Anthony Singleton\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:55",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Catalyst Cafe",
+        "distance_km": 0.28699911643456094,
+        "coordinates": [
+          "42.36582",
+          "-71.079972"
+        ]
+      }
+    },
+    {
+      "start_time": "10:15",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dr Detail Car Cleaning Service",
+        "distance_km": 0.5797673861641215,
+        "coordinates": [
+          "42.36813",
+          "-71.075692"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Similans",
+        "distance_km": 0.33241698743058695,
+        "coordinates": [
+          "42.366379",
+          "-71.078167"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 1.1879068549000138,
+        "coordinates": [
+          "42.363707",
+          "-71.09312"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Catalyst Cafe",
+        "distance_km": 0.28699911643456094,
+        "coordinates": [
+          "42.36582",
+          "-71.079972"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 0.5295756955665013,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Memorial Drive Cafe",
+        "distance_km": 0.32827310239054014,
+        "coordinates": [
+          "42.361325",
+          "-71.081525"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36341315022938,
+          -71.07870515977615
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36341315022938,
+        -71.07870515977615
+      ]
+    },
+    "work": {
+      "name": "Catalyst Cafe",
+      "coordinates": [
+        "42.36582",
+        "-71.079972"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:55, I want to work, I go to Catalyst Cafe by private_auto which takes 0-10 minutes.",
+    "On 10:15, I want to maintenance, I go to Dr Detail Car Cleaning Service by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to The Similans by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to recreation, I go to Cambridge Athletic Club by on_demand_auto which takes 0-10 minutes.",
+    "On 14:00, I want to work, I go to Catalyst Cafe by private_auto which takes 0-10 minutes.",
+    "On 17:45, I want to shop, I go to Apple CambridgeSide by private_auto which takes 0-10 minutes.",
+    "On 18:20, I want to eat, I go to One Memorial Drive Cafe by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

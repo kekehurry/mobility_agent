@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Kenneth Mcdaniel\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.5214094741684366,
+        "coordinates": [
+          "42.373291",
+          "-71.119729"
+        ]
+      }
+    },
+    {
+      "start_time": "11:47",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.9464655895788112,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "12:16",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.6582194643931194,
+        "coordinates": [
+          "42.357776",
+          "-71.104201"
+        ]
+      }
+    },
+    {
+      "start_time": "16:13",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 1.0154605464374185,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "17:14",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.5763074955946803,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "18:06",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "B Good",
+        "distance_km": 0.4137046502968402,
+        "coordinates": [
+          "42.372595",
+          "-71.118786"
+        ]
+      }
+    },
+    {
+      "start_time": "19:14",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Richdale Food Store",
+        "distance_km": 1.114991592475319,
+        "coordinates": [
+          "42.369673",
+          "-71.101087"
+        ]
+      }
+    },
+    {
+      "start_time": "21:06",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370571602205615,
+          -71.11456920573163
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370571602205615,
+        -71.11456920573163
+      ]
+    },
+    "work": {
+      "name": "Starbucks",
+      "coordinates": [
+        "42.373291",
+        "-71.119729"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:38, I want to work, I go to Starbucks by walking which takes 10-20 minutes.",
+    "On 11:47, I want to maintenance, I go to Advance Tire Company Inc by biking which takes 10-20 minutes.",
+    "On 12:16, I want to eat, I go to Flour Bakery Cafe by biking which takes 10-20 minutes.",
+    "On 16:13, I want to social, I go to Wellmet Project by biking which takes  minutes.",
+    "On 17:14, I want to shop, I go to Gap by walking which takes 10-20 minutes.",
+    "On 18:06, I want to eat, I go to B Good by on_demand_auto which takes 0-10 minutes.",
+    "On 19:14, I want to shop, I go to Richdale Food Store by walking which takes  minutes.",
+    "On 21:06, I want to home, I go to home by on_demand_auto which takes 0-10 minutes."
+  ]
+}

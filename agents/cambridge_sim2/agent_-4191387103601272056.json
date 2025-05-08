@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\":\"Brandy Thomas\",\"city\":\"Cambridge,MA\",\"age\":35,\"gender\":\"female\",\"employment_status\":\"employed\",\"education\":\"bachelors\",\"household_size\":3,\"household_income\":\"150k+\",\"available_vehicles\":1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:06",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-4, 40"
+      },
+      "destination": {
+        "name": "CHANTEL HILE MD",
+        "distance_km": 2.513116671287129,
+        "coordinates": [
+          "42.374427",
+          "-71.133481"
+        ]
+      }
+    },
+    {
+      "start_time": "07:25",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 2.165124119123424,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 0.2961062931593256,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.397033711924635,
+          -71.132280405067
+        ]
+      }
+    },
+    {
+      "start_time": "14:12",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CHANTEL HILE MD",
+        "distance_km": 2.513116671287129,
+        "coordinates": [
+          "42.374427",
+          "-71.133481"
+        ]
+      }
+    },
+    {
+      "start_time": "15:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sheger Cafe",
+        "distance_km": 0.20919715458434288,
+        "coordinates": [
+          "42.396695",
+          "-71.129781"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.397033711924635,
+          -71.132280405067
+        ]
+      }
+    },
+    {
+      "start_time": "17:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Big Dig Records",
+        "distance_km": 0.360960726109574,
+        "coordinates": [
+          "42.395876",
+          "-71.128184"
+        ]
+      }
+    },
+    {
+      "start_time": "20:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.397033711924635,
+          -71.132280405067
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.397033711924635,
+        -71.132280405067
+      ]
+    },
+    "work": {
+      "name": "CHANTEL HILE MD",
+      "coordinates": [
+        "42.374427",
+        "-71.133481"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Lesley University",
+      "coordinates": [
+        "42.38099",
+        "-71.117349"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:06, I want to work, I go to CHANTEL HILE MD by public_transit which takes 30-4, 40 minutes.",
+    "On 07:25, I want to school, I go to Lesley University by walking which takes 0-10 minutes.",
+    "On 09:30, I want to eat, I go to Verna's Coffee & Donut Shop by walking which takes 10-20 minutes.",
+    "On 13:37, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:12, I want to work, I go to CHANTEL HILE MD by walking which takes 10-20 minutes.",
+    "On 15:10, I want to eat, I go to Sheger Cafe by private_auto which takes 0-10 minutes.",
+    "On 16:10, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 17:02, I want to shop, I go to Big Dig Records by private_auto which takes 0-10 minutes.",
+    "On 20:35, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

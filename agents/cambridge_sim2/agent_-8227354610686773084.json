@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Danielle Barrett\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.5983156465033583,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "11:44",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Memorial Drive BU Bridge gyratory",
+        "distance_km": 0.3133814542227759,
+        "coordinates": [
+          "42.354518",
+          "-71.110103"
+        ]
+      }
+    },
+    {
+      "start_time": "12:02",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Morse School Lindstrom Field",
+        "distance_km": 0.287115251178751,
+        "coordinates": [
+          "42.355207",
+          "-71.111187"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 1.5188243441911493,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.5608974455101352,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.353293387242985,
+          -71.1135296069223
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sushi Gourmet",
+        "distance_km": 0.8549634915057404,
+        "coordinates": [
+          "42.360984",
+          "-71.113946"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.353293387242985,
+          -71.1135296069223
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.353293387242985,
+        -71.1135296069223
+      ]
+    },
+    "work": {
+      "name": "Morse School Lindstrom Field",
+      "coordinates": [
+        "42.355207",
+        "-71.111187"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:42, I want to social, I go to Central House by walking which takes 0-10 minutes.",
+    "On 11:44, I want to eat, I go to Memorial Drive BU Bridge gyratory by walking which takes 0-10 minutes.",
+    "On 12:02, I want to work, I go to Morse School Lindstrom Field by walking which takes 0-10 minutes.",
+    "On 14:15, I want to recreation, I go to Johnson Ice Rink by walking which takes 0-10 minutes.",
+    "On 15:15, I want to shop, I go to Trader Joe's by public_transit which takes 10-20 minutes.",
+    "On 17:45, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:20, I want to eat, I go to Sushi Gourmet by public_transit which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

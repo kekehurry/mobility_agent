@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Nathan Santos\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Batifol",
+        "distance_km": 2.573796585708607,
+        "coordinates": [
+          "42.364793",
+          "-71.083185"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 0.7404545638139539,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 0.5829613809040598,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.6890630893070502,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370340652114386,
+          -71.11352211248527
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Tanjore",
+        "distance_km": 0.5497267804774496,
+        "coordinates": [
+          "42.367674",
+          "-71.1079"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370340652114386,
+          -71.11352211248527
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370340652114386,
+        -71.11352211248527
+      ]
+    },
+    "work": {
+      "name": "Batifol",
+      "coordinates": [
+        "42.364793",
+        "-71.083185"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Batifol by public_transit which takes 20-30 minutes.",
+    "On 11:00, I want to shop, I go to Wholesome Fresh by on_demand_auto which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Cambridge War Memorial Recreation Center by walking which takes 0-10 minutes.",
+    "On 15:30, I want to social, I go to Central House by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by on_demand_auto which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Tanjore by on_demand_auto which takes  minutes.",
+    "On 21:00, I want to home, I go to home by on_demand_auto which takes 0-10 minutes."
+  ]
+}

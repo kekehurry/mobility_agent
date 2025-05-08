@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Brian Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 2.0199116100131156,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.3394331790761738,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 1.464738511375091,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 0.7290430766431149,
+        "coordinates": [
+          "42.376328",
+          "-71.124091"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bohnert Michael MD",
+        "distance_km": 0.49786729711926386,
+        "coordinates": [
+          "42.372271",
+          "-71.123621"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.3394331790761738,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kennedy's On The Square",
+        "distance_km": 0.16937363297043645,
+        "coordinates": [
+          "42.372935",
+          "-71.119066"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.8811628039065665,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37186473362418,
+          -71.11760133713616
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37186473362418,
+        -71.11760133713616
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to shop, I go to Star Market by public_transit which takes 10-20 minutes.",
+    "On 08:30, I want to social, I go to Cambridge Forum by walking which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Shalimar India Food & Spices by walking which takes 10-20 minutes.",
+    "On 11:30, I want to eat, I go to Costa Coffee by walking which takes  minutes.",
+    "On 14:00, I want to recreation, I go to Bohnert Michael MD by private_auto which takes 0-10 minutes.",
+    "On 15:30, I want to social, I go to Cambridge Forum by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Kennedy's On The Square by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to shop, I go to Western Market by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

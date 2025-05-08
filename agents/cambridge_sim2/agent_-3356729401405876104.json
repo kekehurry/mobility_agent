@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Mary Reed\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.31540064443724414,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.31540064443724414,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 0.3767138216117733,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "14:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.2980368121151987,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 0.3767138216117733,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 0.3220441298321298,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39305923947861,
+          -71.14145005187488
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 0.31540064443724414,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39305923947861,
+          -71.14145005187488
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39305923947861,
+        -71.14145005187488
+      ]
+    },
+    "work": {
+      "name": "McDonald's",
+      "coordinates": [
+        "42.390291",
+        "-71.140598"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to work, I go to McDonald's by auto_passenger which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to McDonald's by private_auto which takes 0-10 minutes.",
+    "On 11:50, I want to shop, I go to T.J. Maxx by biking which takes 0-10 minutes.",
+    "On 14:10, I want to eat, I go to Dunkin' by private_auto which takes  minutes.",
+    "On 15:00, I want to shop, I go to T.J. Maxx by biking which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to Charlotte Huguenor Santana Properties Team by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to McDonald's by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

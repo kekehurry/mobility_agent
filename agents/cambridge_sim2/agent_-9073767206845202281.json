@@ -1,0 +1,103 @@
+{
+  "profile": "{\"name\": \"Amanda Morris\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.7279371928585852,
+        "coordinates": [
+          "42.389218",
+          "-71.141312"
+        ]
+      }
+    },
+    {
+      "start_time": "11:28",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Rindge Avenue Upper School",
+        "distance_km": 1.8330183147661645,
+        "coordinates": [
+          "42.39238",
+          "-71.128111"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.389856041548676,
+          -71.15011024550515
+        ]
+      }
+    },
+    {
+      "start_time": "18:06",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.7279371928585852,
+        "coordinates": [
+          "42.389218",
+          "-71.141312"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.389856041548676,
+        -71.15011024550515
+      ]
+    },
+    "work": {
+      "name": "Taqueria",
+      "coordinates": [
+        "42.389218",
+        "-71.141312"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Rindge Avenue Upper School",
+      "coordinates": [
+        "42.39238",
+        "-71.128111"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:40, I want to work, I go to Taqueria by walking which takes 0-10 minutes.",
+    "On 11:28, I want to school, I go to Rindge Avenue Upper School by walking which takes  minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:06, I want to work, I go to Taqueria by walking which takes 0-10 minutes."
+  ]
+}

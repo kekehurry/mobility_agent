@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Megan Middleton\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Poke Works",
+        "distance_km": 0.17706764709966694,
+        "coordinates": [
+          "42.374306",
+          "-71.119126"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "J P Licks Cambridge",
+        "distance_km": 0.3248238172228898,
+        "coordinates": [
+          "42.372779",
+          "-71.117504"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37567713952461,
+          -71.11802953038011
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.29934441042212606,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 0.7113768797315076,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37567713952461,
+          -71.11802953038011
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She walks for the 10-15 minute trip to the store, which is a common choice for her profile."
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 0.3231795387490813,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bluestone Lane",
+        "distance_km": 0.3242851171906913,
+        "coordinates": [
+          "42.373493",
+          "-71.120642"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37567713952461,
+          -71.11802953038011
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37567713952461,
+        -71.11802953038011
+      ]
+    },
+    "work": {
+      "name": "Poke Works",
+      "coordinates": [
+        "42.374306",
+        "-71.119126"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:30, I want to work, I go to Poke Works by walking which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to J P Licks Cambridge by public_transit which takes 0-10 minutes.",
+    "On 13:00, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Gap by walking which takes 0-10 minutes.",
+    "On 15:30, I want to recreation, I go to Cambridge War Memorial Recreation Center by public_transit which takes 10-20 minutes.",
+    "On 16:30, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 17:30, I want to shop, I go to Wholesome Fresh by walking which takes She walks for the 10-15 minute trip to the store, which is a common choice for her profile. minutes.",
+    "On 18:30, I want to eat, I go to Bluestone Lane by public_transit which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

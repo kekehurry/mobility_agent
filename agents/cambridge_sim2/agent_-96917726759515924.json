@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Rebecca Forbes\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Black Sheep Restaurant & Bar",
+        "distance_km": 0.5189160117132845,
+        "coordinates": [
+          "42.362207",
+          "-71.087304"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Grill",
+        "distance_km": 0.4882106691192379,
+        "coordinates": [
+          "42.359018",
+          "-71.095047"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glorious Office",
+        "distance_km": 0.4389471397151941,
+        "coordinates": [
+          "42.361587",
+          "-71.090835"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35779050090912,
+          -71.08935678880371
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.3532930632785232,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 0.8635017443243886,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pretzel Time",
+        "distance_km": 1.5699096002414827,
+        "coordinates": [
+          "42.368233",
+          "-71.076515"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35779050090912,
+          -71.08935678880371
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rebecca's Cafe",
+        "distance_km": 0.5966145623902943,
+        "coordinates": [
+          "42.362092",
+          "-71.08502"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35779050090912,
+        -71.08935678880371
+      ]
+    },
+    "work": {
+      "name": "The Black Sheep Restaurant & Bar",
+      "coordinates": [
+        "42.362207",
+        "-71.087304"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to The Black Sheep Restaurant & Bar by walking which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Cambridge Grill by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to social, I go to Glorious Office by public_transit which takes 0-10 minutes.",
+    "On 13:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to H Mart by public_transit which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to CAC Express by public_transit which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Pretzel Time by auto_passenger which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to other_activities, I go to Rebecca's Cafe by auto_passenger which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Michael Williams\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 3, \"household_income\": \"25k-50k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "John M Tobin",
+        "distance_km": 1.555090049827777,
+        "coordinates": [
+          "42.384427",
+          "-71.139632"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CSA Construction Services",
+        "distance_km": 1.4330845996990338,
+        "coordinates": [
+          "42.394225",
+          "-71.151749"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.2520622565936191,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "12:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3980200406799,
+          -71.13511354312634
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.37100704463315204,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "17:50",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.8237317551802283,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.2520622565936191,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3980200406799,
+          -71.13511354312634
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3980200406799,
+        -71.13511354312634
+      ]
+    },
+    "work": {
+      "name": "John M Tobin",
+      "coordinates": [
+        "42.384427",
+        "-71.139632"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to work, I go to John M Tobin by biking which takes 10-20 minutes.",
+    "On 11:55, I want to social, I go to CSA Construction Services by walking which takes 0-10 minutes.",
+    "On 12:20, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 12:55, I want to home, I go to home by walking which takes  minutes.",
+    "On 17:00, I want to shop, I go to Friendly Corner Convenience Store by walking which takes 10-20 minutes.",
+    "On 17:50, I want to recreation, I go to Fresh Pond by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 19:15, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

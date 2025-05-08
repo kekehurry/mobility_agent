@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Eric Thomas\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Planet Fitness",
+        "distance_km": 0.1136253723923475,
+        "coordinates": [
+          "42.36551",
+          "-71.102993"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.9476179300301454,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kennedy Longfellow",
+        "distance_km": 1.5149780091498273,
+        "coordinates": [
+          "42.369535",
+          "-71.086791"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Boston Lamb Takedown",
+        "distance_km": 0.25424742819146284,
+        "coordinates": [
+          "42.363634",
+          "-71.101486"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.3001225981515846,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.9208011073870815,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36487756540009,
+          -71.10407713155521
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36487756540009,
+        -71.10407713155521
+      ]
+    },
+    "school": {
+      "name": "Kennedy Longfellow",
+      "coordinates": [
+        "42.369535",
+        "-71.086791"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Planet Fitness by on_demand_auto which takes 0-10 minutes.",
+    "On 07:00, I want to shop, I go to Joe's Kwik Mart by private_auto which takes 0-10 minutes.",
+    "On 09:00, I want to school, I go to Kennedy Longfellow by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to The Boston Lamb Takedown by walking which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to Central House by public_transit which takes 10-20 minutes.",
+    "On 16:30, I want to shop, I go to Whole Foods Market by on_demand_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

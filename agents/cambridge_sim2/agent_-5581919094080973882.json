@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mario Graham Jr.\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:59",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.5872001745932172,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "10:52",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bri Grady Robert Paul Properties",
+        "distance_km": 1.0102706304895317,
+        "coordinates": [
+          "42.370813",
+          "-71.114984"
+        ]
+      }
+    },
+    {
+      "start_time": "12:12",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 0.43317704077381597,
+        "coordinates": [
+          "42.36498",
+          "-71.104203"
+        ]
+      }
+    },
+    {
+      "start_time": "13:08",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 0.8127925079250483,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 1.4201803788538367,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "18:27",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362991057053414,
+          -71.10872611780906
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Tasty Burger",
+        "distance_km": 0.5421598519660447,
+        "coordinates": [
+          "42.366066",
+          "-71.103615"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.362991057053414,
+        -71.10872611780906
+      ]
+    },
+    "work": {
+      "name": "Bri Grady Robert Paul Properties",
+      "coordinates": [
+        "42.370813",
+        "-71.114984"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:59, I want to social, I go to Trinity Property Management by public_transit which takes 10-20 minutes.",
+    "On 10:52, I want to work, I go to Bri Grady Robert Paul Properties by public_transit which takes 10-20 minutes.",
+    "On 12:12, I want to eat, I go to Subway by walking which takes 10-20 minutes.",
+    "On 13:08, I want to maintenance, I go to Nick's Magazine Auto R by walking which takes 10-20 minutes.",
+    "On 16:35, I want to shop, I go to Newbury Comics by walking which takes 10-20 minutes.",
+    "On 18:27, I want to home, I go to home by walking which takes  minutes.",
+    "On 19:43, I want to eat, I go to Tasty Burger by walking which takes user_input minutes."
+  ]
+}

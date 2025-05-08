@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Bryan Guzman\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Caff\u00e8 Nero",
+        "distance_km": 2.5099268152105316,
+        "coordinates": [
+          "42.388049",
+          "-71.119664"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mainely Burgers",
+        "distance_km": 0.36821784949280373,
+        "coordinates": [
+          "42.365923",
+          "-71.105031"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Kates Malcolm I Optmtrst",
+        "distance_km": 1.380043190581929,
+        "coordinates": [
+          "42.372884",
+          "-71.119217"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 1.7977709917578217,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.4409707311640133,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3689823627567,
+          -71.10331001607287
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3689823627567,
+        -71.10331001607287
+      ]
+    },
+    "work": {
+      "name": "Caff\u00e8 Nero",
+      "coordinates": [
+        "42.388049",
+        "-71.119664"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:50, I want to work, I go to Caff\u00e8 Nero by private_auto which takes 10-20 minutes.",
+    "On 11:30, I want to eat, I go to Mainely Burgers by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Kates Malcolm I Optmtrst by private_auto which takes  minutes.",
+    "On 16:00, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Go! Go! Curry! by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

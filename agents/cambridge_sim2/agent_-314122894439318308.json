@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Matthew Brown\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Landmark Theaters",
+        "distance_km": 0.767405230730005,
+        "coordinates": [
+          "42.367319",
+          "-71.090109"
+        ]
+      }
+    },
+    {
+      "start_time": "07:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 1.7128733054098286,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37376921300178,
+          -71.09344597985633
+        ]
+      }
+    },
+    {
+      "start_time": "17:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 1.4950858910592961,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "18:05",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37376921300178,
+          -71.09344597985633
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Richards",
+        "distance_km": 0.31084581531557004,
+        "coordinates": [
+          "42.373435",
+          "-71.097193"
+        ]
+      }
+    },
+    {
+      "start_time": "18:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fernandes Market",
+        "distance_km": 0.21386134889356312,
+        "coordinates": [
+          "42.372604",
+          "-71.091379"
+        ]
+      }
+    },
+    {
+      "start_time": "22:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37376921300178,
+          -71.09344597985633
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37376921300178,
+        -71.09344597985633
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Landmark Theaters by walking which takes 10-20 minutes.",
+    "On 07:20, I want to social, I go to Harvard Film Archive by walking which takes  minutes.",
+    "On 10:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 17:40, I want to shop, I go to Brothers Market by auto_passenger which takes 0-10 minutes.",
+    "On 18:05, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 18:20, I want to eat, I go to Richards by auto_passenger which takes 0-10 minutes.",
+    "On 18:50, I want to shop, I go to Fernandes Market by auto_passenger which takes 0-10 minutes.",
+    "On 22:40, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

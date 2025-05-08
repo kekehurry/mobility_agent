@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Tina Jordan\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n   ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pentose Pharmaceuticals",
+        "distance_km": 0.7185726212128195,
+        "coordinates": [
+          "42.391266",
+          "-71.148366"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 0.29544330139528174,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Burger King",
+        "distance_km": 0.9085571101127444,
+        "coordinates": [
+          "42.39049",
+          "-71.150472"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "PowerHouse Kickboxing and Fitness",
+        "distance_km": 1.1009066900195899,
+        "coordinates": [
+          "42.392097",
+          "-71.153228"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.4280431193146537,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39281423185635,
+          -71.13989275949763
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.3479759723367503,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39281423185635,
+          -71.13989275949763
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39281423185635,
+        -71.13989275949763
+      ]
+    },
+    "work": {
+      "name": "Pentose Pharmaceuticals",
+      "coordinates": [
+        "42.391266",
+        "-71.148366"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Pentose Pharmaceuticals by public_transit which takes 10-20 minutes.",
+    "On 11:00, I want to social, I go to Charlotte Huguenor Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Burger King by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to PowerHouse Kickboxing and Fitness by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Dunkin' by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Jesus Hines\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:28",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SUSANNAH SHERRY MD",
+        "distance_km": 0.25310956497511444,
+        "coordinates": [
+          "42.367599",
+          "-71.105524"
+        ]
+      }
+    },
+    {
+      "start_time": "12:18",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cicada Coffee Bar",
+        "distance_km": 0.5001715974321954,
+        "coordinates": [
+          "42.367571",
+          "-71.102001"
+        ]
+      }
+    },
+    {
+      "start_time": "12:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.6867383821409867,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "14:14",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.146274007532047,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "16:40",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 0.5167654379027683,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "17:18",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3692574386549,
+          -71.10763120050777
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3692574386549,
+        -71.10763120050777
+      ]
+    },
+    "work": {
+      "name": "SUSANNAH SHERRY MD",
+      "coordinates": [
+        "42.367599",
+        "-71.105524"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:28, I want to work, I go to SUSANNAH SHERRY MD by biking which takes 0-10 minutes.",
+    "On 12:18, I want to eat, I go to Cicada Coffee Bar by biking which takes 0-10 minutes.",
+    "On 12:58, I want to shop, I go to Western Market by walking which takes 0-10 minutes.",
+    "On 14:14, I want to social, I go to Cambridge Forum by walking which takes  minutes.",
+    "On 16:40, I want to recreation, I go to McCarter R Harris Psycholgst by private_auto which takes 0-10 minutes.",
+    "On 17:18, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

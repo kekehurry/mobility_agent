@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Nicole Jones\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n                ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 0.23639641362100894,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.2377353809993859,
+        "coordinates": [
+          "42.376364",
+          "-71.116569"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 0.23639641362100894,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Planet Records",
+        "distance_km": 0.7103778561372606,
+        "coordinates": [
+          "42.373857",
+          "-71.124783"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37424393585445,
+          -71.11617391996052
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Central Kitchen",
+        "distance_km": 1.5352329335810386,
+        "coordinates": [
+          "42.364865",
+          "-71.102484"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Phillips Alfred J DPM",
+        "distance_km": 0.9790919911192787,
+        "coordinates": [
+          "42.374723",
+          "-71.104304"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37424393585445,
+          -71.11617391996052
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37424393585445,
+        -71.11617391996052
+      ]
+    },
+    "work": {
+      "name": "Bon Me Smith Campus Center",
+      "coordinates": [
+        "42.372969",
+        "-71.118472"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Bon Me Smith Campus Center by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Clover Food Lab by walking which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to Bon Me Smith Campus Center by walking which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Planet Records by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Central Kitchen by auto_passenger which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Phillips Alfred J DPM by walking which takes  minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Megan Middleton\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:16",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Zoe's",
+        "distance_km": 0.33483028986437385,
+        "coordinates": [
+          "42.370759",
+          "-71.113401"
+        ]
+      }
+    },
+    {
+      "start_time": "10:56",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36800696466328,
+          -71.11174258726506
+        ]
+      }
+    },
+    {
+      "start_time": "11:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mother Juice",
+        "distance_km": 0.7693556162380706,
+        "coordinates": [
+          "42.372652",
+          "-71.118671"
+        ]
+      }
+    },
+    {
+      "start_time": "12:05",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36800696466328,
+          -71.11174258726506
+        ]
+      }
+    },
+    {
+      "start_time": "13:16",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 0.876244841290662,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "14:46",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36800696466328,
+          -71.11174258726506
+        ]
+      }
+    },
+    {
+      "start_time": "15:36",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.8340506121722491,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "17:06",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36800696466328,
+          -71.11174258726506
+        ]
+      }
+    },
+    {
+      "start_time": "17:36",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "AnyTime Pizza",
+        "distance_km": 0.389010988495551,
+        "coordinates": [
+          "42.364614",
+          "-71.110573"
+        ]
+      }
+    },
+    {
+      "start_time": "18:26",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 1.397187651420076,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "19:06",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36800696466328,
+          -71.11174258726506
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36800696466328,
+        -71.11174258726506
+      ]
+    },
+    "work": {
+      "name": "Zoe's",
+      "coordinates": [
+        "42.370759",
+        "-71.113401"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:16, I want to work, I go to Zoe's by walking which takes 0-10 minutes.",
+    "On 10:56, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 11:26, I want to eat, I go to Mother Juice by walking which takes 10-20 minutes.",
+    "On 12:05, I want to home, I go to home by walking which takes  minutes.",
+    "On 13:16, I want to shop, I go to Deep Thoughts Cambridge by walking which takes 10-20 minutes.",
+    "On 14:46, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:36, I want to shop, I go to H Mart by private_auto which takes 0-10 minutes.",
+    "On 17:06, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:36, I want to eat, I go to AnyTime Pizza by walking which takes 0-10 minutes.",
+    "On 18:26, I want to recreation, I go to Greene Rose Heritage Park by walking which takes  minutes.",
+    "On 19:06, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

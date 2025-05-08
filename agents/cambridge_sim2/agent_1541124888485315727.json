@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Christopher Hall\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Beantowne Coffee",
+        "distance_km": 1.5472118161934143,
+        "coordinates": [
+          "42.366417",
+          "-71.090625"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She walks for 20-30 minutes"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 2.2621354682382684,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bri Grady Robert Paul Properties",
+        "distance_km": 0.5410508913489839,
+        "coordinates": [
+          "42.370813",
+          "-71.114984"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mas Veggies Vegan Taqueria",
+        "distance_km": 1.0237856658939528,
+        "coordinates": [
+          "42.372043",
+          "-71.120747"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 0.5665342108484461,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 2.276337787936149,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37088472743764,
+          -71.10841600693998
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37088472743764,
+        -71.10841600693998
+      ]
+    },
+    "work": {
+      "name": "Beantowne Coffee",
+      "coordinates": [
+        "42.366417",
+        "-71.090625"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to work, I go to Beantowne Coffee by walking which takes 20-30 minutes.",
+    "On 09:00, I want to shop, I go to Brothers Market by walking which takes She walks for 20-30 minutes minutes.",
+    "On 11:30, I want to social, I go to Bri Grady Robert Paul Properties by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Mas Veggies Vegan Taqueria by auto_passenger which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Harvard Film Archive by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Star Market by walking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

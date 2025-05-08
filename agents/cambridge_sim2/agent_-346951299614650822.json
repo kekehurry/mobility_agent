@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Kelly Foster\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simon's Too",
+        "distance_km": 1.1229302957670497,
+        "coordinates": [
+          "42.36934",
+          "-71.11073"
+        ]
+      }
+    },
+    {
+      "start_time": "11:17",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 0.83350932818923,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35925101417535,
+          -71.10986901036567
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 0.4221520939864751,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35925101417535,
+          -71.10986901036567
+        ]
+      }
+    },
+    {
+      "start_time": "18:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35925101417535,
+          -71.10986901036567
+        ]
+      }
+    },
+    {
+      "start_time": "20:07",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.3844193656812046,
+        "coordinates": [
+          "42.360979",
+          "-71.113912"
+        ]
+      }
+    },
+    {
+      "start_time": "20:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35925101417535,
+          -71.10986901036567
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35925101417535,
+        -71.10986901036567
+      ]
+    },
+    "work": {
+      "name": "Simon's Too",
+      "coordinates": [
+        "42.36934",
+        "-71.11073"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:38, I want to work, I go to Simon's Too by auto_passenger which takes 10-20 minutes.",
+    "On 11:17, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by biking which takes 0-10 minutes.",
+    "On 15:55, I want to home, I go to home by biking which takes user_input minutes.",
+    "On 16:00, I want to shop, I go to Micro Center by biking which takes 0-10 minutes.",
+    "On 16:50, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 18:10, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 20:07, I want to eat, I go to Taqueria by public_transit which takes 0-10 minutes.",
+    "On 20:33, I want to home, I go to home by biking which takes 0-10 minutes."
+  ]
+}

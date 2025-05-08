@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Katherine Villegas\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 1.553595816134164,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.5154542102749897,
+        "coordinates": [
+          "42.365688",
+          "-71.103745"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 0.5380000092024684,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sushi Gourmet",
+        "distance_km": 0.2639563092929743,
+        "coordinates": [
+          "42.368109",
+          "-71.102391"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 1.553595816134164,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 1.169882847964741,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 0.5991839014056288,
+        "coordinates": [
+          "42.36498",
+          "-71.104203"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brookfield Factory Outlet Store",
+        "distance_km": 0.5920715736940722,
+        "coordinates": [
+          "42.372779",
+          "-71.094298"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36906983721768,
+          -71.09946016208444
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36906983721768,
+        -71.09946016208444
+      ]
+    },
+    "work": {
+      "name": "MIT Wong Auditorium",
+      "coordinates": [
+        "42.360637",
+        "-71.084414"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to MIT Wong Auditorium by private_auto which takes 10-20 minutes.",
+    "On 09:30, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 11:00, I want to shop, I go to Deep Thoughts Cambridge by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Sushi Gourmet by walking which takes 0-10 minutes.",
+    "On 13:30, I want to work, I go to MIT Wong Auditorium by walking which takes 0-10 minutes.",
+    "On 15:30, I want to recreation, I go to Cambridge Center Roof Garden by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Subway by walking which takes 10-20 minutes.",
+    "On 17:45, I want to shop, I go to Brookfield Factory Outlet Store by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

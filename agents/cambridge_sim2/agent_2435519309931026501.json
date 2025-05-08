@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Kathryn Mendez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kimchi Kitchen",
+        "distance_km": 0.22131953008062757,
+        "coordinates": [
+          "42.372553",
+          "-71.090859"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe du Pays",
+        "distance_km": 0.36534507300037466,
+        "coordinates": [
+          "42.367701",
+          "-71.091149"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Luigi's Variety",
+        "distance_km": 0.6127387801025684,
+        "coordinates": [
+          "42.371552",
+          "-71.084926"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "All Star Pizza Bar",
+        "distance_km": 0.544153923271858,
+        "coordinates": [
+          "42.373252",
+          "-71.098086"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ahearn Field",
+        "distance_km": 0.44192242311091734,
+        "coordinates": [
+          "42.368554",
+          "-71.087952"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "math.random() * (10 - 0) + 0"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37087555115867,
+          -71.09230893842374
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37087555115867,
+        -71.09230893842374
+      ]
+    },
+    "work": {
+      "name": "Kimchi Kitchen",
+      "coordinates": [
+        "42.372553",
+        "-71.090859"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Kimchi Kitchen by on_demand_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Cafe du Pays by walking which takes 0-10 minutes.",
+    "On 13:15, I want to shop, I go to Luigi's Variety by walking which takes 0-10 minutes.",
+    "On 17:45, I want to eat, I go to All Star Pizza Bar by walking which takes  minutes.",
+    "On 18:30, I want to recreation, I go to Ahearn Field by walking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes math.random() * (10 - 0) + 0 minutes."
+  ]
+}
