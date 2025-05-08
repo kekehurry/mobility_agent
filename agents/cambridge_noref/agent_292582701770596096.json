@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Corey Macdonald\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Benari Michael Phys",
+        "distance_km": 5.058173552337074,
+        "coordinates": [
+          "42.37566",
+          "-71.144497"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 2.5980691180467734,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Benari Michael Phys",
+        "distance_km": 5.058173552337074,
+        "coordinates": [
+          "42.37566",
+          "-71.144497"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368186638526396,
+          -71.08391917418395
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 2.5980691180467734,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Healthworks Fitness",
+        "distance_km": 3.687272298901926,
+        "coordinates": [
+          "42.388908",
+          "-71.118896"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368186638526396,
+          -71.08391917418395
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.368186638526396,
+        -71.08391917418395
+      ]
+    },
+    "work": {
+      "name": "Benari Michael Phys",
+      "coordinates": [
+        "42.37566",
+        "-71.144497"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to work, I go to Benari Michael Phys by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Genji Express by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Benari Michael Phys by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Genji Express by public_transit which takes 40-50 minutes.",
+    "On 19:30, I want to recreation, I go to Healthworks Fitness by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

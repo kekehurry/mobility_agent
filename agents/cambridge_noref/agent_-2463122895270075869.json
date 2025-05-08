@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Kelly Shannon\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge 1",
+        "distance_km": 3.0086666474053954,
+        "coordinates": [
+          "42.374528",
+          "-71.120006"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 2.5741581753113634,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge 1",
+        "distance_km": 3.0086666474053954,
+        "coordinates": [
+          "42.374528",
+          "-71.120006"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372907356995505,
+          -71.083542640019
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Village Grill & Seafood",
+        "distance_km": 2.6126673443401085,
+        "coordinates": [
+          "42.359894",
+          "-71.109963"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Kates Malcolm I Optmtrst",
+        "distance_km": 2.9383301583708956,
+        "coordinates": [
+          "42.372884",
+          "-71.119217"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372907356995505,
+          -71.083542640019
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372907356995505,
+        -71.083542640019
+      ]
+    },
+    "work": {
+      "name": "Cambridge 1",
+      "coordinates": [
+        "42.374528",
+        "-71.120006"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Cambridge 1 by public_transit which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Atrium Restaurant by public_transit which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Cambridge 1 by public_transit which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Village Grill & Seafood by public_transit which takes 20-30 minutes.",
+    "On 20:00, I want to recreation, I go to Kates Malcolm I Optmtrst by public_transit which takes 20-30 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

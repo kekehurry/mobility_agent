@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\":\"Amy Hayes\",\"city\":\"Cambridge,MA\",\"age\":45,\"gender\":\"female\",\"employment_status\":\"employed\",\"education\":\"bachelors_degree\",\"household_size\":3,\"household_income\":\"150k+\",\"available_vehicles\":2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Umami Omakase",
+        "distance_km": 5.301652445778203,
+        "coordinates": [
+          "42.396725",
+          "-71.129765"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Tavern in the Square",
+        "distance_km": 2.592854351283958,
+        "coordinates": [
+          "42.365949",
+          "-71.105208"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Umami Omakase",
+        "distance_km": 5.301652445778203,
+        "coordinates": [
+          "42.396725",
+          "-71.129765"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "profile: private_auto, duration: 20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37190810303081,
+          -71.07477311074965
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "profile: private_auto, duration: 20-30 minutes"
+      },
+      "destination": {
+        "name": "Cuchi Cuchi",
+        "distance_km": 2.0744483347144547,
+        "coordinates": [
+          "42.36345",
+          "-71.097226"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 2.7254565242700672,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37190810303081,
+          -71.07477311074965
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37190810303081,
+        -71.07477311074965
+      ]
+    },
+    "work": {
+      "name": "Umami Omakase",
+      "coordinates": [
+        "42.396725",
+        "-71.129765"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Umami Omakase by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Tavern in the Square by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Umami Omakase by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes profile: private_auto, duration: 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Cuchi Cuchi by private_auto which takes profile: private_auto, duration: 20-30 minutes minutes.",
+    "On 19:30, I want to recreation, I go to Spaulding National Running Center by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

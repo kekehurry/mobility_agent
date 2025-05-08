@@ -1,0 +1,240 @@
+{
+  "profile": "{\"name\": \"Cheryl Garcia\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Zinneken's Belgian Waffles Harvard Square",
+        "distance_km": 0.16572160199268166,
+        "coordinates": [
+          "42.371169",
+          "-71.114539"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.6662531340843377,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371632894226806,
+          -71.1126267511824
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Leone Jas P Psycholgst",
+        "distance_km": 0.5982904050186566,
+        "coordinates": [
+          "42.367909",
+          "-71.107379"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371632894226806,
+          -71.1126267511824
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 0.26199156743919155,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.6662531340843377,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371632894226806,
+          -71.1126267511824
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 2.5894445815604765,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "time 10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371632894226806,
+          -71.1126267511824
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Handle Bar Indoor Cycling Studio",
+        "distance_km": 0.2418687974438495,
+        "coordinates": [
+          "42.369484",
+          "-71.112153"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Richard A And Susan F Smith Campus Center",
+        "distance_km": 0.5093537558045128,
+        "coordinates": [
+          "42.372678",
+          "-71.118648"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371632894226806,
+          -71.1126267511824
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.371632894226806,
+        -71.1126267511824
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to eat, I go to Zinneken's Belgian Waffles Harvard Square by walking which takes 0-10 minutes.",
+    "On 08:15, I want to shop, I go to Gap by walking which takes 0-10 minutes.",
+    "On 08:45, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 10:00, I want to recreation, I go to Leone Jas P Psycholgst by walking which takes 0-10 minutes.",
+    "On 11:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Flame Hot Pot & Sushi by walking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Gap by private_auto which takes 10-20 minutes.",
+    "On 13:30, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 15:00, I want to social, I go to One Broadway by private_auto which takes 10-20 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes time 10-20 minutes.",
+    "On 17:30, I want to recreation, I go to The Handle Bar Indoor Cycling Studio by walking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Richard A And Susan F Smith Campus Center by on_demand_auto which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

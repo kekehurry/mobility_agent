@@ -1,0 +1,257 @@
+{
+  "profile": "{\"name\": \"Erika Newman\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 2.5770846741828617,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Somerville Mental Health Center",
+        "distance_km": 4.529521064746676,
+        "coordinates": [
+          "42.39711",
+          "-71.130279"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 2.5770846741828617,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37173017487852,
+          -71.0872284292565
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 3.264227892024241,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Japonaise Bakery & Cafe",
+        "distance_km": 3.094783367160796,
+        "coordinates": [
+          "42.387199",
+          "-71.118482"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "F45 Training",
+        "distance_km": 2.7125272741309634,
+        "coordinates": [
+          "42.373116",
+          "-71.120108"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37173017487852,
+          -71.0872284292565
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 2.8025506431316916,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "F45 Training",
+        "distance_km": 2.7125272741309634,
+        "coordinates": [
+          "42.373116",
+          "-71.120108"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37173017487852,
+          -71.0872284292565
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 2.5770846741828617,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 4.476563519730557,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37173017487852,
+          -71.0872284292565
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37173017487852,
+        -71.0872284292565
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Bon Me Smith Campus Center by public_transit which takes 30-40 minutes.",
+    "On 07:30, I want to recreation, I go to Cambridge Somerville Mental Health Center by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to eat, I go to Bon Me Smith Campus Center by public_transit which takes 30-40 minutes.",
+    "On 08:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 09:00, I want to shop, I go to Star Market by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Japonaise Bakery & Cafe by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to recreation, I go to F45 Training by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 14:00, I want to shop, I go to Wholesome Fresh by public_transit which takes 30-40 minutes.",
+    "On 16:00, I want to recreation, I go to F45 Training by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Bon Me Smith Campus Center by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to social, I go to Investments Limited by biking which takes 30-40 minutes.",
+    "On 20:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

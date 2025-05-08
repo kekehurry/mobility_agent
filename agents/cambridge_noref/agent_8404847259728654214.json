@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Stephanie Brown\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n\t",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Vester",
+        "distance_km": 5.121415571863266,
+        "coordinates": [
+          "42.363164",
+          "-71.088442"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.0553511475780473,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Vester",
+        "distance_km": 5.121415571863266,
+        "coordinates": [
+          "42.363164",
+          "-71.088442"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39812255884711,
+          -71.12898695230103
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 0.3124024678809,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Restorative Yoga with Bo Forbes",
+        "distance_km": 1.3203101968655584,
+        "coordinates": [
+          "42.388881",
+          "-71.118903"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39812255884711,
+          -71.12898695230103
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39812255884711,
+        -71.12898695230103
+      ]
+    },
+    "work": {
+      "name": "Vester",
+      "coordinates": [
+        "42.363164",
+        "-71.088442"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Vester by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Vester by public_transit which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Frank's Steak House by walking which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Restorative Yoga with Bo Forbes by walking which takes  minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Sarah Smith\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "ORALE Mexican Grill",
+        "distance_km": 3.0731813736617,
+        "coordinates": [
+          "42.372614",
+          "-71.090856"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Curry N Wok",
+        "distance_km": 1.5298635904997093,
+        "coordinates": [
+          "42.396769",
+          "-71.129829"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "ORALE Mexican Grill",
+        "distance_km": 3.0731813736617,
+        "coordinates": [
+          "42.372614",
+          "-71.090856"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Ma Magoo's Pizza & Sub Shop",
+        "distance_km": 1.5043114616810618,
+        "coordinates": [
+          "42.388006",
+          "-71.142394"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Davis Charles B Phys",
+        "distance_km": 1.809659359351123,
+        "coordinates": [
+          "42.375661",
+          "-71.144514"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 4.206723528053942,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.383430698572155,
+          -71.12520050415365
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.383430698572155,
+        -71.12520050415365
+      ]
+    },
+    "work": {
+      "name": "ORALE Mexican Grill",
+      "coordinates": [
+        "42.372614",
+        "-71.090856"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to ORALE Mexican Grill by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Curry N Wok by on_demand_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to ORALE Mexican Grill by on_demand_auto which takes 20-30 minutes.",
+    "On 17:30, I want to eat, I go to Ma Magoo's Pizza & Sub Shop by on_demand_auto which takes  minutes.",
+    "On 18:00, I want to recreation, I go to Davis Charles B Phys by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to social, I go to MIT Wong Auditorium by on_demand_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by on_demand_auto which takes 20-30 minutes."
+  ]
+}

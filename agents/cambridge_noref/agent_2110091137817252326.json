@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Gabriel Boyd\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Churn2 Superior Ice Cream",
+        "distance_km": 3.046528149760556,
+        "coordinates": [
+          "42.376225",
+          "-71.116327"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mount Auburn Prevention & Recovery Center",
+        "distance_km": 2.8873171223328074,
+        "coordinates": [
+          "42.374349",
+          "-71.13374"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 3.877153237581886,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.798289952549892,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 5.395489757322802,
+        "coordinates": [
+          "42.364982",
+          "-71.089027"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Ma Magoo's Pizza & Sub Shop",
+        "distance_km": 1.536683044852717,
+        "coordinates": [
+          "42.388006",
+          "-71.142394"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 3.044415385128451,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "American Legion Marsh Post 442",
+        "distance_km": 3.940254248501572,
+        "coordinates": [
+          "42.365182",
+          "-71.140283"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Churn2 Superior Ice Cream",
+        "distance_km": 3.046528149760556,
+        "coordinates": [
+          "42.376225",
+          "-71.116327"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 6.065693556751037,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Health Yoga Life",
+        "distance_km": 5.40579877361771,
+        "coordinates": [
+          "42.360911",
+          "-71.095474"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 5.083435148285299,
+        "coordinates": [
+          "42.363793",
+          "-71.096798"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.400341493898594,
+        -71.1339459961992
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Churn2 Superior Ice Cream by biking which takes 20-30 minutes.",
+    "On 08:00, I want to recreation, I go to Mount Auburn Prevention & Recovery Center by private_auto which takes 10-20 minutes.",
+    "On 09:00, I want to shop, I go to Louie's Superette by public_transit which takes 20-30 minutes.",
+    "On 10:30, I want to eat, I go to Dunkin' by private_auto which takes 30-4,  minutes.",
+    "On 11:30, I want to recreation, I go to CorePower Yoga by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to eat, I go to Ma Magoo's Pizza & Sub Shop by private_auto which takes 20-30 minutes.",
+    "On 14:00, I want to shop, I go to Star Market by public_transit which takes 30-40 minutes.",
+    "On 15:30, I want to recreation, I go to American Legion Marsh Post 442 by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to eat, I go to Churn2 Superior Ice Cream by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to social, I go to CIC Cambridge by private_auto which takes 20-30 minutes.",
+    "On 20:00, I want to recreation, I go to Health Yoga Life by private_auto which takes 20-30 minutes.",
+    "On 21:30, I want to eat, I go to Newtowne Variety by public_transit which takes 30-40 minutes."
+  ]
+}

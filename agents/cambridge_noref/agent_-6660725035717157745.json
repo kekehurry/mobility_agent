@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Pamela Vazquez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 4.061972993094861,
+        "coordinates": [
+          "42.357776",
+          "-71.104201"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "value"
+      },
+      "destination": {
+        "name": "Darul Kabab",
+        "distance_km": 1.6252603023521035,
+        "coordinates": [
+          "42.391157",
+          "-71.123274"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 4.061972993094861,
+        "coordinates": [
+          "42.357776",
+          "-71.104201"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tasty Burger",
+        "distance_km": 2.0037860470231257,
+        "coordinates": [
+          "42.372637",
+          "-71.119953"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Varga Golovcsenko Steven MD",
+        "distance_km": 3.1542542370213758,
+        "coordinates": [
+          "42.367927",
+          "-71.107399"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38311266884906,
+          -71.139760058164
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38311266884906,
+        -71.139760058164
+      ]
+    },
+    "work": {
+      "name": "Flour Bakery Cafe",
+      "coordinates": [
+        "42.357776",
+        "-71.104201"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Flour Bakery Cafe by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Darul Kabab by public_transit which takes value minutes.",
+    "On 12:30, I want to work, I go to Flour Bakery Cafe by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Tasty Burger by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Varga Golovcsenko Steven MD by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes  minutes."
+  ]
+}

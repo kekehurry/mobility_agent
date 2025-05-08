@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Lisa Shelton\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fernandes Market",
+        "distance_km": 1.6609422632499158,
+        "coordinates": [
+          "42.372604",
+          "-71.091379"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chang Shing Tofu",
+        "distance_km": 2.413951463828297,
+        "coordinates": [
+          "42.366227",
+          "-71.0791"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 1.7127912856007632,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Landmark Theaters",
+        "distance_km": 1.5604841151411646,
+        "coordinates": [
+          "42.368264",
+          "-71.090065"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Rosie's Bakery",
+        "distance_km": 2.5727618196872033,
+        "coordinates": [
+          "42.38608",
+          "-71.119594"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "OggiGourmet",
+        "distance_km": 1.2463990323291803,
+        "coordinates": [
+          "42.372441",
+          "-71.118977"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home_to_social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 2.0143296314033914,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "social_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 2.35422818049479,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.364482804548075,
+        -71.10830982858629
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to Fernandes Market by walking which takes 20-30 minutes.",
+    "On 12:00, I want to shop_to_home, I go to Chang Shing Tofu by walking which takes 20-30 minutes.",
+    "On 13:00, I want to home_to_recreation, I go to Cambridge Center Roof Garden by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to recreation_to_home, I go to Landmark Theaters by walking which takes 20-30 minutes.",
+    "On 18:00, I want to home_to_eat, I go to Rosie's Bakery by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to eat_to_home, I go to OggiGourmet by walking which takes 20-30 minutes.",
+    "On 20:00, I want to home_to_social, I go to MIT Wong Auditorium by public_transit which takes 20-30 minutes.",
+    "On 21:00, I want to social_to_home, I go to Radcliffe Quadrangle by walking which takes 20-30 minutes."
+  ]
+}

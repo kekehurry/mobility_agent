@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Lisa Shelton\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 5.042041100887421,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "1369 Coffee House",
+        "distance_km": 2.5620970890214636,
+        "coordinates": [
+          "42.373814",
+          "-71.100377"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "Heart rate"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 5.042041100887421,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38055661306036,
+          -71.13012674456994
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pita Cambridge",
+        "distance_km": 2.5362630599707483,
+        "coordinates": [
+          "42.374049",
+          "-71.100609"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Belmont Podiatry",
+        "distance_km": 2.7480608945407696,
+        "coordinates": [
+          "42.394227",
+          "-71.157941"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38055661306036,
+          -71.13012674456994
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38055661306036,
+        -71.13012674456994
+      ]
+    },
+    "work": {
+      "name": "Hult International Business School",
+      "coordinates": [
+        "42.36979",
+        "-71.070656"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Hult International Business School by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to 1369 Coffee House by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Hult International Business School by private_auto which takes Heart rate minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Pita Cambridge by private_auto which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Belmont Podiatry by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

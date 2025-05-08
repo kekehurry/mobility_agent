@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Monique Hall\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Smith Judith E Law Office",
+        "distance_km": 5.12474986073622,
+        "coordinates": [
+          "42.390938",
+          "-71.155089"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Forage",
+        "distance_km": 2.52725491079494,
+        "coordinates": [
+          "42.379088",
+          "-71.127093"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Smith Judith E Law Office",
+        "distance_km": 5.12474986073622,
+        "coordinates": [
+          "42.390938",
+          "-71.155089"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36250318534641,
+          -71.10608888232224
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "time 20-30"
+      },
+      "destination": {
+        "name": "Little Lingo",
+        "distance_km": 3.030990879600453,
+        "coordinates": [
+          "42.369939",
+          "-71.070686"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Olympia Fencing Center",
+        "distance_km": 5.055827267614783,
+        "coordinates": [
+          "42.393713",
+          "-71.150772"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36250318534641,
+          -71.10608888232224
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36250318534641,
+        -71.10608888232224
+      ]
+    },
+    "work": {
+      "name": "Smith Judith E Law Office",
+      "coordinates": [
+        "42.390938",
+        "-71.155089"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Smith Judith E Law Office by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Forage by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Smith Judith E Law Office by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Little Lingo by private_auto which takes time 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Olympia Fencing Center by on_demand_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

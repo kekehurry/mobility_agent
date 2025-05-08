@@ -1,0 +1,87 @@
+{
+  "profile": "{\"name\": \"Nicole Walker\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "B.GOOD",
+        "distance_km": 2.5673301710024568,
+        "coordinates": [
+          "42.364184",
+          "-71.083507"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35984738431686,
+          -71.11411816926785
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Japonaise Bakery & Cafe",
+        "distance_km": 3.0594184895604886,
+        "coordinates": [
+          "42.387199",
+          "-71.118482"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Belmont Podiatry",
+        "distance_km": 5.25458821350679,
+        "coordinates": [
+          "42.394227",
+          "-71.157941"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35984738431686,
+        -71.11411816926785
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to B.GOOD by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Japonaise Bakery & Cafe by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Belmont Podiatry by on_demand_auto which takes 40-50 minutes."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Nicholas Hall\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chicago Pizza Cambridge",
+        "distance_km": 2.606328328655275,
+        "coordinates": [
+          "42.361736",
+          "-71.097092"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Little Lingo",
+        "distance_km": 4.266638403554967,
+        "coordinates": [
+          "42.369939",
+          "-71.070686"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Downstairs Cafe",
+        "distance_km": 3.5713387798436416,
+        "coordinates": [
+          "42.367081",
+          "-71.080261"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 2.887620119490212,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37645093491772,
+          -71.12173777736596
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37645093491772,
+        -71.12173777736596
+      ]
+    },
+    "work": {
+      "name": "Little Lingo",
+      "coordinates": [
+        "42.369939",
+        "-71.070686"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to eat, I go to Chicago Pizza Cambridge by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to work, I go to Little Lingo by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Downstairs Cafe by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to recreation, I go to Johnson Ice Rink by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

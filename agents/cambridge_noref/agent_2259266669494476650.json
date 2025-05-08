@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Darius Garcia\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.3330428562298758,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 0.8274381385011306,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Goldman Beth Phys",
+        "distance_km": 1.7140854203069111,
+        "coordinates": [
+          "42.374357",
+          "-71.133746"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.681538804835936,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zambrero Harvard Square",
+        "distance_km": 0.5941670624620454,
+        "coordinates": [
+          "42.372057",
+          "-71.118297"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.49540143201576387,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "uBreakiFix",
+        "distance_km": 0.4834958821329496,
+        "coordinates": [
+          "42.368684",
+          "-71.10981"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 2.550379149632692,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 2.3255928014537277,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3671846482918,
+        -71.11532044442718
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to Western Market by walking which takes 10-20 minutes.",
+    "On 08:00, I want to shop_to_home, I go to Adt by walking which takes 10-20 minutes.",
+    "On 08:30, I want to home_to_recreation, I go to Goldman Beth Phys by biking which takes 10-20 minutes.",
+    "On 12:00, I want to home_to_eat, I go to Flour Bakery Cafe by biking which takes 10-20 minutes.",
+    "On 13:00, I want to eat_to_home, I go to Zambrero Harvard Square by walking which takes 10-20 minutes.",
+    "On 17:00, I want to social_to_home, I go to Victoria Goodman Santana Properties Team by walking which takes 10-20 minutes.",
+    "On 18:30, I want to home_to_shop, I go to uBreakiFix by walking which takes 10-20 minutes.",
+    "On 19:30, I want to shop_to_home, I go to Star Market by biking which takes 10-20 minutes.",
+    "On 22:00, I want to recreation_to_home, I go to Cambridge Center Roof Garden by biking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Cynthia Miller\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Law Offices of Peter Georgiou",
+        "distance_km": 2.507191228079319,
+        "coordinates": [
+          "42.394953",
+          "-71.127194"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Law Offices of Peter Georgiou",
+        "distance_km": 2.507191228079319,
+        "coordinates": [
+          "42.394953",
+          "-71.127194"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Ma Sears Appliance Repair",
+        "distance_km": 3.412980277609287,
+        "coordinates": [
+          "42.367438",
+          "-71.076567"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.672417216113308,
+        "coordinates": [
+          "42.38882",
+          "-71.14233"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 1.523449327785999,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Borofsky Richard M Psycholgst",
+        "distance_km": 1.5031245279868768,
+        "coordinates": [
+          "42.386371",
+          "-71.123357"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 2.7073796298809194,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.672417216113308,
+        "coordinates": [
+          "42.38882",
+          "-71.14233"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Freshens",
+        "distance_km": 3.424400620526029,
+        "coordinates": [
+          "42.36849",
+          "-71.076159"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37364628098545,
+        -71.11714790586234
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_other_activities, I go to Law Offices of Peter Georgiou by public_transit which takes 20-30 minutes.",
+    "On 09:00, I want to home_to_shop, I go to Law Offices of Peter Georgiou by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to shop_to_home, I go to Cambridge Ma Sears Appliance Repair by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to home_to_eat, I go to Starbucks by public_transit which takes 30-40 minutes.",
+    "On 13:30, I want to eat_to_home, I go to Go! Go! Curry! by walking which takes 30-40 minutes.",
+    "On 15:00, I want to home_to_recreation, I go to Borofsky Richard M Psycholgst by walking which takes 30-40 minutes.",
+    "On 17:00, I want to recreation_to_home, I go to Simoni Skating Rink by biking which takes 20-30 minutes.",
+    "On 19:00, I want to home_to_eat, I go to Starbucks by public_transit which takes 40-50 minutes.",
+    "On 20:30, I want to eat_to_home, I go to Freshens by private_auto which takes 20-30 minutes."
+  ]
+}

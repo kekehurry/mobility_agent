@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Jason Sanchez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Finale",
+        "distance_km": 0.21563741929829083,
+        "coordinates": [
+          "42.372423",
+          "-71.118982"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 1.0234197386366106,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "uBreakiFix",
+        "distance_km": 0.6990524580906299,
+        "coordinates": [
+          "42.368684",
+          "-71.10981"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Smoke Shop BBQ Kendall Square",
+        "distance_km": 2.2229843431257543,
+        "coordinates": [
+          "42.366301",
+          "-71.091527"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Borofsky Richard M Psycholgst",
+        "distance_km": 1.8020515456850998,
+        "coordinates": [
+          "42.386371",
+          "-71.123357"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pizza Pie er",
+        "distance_km": 1.5370866833228536,
+        "coordinates": [
+          "42.372739",
+          "-71.099413"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ":[{"
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 1.1566924014936222,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Skip Viglirolo Ice Rink",
+        "distance_km": 1.7644731638386781,
+        "coordinates": [
+          "42.382888",
+          "-71.131551"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Violette Gluten Free Bakery",
+        "distance_km": 1.7070779437445711,
+        "coordinates": [
+          "42.38598",
+          "-71.119624"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bohnert Michael MD",
+        "distance_km": 0.5065190996028774,
+        "coordinates": [
+          "42.372271",
+          "-71.123621"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 1.529603140106443,
+        "coordinates": [
+          "42.363878",
+          "-71.101709"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Conant Loring Phys Jr",
+        "distance_km": 0.1949901150565958,
+        "coordinates": [
+          "42.37229",
+          "-71.118768"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370667572066566,
+        -71.11786419723747
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to eat, I go to Finale by walking which takes 0-10 minutes.",
+    "On 09:00, I want to recreation, I go to Spaulding National Running Center by biking which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to uBreakiFix by walking which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to The Smoke Shop BBQ Kendall Square by biking which takes 10-20 minutes.",
+    "On 12:30, I want to recreation, I go to Borofsky Richard M Psycholgst by private_auto which takes 10-20 minutes.",
+    "On 13:30, I want to eat, I go to Pizza Pie er by private_auto which takes 10-20 minutes.",
+    "On 14:30, I want to social, I go to Marc's Handyman by private_auto which takes :[{ minutes.",
+    "On 16:00, I want to recreation, I go to Skip Viglirolo Ice Rink by biking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Violette Gluten Free Bakery by biking which takes 10-20 minutes.",
+    "On 18:30, I want to recreation, I go to Bohnert Michael MD by private_auto which takes 10-20 minutes.",
+    "On 19:30, I want to eat, I go to Clover Food Lab by private_auto which takes 10-20 minutes.",
+    "On 20:30, I want to other_activities, I go to Conant Loring Phys Jr by auto_passenger which takes 0-10 minutes."
+  ]
+}

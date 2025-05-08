@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Timothy Miller\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pinocchios Pizza & Subs",
+        "distance_km": 2.5001136673060667,
+        "coordinates": [
+          "42.371963",
+          "-71.120281"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 5.085547840968137,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kendall Kitchen At The Quad",
+        "distance_km": 2.0061032679712567,
+        "coordinates": [
+          "42.392449",
+          "-71.150193"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 5.007166780716445,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pinocchios Pizza & Subs",
+        "distance_km": 2.5001136673060667,
+        "coordinates": [
+          "42.371963",
+          "-71.120281"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 3.5058960571633624,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 5.085547840968137,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Wrap",
+        "distance_km": 2.524448657713605,
+        "coordinates": [
+          "42.372066",
+          "-71.1183"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 4.204061664104856,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.9661866454512666,
+        "coordinates": [
+          "42.36963",
+          "-71.11144"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Planet Fitness",
+        "distance_km": 0.9370687905116721,
+        "coordinates": [
+          "42.387421",
+          "-71.118937"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bri Grady Robert Paul Properties",
+        "distance_km": 2.7368807333122906,
+        "coordinates": [
+          "42.370813",
+          "-71.114984"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.394077359309634,
+        -71.12592819129762
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Pinocchios Pizza & Subs by public_transit which takes 30-40 minutes.",
+    "On 07:30, I want to recreation, I go to Kendall Club by private_auto which takes 30-40 minutes.",
+    "On 08:00, I want to eat, I go to Kendall Kitchen At The Quad by walking which takes 30-40 minutes.",
+    "On 08:30, I want to shop, I go to Old Navy by private_auto which takes 30-40 minutes.",
+    "On 10:00, I want to eat, I go to Pinocchios Pizza & Subs by auto_passenger which takes 30-40 minutes.",
+    "On 12:00, I want to social, I go to Fairlane Properties by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to recreation, I go to Kendall Club by public_transit which takes 30-40 minutes.",
+    "On 15:00, I want to eat, I go to The Wrap by public_transit which takes 30-40 minutes.",
+    "On 16:00, I want to shop, I go to Micro Center by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Dunkin' by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Planet Fitness by walking which takes  minutes.",
+    "On 20:00, I want to social, I go to Bri Grady Robert Paul Properties by walking which takes 30-40 minutes."
+  ]
+}

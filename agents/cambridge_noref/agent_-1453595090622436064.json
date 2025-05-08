@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Amy Marshall\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"unemployed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "SOFRA Bakery & Cafe",
+        "distance_km": 2.98944535994934,
+        "coordinates": [
+          "42.374917",
+          "-71.150379"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Head of the Charles",
+        "distance_km": 3.082020222102179,
+        "coordinates": [
+          "42.372262",
+          "-71.133935"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 3.495887757476268,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 1.5220429086770157,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "SOFRA Bakery & Cafe",
+        "distance_km": 2.98944535994934,
+        "coordinates": [
+          "42.374917",
+          "-71.150379"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Boston Chefs",
+        "distance_km": 5.079306573647426,
+        "coordinates": [
+          "42.363558",
+          "-71.099542"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ":30-40"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 4.723974718657181,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "American Legion Marsh Post 442",
+        "distance_km": 3.8683022005003487,
+        "coordinates": [
+          "42.365182",
+          "-71.140283"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Velozo's Food Service",
+        "distance_km": 3.083497546625151,
+        "coordinates": [
+          "42.377706",
+          "-71.114483"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 4.446655516551971,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Mariposa Bakery",
+        "distance_km": 5.04121671276926,
+        "coordinates": [
+          "42.363335",
+          "-71.100716"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "SOFRA Bakery & Cafe",
+        "distance_km": 2.98944535994934,
+        "coordinates": [
+          "42.374917",
+          "-71.150379"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39991805176191,
+        -71.13694211757176
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to SOFRA Bakery & Cafe by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to other_activities, I go to Head of the Charles by public_transit which takes 30-40 minutes.",
+    "On 09:00, I want to shop, I go to Broadway Marketplace by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to recreation, I go to St Peters Field by public_transit which takes  minutes.",
+    "On 12:30, I want to eat, I go to SOFRA Bakery & Cafe by public_transit which takes 30-40 minutes.",
+    "On 13:30, I want to other_activities, I go to Boston Chefs by public_transit which takes 30-40 minutes.",
+    "On 14:30, I want to shop, I go to Whole Foods Market by public_transit which takes :30-40 minutes.",
+    "On 16:00, I want to recreation, I go to American Legion Marsh Post 442 by public_transit which takes 40-50 minutes.",
+    "On 17:00, I want to eat, I go to Velozo's Food Service by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to social, I go to Central House by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to other_activities, I go to Mariposa Bakery by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to eat, I go to SOFRA Bakery & Cafe by public_transit which takes 30-40 minutes."
+  ]
+}

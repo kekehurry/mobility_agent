@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Benjamin Valencia\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 3.262287575058585,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 3.1855552378015175,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 4.286549432538306,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "BollyX",
+        "distance_km": 3.3242453587407033,
+        "coordinates": [
+          "42.36468",
+          "-71.102113"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Sushi Gourmet",
+        "distance_km": 3.024928805128068,
+        "coordinates": [
+          "42.368109",
+          "-71.102391"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dolphin Seafood",
+        "distance_km": 2.2114926547181244,
+        "coordinates": [
+          "42.370865",
+          "-71.113573"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home_to_social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.614366777710592,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Best Life",
+        "distance_km": 5.0269776927817835,
+        "coordinates": [
+          "42.370033",
+          "-71.071701"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 4.772782803571157,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 2.9560310615164216,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.387707070951585,
+        -71.1278921338034
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to H Mart by private_auto which takes 30-40 minutes.",
+    "On 08:00, I want to shop_to_home, I go to Whole Foods Market by walking which takes 40-50 minutes.",
+    "On 09:00, I want to home_to_recreation, I go to Cambridge Center Roof Garden by private_auto which takes 30-40 minutes.",
+    "On 11:00, I want to recreation_to_home, I go to BollyX by private_auto which takes 30-40 minutes.",
+    "On 12:00, I want to home_to_eat, I go to Sushi Gourmet by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to eat_to_home, I go to Dolphin Seafood by on_demand_auto which takes 30-40 minutes.",
+    "On 15:00, I want to home_to_social, I go to Cambridge Forum by private_auto which takes  minutes.",
+    "On 17:00, I want to social_to_home, I go to Best Life by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to home_to_recreation, I go to CAC Express by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to recreation_to_home, I go to Willis Moore Youth Center by private_auto which takes 30-40 minutes."
+  ]
+}

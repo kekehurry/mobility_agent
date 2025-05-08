@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Molly Ford\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Burger King",
+        "distance_km": 5.720269943768065,
+        "coordinates": [
+          "42.39049",
+          "-71.150472"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Mother Juice",
+        "distance_km": 2.7174634991965685,
+        "coordinates": [
+          "42.372652",
+          "-71.118671"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Burger King",
+        "distance_km": 5.720269943768065,
+        "coordinates": [
+          "42.39049",
+          "-71.150472"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37190529517511,
+          -71.08569387135182
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Zephyr On the Charles",
+        "distance_km": 2.5917337835983094,
+        "coordinates": [
+          "42.353765",
+          "-71.10548"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Miller Fern Psychothrpst",
+        "distance_km": 5.023336201818239,
+        "coordinates": [
+          "42.388204",
+          "-71.14259"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37190529517511,
+          -71.08569387135182
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37190529517511,
+        -71.08569387135182
+      ]
+    },
+    "work": {
+      "name": "Burger King",
+      "coordinates": [
+        "42.39049",
+        "-71.150472"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Burger King by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Mother Juice by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Burger King by private_auto which takes user_input minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Zephyr On the Charles by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Miller Fern Psychothrpst by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

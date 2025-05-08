@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Dr. Kristin Manning\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"masters\", \"household_size\": 4, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "ArtScience Culture Lab & Cafe",
+        "distance_km": 2.193421028121899,
+        "coordinates": [
+          "42.364486",
+          "-71.080886"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Third Rail",
+        "distance_km": 0.547877300606249,
+        "coordinates": [
+          "42.366117",
+          "-71.105305"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "A"
+      },
+      "destination": {
+        "name": "ArtScience Culture Lab & Cafe",
+        "distance_km": 2.193421028121899,
+        "coordinates": [
+          "42.364486",
+          "-71.080886"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37102118675603,
+          -71.10601360696118
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 1.0487159253149887,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Caron Simmers Guillemette Psychothrpst",
+        "distance_km": 3.012360485692531,
+        "coordinates": [
+          "42.38375",
+          "-71.13831"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37102118675603,
+          -71.10601360696118
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37102118675603,
+        -71.10601360696118
+      ]
+    },
+    "work": {
+      "name": "ArtScience Culture Lab & Cafe",
+      "coordinates": [
+        "42.364486",
+        "-71.080886"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to ArtScience Culture Lab & Cafe by walking which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to The Third Rail by walking which takes  minutes.",
+    "On 13:00, I want to work, I go to ArtScience Culture Lab & Cafe by walking which takes A minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Bon Me Smith Campus Center by walking which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Caron Simmers Guillemette Psychothrpst by private_auto which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 30-40 minutes."
+  ]
+}

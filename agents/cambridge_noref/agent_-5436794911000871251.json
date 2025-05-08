@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Andrea Harrison\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 2.523021550607006,
+        "coordinates": [
+          "42.368604",
+          "-71.076587"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 1.5041485703544188,
+        "coordinates": [
+          "42.372895",
+          "-71.117919"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 2.523021550607006,
+        "coordinates": [
+          "42.368604",
+          "-71.076587"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36256471018364,
+          -71.10611301897545
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Lily P's",
+        "distance_km": 2.27479126195167,
+        "coordinates": [
+          "42.364875",
+          "-71.078675"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mt Auburn Cardiology Assocs",
+        "distance_km": 2.611165624300917,
+        "coordinates": [
+          "42.374395",
+          "-71.133506"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36256471018364,
+        -71.10611301897545
+      ]
+    },
+    "work": {
+      "name": "Chipotle Mexican Grill",
+      "coordinates": [
+        "42.368604",
+        "-71.076587"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Chipotle Mexican Grill by biking which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Clover Food Lab by biking which takes  minutes.",
+    "On 13:00, I want to work, I go to Chipotle Mexican Grill by biking which takes 20-30 minutes.",
+    "On 18:00, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to Lily P's by biking which takes 20-30 minutes.",
+    "On 20:00, I want to recreation, I go to Mt Auburn Cardiology Assocs by biking which takes 20-30 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Todd Oliver\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"student\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "State Park",
+        "distance_km": 1.5558109723066538,
+        "coordinates": [
+          "42.36615",
+          "-71.090746"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35856184942524,
+          -71.10662016943002
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "James F Farr Academy",
+        "distance_km": 0.5412602145032254,
+        "coordinates": [
+          "42.363191",
+          "-71.104569"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kung Fu Tea",
+        "distance_km": 1.55786336862946,
+        "coordinates": [
+          "42.371255",
+          "-71.114663"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35856184942524,
+          -71.10662016943002
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "James F Farr Academy",
+        "distance_km": 0.5412602145032254,
+        "coordinates": [
+          "42.363191",
+          "-71.104569"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.6593173861412367,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35856184942524,
+          -71.10662016943002
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35856184942524,
+        -71.10662016943002
+      ]
+    },
+    "school": {
+      "name": "James F Farr Academy",
+      "coordinates": [
+        "42.363191",
+        "-71.104569"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to State Park by on_demand_auto which takes 10-20 minutes.",
+    "On 07:45, I want to home, I go to home by walking which takes 30-40 minutes.",
+    "On 08:00, I want to school, I go to James F Farr Academy by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Kung Fu Tea by biking which takes 10-20 minutes.",
+    "On 13:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 15:00, I want to school, I go to James F Farr Academy by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Genji Express by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

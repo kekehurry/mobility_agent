@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Laura Harrison\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"75k-10,000\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Lingo Cafe & Bar",
+        "distance_km": 5.114048737088916,
+        "coordinates": [
+          "42.36979",
+          "-71.068794"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37772516202317,
+          -71.12995548733815
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Genji",
+        "distance_km": 2.5090487202010068,
+        "coordinates": [
+          "42.368083",
+          "-71.102408"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CrossFit Medusa",
+        "distance_km": 1.5711351671519713,
+        "coordinates": [
+          "42.389901",
+          "-71.120247"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37772516202317,
+          -71.12995548733815
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37772516202317,
+        -71.12995548733815
+      ]
+    },
+    "work": {
+      "name": "Lingo Cafe & Bar",
+      "coordinates": [
+        "42.36979",
+        "-71.068794"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Lingo Cafe & Bar by public_transit which takes 40-50 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Genji by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to CrossFit Medusa by walking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

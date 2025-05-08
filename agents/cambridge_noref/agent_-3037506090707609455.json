@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Shane Moore\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "The Diagnostic Center",
+        "distance_km": 5.1085208829860065,
+        "coordinates": [
+          "42.391568",
+          "-71.155592"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Umami Omakase",
+        "distance_km": 3.868876079217564,
+        "coordinates": [
+          "42.396725",
+          "-71.129765"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "The Diagnostic Center",
+        "distance_km": 5.1085208829860065,
+        "coordinates": [
+          "42.391568",
+          "-71.155592"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36879135641423,
+          -71.10170383075717
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ":40-50"
+      },
+      "destination": {
+        "name": "Umami Omakase",
+        "distance_km": 3.868876079217564,
+        "coordinates": [
+          "42.396725",
+          "-71.129765"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Uproot Events",
+        "distance_km": 4.783827657049635,
+        "coordinates": [
+          "42.395381",
+          "-71.147399"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36879135641423,
+          -71.10170383075717
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36879135641423,
+        -71.10170383075717
+      ]
+    },
+    "work": {
+      "name": "The Diagnostic Center",
+      "coordinates": [
+        "42.391568",
+        "-71.155592"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to The Diagnostic Center by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Umami Omakase by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to The Diagnostic Center by public_transit which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 40-50 minutes.",
+    "On 18:30, I want to eat, I go to Umami Omakase by public_transit which takes :40-50 minutes.",
+    "On 19:00, I want to recreation, I go to Uproot Events by public_transit which takes 40-50 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 40-50 minutes."
+  ]
+}

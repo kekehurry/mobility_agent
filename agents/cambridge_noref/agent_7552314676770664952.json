@@ -1,0 +1,129 @@
+{
+  "profile": "{\n  \"name\": \"Steven Joseph\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"student\",\n  \"education\": \"college\",\n  \"household_size\": 2,\n  \"household_income\": \"50k-75k\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "College Year In Athens",
+        "distance_km": 2.288264457340386,
+        "coordinates": [
+          "42.363602",
+          "-71.099565"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Panda Express",
+        "distance_km": 0.320798519927571,
+        "coordinates": [
+          "42.368495",
+          "-71.076606"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "College Year In Athens",
+        "distance_km": 2.288264457340386,
+        "coordinates": [
+          "42.363602",
+          "-71.099565"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369423927004924,
+          -71.07291838336836
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tatte Bakery",
+        "distance_km": 1.0630244289127972,
+        "coordinates": [
+          "42.362212",
+          "-71.081401"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 1.04316177535235,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369423927004924,
+        -71.07291838336836
+      ]
+    },
+    "school": {
+      "name": "College Year In Athens",
+      "coordinates": [
+        "42.363602",
+        "-71.099565"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to school, I go to College Year In Athens by biking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Panda Express by walking which takes 10-20 minutes.",
+    "On 13:30, I want to school, I go to College Year In Athens by walking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Tatte Bakery by walking which takes 10-20 minutes.",
+    "On 20:00, I want to social, I go to CIC Cambridge by biking which takes 10-20 minutes."
+  ]
+}

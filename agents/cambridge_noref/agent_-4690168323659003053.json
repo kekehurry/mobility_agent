@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Nicole Walker\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "BRIAN PEREIRA MD",
+        "distance_km": 5.268472665960521,
+        "coordinates": [
+          "42.395252",
+          "-71.145844"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Beijing Tokyo",
+        "distance_km": 0.571047586956676,
+        "coordinates": [
+          "42.363348",
+          "-71.096861"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "BRIAN PEREIRA MD",
+        "distance_km": 5.268472665960521,
+        "coordinates": [
+          "42.395252",
+          "-71.145844"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36788303495392,
+          -71.09359618716873
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bambara",
+        "distance_km": 1.5392168438558769,
+        "coordinates": [
+          "42.367867",
+          "-71.07491"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Quinn Dana Licensed",
+        "distance_km": 3.0578947450365934,
+        "coordinates": [
+          "42.383469",
+          "-71.1242"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36788303495392,
+          -71.09359618716873
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36788303495392,
+        -71.09359618716873
+      ]
+    },
+    "work": {
+      "name": "BRIAN PEREIRA MD",
+      "coordinates": [
+        "42.395252",
+        "-71.145844"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to BRIAN PEREIRA MD by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Beijing Tokyo by walking which takes 10-25 minutes.",
+    "On 13:00, I want to work, I go to BRIAN PEREIRA MD by public_transit which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Bambara by on_demand_auto which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Quinn Dana Licensed by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

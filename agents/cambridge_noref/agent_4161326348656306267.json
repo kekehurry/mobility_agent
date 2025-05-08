@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Katie Hall\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n                ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Gaskill Elizabeth B Psychothrpst",
+        "distance_km": 3.1239824244609204,
+        "coordinates": [
+          "42.37382",
+          "-71.123145"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvard House Of Pizza",
+        "distance_km": 2.5933352934712524,
+        "coordinates": [
+          "42.383291",
+          "-71.119836"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Gaskill Elizabeth B Psychothrpst",
+        "distance_km": 3.1239824244609204,
+        "coordinates": [
+          "42.37382",
+          "-71.123145"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 2.42873474057965,
+        "coordinates": [
+          "42.390107",
+          "-71.117726"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Associates In Orthopaedics & Sports Medicine",
+        "distance_km": 2.6246436863322398,
+        "coordinates": [
+          "42.374232",
+          "-71.134459"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.396246352279555,
+          -71.1460361664026
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.396246352279555,
+        -71.1460361664026
+      ]
+    },
+    "work": {
+      "name": "Gaskill Elizabeth B Psychothrpst",
+      "coordinates": [
+        "42.37382",
+        "-71.123145"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Gaskill Elizabeth B Psychothrpst by biking which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Harvard House Of Pizza by biking which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Gaskill Elizabeth B Psychothrpst by biking which takes 30-40 minutes.",
+    "On 17:30, I want to eat, I go to Ben & Jerry's by biking which takes 20-30 minutes.",
+    "On 18:00, I want to recreation, I go to Associates In Orthopaedics & Sports Medicine by public_transit which takes 40-50 minutes.",
+    "On 19:30, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

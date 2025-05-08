@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Jason Sanchez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 5.081178430518958,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Healthworks Fitness",
+        "distance_km": 2.910995618707106,
+        "coordinates": [
+          "42.388908",
+          "-71.118896"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 1.0443691906567418,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Le's Restaurant Cambridge",
+        "distance_km": 2.139228176799531,
+        "coordinates": [
+          "42.37249",
+          "-71.119517"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Restorative Yoga with Bo Forbes",
+        "distance_km": 2.9093068335086754,
+        "coordinates": [
+          "42.388881",
+          "-71.118903"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 2.0598813946773786,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 2.17943617008155,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3705454204118,
+          -71.09367785898523
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3705454204118,
+        -71.09367785898523
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Revival Cafe & Kitchen by public_transit which takes 50-60 minutes.",
+    "On 08:30, I want to recreation, I go to Healthworks Fitness by walking which takes 30-40 minutes.",
+    "On 12:00, I want to shop, I go to Daily Table Central Square by walking which takes 10-20 minutes.",
+    "On 14:00, I want to eat, I go to Le's Restaurant Cambridge by walking which takes 30-40 minutes.",
+    "On 15:00, I want to recreation, I go to Restorative Yoga with Bo Forbes by biking which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Bon Me Smith Campus Center by public_transit which takes  minutes.",
+    "On 19:00, I want to social, I go to Cambridge Forum by public_transit which takes 50-60 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Jenna Harris\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Katie Lowe Pilates",
+        "distance_km": 2.618777472617352,
+        "coordinates": [
+          "42.372892",
+          "-71.087891"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "OneZo",
+        "distance_km": 1.101913791815549,
+        "coordinates": [
+          "42.385946",
+          "-71.119619"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Katie Lowe Pilates",
+        "distance_km": 2.618777472617352,
+        "coordinates": [
+          "42.372892",
+          "-71.087891"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kendall Kitchen",
+        "distance_km": 2.500871557831617,
+        "coordinates": [
+          "42.366056",
+          "-71.092182"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Comeau Field",
+        "distance_km": 2.607955287121382,
+        "coordinates": [
+          "42.394742",
+          "-71.138527"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Forbes Cafe",
+        "distance_km": 3.160394371160067,
+        "coordinates": [
+          "42.359338",
+          "-71.088331"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 3.481708552353716,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.376027340042945,
+          -71.11940402816026
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.376027340042945,
+        -71.11940402816026
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to recreation, I go to Katie Lowe Pilates by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to OneZo by public_transit which takes user_input minutes.",
+    "On 12:30, I want to recreation, I go to Katie Lowe Pilates by public_transit which takes user_input minutes.",
+    "On 15:00, I want to eat, I go to Kendall Kitchen by public_transit which takes 30-40 minutes.",
+    "On 16:00, I want to recreation, I go to Comeau Field by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Forbes Cafe by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to social, I go to Gravestar Inc by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

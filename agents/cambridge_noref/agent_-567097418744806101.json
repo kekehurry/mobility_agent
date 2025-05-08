@@ -1,0 +1,223 @@
+{
+  "profile": "{\n  \"name\": \"Jennifer Sanchez\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"some_college\",\n  \"household_size\": 1,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Saltzstein Barbara Psychothrpst",
+        "distance_km": 0.6061709010144067,
+        "coordinates": [
+          "42.383142",
+          "-71.13299"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Beat Brew Hall",
+        "distance_km": 1.0279885251310454,
+        "coordinates": [
+          "42.373532",
+          "-71.120313"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381827462703974,
+          -71.12584608857004
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sacramento Field",
+        "distance_km": 0.6599454978693963,
+        "coordinates": [
+          "42.383018",
+          "-71.117995"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.1074617634759674,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Season to Taste",
+        "distance_km": 0.48263827380012375,
+        "coordinates": [
+          "42.382424",
+          "-71.120041"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "name_undefined"
+      },
+      "destination": {
+        "name": "Quinn Dana Licensed",
+        "distance_km": 0.22721228707409738,
+        "coordinates": [
+          "42.383469",
+          "-71.1242"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.1526223880822082,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381827462703974,
+          -71.12584608857004
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Boston Burger Company",
+        "distance_km": 1.5788054379139955,
+        "coordinates": [
+          "42.370905",
+          "-71.11358"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 0.5557135767840472,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381827462703974,
+          -71.12584608857004
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.381827462703974,
+        -71.12584608857004
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to other_activities, I go to Saltzstein Barbara Psychothrpst by walking which takes 0-10 minutes.",
+    "On 07:30, I want to eat, I go to Beat Brew Hall by public_transit which takes 10-25 minutes.",
+    "On 08:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 08:30, I want to other_activities, I go to Sacramento Field by walking which takes 0-10 minutes.",
+    "On 10:00, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Season to Taste by walking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Quinn Dana Licensed by walking which takes name_undefined minutes.",
+    "On 15:00, I want to shop, I go to Stereo Lab by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Boston Burger Company by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to Harvard Square Rental Properties by public_transit which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

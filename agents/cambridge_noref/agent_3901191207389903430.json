@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Andrea Harrison\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"45k-65k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mount Auburn Gastroenterology Associates",
+        "distance_km": 2.5059711288149438,
+        "coordinates": [
+          "42.37437",
+          "-71.133711"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.0611681616149513,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mount Auburn Gastroenterology Associates",
+        "distance_km": 2.5059711288149438,
+        "coordinates": [
+          "42.37437",
+          "-71.133711"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36062665463387,
+          -71.10958527012025
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mother Juice",
+        "distance_km": 1.5311583801043505,
+        "coordinates": [
+          "42.372652",
+          "-71.118671"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Mount Auburn Pathologists",
+        "distance_km": 2.506279442684527,
+        "coordinates": [
+          "42.374362",
+          "-71.133724"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36062665463387,
+          -71.10958527012025
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36062665463387,
+        -71.10958527012025
+      ]
+    },
+    "work": {
+      "name": "Mount Auburn Gastroenterology Associates",
+      "coordinates": [
+        "42.37437",
+        "-71.133711"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Mount Auburn Gastroenterology Associates by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Flour Bakery Cafe by public_transit which takes  minutes.",
+    "On 13:00, I want to work, I go to Mount Auburn Gastroenterology Associates by public_transit which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Mother Juice by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Mount Auburn Pathologists by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

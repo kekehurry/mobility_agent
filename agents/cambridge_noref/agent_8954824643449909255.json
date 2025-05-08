@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Carol Hall\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gypsy Place",
+        "distance_km": 0.2772816870765878,
+        "coordinates": [
+          "42.368482",
+          "-71.094714"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 0.7313527099175153,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 1.2984023510649598,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.3090670420314132,
+        "coordinates": [
+          "42.373075",
+          "-71.093541"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Atlantis Sports Club",
+        "distance_km": 2.1078742911047774,
+        "coordinates": [
+          "42.353938",
+          "-71.105293"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.6987038384534803,
+        "coordinates": [
+          "42.357776",
+          "-71.104201"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 1.2984023510649598,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Longfellows",
+        "distance_km": 0.5316460012589268,
+        "coordinates": [
+          "42.367789",
+          "-71.097963"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Breathe Cambridge",
+        "distance_km": 2.250030687176592,
+        "coordinates": [
+          "42.372732",
+          "-71.119681"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gypsy Place",
+        "distance_km": 0.2772816870765878,
+        "coordinates": [
+          "42.368482",
+          "-71.094714"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.348196325499264,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37039208045928,
+        -71.09254675131105
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Gypsy Place by walking which takes 0-10 minutes.",
+    "On 07:30, I want to recreation, I go to Simoni Skating Rink by public_transit which takes 10-20 minutes.",
+    "On 08:00, I want to shop, I go to CLEAR Kiosk by public_transit which takes 10-20 minutes.",
+    "On 10:00, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 11:00, I want to recreation, I go to Atlantis Sports Club by biking which takes 10-20 minutes.",
+    "On 13:00, I want to eat, I go to Flour Bakery Cafe by public_transit which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to CLEAR Kiosk by public_transit which takes  minutes.",
+    "On 16:00, I want to eat, I go to Longfellows by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Breathe Cambridge by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Gypsy Place by private_auto which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to Trinity Property Management by public_transit which takes 10-20 minutes."
+  ]
+}

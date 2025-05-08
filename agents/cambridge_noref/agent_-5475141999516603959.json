@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Maurice Lewis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.557042731707843,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.7984604596030984,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Jose Mateo Ballet Theatre",
+        "distance_km": 2.7012188984214225,
+        "coordinates": [
+          "42.371768",
+          "-71.114171"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Seidel Rachel Psychtrst",
+        "distance_km": 2.2202740612142113,
+        "coordinates": [
+          "42.374885",
+          "-71.131062"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "OggiGourmet",
+        "distance_km": 2.51409005305549,
+        "coordinates": [
+          "42.372441",
+          "-71.118977"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "OggiGourmet",
+        "distance_km": 2.51409005305549,
+        "coordinates": [
+          "42.372441",
+          "-71.118977"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.289226372439999,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home_to_other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Harkness Commons",
+        "distance_km": 1.557935366953983,
+        "coordinates": [
+          "42.381136",
+          "-71.120077"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "other_activities_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Vegan Vessel",
+        "distance_km": 2.5146273398742016,
+        "coordinates": [
+          "42.372095",
+          "-71.121422"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39449454935118,
+        -71.12584077798935
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to Trader Joe's by walking which takes 30-40 minutes.",
+    "On 07:30, I want to shop_to_home, I go to Star Market by walking which takes  minutes.",
+    "On 08:00, I want to home_to_recreation, I go to Jose Mateo Ballet Theatre by public_transit which takes 40-50 minutes.",
+    "On 09:30, I want to recreation_to_home, I go to Seidel Rachel Psychtrst by public_transit which takes 40-50 minutes.",
+    "On 10:00, I want to home_to_eat, I go to OggiGourmet by public_transit which takes 40-50 minutes.",
+    "On 11:30, I want to eat_to_home, I go to OggiGourmet by public_transit which takes 30-40 minutes.",
+    "On 14:00, I want to social_to_home, I go to Trinity Property Management by walking which takes 30-40 minutes.",
+    "On 15:00, I want to home_to_other_activities, I go to Harkness Commons by walking which takes 30-40 minutes.",
+    "On 17:00, I want to other_activities_to_home, I go to Vegan Vessel by walking which takes 30-40 minutes."
+  ]
+}

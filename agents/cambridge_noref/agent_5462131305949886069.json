@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Heather Murphy\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 1, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 2.5779576191398306,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "time_20-30"
+      },
+      "destination": {
+        "name": "Dunster Grille",
+        "distance_km": 2.634579857453703,
+        "coordinates": [
+          "42.368866",
+          "-71.11632"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 2.5779576191398306,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sub Zero Ice Cream & Yogurt",
+        "distance_km": 2.5921242936590914,
+        "coordinates": [
+          "42.360735",
+          "-71.115368"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Breathe Cambridge",
+        "distance_km": 2.9915362258083986,
+        "coordinates": [
+          "42.372732",
+          "-71.119681"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36570068239051,
+          -71.08462242651329
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36570068239051,
+        -71.08462242651329
+      ]
+    },
+    "work": {
+      "name": "Atrium Restaurant",
+      "coordinates": [
+        "42.371938",
+        "-71.114768"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Atrium Restaurant by biking which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Dunster Grille by public_transit which takes time_20-30 minutes.",
+    "On 13:00, I want to work, I go to Atrium Restaurant by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to eat, I go to Sub Zero Ice Cream & Yogurt by biking which takes 20-30 minutes.",
+    "On 18:00, I want to recreation, I go to Breathe Cambridge by biking which takes 20-30 minutes.",
+    "On 19:30, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

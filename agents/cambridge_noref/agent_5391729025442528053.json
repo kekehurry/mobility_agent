@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mr. Scott Benton V\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bombay Club",
+        "distance_km": 2.5227984626763607,
+        "coordinates": [
+          "42.371581",
+          "-71.123624"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 3.1039855844446165,
+        "coordinates": [
+          "42.386644",
+          "-71.118656"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bombay Club",
+        "distance_km": 2.5227984626763607,
+        "coordinates": [
+          "42.371581",
+          "-71.123624"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36541682709396,
+          -71.09414639937503
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dumpling Xuan",
+        "distance_km": 1.0819878296777712,
+        "coordinates": [
+          "42.37167",
+          "-71.084075"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Atlantis Sports Club",
+        "distance_km": 1.5713226617599119,
+        "coordinates": [
+          "42.353938",
+          "-71.105293"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36541682709396,
+          -71.09414639937503
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36541682709396,
+        -71.09414639937503
+      ]
+    },
+    "work": {
+      "name": "Bombay Club",
+      "coordinates": [
+        "42.371581",
+        "-71.123624"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Bombay Club by biking which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Costa Coffee by biking which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Bombay Club by biking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Dumpling Xuan by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Atlantis Sports Club by biking which takes  minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

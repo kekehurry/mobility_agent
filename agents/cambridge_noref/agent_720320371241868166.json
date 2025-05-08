@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Timothy Pearson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"50k-75k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "T W Food",
+        "distance_km": 5.329013584230819,
+        "coordinates": [
+          "42.383748",
+          "-71.134468"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Jose's Mexican Food Truck",
+        "distance_km": 1.5473428167526682,
+        "coordinates": [
+          "42.361124",
+          "-71.086595"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "T W Food",
+        "distance_km": 5.329013584230819,
+        "coordinates": [
+          "42.383748",
+          "-71.134468"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "15-25"
+      },
+      "destination": {
+        "name": "ZuZu",
+        "distance_km": 2.500709272168784,
+        "coordinates": [
+          "42.363678",
+          "-71.101427"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pizer Stuart A Dr",
+        "distance_km": 5.026486539298217,
+        "coordinates": [
+          "42.377101",
+          "-71.132705"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "People in Cambridge,MA with similar profiles tend to use private_auto for social and recreational trips. The duration for such trips is usually around 20-30 minutes, which aligns with Timothy's past travel patterns. This mode is preferred for its convenience and time efficiency."
+      },
+      "destination": {
+        "name": "Sincere Construction",
+        "distance_km": 6.6692717896101685,
+        "coordinates": [
+          "42.392925",
+          "-71.147361"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37023374407124,
+          -71.07238435194905
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37023374407124,
+        -71.07238435194905
+      ]
+    },
+    "work": {
+      "name": "T W Food",
+      "coordinates": [
+        "42.383748",
+        "-71.134468"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to T W Food by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Jose's Mexican Food Truck by auto_passenger which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to T W Food by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to ZuZu by private_auto which takes 15-25 minutes.",
+    "On 19:00, I want to recreation, I go to Pizer Stuart A Dr by private_auto which takes 20-30 minutes.",
+    "On 20:00, I want to social, I go to Sincere Construction by private_auto which takes People in Cambridge,MA with similar profiles tend to use private_auto for social and recreational trips. The duration for such trips is usually around 20-30 minutes, which aligns with Timothy's past travel patterns. This mode is preferred for its convenience and time efficiency. minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

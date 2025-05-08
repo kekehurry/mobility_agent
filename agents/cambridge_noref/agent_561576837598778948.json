@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Benjamin Smith\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 2.514272326562165,
+        "coordinates": [
+          "42.363767",
+          "-71.096816"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Health Yoga Life",
+        "distance_km": 2.7969992969800503,
+        "coordinates": [
+          "42.360911",
+          "-71.095474"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 3.7945651527128943,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Vester",
+        "distance_km": 3.131087615711449,
+        "coordinates": [
+          "42.363164",
+          "-71.088442"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 2.4347575639627848,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Brew on the Grid",
+        "distance_km": 2.513876349884908,
+        "coordinates": [
+          "42.36377",
+          "-71.096819"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Uproot Events",
+        "distance_km": 2.9459791125692654,
+        "coordinates": [
+          "42.395381",
+          "-71.147399"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 3.5315745922398336,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Roxy's Grilled Cheese",
+        "distance_km": 2.5310483972888105,
+        "coordinates": [
+          "42.361999",
+          "-71.098471"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 3.506667117476129,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Brew on the Grid",
+        "distance_km": 2.513876349884908,
+        "coordinates": [
+          "42.36377",
+          "-71.096819"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.377094035215855,
+          -71.12148871535348
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.377094035215855,
+        -71.12148871535348
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Newtowne Variety by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to recreation, I go to Health Yoga Life by public_transit which takes 30-40 minutes.",
+    "On 09:00, I want to shop, I go to CLEAR Kiosk by public_transit which takes 40-50 minutes.",
+    "On 10:00, I want to eat, I go to Vester by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to social, I go to ForestCity by public_transit which takes  minutes.",
+    "On 13:00, I want to eat, I go to Brew on the Grid by public_transit which takes 30-40 minutes.",
+    "On 14:00, I want to recreation, I go to Uproot Events by public_transit which takes 30-40 minutes.",
+    "On 15:00, I want to shop, I go to Brothers Market by public_transit which takes 40-50 minutes.",
+    "On 16:00, I want to eat, I go to Roxy's Grilled Cheese by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to social, I go to One Broadway by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to eat, I go to Brew on the Grid by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

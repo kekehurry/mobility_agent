@@ -1,0 +1,70 @@
+{
+  "profile": "{\"name\": \"Sheila Contreras\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.7809505819687141,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Club Latinos",
+        "distance_km": 1.5794598515112672,
+        "coordinates": [
+          "42.374193",
+          "-71.120644"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38648033765533,
+          -71.1302953947615
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38648033765533,
+        -71.1302953947615
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to shop, I go to Stereo Lab by walking which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Club Latinos by walking which takes 20-30 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Nathaniel Evans\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 6, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Andy's Diner",
+        "distance_km": 1.7416337307050875,
+        "coordinates": [
+          "42.390619",
+          "-71.122133"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.827076901872598,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Andy's Diner",
+        "distance_km": 1.7416337307050875,
+        "coordinates": [
+          "42.390619",
+          "-71.122133"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.399793671340404,
+          -71.1392861508347
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Nubar",
+        "distance_km": 2.8500600587460094,
+        "coordinates": [
+          "42.377187",
+          "-71.122917"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CrossFit Medusa",
+        "distance_km": 1.9144144769646683,
+        "coordinates": [
+          "42.389901",
+          "-71.120247"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.399793671340404,
+          -71.1392861508347
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.399793671340404,
+        -71.1392861508347
+      ]
+    },
+    "work": {
+      "name": "Andy's Diner",
+      "coordinates": [
+        "42.390619",
+        "-71.122133"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Andy's Diner by biking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Starbucks by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Andy's Diner by biking which takes  minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Nubar by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to CrossFit Medusa by biking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

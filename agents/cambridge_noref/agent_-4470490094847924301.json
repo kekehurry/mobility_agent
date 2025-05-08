@@ -1,0 +1,274 @@
+{
+  "profile": "{\"name\": \"Kristi Allen\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_s_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mexicali Burrito",
+        "distance_km": 1.57629019336967,
+        "coordinates": [
+          "42.363079",
+          "-71.092691"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 2.324369975981312,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36576253675199,
+          -71.1114809560251
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-30"
+      },
+      "destination": {
+        "name": "Biogen",
+        "distance_km": 2.0159986853810747,
+        "coordinates": [
+          "42.365003",
+          "-71.087029"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36576253675199,
+          -71.1114809560251
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.926213741935488,
+        "coordinates": [
+          "42.38193",
+          "-71.119937"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "White Hen Pantry",
+        "distance_km": 2.551235808108871,
+        "coordinates": [
+          "42.387924",
+          "-71.119615"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36576253675199,
+          -71.1114809560251
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 1.987862873318346,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36576253675199,
+          -71.1114809560251
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Blue Owl",
+        "distance_km": 1.0022405778436705,
+        "coordinates": [
+          "42.363627",
+          "-71.09966"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Thayer & Associates",
+        "distance_km": 2.424084920802233,
+        "coordinates": [
+          "42.386771",
+          "-71.119446"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36576253675199,
+          -71.1114809560251
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 1.4809889948709885,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36576253675199,
+          -71.1114809560251
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36576253675199,
+        -71.1114809560251
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to eat, I go to Mexicali Burrito by biking which takes 10-20 minutes.",
+    "On 08:00, I want to shop, I go to Roche Brothers Supermarket by public_transit which takes 10-20 minutes.",
+    "On 09:00, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 10:00, I want to recreation, I go to Biogen by biking which takes 10-30 minutes.",
+    "On 11:30, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Starbucks by biking which takes 10-20 minutes.",
+    "On 13:00, I want to shop, I go to White Hen Pantry by biking which takes  minutes.",
+    "On 14:00, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 15:00, I want to recreation, I go to Cambridge Center Roof Garden by public_transit which takes 10-20 minutes.",
+    "On 16:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Blue Owl by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to social, I go to Thayer & Associates by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 20:00, I want to recreation, I go to Johnson Ice Rink by public_transit which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

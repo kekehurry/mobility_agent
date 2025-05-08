@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Courtney Aguilar\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Zinneken's Belgian Waffles Harvard Square",
+        "distance_km": 1.6525255211543657,
+        "coordinates": [
+          "42.371169",
+          "-71.114539"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Third Rail",
+        "distance_km": 2.589286275223863,
+        "coordinates": [
+          "42.366117",
+          "-71.105305"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38187585567939,
+          -71.12846948700754
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "You might be looking for a light snack or dessert. Given that I am in Cambridge, MA, and it's 18:30, I might be heading to a local caf\u00e9 or dessert place nearby. Based on my previous behavior, I tend to walk to places within a short distance. The duration would likely be 20-30 minutes as I have done similar trips before. I might consider public transit if the destination is further, but walking is more convenient for short distances. I also have a car, but I prefer walking for short trips to maintain health and avoid traffic."
+      },
+      "destination": {
+        "name": "Caff\u00e8 Nero",
+        "distance_km": 0.9980073743221936,
+        "coordinates": [
+          "42.388049",
+          "-71.119664"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spievack Alan R MD",
+        "distance_km": 1.5017499086095072,
+        "coordinates": [
+          "42.376361",
+          "-71.145118"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38187585567939,
+          -71.12846948700754
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38187585567939,
+        -71.12846948700754
+      ]
+    },
+    "work": {
+      "name": "The Third Rail",
+      "coordinates": [
+        "42.366117",
+        "-71.105305"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Zinneken's Belgian Waffles Harvard Square by walking which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to The Third Rail by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Caff\u00e8 Nero by walking which takes You might be looking for a light snack or dessert. Given that I am in Cambridge, MA, and it's 18:30, I might be heading to a local caf\u00e9 or dessert place nearby. Based on my previous behavior, I tend to walk to places within a short distance. The duration would likely be 20-30 minutes as I have done similar trips before. I might consider public transit if the destination is further, but walking is more convenient for short distances. I also have a car, but I prefer walking for short trips to maintain health and avoid traffic. minutes.",
+    "On 19:30, I want to recreation, I go to Spievack Alan R MD by walking which takes 20-30 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

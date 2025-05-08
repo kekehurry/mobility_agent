@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"April Hart\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chivo Taqueria",
+        "distance_km": 0.6075300490158235,
+        "coordinates": [
+          "42.384156",
+          "-71.119803"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Boston Swing Central",
+        "distance_km": 1.6908090206363675,
+        "coordinates": [
+          "42.387908",
+          "-71.140388"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Kreationz",
+        "distance_km": 3.5760146302112727,
+        "coordinates": [
+          "42.362122",
+          "-71.086732"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.6229153488060483,
+        "coordinates": [
+          "42.374141",
+          "-71.120671"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 1.5450118016431162,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Amaral Group",
+        "distance_km": 2.0516790384366215,
+        "coordinates": [
+          "42.39712",
+          "-71.130299"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Liquiteria",
+        "distance_km": 0.6626485131037654,
+        "coordinates": [
+          "42.374306",
+          "-71.119144"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.621348515831467,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 0.6644954396201503,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37937507096116,
+          -71.12338579976709
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37937507096116,
+        -71.12338579976709
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Chivo Taqueria by walking which takes 10-20 minutes.",
+    "On 08:00, I want to recreation, I go to Boston Swing Central by walking which takes 20-30 minutes.",
+    "On 08:30, I want to shop, I go to Kreationz by public_transit which takes 40-50 minutes.",
+    "On 09:30, I want to eat, I go to Dado Tea by walking which takes  minutes.",
+    "On 10:30, I want to recreation, I go to Soccer Nights by walking which takes 20-30 minutes.",
+    "On 11:30, I want to shop, I go to The Amaral Group by walking which takes 20-30 minutes.",
+    "On 13:00, I want to eat, I go to Liquiteria by walking which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to Cambridge Forum by walking which takes 10-20 minutes.",
+    "On 15:30, I want to recreation, I go to Mesomorpheus by walking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Angela Livingston\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n               ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Soccer Nights",
+        "distance_km": 1.1123507178413086,
+        "coordinates": [
+          "42.391947",
+          "-71.131412"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Montessori School",
+        "distance_km": 1.1210891904150873,
+        "coordinates": [
+          "42.385829",
+          "-71.132374"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nirvana The Taste of India",
+        "distance_km": 0.6100474206100935,
+        "coordinates": [
+          "42.382457",
+          "-71.119966"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Montessori School",
+        "distance_km": 1.1210891904150873,
+        "coordinates": [
+          "42.385829",
+          "-71.132374"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kaveri Indian Bistro",
+        "distance_km": 0.608017992487465,
+        "coordinates": [
+          "42.382468",
+          "-71.119882"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.387906916960695,
+          -71.11905146842953
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.7105105251435153,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 2.231957682653803,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.387906916960695,
+          -71.11905146842953
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.387906916960695,
+        -71.11905146842953
+      ]
+    },
+    "school": {
+      "name": "Cambridge Montessori School",
+      "coordinates": [
+        "42.385829",
+        "-71.132374"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to other_activities, I go to Soccer Nights by public_transit which takes 0-10 minutes.",
+    "On 08:00, I want to school, I go to Cambridge Montessori School by auto_passenger which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Nirvana The Taste of India by public_transit which takes 10-20 minutes.",
+    "On 13:30, I want to school, I go to Cambridge Montessori School by public_transit which takes 10-20 minutes.",
+    "On 15:30, I want to eat, I go to Kaveri Indian Bistro by auto_passenger which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to shop, I go to Stereo Lab by public_transit which takes 10-20 minutes.",
+    "On 19:30, I want to social, I go to Kemsley Education by public_transit which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

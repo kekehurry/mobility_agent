@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Gregory Boyer\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38087625929595,
+          -71.12258687954835
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "A"
+      },
+      "destination": {
+        "name": "Stone Hearth Pizza",
+        "distance_km": 0.602718388278477,
+        "coordinates": [
+          "42.38584",
+          "-71.119631"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38087625929595,
+          -71.12258687954835
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Garden at the Cellar",
+        "distance_km": 1.5913260327347893,
+        "coordinates": [
+          "42.36947",
+          "-71.110897"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Focht Birkerts Lynn Licsw",
+        "distance_km": 1.7930571253738867,
+        "coordinates": [
+          "42.368078",
+          "-71.10932"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38087625929595,
+          -71.12258687954835
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38087625929595,
+        -71.12258687954835
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Stone Hearth Pizza by private_auto which takes A minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Garden at the Cellar by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Focht Birkerts Lynn Licsw by private_auto which takes  minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

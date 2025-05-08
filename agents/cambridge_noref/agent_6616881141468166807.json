@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Todd Oliver\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"high_school\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.1634394885545054,
+        "coordinates": [
+          "42.36963",
+          "-71.11144"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.7545400408109908,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Panera Bread",
+        "distance_km": 1.716724176453129,
+        "coordinates": [
+          "42.389367",
+          "-71.119461"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "Public transit is an option, but she might prefer the car if going to a store."
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 1.80814712516412,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 0.3910561862159408,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sub Zero Ice Cream & Yogurt",
+        "distance_km": 1.6688806177171007,
+        "coordinates": [
+          "42.360735",
+          "-71.115368"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Southpaw Residential Property Management",
+        "distance_km": 2.4454005562772423,
+        "coordinates": [
+          "42.395678",
+          "-71.13116"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374297297525615,
+          -71.12408518718891
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.374297297525615,
+        -71.12408518718891
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to eat, I go to Dunkin' by private_auto which takes 10-20 minutes.",
+    "On 08:00, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Panera Bread by on_demand_auto which takes 10-20 minutes.",
+    "On 12:00, I want to shop, I go to Adt by public_transit which takes Public transit is an option, but she might prefer the car if going to a store. minutes.",
+    "On 13:00, I want to recreation, I go to Barre Soul by walking which takes 10-20 minutes.",
+    "On 15:00, I want to eat, I go to Sub Zero Ice Cream & Yogurt by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to social, I go to Southpaw Residential Property Management by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

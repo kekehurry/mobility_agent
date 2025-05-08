@@ -1,0 +1,70 @@
+{
+  "profile": "{\"name\": \"Nicholas Hall\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.701454649470364,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Oath Pizza Central Square",
+        "distance_km": 2.253325152279803,
+        "coordinates": [
+          "42.361309",
+          "-71.096251"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "LabCentral",
+        "distance_km": 2.2605246071988594,
+        "coordinates": [
+          "42.362253",
+          "-71.09503"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3750930952194,
+        -71.11632108205889
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Starbucks by biking which takes 20-30 minutes.",
+    "On 17:30, I want to eat, I go to Oath Pizza Central Square by biking which takes 20-30 minutes.",
+    "On 20:00, I want to social, I go to LabCentral by biking which takes 20-30 minutes."
+  ]
+}

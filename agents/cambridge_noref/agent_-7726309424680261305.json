@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"David Powers\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 3, \"household_income\": \"25k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "DAVID LEVINE MD",
+        "distance_km": 5.037963556904787,
+        "coordinates": [
+          "42.365933",
+          "-71.075887"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bambara",
+        "distance_km": 5.0207526121303365,
+        "coordinates": [
+          "42.367867",
+          "-71.07491"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "DAVID LEVINE MD",
+        "distance_km": 5.037963556904787,
+        "coordinates": [
+          "42.365933",
+          "-71.075887"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38590206094784,
+          -71.13080790090076
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "1369 Coffee House",
+        "distance_km": 2.8432166427575867,
+        "coordinates": [
+          "42.373814",
+          "-71.100377"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tsaparlis Nicholas M MD",
+        "distance_km": 2.5332907008386814,
+        "coordinates": [
+          "42.374491",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38590206094784,
+          -71.13080790090076
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38590206094784,
+        -71.13080790090076
+      ]
+    },
+    "work": {
+      "name": "DAVID LEVINE MD",
+      "coordinates": [
+        "42.365933",
+        "-71.075887"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to DAVID LEVINE MD by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Bambara by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to work, I go to DAVID LEVINE MD by private_auto which takes  minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to 1369 Coffee House by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Tsaparlis Nicholas M MD by walking which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Jill Henry\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "JUDITH WOLFBERG MD",
+        "distance_km": 5.004713061985796,
+        "coordinates": [
+          "42.378554",
+          "-71.13342"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 3.12489062765477,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "JUDITH WOLFBERG MD",
+        "distance_km": 5.004713061985796,
+        "coordinates": [
+          "42.378554",
+          "-71.13342"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3716054657793,
+          -71.0733824821045
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "NOCA Provisions",
+        "distance_km": 5.3102150928522,
+        "coordinates": [
+          "42.393295",
+          "-71.130845"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Your Center Pilates Based Exercise",
+        "distance_km": 2.390584778786902,
+        "coordinates": [
+          "42.370083",
+          "-71.102333"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ">30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3716054657793,
+          -71.0733824821045
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3716054657793,
+        -71.0733824821045
+      ]
+    },
+    "work": {
+      "name": "JUDITH WOLFBERG MD",
+      "coordinates": [
+        "42.378554",
+        "-71.13342"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to JUDITH WOLFBERG MD by biking which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Flame Hot Pot & Sushi by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to JUDITH WOLFBERG MD by biking which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes  minutes.",
+    "On 18:30, I want to eat, I go to NOCA Provisions by private_auto which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Your Center Pilates Based Exercise by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes >30-40 minutes."
+  ]
+}

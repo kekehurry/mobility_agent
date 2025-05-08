@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Isabel Swanson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"75k-100k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Village Grill & Seafood",
+        "distance_km": 2.571844847896507,
+        "coordinates": [
+          "42.359894",
+          "-71.109963"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "AnyTime Pizza",
+        "distance_km": 2.047977801742724,
+        "coordinates": [
+          "42.364614",
+          "-71.110573"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "commute_from_work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Village Grill & Seafood",
+        "distance_km": 2.571844847896507,
+        "coordinates": [
+          "42.359894",
+          "-71.109963"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Talulla",
+        "distance_km": 1.5465301479021811,
+        "coordinates": [
+          "42.383696",
+          "-71.134529"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Southpaw Residential Property Management",
+        "distance_km": 1.922756094088221,
+        "coordinates": [
+          "42.395678",
+          "-71.13116"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pentose Pharmaceuticals",
+        "distance_km": 2.8475244648587372,
+        "coordinates": [
+          "42.391266",
+          "-71.148366"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38263830330005,
+          -71.11580373150292
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38263830330005,
+        -71.11580373150292
+      ]
+    },
+    "work": {
+      "name": "AnyTime Pizza",
+      "coordinates": [
+        "42.364614",
+        "-71.110573"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Village Grill & Seafood by public_transit which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to AnyTime Pizza by public_transit which takes  minutes.",
+    "On 17:30, I want to commute_from_work, I go to Village Grill & Seafood by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Talulla by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to social, I go to Southpaw Residential Property Management by walking which takes 20-30 minutes.",
+    "On 20:30, I want to recreation, I go to Pentose Pharmaceuticals by public_transit which takes 30-40 minutes.",
+    "On 22:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

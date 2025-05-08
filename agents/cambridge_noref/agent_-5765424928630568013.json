@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Sean Contreras\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Deli & Grill",
+        "distance_km": 1.6225928817289053,
+        "coordinates": [
+          "42.364093",
+          "-71.107693"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.57809049064293,
+        "coordinates": [
+          "42.366307",
+          "-71.094141"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37155120912412,
+          -71.12463027520477
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cafe Barada",
+        "distance_km": 2.583900441186651,
+        "coordinates": [
+          "42.394752",
+          "-71.126895"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Metropolitan Urological Associates PC",
+        "distance_km": 0.8467119633238577,
+        "coordinates": [
+          "42.374276",
+          "-71.134231"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37155120912412,
+          -71.12463027520477
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37155120912412,
+        -71.12463027520477
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.366307",
+        "-71.094141"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Cambridge Deli & Grill by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Dunkin' by auto_passenger which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Cafe Barada by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to Metropolitan Urological Associates PC by private_auto which takes  minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

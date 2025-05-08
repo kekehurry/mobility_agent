@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Leslie Williamson\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"student\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe",
+        "distance_km": 1.5457466822586161,
+        "coordinates": [
+          "42.372937",
+          "-71.119585"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "Heading home from the cafe, walking takes 20-30 minutes"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38668161132924,
+          -71.12251770287432
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She is likely to walk for school, taking 20-30 minutes."
+      },
+      "destination": {
+        "name": "Harvard Divinity School",
+        "distance_km": 1.4868636018712895,
+        "coordinates": [
+          "42.374182",
+          "-71.116059"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Greenhouse Cafe",
+        "distance_km": 1.242331969215929,
+        "coordinates": [
+          "42.376383",
+          "-71.116635"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38668161132924,
+          -71.12251770287432
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvard Divinity School",
+        "distance_km": 1.4868636018712895,
+        "coordinates": [
+          "42.374182",
+          "-71.116059"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38668161132924,
+          -71.12251770287432
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe",
+        "distance_km": 1.5457466822586161,
+        "coordinates": [
+          "42.372937",
+          "-71.119585"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Xo Communications Operations",
+        "distance_km": 3.45466421548181,
+        "coordinates": [
+          "42.369378",
+          "-71.087663"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38668161132924,
+          -71.12251770287432
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38668161132924,
+        -71.12251770287432
+      ]
+    },
+    "school": {
+      "name": "Harvard Divinity School",
+      "coordinates": [
+        "42.374182",
+        "-71.116059"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Life Alive Organic Cafe by walking which takes 20-30 minutes.",
+    "On 07:30, I want to home, I go to home by walking which takes Heading home from the cafe, walking takes 20-30 minutes minutes.",
+    "On 08:00, I want to school, I go to Harvard Divinity School by walking which takes She is likely to walk for school, taking 20-30 minutes. minutes.",
+    "On 12:30, I want to eat, I go to Greenhouse Cafe by walking which takes 20-30 minutes.",
+    "On 13:00, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 14:00, I want to school, I go to Harvard Divinity School by walking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Life Alive Organic Cafe by walking which takes 20-30 minutes.",
+    "On 18:30, I want to shop, I go to Xo Communications Operations by biking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

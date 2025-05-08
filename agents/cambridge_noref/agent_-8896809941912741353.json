@@ -1,0 +1,61 @@
+{
+  "profile": "{\n\n  \"name\": \"Jenna Harris\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 25,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor_s_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Singa Bella Cafe",
+        "distance_km": 2.5349756486472512,
+        "coordinates": [
+          "42.397403",
+          "-71.129902"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374885170108115,
+          -71.12490083864812
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.374885170108115,
+        -71.12490083864812
+      ]
+    },
+    "work": {
+      "name": "Singa Bella Cafe",
+      "coordinates": [
+        "42.397403",
+        "-71.129902"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Singa Bella Cafe by biking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

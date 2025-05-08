@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Matthew Stafford\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 4, \"household_income\": \"50k-100k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sweet Touch Cafe",
+        "distance_km": 5.12777913112699,
+        "coordinates": [
+          "42.371195",
+          "-71.079971"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38632411400726,
+          -71.13879458286203
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sweet Touch Cafe",
+        "distance_km": 5.12777913112699,
+        "coordinates": [
+          "42.371195",
+          "-71.079971"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "New Asia",
+        "distance_km": 2.6957383930435395,
+        "coordinates": [
+          "42.370864",
+          "-71.113564"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sweet Touch Cafe",
+        "distance_km": 5.12777913112699,
+        "coordinates": [
+          "42.371195",
+          "-71.079971"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38632411400726,
+          -71.13879458286203
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38632411400726,
+        -71.13879458286203
+      ]
+    },
+    "work": {
+      "name": "Sweet Touch Cafe",
+      "coordinates": [
+        "42.371195",
+        "-71.079971"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Sweet Touch Cafe by auto_passenger which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 08:00, I want to work, I go to Sweet Touch Cafe by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to New Asia by auto_passenger which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Sweet Touch Cafe by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

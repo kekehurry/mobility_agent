@@ -1,0 +1,146 @@
+{
+  "profile": "{\n  \"name\": \"Nicholas Ford\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"male\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 4,\n  \"household_income\": \"Under 25k\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Meadhall",
+        "distance_km": 4.001348412216365,
+        "coordinates": [
+          "42.36367",
+          "-71.087293"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Burger King",
+        "distance_km": 2.5619007715142965,
+        "coordinates": [
+          "42.39049",
+          "-71.150472"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Meadhall",
+        "distance_km": 4.001348412216365,
+        "coordinates": [
+          "42.36367",
+          "-71.087293"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "time_30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39073048877551,
+          -71.119360815877
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pizza Pie er",
+        "distance_km": 2.5870346012434093,
+        "coordinates": [
+          "42.372739",
+          "-71.099413"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Gold Star Pool",
+        "distance_km": 3.1981484981161143,
+        "coordinates": [
+          "42.371424",
+          "-71.090552"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39073048877551,
+          -71.119360815877
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39073048877551,
+        -71.119360815877
+      ]
+    },
+    "work": {
+      "name": "Meadhall",
+      "coordinates": [
+        "42.36367",
+        "-71.087293"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Meadhall by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Burger King by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Meadhall by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes time_30-40 minutes.",
+    "On 18:30, I want to eat, I go to Pizza Pie er by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Gold Star Pool by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

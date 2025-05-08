@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Paula Harrison\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Oxford Spa Cafe",
+        "distance_km": 2.526799849989636,
+        "coordinates": [
+          "42.383141",
+          "-71.116036"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Darul Kabab",
+        "distance_km": 3.52179381180526,
+        "coordinates": [
+          "42.391157",
+          "-71.123274"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Oxford Spa Cafe",
+        "distance_km": 2.526799849989636,
+        "coordinates": [
+          "42.383141",
+          "-71.116036"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Courthouse Seafood Restaurant",
+        "distance_km": 2.546013771560387,
+        "coordinates": [
+          "42.371483",
+          "-71.084626"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36060800031493,
+          -71.11183338973024
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Loews Sony Theatres",
+        "distance_km": 1.6387115025310564,
+        "coordinates": [
+          "42.374256",
+          "-71.119386"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Windsor Realty",
+        "distance_km": 3.3855297386687995,
+        "coordinates": [
+          "42.390226",
+          "-71.12153"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36060800031493,
+          -71.11183338973024
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36060800031493,
+        -71.11183338973024
+      ]
+    },
+    "work": {
+      "name": "Oxford Spa Cafe",
+      "coordinates": [
+        "42.383141",
+        "-71.116036"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Oxford Spa Cafe by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Darul Kabab by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Oxford Spa Cafe by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to eat, I go to Courthouse Seafood Restaurant by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Loews Sony Theatres by public_transit which takes  minutes.",
+    "On 20:30, I want to social, I go to Windsor Realty by public_transit which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

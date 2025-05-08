@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Adam Jones\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "JAMES STREISAND MD",
+        "distance_km": 5.034381896955833,
+        "coordinates": [
+          "42.363892",
+          "-71.081616"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39193382158799,
+          -71.12963816812834
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cafe Mami",
+        "distance_km": 1.0439195780941417,
+        "coordinates": [
+          "42.387262",
+          "-71.118638"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pang Alexander MD",
+        "distance_km": 2.8434521879859767,
+        "coordinates": [
+          "42.374441",
+          "-71.10443"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39193382158799,
+          -71.12963816812834
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39193382158799,
+        -71.12963816812834
+      ]
+    },
+    "work": {
+      "name": "JAMES STREISAND MD",
+      "coordinates": [
+        "42.363892",
+        "-71.081616"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to JAMES STREISAND MD by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Cafe Mami by public_transit which takes  minutes.",
+    "On 19:30, I want to recreation, I go to Pang Alexander MD by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

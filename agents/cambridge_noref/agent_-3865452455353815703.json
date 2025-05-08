@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Michael Duran\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Leone Jas P Psycholgst",
+        "distance_km": 3.133603662099618,
+        "coordinates": [
+          "42.367909",
+          "-71.107379"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "William James Hall",
+        "distance_km": 2.50344626411842,
+        "coordinates": [
+          "42.377191",
+          "-71.113394"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 1.7445800023763474,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Rohrbaugh Associates",
+        "distance_km": 1.8035080506121595,
+        "coordinates": [
+          "42.386263",
+          "-71.126612"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Henrietta's Table",
+        "distance_km": 1.7420311293989856,
+        "coordinates": [
+          "42.372294",
+          "-71.123262"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "biking",
+        "duration": "She has a bike and prefers biking for short trips. The distance is about 2.5 miles, which is doable by bike in 20-30 minutes. She has biked to similar destinations before, so it's a reliable option."
+      },
+      "destination": {
+        "name": "William James Hall",
+        "distance_km": 2.50344626411842,
+        "coordinates": [
+          "42.377191",
+          "-71.113394"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dolphin Seafood",
+        "distance_km": 2.5549351341795794,
+        "coordinates": [
+          "42.370865",
+          "-71.113573"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 1.5817607133952591,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.376163331761305,
+          -71.14375863895638
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 1.7445800023763474,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Community Legal Services & Counseling Center",
+        "distance_km": 3.3993477741877958,
+        "coordinates": [
+          "42.369642",
+          "-71.103435"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.376163331761305,
+          -71.14375863895638
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.376163331761305,
+        -71.14375863895638
+      ]
+    },
+    "school": {
+      "name": "William James Hall",
+      "coordinates": [
+        "42.377191",
+        "-71.113394"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to recreation, I go to Leone Jas P Psycholgst by biking which takes 30-40 minutes.",
+    "On 08:30, I want to school, I go to William James Hall by biking which takes  minutes.",
+    "On 12:00, I want to eat, I go to Fresh Pond Beer Garden by auto_passenger which takes 10-20 minutes.",
+    "On 12:30, I want to recreation, I go to Rohrbaugh Associates by auto_passenger which takes 10-25 minutes.",
+    "On 13:00, I want to eat, I go to Henrietta's Table by auto_passenger which takes 10-20 minutes.",
+    "On 13:30, I want to school, I go to William James Hall by biking which takes She has a bike and prefers biking for short trips. The distance is about 2.5 miles, which is doable by bike in 20-30 minutes. She has biked to similar destinations before, so it's a reliable option. minutes.",
+    "On 15:30, I want to eat, I go to Dolphin Seafood by public_transit which takes 30-40 minutes.",
+    "On 16:00, I want to social, I go to Charlotte Huguenor Santana Properties Team by auto_passenger which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Fresh Pond Beer Garden by auto_passenger which takes 10-20 minutes.",
+    "On 19:00, I want to other_activities, I go to Community Legal Services & Counseling Center by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

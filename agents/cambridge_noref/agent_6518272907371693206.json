@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Scott Greer\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Moona",
+        "distance_km": 1.5786129148250734,
+        "coordinates": [
+          "42.374155",
+          "-71.101091"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 2.7859203711334906,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.7358770026004295,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ":40-50"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 3.2592833982556297,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 2.4335540932926167,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Jerusalem Palace Truck",
+        "distance_km": 2.5581171492969537,
+        "coordinates": [
+          "42.361099",
+          "-71.086566"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Best Buy",
+        "distance_km": 3.2641494009160685,
+        "coordinates": [
+          "42.367519",
+          "-71.077299"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Mindful Boston",
+        "distance_km": 0.7720578669423152,
+        "coordinates": [
+          "42.372739",
+          "-71.119647"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Jose's Mexican Food Truck",
+        "distance_km": 2.555182764483134,
+        "coordinates": [
+          "42.361124",
+          "-71.086595"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "G&G Property Services",
+        "distance_km": 2.861168213368456,
+        "coordinates": [
+          "42.370082",
+          "-71.082562"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Jerusalem Palace Truck",
+        "distance_km": 2.5581171492969537,
+        "coordinates": [
+          "42.361099",
+          "-71.086566"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36609854841725,
+          -71.1168790083221
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36609854841725,
+        -71.1168790083221
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to eat, I go to Moona by walking which takes 40-50 minutes.",
+    "On 07:45, I want to recreation, I go to Simoni Skating Rink by walking which takes 30-40 minutes.",
+    "On 08:15, I want to eat, I go to Dunkin' by walking which takes 40-50 minutes.",
+    "On 09:00, I want to shop, I go to Whole Foods Market by walking which takes :40-50 minutes.",
+    "On 11:00, I want to recreation, I go to Cambridge Center Roof Garden by walking which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Jerusalem Palace Truck by public_transit which takes 30-40 minutes.",
+    "On 13:30, I want to shop, I go to Best Buy by public_transit which takes 40-50 minutes.",
+    "On 15:30, I want to recreation, I go to Mindful Boston by walking which takes  minutes.",
+    "On 17:00, I want to eat, I go to Jose's Mexican Food Truck by public_transit which takes 40-50 minutes.",
+    "On 18:00, I want to social, I go to G&G Property Services by walking which takes 30-40 minutes.",
+    "On 19:30, I want to eat, I go to Jerusalem Palace Truck by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 40-50 minutes."
+  ]
+}

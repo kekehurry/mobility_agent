@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Anthony McClure\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.577266563182416,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.577266563182416,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user_defined"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.577266563182416,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37628023449608,
+          -71.11421114756129
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Friendly Toast",
+        "distance_km": 0.4708218723069991,
+        "coordinates": [
+          "42.372227",
+          "-71.115883"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 0.42757766516968704,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37628023449608,
+          -71.11421114756129
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37628023449608,
+        -71.11421114756129
+      ]
+    },
+    "work": {
+      "name": "Koch Cafe",
+      "coordinates": [
+        "42.362255",
+        "-71.089286"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Koch Cafe by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Koch Cafe by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Koch Cafe by private_auto which takes user_defined minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to The Friendly Toast by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Cambridge War Memorial Recreation Center by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

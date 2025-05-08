@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Jeffrey Hogan\", \"city\": \"Cambridge,MA\", \"age\": 32, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Izzy's Restaurant & Sub Shop",
+        "distance_km": 5.049916072433168,
+        "coordinates": [
+          "42.366289",
+          "-71.095569"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 2.852913944831117,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "She has a private auto and the distance is 5 miles, which is a 20-30 minute drive. Given his profile, the most likely choice is private_auto with a duration of 20-30 minutes."
+      },
+      "destination": {
+        "name": "Izzy's Restaurant & Sub Shop",
+        "distance_km": 5.049916072433168,
+        "coordinates": [
+          "42.366289",
+          "-71.095569"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Amuse Restaurant",
+        "distance_km": 5.048993959700526,
+        "coordinates": [
+          "42.362127",
+          "-71.099992"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 5.5139708585980305,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39223142676588,
+          -71.14592272840977
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39223142676588,
+        -71.14592272840977
+      ]
+    },
+    "work": {
+      "name": "Izzy's Restaurant & Sub Shop",
+      "coordinates": [
+        "42.366289",
+        "-71.095569"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Izzy's Restaurant & Sub Shop by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Harvest by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Izzy's Restaurant & Sub Shop by private_auto which takes She has a private auto and the distance is 5 miles, which is a 20-30 minute drive. Given his profile, the most likely choice is private_auto with a duration of 20-30 minutes. minutes.",
+    "On 18:30, I want to eat, I go to Amuse Restaurant by auto_passenger which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Simoni Skating Rink by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

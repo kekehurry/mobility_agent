@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Maurice Lewis\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"50k-75k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Majestic Yoga Studio",
+        "distance_km": 2.546609734696086,
+        "coordinates": [
+          "42.380914",
+          "-71.13923"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 0.24977266276715687,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "value between 20-30"
+      },
+      "destination": {
+        "name": "Majestic Yoga Studio",
+        "distance_km": 2.546609734696086,
+        "coordinates": [
+          "42.380914",
+          "-71.13923"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37156921650354,
+          -71.11099510327156
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 0.22846471374000543,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Russell Field",
+        "distance_km": 3.56229041985896,
+        "coordinates": [
+          "42.396585",
+          "-71.138062"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ":20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37156921650354,
+          -71.11099510327156
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37156921650354,
+        -71.11099510327156
+      ]
+    },
+    "work": {
+      "name": "Majestic Yoga Studio",
+      "coordinates": [
+        "42.380914",
+        "-71.13923"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Majestic Yoga Studio by public_transit which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Cafe Anthony by walking which takes 0-10 minutes.",
+    "On 12:30, I want to work, I go to Majestic Yoga Studio by public_transit which takes value between 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Flame Hot Pot & Sushi by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Russell Field by public_transit which takes 20-30 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes :20-30 minutes."
+  ]
+}

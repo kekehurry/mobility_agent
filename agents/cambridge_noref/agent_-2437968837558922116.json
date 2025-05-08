@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Rebecca Morgan\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Matignon High School",
+        "distance_km": 4.585343076535896,
+        "coordinates": [
+          "42.401313",
+          "-71.131348"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pretzel Time",
+        "distance_km": 2.5657550737617743,
+        "coordinates": [
+          "42.368233",
+          "-71.076515"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "GUESS",
+        "distance_km": 2.622746721890058,
+        "coordinates": [
+          "42.36788",
+          "-71.075732"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Orangetheory Fitness",
+        "distance_km": 2.0897218668630666,
+        "coordinates": [
+          "42.366125",
+          "-71.081942"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Vester",
+        "distance_km": 1.546253718737352,
+        "coordinates": [
+          "42.363164",
+          "-71.088442"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 4.0015608496228285,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36412957180599,
+          -71.10716715765294
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36412957180599,
+        -71.10716715765294
+      ]
+    },
+    "school": {
+      "name": "Matignon High School",
+      "coordinates": [
+        "42.401313",
+        "-71.131348"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to school, I go to Matignon High School by public_transit which takes 30-40 minutes.",
+    "On 09:30, I want to eat, I go to Pretzel Time by biking which takes 20-30 minutes.",
+    "On 11:00, I want to shop, I go to GUESS by biking which takes 20-30 minutes.",
+    "On 13:00, I want to recreation, I go to Orangetheory Fitness by public_transit which takes 30-40 minutes.",
+    "On 15:00, I want to eat, I go to Vester by public_transit which takes 30-40 minutes.",
+    "On 16:30, I want to social, I go to Charlotte Huguenor Santana Properties Team by biking which takes 20-30 minutes.",
+    "On 18:00, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

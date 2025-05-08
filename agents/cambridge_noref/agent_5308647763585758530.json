@@ -1,0 +1,257 @@
+{
+  "profile": "{\"name\": \"Jon Duncan\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Velozo's Food Service",
+        "distance_km": 2.9111166167918454,
+        "coordinates": [
+          "42.377706",
+          "-71.114483"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Community Running Association",
+        "distance_km": 5.436527576910985,
+        "coordinates": [
+          "42.358694",
+          "-71.097494"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Christopher's",
+        "distance_km": 1.7134398134765967,
+        "coordinates": [
+          "42.389038",
+          "-71.12002"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.397846044573306,
+          -71.13710347308577
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 3.3900581540685852,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Velozo's Food Service",
+        "distance_km": 2.9111166167918454,
+        "coordinates": [
+          "42.377706",
+          "-71.114483"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Community Running Association",
+        "distance_km": 5.436527576910985,
+        "coordinates": [
+          "42.358694",
+          "-71.097494"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Velozo's Food Service",
+        "distance_km": 2.9111166167918454,
+        "coordinates": [
+          "42.377706",
+          "-71.114483"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 3.3900581540685852,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Catalyst Performance Training",
+        "distance_km": 5.031795815018473,
+        "coordinates": [
+          "42.360559",
+          "-71.10241"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Velozo's Food Service",
+        "distance_km": 2.9111166167918454,
+        "coordinates": [
+          "42.377706",
+          "-71.114483"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.397846044573306,
+          -71.13710347308577
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.9525098978266433,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.397846044573306,
+          -71.13710347308577
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.397846044573306,
+        -71.13710347308577
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Velozo's Food Service by private_auto which takes 30-40 minutes.",
+    "On 07:30, I want to recreation, I go to Community Running Association by auto_passenger which takes 30-40 minutes.",
+    "On 08:00, I want to eat, I go to Christopher's by private_auto which takes user_input minutes.",
+    "On 08:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 09:00, I want to shop, I go to Used Sounds of Harvard Square by private_auto which takes 30-40 minutes.",
+    "On 11:00, I want to eat, I go to Velozo's Food Service by private_auto which takes 30-40 minutes.",
+    "On 12:00, I want to recreation, I go to Community Running Association by auto_passenger which takes 30-40 minutes.",
+    "On 13:00, I want to eat, I go to Velozo's Food Service by auto_passenger which takes 30-40 minutes.",
+    "On 14:00, I want to shop, I go to Used Sounds of Harvard Square by public_transit which takes 30-40 minutes.",
+    "On 16:00, I want to recreation, I go to Catalyst Performance Training by auto_passenger which takes 30-40 minutes.",
+    "On 17:00, I want to eat, I go to Velozo's Food Service by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to social, I go to Trinity Property Management by private_auto which takes 30-40 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

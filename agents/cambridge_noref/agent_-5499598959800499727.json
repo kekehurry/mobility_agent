@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Jordan Hall\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"75k-10,000\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.8294519272898033,
+        "coordinates": [
+          "42.374189",
+          "-71.121151"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dance Freedom",
+        "distance_km": 2.5230329723384286,
+        "coordinates": [
+          "42.376713",
+          "-71.122692"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.8294519272898033,
+        "coordinates": [
+          "42.374189",
+          "-71.121151"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "You have to specify a duration"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.398227665665864,
+          -71.13251451066921
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.5042212136370186,
+        "coordinates": [
+          "42.38981",
+          "-71.118204"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Berman Belinda Psychotherapists",
+        "distance_km": 1.675158416797608,
+        "coordinates": [
+          "42.383151",
+          "-71.132975"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.398227665665864,
+          -71.13251451066921
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.398227665665864,
+        -71.13251451066921
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.374189",
+        "-71.121151"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Dunkin' by walking which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Dance Freedom by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes You have to specify a duration minutes.",
+    "On 18:30, I want to eat, I go to Starbucks by walking which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Berman Belinda Psychotherapists by walking which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 30-40 minutes."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"April Hart\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 1.6466553158720667,
+        "coordinates": [
+          "42.36335",
+          "-71.08775"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Maharaja Restaurant",
+        "distance_km": 2.7270773378983355,
+        "coordinates": [
+          "42.391279",
+          "-71.123481"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37095202433241,
+          -71.10491159172706
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 2.13819980581719,
+        "coordinates": [
+          "42.38737",
+          "-71.118465"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "American Legion Marsh Post 442",
+        "distance_km": 2.9832636158480863,
+        "coordinates": [
+          "42.365182",
+          "-71.140283"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37095202433241,
+          -71.10491159172706
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37095202433241,
+        -71.10491159172706
+      ]
+    },
+    "work": {
+      "name": "Maharaja Restaurant",
+      "coordinates": [
+        "42.391279",
+        "-71.123481"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Blue Bottle Coffee by biking which takes 10-25 minutes.",
+    "On 13:00, I want to work, I go to Maharaja Restaurant by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Costa Coffee by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to American Legion Marsh Post 442 by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

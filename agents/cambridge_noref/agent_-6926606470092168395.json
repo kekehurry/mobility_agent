@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Tammie Jimenez\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"40k-60k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 4.741350985258943,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ":30-40"
+      },
+      "destination": {
+        "name": "Angelo's Pizza",
+        "distance_km": 2.6529637275167897,
+        "coordinates": [
+          "42.372968",
+          "-71.110736"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.301651414697853,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cove Kendall",
+        "distance_km": 4.921971415136629,
+        "coordinates": [
+          "42.364359",
+          "-71.083481"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Anna's Taqueria",
+        "distance_km": 1.0339847377094094,
+        "coordinates": [
+          "42.388454",
+          "-71.118574"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Ung Feodor MD",
+        "distance_km": 2.8938926089577213,
+        "coordinates": [
+          "42.374499",
+          "-71.104161"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 2.1274373120523697,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Phillips Alfred J DPM",
+        "distance_km": 2.868464454124951,
+        "coordinates": [
+          "42.374723",
+          "-71.104304"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rosie's Bakery",
+        "distance_km": 1.0925445390721988,
+        "coordinates": [
+          "42.38608",
+          "-71.119594"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39201135977078,
+          -71.13017793338695
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39201135977078,
+        -71.13017793338695
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to recreation, I go to Cambridge Center Roof Garden by public_transit which takes 30-40 minutes.",
+    "On 08:30, I want to eat, I go to Angelo's Pizza by public_transit which takes :30-40 minutes.",
+    "On 09:00, I want to shop, I go to Newbury Comics by public_transit which takes  minutes.",
+    "On 10:00, I want to social, I go to Cove Kendall by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Anna's Taqueria by walking which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Ung Feodor MD by public_transit which takes 30-40 minutes.",
+    "On 15:00, I want to social, I go to Cambridge Forum by walking which takes 30-40 minutes.",
+    "On 17:00, I want to recreation, I go to Phillips Alfred J DPM by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Rosie's Bakery by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

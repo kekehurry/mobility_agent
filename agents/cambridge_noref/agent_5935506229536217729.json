@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"James Brown\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Poke Works",
+        "distance_km": 2.620617029041154,
+        "coordinates": [
+          "42.374306",
+          "-71.119126"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Comeau Field",
+        "distance_km": 5.027280135445658,
+        "coordinates": [
+          "42.394742",
+          "-71.138527"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.6490662671293004,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "River Gods",
+        "distance_km": 1.7991385790466012,
+        "coordinates": [
+          "42.364065",
+          "-71.108695"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Down Under Yoga Cambridge",
+        "distance_km": 3.6182544153960805,
+        "coordinates": [
+          "42.390306",
+          "-71.121621"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 2.5145325390044064,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "HealthAF",
+        "distance_km": 3.347364919758031,
+        "coordinates": [
+          "42.388886",
+          "-71.118932"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Royal East Restaurant",
+        "distance_km": 1.0106361113444062,
+        "coordinates": [
+          "42.363082",
+          "-71.096974"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.7363243783241655,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36931062006742,
+        -71.0880309467506
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Poke Works by biking which takes 20-30 minutes.",
+    "On 08:30, I want to recreation, I go to Comeau Field by private_auto which takes 20-30 minutes.",
+    "On 10:00, I want to shop, I go to Newbury Comics by private_auto which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to River Gods by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to recreation, I go to Down Under Yoga Cambridge by biking which takes 30-40 minutes.",
+    "On 15:00, I want to shop, I go to In Your Ear Records by private_auto which takes  minutes.",
+    "On 17:00, I want to recreation, I go to HealthAF by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to Royal East Restaurant by auto_passenger which takes 10-20 minutes.",
+    "On 20:00, I want to social, I go to Trinity Property Management by private_auto which takes 10-20 minutes."
+  ]
+}

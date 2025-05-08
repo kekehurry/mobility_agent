@@ -1,0 +1,240 @@
+{
+  "profile": "{\"name\": \"Stephanie Joseph\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Saloniki Greek",
+        "distance_km": 1.5261764202211832,
+        "coordinates": [
+          "42.361098",
+          "-71.095823"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Health Yoga Life",
+        "distance_km": 1.5142845472273692,
+        "coordinates": [
+          "42.360911",
+          "-71.095474"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 0.709816108502424,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 1.1825979450406892,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Elmendorf Baking Supplies",
+        "distance_km": 0.5795144625495243,
+        "coordinates": [
+          "42.371654",
+          "-71.086311"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "BollyX",
+        "distance_km": 1.8412385536941718,
+        "coordinates": [
+          "42.36468",
+          "-71.102113"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-40"
+      },
+      "destination": {
+        "name": "Desi Dhaba",
+        "distance_km": 1.7036173694380317,
+        "coordinates": [
+          "42.363635",
+          "-71.09994"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bertucci's",
+        "distance_km": 1.513288113029782,
+        "coordinates": [
+          "42.363447",
+          "-71.097363"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 2.013635498832809,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 2.733875511734082,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "AnyTime Pizza",
+        "distance_km": 2.5237914850217167,
+        "coordinates": [
+          "42.364614",
+          "-71.110573"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 2.1730211688582792,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36876705962631,
+          -71.08045076730029
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36876705962631,
+        -71.08045076730029
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Saloniki Greek by walking which takes 20-30 minutes.",
+    "On 08:00, I want to other_activities, I go to Health Yoga Life by walking which takes 20-30 minutes.",
+    "On 08:30, I want to shop, I go to Roche Brothers Supermarket by walking which takes  minutes.",
+    "On 10:00, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 20-30 minutes.",
+    "On 11:30, I want to eat, I go to Elmendorf Baking Supplies by walking which takes 30-4,  minutes.",
+    "On 12:30, I want to recreation, I go to BollyX by walking which takes 30-40 minutes.",
+    "On 13:30, I want to eat, I go to Desi Dhaba by walking which takes 20-40 minutes.",
+    "On 14:30, I want to other_activities, I go to Bertucci's by public_transit which takes 30-40 minutes.",
+    "On 15:00, I want to shop, I go to Daily Table Central Square by walking which takes 20-30 minutes.",
+    "On 16:00, I want to recreation, I go to McCarter R Harris Psycholgst by walking which takes 20-30 minutes.",
+    "On 17:30, I want to eat, I go to AnyTime Pizza by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to social, I go to Central House by walking which takes 30-40 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

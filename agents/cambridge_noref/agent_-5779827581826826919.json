@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Courtney Aguilar\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cilantro",
+        "distance_km": 2.639874611742856,
+        "coordinates": [
+          "42.370879",
+          "-71.113552"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.1893451575693774,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-50"
+      },
+      "destination": {
+        "name": "Jose Mateo Ballet Theatre",
+        "distance_km": 2.529930110974192,
+        "coordinates": [
+          "42.371768",
+          "-71.114171"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-50"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 4.110573841317517,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cilantro",
+        "distance_km": 2.639874611742856,
+        "coordinates": [
+          "42.370879",
+          "-71.113552"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 3.371938577360256,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.1893451575693774,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3902189113018,
+          -71.13218110523583
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-50"
+      },
+      "destination": {
+        "name": "Zinneken's Belgian Waffles Harvard Square",
+        "distance_km": 2.5668562808480138,
+        "coordinates": [
+          "42.371169",
+          "-71.114539"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "LabCentral",
+        "distance_km": 4.360335768336982,
+        "coordinates": [
+          "42.362253",
+          "-71.09503"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3902189113018,
+          -71.13218110523583
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3902189113018,
+        -71.13218110523583
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to eat, I go to Cilantro by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to shop, I go to Newbury Comics by public_transit which takes 30-40 minutes.",
+    "On 10:00, I want to recreation, I go to Jose Mateo Ballet Theatre by on_demand_auto which takes 30-50 minutes.",
+    "On 11:00, I want to social, I go to ForestCity by on_demand_auto which takes 30-50 minutes.",
+    "On 12:30, I want to eat, I go to Cilantro by public_transit which takes 30-40 minutes.",
+    "On 13:30, I want to recreation, I go to Willis Moore Youth Center by public_transit which takes 30-40 minutes.",
+    "On 15:00, I want to shop, I go to Newbury Comics by public_transit which takes  minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Zinneken's Belgian Waffles Harvard Square by on_demand_auto which takes 30-50 minutes.",
+    "On 19:00, I want to social, I go to LabCentral by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Richard Wilson DDS\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Discovery Cafe",
+        "distance_km": 5.167688603200905,
+        "coordinates": [
+          "42.366604",
+          "-71.086178"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user_defined"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.6046915944050842,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Discovery Cafe",
+        "distance_km": 5.167688603200905,
+        "coordinates": [
+          "42.366604",
+          "-71.086178"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39339377638631,
+          -71.13747799381049
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Anna's Taqueria",
+        "distance_km": 1.6504704438013948,
+        "coordinates": [
+          "42.388454",
+          "-71.118574"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Phillips Alfred J DPM",
+        "distance_km": 3.429958102427075,
+        "coordinates": [
+          "42.374723",
+          "-71.104304"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39339377638631,
+          -71.13747799381049
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39339377638631,
+        -71.13747799381049
+      ]
+    },
+    "work": {
+      "name": "Discovery Cafe",
+      "coordinates": [
+        "42.366604",
+        "-71.086178"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Discovery Cafe by auto_passenger which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Corporate Cafe by private_auto which takes user_defined minutes.",
+    "On 12:30, I want to work, I go to Discovery Cafe by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Anna's Taqueria by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Phillips Alfred J DPM by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

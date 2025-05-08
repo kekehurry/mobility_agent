@@ -1,0 +1,248 @@
+{
+  "profile": "{\"name\": \"Bonnie Robinson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.3488869584417148,
+        "coordinates": [
+          "42.36963",
+          "-71.11144"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 2.7128780861209663,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36716939417461,
+          -71.10880764105671
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 1.6887126831423291,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "TechFusion",
+        "distance_km": 5.031054225829257,
+        "coordinates": [
+          "42.394085",
+          "-71.15794"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36716939417461,
+          -71.10880764105671
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Honeycomb Creamery",
+        "distance_km": 2.000945480642779,
+        "coordinates": [
+          "42.383215",
+          "-71.119849"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Dance Complex",
+        "distance_km": 0.6277889001755864,
+        "coordinates": [
+          "42.364228",
+          "-71.1023"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 2.597505353261714,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36716939417461,
+          -71.10880764105671
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "G&G Property Services",
+        "distance_km": 2.185951275285735,
+        "coordinates": [
+          "42.370082",
+          "-71.082562"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "VO2 Vegan Cafe",
+        "distance_km": 0.3364698905282484,
+        "coordinates": [
+          "42.369631",
+          "-71.111188"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36716939417461,
+          -71.10880764105671
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36716939417461,
+        -71.10880764105671
+      ]
+    },
+    "school": {
+      "name": "Lesley University",
+      "coordinates": [
+        "42.38099",
+        "-71.117349"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 08:00, I want to shop, I go to Apple CambridgeSide by private_auto which takes 20-30 minutes.",
+    "On 08:45, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 09:30, I want to school, I go to Lesley University by public_transit which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to TechFusion by private_auto which takes 20-30 minutes.",
+    "On 11:45, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to eat, I go to Honeycomb Creamery by public_transit which takes 10-20 minutes.",
+    "On 14:00, I want to recreation, I go to The Dance Complex by walking which takes 10-20 minutes.",
+    "On 15:30, I want to shop, I go to CLEAR Kiosk by private_auto which takes  minutes.",
+    "On 16:00, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 17:00, I want to social, I go to G&G Property Services by public_transit which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to VO2 Vegan Cafe by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

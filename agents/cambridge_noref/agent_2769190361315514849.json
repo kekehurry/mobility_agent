@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Lori Miller\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "I Love Sushi",
+        "distance_km": 3.044217496314124,
+        "coordinates": [
+          "42.387176",
+          "-71.118495"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Panda Express",
+        "distance_km": 2.6991917346081573,
+        "coordinates": [
+          "42.368495",
+          "-71.076606"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "I Love Sushi",
+        "distance_km": 3.044217496314124,
+        "coordinates": [
+          "42.387176",
+          "-71.118495"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36095312759653,
+          -71.10775455709971
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Tea Do Central Sq",
+        "distance_km": 0.6828458064705473,
+        "coordinates": [
+          "42.363852",
+          "-71.100445"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Kates Malcolm I Optmtrst",
+        "distance_km": 1.6272343087902854,
+        "coordinates": [
+          "42.372884",
+          "-71.119217"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36095312759653,
+          -71.10775455709971
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36095312759653,
+        -71.10775455709971
+      ]
+    },
+    "work": {
+      "name": "I Love Sushi",
+      "coordinates": [
+        "42.387176",
+        "-71.118495"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to I Love Sushi by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Panda Express by biking which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to I Love Sushi by biking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 40-50 minutes.",
+    "On 18:30, I want to eat, I go to Tea Do Central Sq by walking which takes  minutes.",
+    "On 19:30, I want to recreation, I go to Kates Malcolm I Optmtrst by biking which takes 10-25 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 40-50 minutes."
+  ]
+}

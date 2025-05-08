@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Scott Greer\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "William James Hall",
+        "distance_km": 0.5660530802423982,
+        "coordinates": [
+          "42.377191",
+          "-71.113394"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ramen O Bowl",
+        "distance_km": 0.4826129339672477,
+        "coordinates": [
+          "42.381964",
+          "-71.120074"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "William James Hall",
+        "distance_km": 0.5660530802423982,
+        "coordinates": [
+          "42.377191",
+          "-71.113394"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Season to Taste",
+        "distance_km": 0.47924414135228416,
+        "coordinates": [
+          "42.382424",
+          "-71.120041"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Quinn Dana Licensed",
+        "distance_km": 0.8324487168182514,
+        "coordinates": [
+          "42.383469",
+          "-71.1242"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 1.5028365207935632,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Masscraft Masonry & Construction",
+        "distance_km": 1.9252500449612162,
+        "coordinates": [
+          "42.395211",
+          "-71.129748"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38224936738579,
+          -71.11422637690028
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38224936738579,
+        -71.11422637690028
+      ]
+    },
+    "work": {
+      "name": "William James Hall",
+      "coordinates": [
+        "42.377191",
+        "-71.113394"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to William James Hall by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Ramen O Bowl by other_travel_mode which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to William James Hall by public_transit which takes  minutes.",
+    "On 17:30, I want to eat, I go to Season to Taste by other_travel_mode which takes 0-10 minutes.",
+    "On 18:00, I want to recreation, I go to Quinn Dana Licensed by other_travel_mode which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Dado Tea by public_transit which takes 10-20 minutes.",
+    "On 20:00, I want to social, I go to Masscraft Masonry & Construction by public_transit which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

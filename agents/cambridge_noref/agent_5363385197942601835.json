@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"James Sullivan\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.28205287777428634,
+        "coordinates": [
+          "42.357991",
+          "-71.114981"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Beyond Fitness Pilates Studio",
+        "distance_km": 5.022049599330904,
+        "coordinates": [
+          "42.391604",
+          "-71.152121"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Spice MIT",
+        "distance_km": 0.2609705845478002,
+        "coordinates": [
+          "42.35988",
+          "-71.10998"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Mindful Boston",
+        "distance_km": 1.7834177115046033,
+        "coordinates": [
+          "42.372739",
+          "-71.119647"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Vitality Bowls",
+        "distance_km": 1.1364298965271489,
+        "coordinates": [
+          "42.363878",
+          "-71.100422"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "iD Programming Academy MIT",
+        "distance_km": 1.0862097747143866,
+        "coordinates": [
+          "42.36473",
+          "-71.1022"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Zinneken's Belgian Waffles Harvard Square",
+        "distance_km": 1.5001974678596364,
+        "coordinates": [
+          "42.371169",
+          "-71.114539"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "CSA Construction Services",
+        "distance_km": 5.2235127833297135,
+        "coordinates": [
+          "42.394225",
+          "-71.151749"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35784502270126,
+          -71.11156306138574
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35784502270126,
+        -71.11156306138574
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 07:30, I want to recreation, I go to Beyond Fitness Pilates Studio by on_demand_auto which takes 40-50 minutes.",
+    "On 09:00, I want to eat, I go to Cafe Spice MIT by walking which takes 0-10 minutes.",
+    "On 11:00, I want to recreation, I go to Mindful Boston by on_demand_auto which takes 40-50 minutes.",
+    "On 13:00, I want to eat, I go to Vitality Bowls by on_demand_auto which takes 40-50 minutes.",
+    "On 15:00, I want to recreation, I go to iD Programming Academy MIT by on_demand_auto which takes  minutes.",
+    "On 17:00, I want to eat, I go to Zinneken's Belgian Waffles Harvard Square by on_demand_auto which takes 40-50 minutes.",
+    "On 19:00, I want to social, I go to CSA Construction Services by on_demand_auto which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by on_demand_auto which takes 40-50 minutes."
+  ]
+}

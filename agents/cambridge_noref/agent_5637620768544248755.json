@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Mark Miller\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Silk Road Uyghur Cuisine",
+        "distance_km": 0.3891073008235211,
+        "coordinates": [
+          "42.372122",
+          "-71.087128"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 2.035930292173912,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simon's Too",
+        "distance_km": 1.5869816429823125,
+        "coordinates": [
+          "42.36934",
+          "-71.11073"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.3366269084234457,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Earnest Drinks",
+        "distance_km": 0.3510807251289237,
+        "coordinates": [
+          "42.367958",
+          "-71.090294"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 1.8884587672227064,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "State Park",
+        "distance_km": 0.5398032960322907,
+        "coordinates": [
+          "42.36615",
+          "-71.090746"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Landmark Theaters",
+        "distance_km": 0.325659129667565,
+        "coordinates": [
+          "42.368264",
+          "-71.090065"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Snack Bar",
+        "distance_km": 0.32132704435357545,
+        "coordinates": [
+          "42.372244",
+          "-71.088087"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 0.3326315870445914,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Steinberg Jeffrey MD",
+        "distance_km": 1.1099942248006338,
+        "coordinates": [
+          "42.374508",
+          "-71.104192"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Toscanini's Ice Cream",
+        "distance_km": 1.046830268472442,
+        "coordinates": [
+          "42.363592",
+          "-71.099497"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37096920399597,
+        -71.09158891977219
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Silk Road Uyghur Cuisine by private_auto which takes 0-10 minutes.",
+    "On 07:30, I want to recreation, I go to Harvard Yard by on_demand_auto which takes 10-20 minutes.",
+    "On 08:00, I want to eat, I go to Simon's Too by on_demand_auto which takes 10-20 minutes.",
+    "On 08:30, I want to shop, I go to Newbury Comics by on_demand_auto which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Earnest Drinks by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to recreation, I go to Harvard Film Archive by on_demand_auto which takes 10-20 minutes.",
+    "On 13:00, I want to eat, I go to State Park by private_auto which takes  minutes.",
+    "On 14:00, I want to recreation, I go to Landmark Theaters by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to The Snack Bar by on_demand_auto which takes 10-20 minutes.",
+    "On 18:00, I want to social, I go to Fairlane Properties by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Steinberg Jeffrey MD by on_demand_auto which takes 10-20 minutes.",
+    "On 21:00, I want to eat, I go to Toscanini's Ice Cream by on_demand_auto which takes 10-20 minutes."
+  ]
+}

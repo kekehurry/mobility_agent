@@ -1,0 +1,61 @@
+{
+  "profile": "{\"name\": \"Nathaniel Holt\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Season To Go",
+        "distance_km": 5.064654303064566,
+        "coordinates": [
+          "42.39835",
+          "-71.131022"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ": 0.8}, {"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361999253252094,
+          -71.09390034295443
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.361999253252094,
+        -71.09390034295443
+      ]
+    },
+    "work": {
+      "name": "Season To Go",
+      "coordinates": [
+        "42.39835",
+        "-71.131022"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Season To Go by private_auto which takes 30-40 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes : 0.8}, { minutes."
+  ]
+}
