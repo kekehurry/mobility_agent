@@ -24,27 +24,28 @@ class BaseModel:
 
         if train_file and os.path.exists(train_file):
             self.train_df = load_data(train_file)
-            # Ensure better representation by stratifying the sample
-            if sample_num < len(self.train_df):
-                # Sample with stratification to maintain class distribution
-                # Use both target variables for stratification
-                train_df_with_targets = self.train_df.copy()
-                # Create a combined strata column
-                train_df_with_targets['strata'] = (
-                    train_df_with_targets['primary_mode'].astype(str) + '_' + 
-                    train_df_with_targets['duration_minutes'].astype(str)
-                )
-                self.train_df = train_df_with_targets.groupby('strata', group_keys=False).apply(
-                    lambda x: x.sample(min(len(x), max(1, int(sample_num * len(x) / len(train_df_with_targets)))), 
-                                    random_state=seed)
-                )
-                # If we didn't get enough samples, add more randomly
-                if len(self.train_df) < sample_num:
-                    remaining = sample_num - len(self.train_df)
-                    excluded = train_df_with_targets[~train_df_with_targets.index.isin(self.train_df.index)]
-                    if len(excluded) > 0:
-                        additional = excluded.sample(min(len(excluded), remaining), random_state=seed)
-                        self.train_df = pd.concat([self.train_df, additional])
+            self.train_df = self.train_df.sample(self.sample_num,random_state=self.seed)
+            # # Ensure better representation by stratifying the sample
+            # if sample_num < len(self.train_df):
+            #     # Sample with stratification to maintain class distribution
+            #     # Use both target variables for stratification
+            #     train_df_with_targets = self.train_df.copy()
+            #     # Create a combined strata column
+            #     train_df_with_targets['strata'] = (
+            #         train_df_with_targets['primary_mode'].astype(str) + '_' + 
+            #         train_df_with_targets['duration_minutes'].astype(str)
+            #     )
+            #     self.train_df = train_df_with_targets.groupby('strata', group_keys=False).apply(
+            #         lambda x: x.sample(min(len(x), max(1, int(sample_num * len(x) / len(train_df_with_targets)))), 
+            #                         random_state=seed)
+            #     )
+            #     # If we didn't get enough samples, add more randomly
+            #     if len(self.train_df) < sample_num:
+            #         remaining = sample_num - len(self.train_df)
+            #         excluded = train_df_with_targets[~train_df_with_targets.index.isin(self.train_df.index)]
+            #         if len(excluded) > 0:
+            #             additional = excluded.sample(min(len(excluded), remaining), random_state=seed)
+            #             self.train_df = pd.concat([self.train_df, additional])
             self.X_train, self.y_train, self.encoder = prepare_data(self.train_df)
 
         if eval_file and os.path.exists(eval_file):
@@ -129,7 +130,7 @@ class BaseModel:
         # print(f"Top {k} accuracy: { topk_accuracies['average']:.4f}")
         print(f"Overall average KL divergence: {overall_kl:.4f}")
         print(f"Overall mean absolute error: {overall_mae:.4f}")
-        return kl_df,overall_kl,overall_mae
+        return kl_df,overall_kl,overall_mae,
     
     def save_model(self):
         """
