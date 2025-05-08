@@ -1,0 +1,274 @@
+{
+  "profile": "{\"name\": \"Caroline Townsend\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Whole Heart Provisions",
+        "distance_km": 1.5540181190526687,
+        "coordinates": [
+          "42.362221",
+          "-71.098786"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 1.7511342277525672,
+        "coordinates": [
+          "42.364986",
+          "-71.102566"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 1.7235573611305435,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 1.6986852338217502,
+        "coordinates": [
+          "42.368123",
+          "-71.102394"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "iD Programming Academy MIT",
+        "distance_km": 1.7279005141609878,
+        "coordinates": [
+          "42.36473",
+          "-71.1022"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sushi Gourmet",
+        "distance_km": 1.6984535320116905,
+        "coordinates": [
+          "42.368109",
+          "-71.102391"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 1.7235573611305435,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 1.7498209891556058,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Genji",
+        "distance_km": 1.699886127547779,
+        "coordinates": [
+          "42.368083",
+          "-71.102408"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 1.7511342277525672,
+        "coordinates": [
+          "42.364986",
+          "-71.102566"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 3.357068678012955,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 1.7498209891556058,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Boston Lamb Takedown",
+        "distance_km": 1.7034260299887964,
+        "coordinates": [
+          "42.363634",
+          "-71.101486"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Cambridge Prime",
+        "distance_km": 3.4362954372087726,
+        "coordinates": [
+          "42.378086",
+          "-71.121335"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36826557839181,
+          -71.0817726348611
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36826557839181,
+        -71.0817726348611
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Whole Heart Provisions by walking which takes 20-30 minutes.",
+    "On 08:30, I want to recreation, I go to VIM Fitness by private_auto which takes 10-25 minutes.",
+    "On 09:00, I want to shop, I go to Deep Thoughts Cambridge by private_auto which takes 10-25 minutes.",
+    "On 10:00, I want to eat, I go to Taqueria by private_auto which takes 10-25 minutes.",
+    "On 11:00, I want to recreation, I go to iD Programming Academy MIT by private_auto which takes 10-25 minutes.",
+    "On 12:00, I want to eat, I go to Sushi Gourmet by walking which takes 20-30 minutes.",
+    "On 13:00, I want to shop, I go to Deep Thoughts Cambridge by private_auto which takes 10-20 minutes.",
+    "On 14:00, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by walking which takes 20-30 minutes.",
+    "On 15:00, I want to eat, I go to Genji by private_auto which takes 10-25 minutes.",
+    "On 16:00, I want to recreation, I go to VIM Fitness by private_auto which takes 10-25 minutes.",
+    "On 17:00, I want to eat, I go to Harvest by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by private_auto which takes 10-25 minutes.",
+    "On 19:00, I want to eat, I go to The Boston Lamb Takedown by walking which takes 20-30 minutes.",
+    "On 20:00, I want to social, I go to Cambridge Prime by private_auto which takes 10-25 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

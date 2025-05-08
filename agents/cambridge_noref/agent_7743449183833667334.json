@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Rodney Pruitt\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Greek Corner Restaurant",
+        "distance_km": 3.1398767885448655,
+        "coordinates": [
+          "42.396425",
+          "-71.129578"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "TechFusion",
+        "distance_km": 4.12173072675285,
+        "coordinates": [
+          "42.394085",
+          "-71.15794"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Ung Feodor MD",
+        "distance_km": 1.5424312557671678,
+        "coordinates": [
+          "42.374499",
+          "-71.104161"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Sunset Cafe",
+        "distance_km": 2.5297938365985746,
+        "coordinates": [
+          "42.372668",
+          "-71.090985"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 3.3847767117332737,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Sunset Cafe",
+        "distance_km": 2.5297938365985746,
+        "coordinates": [
+          "42.372668",
+          "-71.090985"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Malkin Athletic Center",
+        "distance_km": 0.31851131158964924,
+        "coordinates": [
+          "42.371359",
+          "-71.119416"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Sunset Cafe",
+        "distance_km": 2.5297938365985746,
+        "coordinates": [
+          "42.372668",
+          "-71.090985"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.368839078983264,
+          -71.12126109985826
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.368839078983264,
+        -71.12126109985826
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Greek Corner Restaurant by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to shop, I go to TechFusion by public_transit which takes 30-40 minutes.",
+    "On 09:00, I want to recreation, I go to Ung Feodor MD by walking which takes 20-30 minutes.",
+    "On 11:00, I want to eat, I go to The Sunset Cafe by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to social, I go to CIC Cambridge by private_auto which takes 20-30 minutes.",
+    "On 15:00, I want to eat, I go to The Sunset Cafe by biking which takes 20-30 minutes.",
+    "On 17:00, I want to recreation, I go to Malkin Athletic Center by other_travel_mode which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to The Sunset Cafe by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

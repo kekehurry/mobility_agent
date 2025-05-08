@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Gabriel Boyd\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.8656520164851108,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "07:20",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 0.8909588889106517,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 4.208049027980005,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 0.6156720400450894,
+        "coordinates": [
+          "42.364986",
+          "-71.102566"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "Heart of the city"
+      },
+      "destination": {
+        "name": "Pardon My Cheesesteak",
+        "distance_km": 0.6932515516015725,
+        "coordinates": [
+          "42.363412",
+          "-71.097266"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 2.5025975624923174,
+        "coordinates": [
+          "42.376328",
+          "-71.124091"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home_to_social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Brickworks Condominiums",
+        "distance_km": 4.525369841488807,
+        "coordinates": [
+          "42.392231",
+          "-71.136613"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "social_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Griffin Properties",
+        "distance_km": 4.326355439218406,
+        "coordinates": [
+          "42.394597",
+          "-71.126698"
+        ]
+      }
+    },
+    {
+      "start_time": "16:20",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Armageddon Shop",
+        "distance_km": 2.0347447473762528,
+        "coordinates": [
+          "42.372315",
+          "-71.121535"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Central Rock Gym",
+        "distance_km": 5.4234972681259315,
+        "coordinates": [
+          "42.393957",
+          "-71.15054"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 3.0163273757607323,
+        "coordinates": [
+          "42.372144",
+          "-71.071427"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.359525935351286,
+        -71.10385083281452
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to Trader Joe's by walking which takes 0-10 minutes.",
+    "On 07:20, I want to shop_to_home, I go to Micro Center by walking which takes 0-10 minutes.",
+    "On 08:00, I want to home_to_recreation, I go to Fresh Pond by private_auto which takes 20-30 minutes.",
+    "On 09:30, I want to recreation_to_home, I go to VIM Fitness by walking which takes 0-10 minutes.",
+    "On 11:00, I want to home_to_eat, I go to Pardon My Cheesesteak by private_auto which takes Heart of the city minutes.",
+    "On 11:30, I want to eat_to_home, I go to Costa Coffee by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to home_to_social, I go to Brickworks Condominiums by biking which takes 20-30 minutes.",
+    "On 14:30, I want to social_to_home, I go to Griffin Properties by biking which takes 20-30 minutes.",
+    "On 16:20, I want to shop_to_home, I go to Armageddon Shop by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation_to_home, I go to Central Rock Gym by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to home_to_eat, I go to Starbucks by public_transit which takes 30-40 minutes."
+  ]
+}

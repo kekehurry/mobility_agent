@@ -1,0 +1,274 @@
+{
+  "profile": "{\"name\": \"Janet Sullivan\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"80k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rebel Presents Pop 101",
+        "distance_km": 0.6740026211592705,
+        "coordinates": [
+          "42.363799",
+          "-71.102294"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35794763312604,
+          -71.10445920566195
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Izzy's Restaurant & Sub Shop",
+        "distance_km": 1.1810511185388022,
+        "coordinates": [
+          "42.366289",
+          "-71.095569"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.0770575594671885,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Prometheus Dance",
+        "distance_km": 0.7307243033685725,
+        "coordinates": [
+          "42.36431",
+          "-71.102205"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mariposa Bakery",
+        "distance_km": 0.6732094414760901,
+        "coordinates": [
+          "42.363335",
+          "-71.100716"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Prometheus Dance",
+        "distance_km": 0.7307243033685725,
+        "coordinates": [
+          "42.36431",
+          "-71.102205"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35794763312604,
+          -71.10445920566195
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "All durations"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 1.8033130034818454,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35794763312604,
+          -71.10445920566195
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 2.169924995357866,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35794763312604,
+          -71.10445920566195
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 1.543292339837032,
+        "coordinates": [
+          "42.360684",
+          "-71.086093"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 0.6618969573274007,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35794763312604,
+          -71.10445920566195
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35794763312604,
+        -71.10445920566195
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to other_activities, I go to Rebel Presents Pop 101 by walking which takes 0-10 minutes.",
+    "On 07:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 08:00, I want to eat, I go to Izzy's Restaurant & Sub Shop by public_transit which takes 10-20 minutes.",
+    "On 08:30, I want to shop, I go to Newbury Comics by private_auto which takes 10-20 minutes.",
+    "On 10:00, I want to recreation, I go to Prometheus Dance by walking which takes  minutes.",
+    "On 11:30, I want to eat, I go to Mariposa Bakery by walking which takes 10-20 minutes.",
+    "On 12:30, I want to recreation, I go to Prometheus Dance by walking which takes  minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to One Broadway by walking which takes All durations minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Gap by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Clover Food Lab by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to Johnson Ice Rink by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

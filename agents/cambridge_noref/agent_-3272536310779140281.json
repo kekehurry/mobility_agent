@@ -1,0 +1,87 @@
+{
+  "profile": "{\n  \"name\": \"Samantha Pruitt\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 76,\n  \"gender\": \"female\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 3,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Tenoch Mexican",
+        "distance_km": 5.042691069022507,
+        "coordinates": [
+          "42.370335",
+          "-71.071236"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Tenoch Mexican",
+        "distance_km": 5.042691069022507,
+        "coordinates": [
+          "42.370335",
+          "-71.071236"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Best Life",
+        "distance_km": 5.019922811254773,
+        "coordinates": [
+          "42.370033",
+          "-71.071701"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38730098175092,
+          -71.12802849102852
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38730098175092,
+        -71.12802849102852
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Tenoch Mexican by on_demand_auto which takes 50-60 minutes.",
+    "On 12:00, I want to eat, I go to Tenoch Mexican by on_demand_auto which takes 50-60 minutes.",
+    "On 14:00, I want to social, I go to Best Life by on_demand_auto which takes 50-60 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 50-60 minutes."
+  ]
+}

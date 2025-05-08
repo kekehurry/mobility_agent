@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Andrea Smith\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tatte Bakery",
+        "distance_km": 0.13613588797103604,
+        "coordinates": [
+          "42.362212",
+          "-71.081401"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 0.8044069741585002,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36126070035008,
+          -71.08035912617825
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "time_0-10"
+      },
+      "destination": {
+        "name": "ZAGG",
+        "distance_km": 0.8220826100660422,
+        "coordinates": [
+          "42.367982",
+          "-71.076182"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dig Inn",
+        "distance_km": 0.3316491302572194,
+        "coordinates": [
+          "42.362862",
+          "-71.083757"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 1.5914302648630956,
+        "coordinates": [
+          "42.362525",
+          "-71.099602"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "time_0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36126070035008,
+          -71.08035912617825
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 0.3136852590718467,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Legal Sea Foods",
+        "distance_km": 0.6094547792629357,
+        "coordinates": [
+          "42.362818",
+          "-71.087453"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 3.613647928232187,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36126070035008,
+          -71.08035912617825
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36126070035008,
+        -71.08035912617825
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to eat, I go to Tatte Bakery by walking which takes 0-10 minutes.",
+    "On 07:45, I want to shop, I go to Apple CambridgeSide by public_transit which takes 10-20 minutes.",
+    "On 10:30, I want to home, I go to home by walking which takes  minutes.",
+    "On 11:00, I want to shop, I go to ZAGG by walking which takes time_0-10 minutes.",
+    "On 12:00, I want to eat, I go to Dig Inn by walking which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to VIM Fitness by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes time_0-10 minutes.",
+    "On 15:30, I want to shop, I go to Roche Brothers Supermarket by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Legal Sea Foods by walking which takes  minutes.",
+    "On 18:00, I want to social, I go to Trinity Property Management by on_demand_auto which takes 30-40 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

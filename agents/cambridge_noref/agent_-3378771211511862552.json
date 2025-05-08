@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Michael Burton\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dermatology Associates of Concord",
+        "distance_km": 3.577233628090644,
+        "coordinates": [
+          "42.375567",
+          "-71.14699"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.30243060955570483,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dermatology Associates of Concord",
+        "distance_km": 3.577233628090644,
+        "coordinates": [
+          "42.375567",
+          "-71.14699"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367146087933385,
+          -71.10507080193486
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Hagopian Varant Phys",
+        "distance_km": 2.515136017099329,
+        "coordinates": [
+          "42.373888",
+          "-71.134221"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367146087933385,
+          -71.10507080193486
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.367146087933385,
+        -71.10507080193486
+      ]
+    },
+    "work": {
+      "name": "Dermatology Associates of Concord",
+      "coordinates": [
+        "42.375567",
+        "-71.14699"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Dermatology Associates of Concord by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Go! Go! Curry! by walking which takes 10-25 minutes.",
+    "On 13:00, I want to work, I go to Dermatology Associates of Concord by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes  minutes.",
+    "On 19:00, I want to recreation, I go to Hagopian Varant Phys by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Samuel Smith\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Armando's Pizza & Subs",
+        "distance_km": 1.5360191387974795,
+        "coordinates": [
+          "42.382382",
+          "-71.131433"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Lone Star Taco Bar",
+        "distance_km": 2.628594418367969,
+        "coordinates": [
+          "42.372127",
+          "-71.086885"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37221068149247,
+          -71.11879829338798
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Zuzu's Petals",
+        "distance_km": 1.5238925457651835,
+        "coordinates": [
+          "42.373081",
+          "-71.100334"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37221068149247,
+          -71.11879829338798
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37221068149247,
+        -71.11879829338798
+      ]
+    },
+    "work": {
+      "name": "Lone Star Taco Bar",
+      "coordinates": [
+        "42.372127",
+        "-71.086885"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to eat, I go to Armando's Pizza & Subs by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to work, I go to Lone Star Taco Bar by walking which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Zuzu's Petals by public_transit which takes  minutes.",
+    "On 20:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

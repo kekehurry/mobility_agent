@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Michael Bradshaw\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yoki Express",
+        "distance_km": 1.5500922340286845,
+        "coordinates": [
+          "42.388277",
+          "-71.119659"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yotopia",
+        "distance_km": 1.665206375365052,
+        "coordinates": [
+          "42.387287",
+          "-71.118641"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "He has a history of biking for similar distances, and 1.55 miles is within the typical biking range for this profile."
+      },
+      "destination": {
+        "name": "Yoki Express",
+        "distance_km": 1.5500922340286845,
+        "coordinates": [
+          "42.388277",
+          "-71.119659"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39250589178065,
+          -71.13759872723908
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Caff\u00e8 Nero",
+        "distance_km": 1.557566431621377,
+        "coordinates": [
+          "42.388049",
+          "-71.119664"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Breathe Cambridge",
+        "distance_km": 2.646113019177108,
+        "coordinates": [
+          "42.372732",
+          "-71.119681"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39250589178065,
+          -71.13759872723908
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39250589178065,
+        -71.13759872723908
+      ]
+    },
+    "work": {
+      "name": "Yoki Express",
+      "coordinates": [
+        "42.388277",
+        "-71.119659"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Yoki Express by biking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Yotopia by biking which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Yoki Express by biking which takes He has a history of biking for similar distances, and 1.55 miles is within the typical biking range for this profile. minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Caff\u00e8 Nero by biking which takes 10-20 minutes.",
+    "On 20:00, I want to recreation, I go to Breathe Cambridge by walking which takes 20-30 minutes.",
+    "On 22:00, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

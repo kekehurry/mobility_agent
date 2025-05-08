@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Julian Johnson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "iFixOnWheelz com",
+        "distance_km": 2.065932675287766,
+        "coordinates": [
+          "42.371442",
+          "-71.082006"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Charley's",
+        "distance_km": 2.538245383197584,
+        "coordinates": [
+          "42.368538",
+          "-71.076608"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "iFixOnWheelz com",
+        "distance_km": 2.065932675287766,
+        "coordinates": [
+          "42.371442",
+          "-71.082006"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37194662058947,
+          -71.10707885210991
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Charley's",
+        "distance_km": 2.538245383197584,
+        "coordinates": [
+          "42.368538",
+          "-71.076608"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Westbridge",
+        "distance_km": 2.731796098805489,
+        "coordinates": [
+          "42.388138",
+          "-71.132046"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37194662058947,
+          -71.10707885210991
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37194662058947,
+        -71.10707885210991
+      ]
+    },
+    "work": {
+      "name": "iFixOnWheelz com",
+      "coordinates": [
+        "42.371442",
+        "-71.082006"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to iFixOnWheelz com by biking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Charley's by biking which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to iFixOnWheelz com by biking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to Charley's by biking which takes 20-30 minutes.",
+    "On 20:00, I want to recreation, I go to Westbridge by biking which takes 20-30 minutes.",
+    "On 21:30, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

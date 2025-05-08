@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Laura Harrison\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Night Market",
+        "distance_km": 0.33527925665186303,
+        "coordinates": [
+          "42.372165",
+          "-71.120181"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 1.0240036471977518,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wellbridge Athletic Club",
+        "distance_km": 0.5241247967122945,
+        "coordinates": [
+          "42.372013",
+          "-71.122573"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Little Crepe Cafe",
+        "distance_km": 1.0682925652390844,
+        "coordinates": [
+          "42.383127",
+          "-71.116045"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 0.8776488445888487,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37351677447658,
+          -71.11654141670388
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37351677447658,
+        -71.11654141670388
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Night Market by auto_passenger which takes 0-10 minutes.",
+    "On 08:30, I want to shop, I go to Western Market by walking which takes 10-20 minutes.",
+    "On 11:00, I want to recreation, I go to Wellbridge Athletic Club by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to eat, I go to The Little Crepe Cafe by public_transit which takes 10-20 minutes.",
+    "On 15:00, I want to social, I go to Marc's Handyman by auto_passenger which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

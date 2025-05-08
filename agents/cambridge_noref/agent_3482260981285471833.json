@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Michael Gillespie\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"student\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 3.394716416724803,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.504588196873781,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "user input"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 3.394716416724803,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Toscanini's Ice Cream",
+        "distance_km": 2.8342973786375176,
+        "coordinates": [
+          "42.366118",
+          "-71.078269"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37195163296104,
+          -71.11176682571795
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.5731928804667406,
+        "coordinates": [
+          "42.357991",
+          "-71.114981"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 2.3528689912599168,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37195163296104,
+          -71.11176682571795
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37195163296104,
+        -71.11176682571795
+      ]
+    },
+    "school": {
+      "name": "Hult International Business School",
+      "coordinates": [
+        "42.36979",
+        "-71.070656"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to school, I go to Hult International Business School by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to eat, I go to Dunkin' by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to school, I go to Hult International Business School by public_transit which takes user input minutes.",
+    "On 15:00, I want to eat, I go to Toscanini's Ice Cream by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Starbucks by biking which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to St Peters Field by biking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

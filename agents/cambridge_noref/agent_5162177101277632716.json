@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Ian Murphy\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Boston Lamb Takedown",
+        "distance_km": 1.5753369654128306,
+        "coordinates": [
+          "42.363634",
+          "-71.101486"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hi Fi Pizza & Giant Sub",
+        "distance_km": 1.546786568293619,
+        "coordinates": [
+          "42.363857",
+          "-71.101728"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Boston Lamb Takedown",
+        "distance_km": 1.5753369654128306,
+        "coordinates": [
+          "42.363634",
+          "-71.101486"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36969660094544,
+          -71.11877480796488
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Punjabi Dhaba",
+        "distance_km": 1.5511758501445296,
+        "coordinates": [
+          "42.373889",
+          "-71.100811"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36969660094544,
+          -71.11877480796488
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36969660094544,
+        -71.11877480796488
+      ]
+    },
+    "work": {
+      "name": "The Boston Lamb Takedown",
+      "coordinates": [
+        "42.363634",
+        "-71.101486"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to The Boston Lamb Takedown by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Hi Fi Pizza & Giant Sub by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to The Boston Lamb Takedown by private_auto which takes  minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Punjabi Dhaba by private_auto which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

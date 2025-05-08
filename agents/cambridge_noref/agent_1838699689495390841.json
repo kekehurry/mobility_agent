@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Jenna Harris\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 1.510828459855095,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 3.8822689398184287,
+        "coordinates": [
+          "42.364982",
+          "-71.089027"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 1.510828459855095,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Amaral Group",
+        "distance_km": 1.63459945293906,
+        "coordinates": [
+          "42.39712",
+          "-71.130299"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yotopia",
+        "distance_km": 1.07294846325017,
+        "coordinates": [
+          "42.387287",
+          "-71.118641"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Fitlab Pilates",
+        "distance_km": 2.690014614461143,
+        "coordinates": [
+          "42.373758",
+          "-71.099378"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 0.8269484456989523,
+        "coordinates": [
+          "42.376328",
+          "-71.124091"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 2.8136759721046687,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Birss Sarah A MD",
+        "distance_km": 2.733642100425854,
+        "coordinates": [
+          "42.369354",
+          "-71.101749"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Japonaise Bakery & Cafe",
+        "distance_km": 1.0794164708195428,
+        "coordinates": [
+          "42.387199",
+          "-71.118482"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38240778814347,
+        -71.12988568585426
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Verna's Coffee & Donut Shop by on_demand_auto which takes 10-20 minutes.",
+    "On 07:45, I want to recreation, I go to CorePower Yoga by public_transit which takes 30-40 minutes.",
+    "On 08:15, I want to eat, I go to Verna's Coffee & Donut Shop by public_transit which takes 10-20 minutes.",
+    "On 09:00, I want to shop, I go to The Amaral Group by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Yotopia by walking which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Fitlab Pilates by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to eat, I go to Costa Coffee by walking which takes 10-20 minutes.",
+    "On 18:30, I want to social, I go to Wellmet Project by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to recreation, I go to Birss Sarah A MD by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to eat, I go to Japonaise Bakery & Cafe by walking which takes 10-20 minutes."
+  ]
+}

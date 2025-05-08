@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Sarah Smith\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "5 Spices House Cambridge",
+        "distance_km": 1.5490315455998902,
+        "coordinates": [
+          "42.364343",
+          "-71.102333"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.5534701490288345,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37393016202365,
+          -71.1159895730205
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.5534701490288345,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 2.514396064137945,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37393016202365,
+          -71.1159895730205
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37393016202365,
+        -71.1159895730205
+      ]
+    },
+    "work": {
+      "name": "Koch Cafe",
+      "coordinates": [
+        "42.362255",
+        "-71.089286"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to eat, I go to 5 Spices House Cambridge by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Koch Cafe by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Koch Cafe by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Fresh Pond by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by other_travel_mode which takes 0-10 minutes."
+  ]
+}

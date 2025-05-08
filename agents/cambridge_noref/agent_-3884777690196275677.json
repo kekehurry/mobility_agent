@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Geoffrey Davis\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "H&M (Hennes & Mauritz)",
+        "distance_km": 3.071954755461648,
+        "coordinates": [
+          "42.367363",
+          "-71.076493"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Redline Fight Sports",
+        "distance_km": 1.180919750652652,
+        "coordinates": [
+          "42.364986",
+          "-71.103424"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Johnson Ice Rink",
+        "distance_km": 1.1800739010863779,
+        "coordinates": [
+          "42.358445",
+          "-71.096453"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kung Fu Tea",
+        "distance_km": 1.7712340574781662,
+        "coordinates": [
+          "42.371255",
+          "-71.114663"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Sub Zero Ice Cream & Yogurt",
+        "distance_km": 0.7042302497366437,
+        "coordinates": [
+          "42.360735",
+          "-71.115368"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Best Life",
+        "distance_km": 3.556581814784505,
+        "coordinates": [
+          "42.370033",
+          "-71.071701"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Nicholas Athletic Center",
+        "distance_km": 2.8344249317134342,
+        "coordinates": [
+          "42.372661",
+          "-71.135912"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mathews Joan H Pediatrician",
+        "distance_km": 5.388884947234148,
+        "coordinates": [
+          "42.390978",
+          "-71.155105"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35564575372733,
+        -71.11027053880436
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to H&M (Hennes & Mauritz) by private_auto which takes 20-30 minutes.",
+    "On 08:30, I want to home_to_recreation, I go to Redline Fight Sports by public_transit which takes 30-4,  minutes.",
+    "On 11:00, I want to recreation_to_home, I go to Johnson Ice Rink by walking which takes 0-10 minutes.",
+    "On 12:00, I want to home_to_eat, I go to Kung Fu Tea by auto_passenger which takes 10-20 minutes.",
+    "On 12:30, I want to eat_to_home, I go to Sub Zero Ice Cream & Yogurt by private_auto which takes 10-25 minutes.",
+    "On 16:00, I want to social_to_home, I go to Best Life by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to home_to_recreation, I go to Nicholas Athletic Center by private_auto which takes 20-30 minutes.",
+    "On 20:00, I want to recreation_to_home, I go to Mathews Joan H Pediatrician by private_auto which takes 20-30 minutes."
+  ]
+}

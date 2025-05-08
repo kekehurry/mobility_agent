@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Ashley King\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"75k-100k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hot Chix Boston",
+        "distance_km": 0.22678369012451777,
+        "coordinates": [
+          "42.373156",
+          "-71.097874"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 0.613207103104005,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Playska",
+        "distance_km": 0.18162740840512437,
+        "coordinates": [
+          "42.374151",
+          "-71.101138"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Boston Sports Clubs",
+        "distance_km": 0.7935866372952307,
+        "coordinates": [
+          "42.365641",
+          "-71.102797"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 0.8332576219362042,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Playska",
+        "distance_km": 0.18162740840512437,
+        "coordinates": [
+          "42.374151",
+          "-71.101138"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kates Malcolm I Optmtrst",
+        "distance_km": 1.5406483750330544,
+        "coordinates": [
+          "42.372884",
+          "-71.119217"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "1369 Coffee House",
+        "distance_km": 0.13730914671468106,
+        "coordinates": [
+          "42.373814",
+          "-71.100377"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 1.9644061761088216,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Come To Yoga With Barbara Lyon",
+        "distance_km": 0.3136886271653383,
+        "coordinates": [
+          "42.370093",
+          "-71.102315"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372582207222976,
+        -71.10051640868348
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Hot Chix Boston by walking which takes 0-10 minutes.",
+    "On 07:30, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 0-10 minutes.",
+    "On 08:00, I want to eat, I go to Playska by walking which takes 0-10 minutes.",
+    "On 08:30, I want to other_activities, I go to Boston Sports Clubs by biking which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Daily Table Central Square by public_transit which takes 10-20 minutes.",
+    "On 14:00, I want to eat, I go to Playska by walking which takes  minutes.",
+    "On 15:00, I want to recreation, I go to Kates Malcolm I Optmtrst by biking which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to 1369 Coffee House by walking which takes 0-10 minutes.",
+    "On 18:30, I want to social, I go to CIC Cambridge by biking which takes 10-20 minutes.",
+    "On 21:00, I want to recreation, I go to Come To Yoga With Barbara Lyon by walking which takes 0-10 minutes."
+  ]
+}

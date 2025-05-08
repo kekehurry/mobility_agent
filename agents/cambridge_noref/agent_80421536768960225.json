@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Christopher Freeman\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Hana Sushi",
+        "distance_km": 4.6331490484249604,
+        "coordinates": [
+          "42.396633",
+          "-71.12982"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Boloco Harvard",
+        "distance_km": 2.630424725115239,
+        "coordinates": [
+          "42.372036",
+          "-71.118287"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Hana Sushi",
+        "distance_km": 4.6331490484249604,
+        "coordinates": [
+          "42.396633",
+          "-71.12982"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370051895328466,
+          -71.08646414924691
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Waypoint",
+        "distance_km": 2.1127359824911824,
+        "coordinates": [
+          "42.369431",
+          "-71.1121"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Rock N Fitness",
+        "distance_km": 3.3355256146705496,
+        "coordinates": [
+          "42.388524",
+          "-71.118395"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370051895328466,
+          -71.08646414924691
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370051895328466,
+        -71.08646414924691
+      ]
+    },
+    "work": {
+      "name": "Hana Sushi",
+      "coordinates": [
+        "42.396633",
+        "-71.12982"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Hana Sushi by biking which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Boloco Harvard by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to work, I go to Hana Sushi by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Waypoint by public_transit which takes  minutes.",
+    "On 19:00, I want to recreation, I go to Rock N Fitness by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

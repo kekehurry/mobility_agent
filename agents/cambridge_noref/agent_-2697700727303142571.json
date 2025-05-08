@@ -1,0 +1,180 @@
+{
+  "profile": "{\n  \"name\": \"Brandon Kent\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 35,\n  \"gender\": \"male\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor's_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 5.092550712339447,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395452052571265,
+          -71.14596546458817
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 5.092550712339447,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 4.170919891663962,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 5.092550712339447,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395452052571265,
+          -71.14596546458817
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kaveri Indian Bistro",
+        "distance_km": 2.5871452287734438,
+        "coordinates": [
+          "42.382468",
+          "-71.119882"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Associates In Orthopaedics & Sports Medicine",
+        "distance_km": 2.5404655209628046,
+        "coordinates": [
+          "42.374232",
+          "-71.134459"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395452052571265,
+          -71.14596546458817
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.395452052571265,
+        -71.14596546458817
+      ]
+    },
+    "work": {
+      "name": "Yoga of Energy Flow",
+      "coordinates": [
+        "42.358215",
+        "-71.109896"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Yoga of Energy Flow by private_auto which takes 30-40 minutes.",
+    "On 07:30, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 08:15, I want to work, I go to Yoga of Energy Flow by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Dado Tea by private_auto which takes 40-50 minutes.",
+    "On 13:00, I want to work, I go to Yoga of Energy Flow by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Kaveri Indian Bistro by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Associates In Orthopaedics & Sports Medicine by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

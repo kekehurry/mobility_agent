@@ -1,0 +1,104 @@
+{
+  "profile": "{\"name\": \"Leah Mann\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Jose's Mexican Food Truck",
+        "distance_km": 2.643990835797476,
+        "coordinates": [
+          "42.361124",
+          "-71.086595"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37650790192449,
+          -71.11108858933737
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Batifol",
+        "distance_km": 2.641188051404852,
+        "coordinates": [
+          "42.364793",
+          "-71.083185"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CrossFit Medusa",
+        "distance_km": 1.6679723214830469,
+        "coordinates": [
+          "42.389901",
+          "-71.120247"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37650790192449,
+          -71.11108858933737
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37650790192449,
+        -71.11108858933737
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Jose's Mexican Food Truck by biking which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Batifol by walking which takes 40-50 minutes.",
+    "On 19:30, I want to recreation, I go to CrossFit Medusa by walking which takes 30-40 minutes.",
+    "On 20:30, I want to home, I go to home by biking which takes 30-40 minutes."
+  ]
+}

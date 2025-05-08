@@ -1,0 +1,87 @@
+{
+  "profile": "{\"name\": \"Lisa White\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Catalyst Restaurant",
+        "distance_km": 2.553190161575661,
+        "coordinates": [
+          "42.363027",
+          "-71.091578"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Catalyst Restaurant",
+        "distance_km": 2.553190161575661,
+        "coordinates": [
+          "42.363027",
+          "-71.091578"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "SoniYoga",
+        "distance_km": 1.6824794856445262,
+        "coordinates": [
+          "42.383643",
+          "-71.134007"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37295267710321,
+          -71.11953493867401
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37295267710321,
+        -71.11953493867401
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Catalyst Restaurant by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Catalyst Restaurant by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to SoniYoga by private_auto which takes  minutes.",
+    "On 22:00, I want to home, I go to home by private_auto which takes 10-25 minutes."
+  ]
+}

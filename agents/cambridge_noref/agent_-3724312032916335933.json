@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Leslie Sanchez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"student\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Friends School",
+        "distance_km": 2.7221071378070376,
+        "coordinates": [
+          "42.387872",
+          "-71.130666"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Intrepid Cafe",
+        "distance_km": 2.6291512620518676,
+        "coordinates": [
+          "42.366114",
+          "-71.077838"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "time_30-40"
+      },
+      "destination": {
+        "name": "Cambridge Friends School",
+        "distance_km": 2.7221071378070376,
+        "coordinates": [
+          "42.387872",
+          "-71.130666"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36904379451362,
+          -71.10951046091144
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Andy's Diner",
+        "distance_km": 2.6123338170374053,
+        "coordinates": [
+          "42.390619",
+          "-71.122133"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Elkadry Eman MD",
+        "distance_km": 4.26638517534928,
+        "coordinates": [
+          "42.390658",
+          "-71.152333"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36904379451362,
+          -71.10951046091144
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36904379451362,
+        -71.10951046091144
+      ]
+    },
+    "school": {
+      "name": "Cambridge Friends School",
+      "coordinates": [
+        "42.387872",
+        "-71.130666"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to school, I go to Cambridge Friends School by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Intrepid Cafe by public_transit which takes 30-40 minutes.",
+    "On 13:30, I want to school, I go to Cambridge Friends School by public_transit which takes time_30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes  minutes.",
+    "On 18:30, I want to eat, I go to Andy's Diner by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Elkadry Eman MD by public_transit which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

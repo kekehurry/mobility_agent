@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Aaron Hart\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dumpling Xuan",
+        "distance_km": 2.642993490525344,
+        "coordinates": [
+          "42.37167",
+          "-71.084075"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She is not using a vehicle, so driving options are out of the question. Since she is already on her way to work and has a routine, she is likely to follow the same path to the restaurant. Walking is the most straightforward and familiar choice. Public transit might be an option, but it's less direct and could add extra time. Biking would be faster but less practical given the time of day and weather conditions. The duration is expected to be similar to her usual walk to work, which is 40-50 minutes."
+      },
+      "destination": {
+        "name": "Downstairs Cafe",
+        "distance_km": 2.6424657382160426,
+        "coordinates": [
+          "42.367081",
+          "-71.080261"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dumpling Xuan",
+        "distance_km": 2.642993490525344,
+        "coordinates": [
+          "42.37167",
+          "-71.084075"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Lily P's",
+        "distance_km": 2.67083522856767,
+        "coordinates": [
+          "42.364875",
+          "-71.078675"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Smelting Company",
+        "distance_km": 0.6357780557691924,
+        "coordinates": [
+          "42.360662",
+          "-71.103408"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Best Life",
+        "distance_km": 3.4200746251557472,
+        "coordinates": [
+          "42.370033",
+          "-71.071701"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35695246811206,
+        -71.10928505252572
+      ]
+    },
+    "work": {
+      "name": "Dumpling Xuan",
+      "coordinates": [
+        "42.37167",
+        "-71.084075"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Dumpling Xuan by walking which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Downstairs Cafe by walking which takes She is not using a vehicle, so driving options are out of the question. Since she is already on her way to work and has a routine, she is likely to follow the same path to the restaurant. Walking is the most straightforward and familiar choice. Public transit might be an option, but it's less direct and could add extra time. Biking would be faster but less practical given the time of day and weather conditions. The duration is expected to be similar to her usual walk to work, which is 40-50 minutes. minutes.",
+    "On 13:00, I want to work, I go to Dumpling Xuan by walking which takes 40-50 minutes.",
+    "On 17:30, I want to eat, I go to Lily P's by walking which takes 40-50 minutes.",
+    "On 18:00, I want to recreation, I go to Cambridge Smelting Company by walking which takes  minutes.",
+    "On 20:00, I want to social, I go to Best Life by walking which takes 40-50 minutes."
+  ]
+}

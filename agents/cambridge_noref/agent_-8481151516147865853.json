@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Eric Maddox\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Forbes Cafe",
+        "distance_km": 0.5176161868249105,
+        "coordinates": [
+          "42.359338",
+          "-71.088331"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Glass House",
+        "distance_km": 0.487568925668739,
+        "coordinates": [
+          "42.363383",
+          "-71.081534"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user input not provided"
+      },
+      "destination": {
+        "name": "Forbes Cafe",
+        "distance_km": 0.5176161868249105,
+        "coordinates": [
+          "42.359338",
+          "-71.088331"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Memorial Drive Cafe",
+        "distance_km": 0.26081062441944014,
+        "coordinates": [
+          "42.361325",
+          "-71.081525"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.8769017171442983,
+        "coordinates": [
+          "42.364982",
+          "-71.089027"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35901125977768,
+          -71.08206343495428
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35901125977768,
+        -71.08206343495428
+      ]
+    },
+    "work": {
+      "name": "Forbes Cafe",
+      "coordinates": [
+        "42.359338",
+        "-71.088331"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Forbes Cafe by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Glass House by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to Forbes Cafe by private_auto which takes user input not provided minutes.",
+    "On 18:00, I want to eat, I go to One Memorial Drive Cafe by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to CorePower Yoga by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

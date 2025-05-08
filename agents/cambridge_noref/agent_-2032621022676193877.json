@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Erin Boyd\", \"city\": \"Cambridge,MA\", \"age\": 30, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Dial at 907 Main",
+        "distance_km": 0.16607892394158666,
+        "coordinates": [
+          "42.363544",
+          "-71.09965"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Heart Provisions",
+        "distance_km": 0.11204671461563541,
+        "coordinates": [
+          "42.362221",
+          "-71.098786"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Dial at 907 Main",
+        "distance_km": 0.16607892394158666,
+        "coordinates": [
+          "42.363544",
+          "-71.09965"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362092803358316,
+          -71.10013510235179
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Pizza",
+        "distance_km": 0.253069037205777,
+        "coordinates": [
+          "42.361834",
+          "-71.097083"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 0.3364614097020007,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362092803358316,
+          -71.10013510235179
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.362092803358316,
+        -71.10013510235179
+      ]
+    },
+    "work": {
+      "name": "The Dial at 907 Main",
+      "coordinates": [
+        "42.363544",
+        "-71.09965"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to The Dial at 907 Main by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Whole Heart Provisions by walking which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to The Dial at 907 Main by walking which takes  minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Cambridge Pizza by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Clement G Morgan Park by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Heather Stewart\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cafe Sushi Shoten",
+        "distance_km": 1.8546763725596684,
+        "coordinates": [
+          "42.370568",
+          "-71.113358"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 2.5085653326478035,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Magazine Beach Bath House & Pool",
+        "distance_km": 2.0737828188297223,
+        "coordinates": [
+          "42.356921",
+          "-71.115233"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36463704199115,
+          -71.09231059403562
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "Heat"
+      },
+      "destination": {
+        "name": "Cambridge Pizza",
+        "distance_km": 0.5015042868076484,
+        "coordinates": [
+          "42.361834",
+          "-71.097083"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "ABG Commercial",
+        "distance_km": 1.1938505902253944,
+        "coordinates": [
+          "42.371467",
+          "-71.08112"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36463704199115,
+          -71.09231059403562
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 2.062450234473492,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36463704199115,
+          -71.09231059403562
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tite's Tropical Mart",
+        "distance_km": 0.7176486236944749,
+        "coordinates": [
+          "42.366474",
+          "-71.100663"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36463704199115,
+          -71.09231059403562
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36463704199115,
+        -71.09231059403562
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Cafe Sushi Shoten by biking which takes 10-20 minutes.",
+    "On 08:00, I want to shop, I go to Gap by biking which takes 10-20 minutes.",
+    "On 09:00, I want to recreation, I go to Magazine Beach Bath House & Pool by biking which takes  minutes.",
+    "On 10:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Cambridge Pizza by biking which takes Heat minutes.",
+    "On 13:00, I want to social, I go to ABG Commercial by biking which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 16:00, I want to recreation, I go to Harvard Film Archive by biking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Tite's Tropical Mart by public_transit which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

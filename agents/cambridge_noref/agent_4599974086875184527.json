@@ -1,0 +1,240 @@
+{
+  "profile": "{\"name\": \"Jeffrey Hogan DVM\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"doctoral_degree\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 2.614321522989136,
+        "coordinates": [
+          "42.362854",
+          "-71.087715"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "Heading home from Clover Food Lab"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36972868224736,
+          -71.11806811973703
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 2.802904151501551,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Mobile Telematics",
+        "distance_km": 2.945707331208974,
+        "coordinates": [
+          "42.362803",
+          "-71.083549"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36972868224736,
+          -71.11806811973703
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36972868224736,
+          -71.11806811973703
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 2.2565658733734124,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36972868224736,
+          -71.11806811973703
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 3.850093544294321,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Real Property Management Commonwealth",
+        "distance_km": 3.2958058217183477,
+        "coordinates": [
+          "42.363577",
+          "-71.078927"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36972868224736,
+          -71.11806811973703
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pathology Services",
+        "distance_km": 1.8669333276152755,
+        "coordinates": [
+          "42.354167",
+          "-71.109507"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36972868224736,
+          -71.11806811973703
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36972868224736,
+        -71.11806811973703
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Clover Food Lab by public_transit which takes 30-40 minutes.",
+    "On 08:30, I want to home, I go to home by public_transit which takes Heading home from Clover Food Lab minutes.",
+    "On 09:00, I want to recreation, I go to Simoni Skating Rink by public_transit which takes 30-40 minutes.",
+    "On 10:30, I want to shop, I go to Cambridge Mobile Telematics by public_transit which takes  minutes.",
+    "On 11:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 14:30, I want to home, I go to home by public_transit which takes  minutes.",
+    "On 15:00, I want to shop, I go to Star Market by public_transit which takes 40-50 minutes.",
+    "On 16:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to eat, I go to SANTE Mobile Farmhouse Cafe by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to social, I go to Real Property Management Commonwealth by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to recreation, I go to Pathology Services by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

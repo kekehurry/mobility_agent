@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Leah Mann\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Crimson Foot and Ankle",
+        "distance_km": 5.013975377605152,
+        "coordinates": [
+          "42.390666",
+          "-71.152319"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 2.654177551025311,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ": 30-40"
+      },
+      "destination": {
+        "name": "Crimson Foot and Ankle",
+        "distance_km": 5.013975377605152,
+        "coordinates": [
+          "42.390666",
+          "-71.152319"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 2.6322147352789536,
+        "coordinates": [
+          "42.390107",
+          "-71.117726"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 1.5093775052273584,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Crimson Foot and Ankle",
+        "distance_km": 5.013975377605152,
+        "coordinates": [
+          "42.390666",
+          "-71.152319"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37223068804724,
+          -71.0967452422751
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 2.6322147352789536,
+        "coordinates": [
+          "42.390107",
+          "-71.117726"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kevin Cueto Santana Properties Team",
+        "distance_km": 4.7602154670430785,
+        "coordinates": [
+          "42.39445",
+          "-71.146172"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37223068804724,
+          -71.0967452422751
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37223068804724,
+        -71.0967452422751
+      ]
+    },
+    "work": {
+      "name": "Crimson Foot and Ankle",
+      "coordinates": [
+        "42.390666",
+        "-71.152319"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Crimson Foot and Ankle by biking which takes 30-40 minutes.",
+    "On 07:15, I want to shop, I go to Star Market by private_auto which takes 10-20 minutes.",
+    "On 08:15, I want to work, I go to Crimson Foot and Ankle by private_auto which takes : 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Ben & Jerry's by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Crimson Foot and Ankle by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Ben & Jerry's by private_auto which takes 30-40 minutes.",
+    "On 20:00, I want to social, I go to Kevin Cueto Santana Properties Team by biking which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

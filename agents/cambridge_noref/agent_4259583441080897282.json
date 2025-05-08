@@ -1,0 +1,325 @@
+{
+  "profile": "{\"name\": \"David Brown\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Shinkansen",
+        "distance_km": 1.6507275560968835,
+        "coordinates": [
+          "42.359027",
+          "-71.094737"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 1.523037113797509,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "He is likely to walk for a short trip, given the previous walk to Shinkansen and the city's walkability. The duration is estimated to be 20-30 minutes."
+      },
+      "destination": {
+        "name": "Cantina Bar",
+        "distance_km": 0.6493916153270675,
+        "coordinates": [
+          "42.362861",
+          "-71.083721"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 1.7744057475444437,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Paperback Tavern",
+        "distance_km": 2.7072813315719153,
+        "coordinates": [
+          "42.353719",
+          "-71.105447"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Jose Mateo Ballet Theatre",
+        "distance_km": 3.1455944596248138,
+        "coordinates": [
+          "42.371768",
+          "-71.114171"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cantina Bar",
+        "distance_km": 0.6493916153270675,
+        "coordinates": [
+          "42.362861",
+          "-71.083721"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bachata Room",
+        "distance_km": 2.0294672158558873,
+        "coordinates": [
+          "42.36342",
+          "-71.101296"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "He is likely to walk for a short trip, given the previous walk to Shinkansen and the city's walkability. The duration is estimated to be 20-30 minutes."
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 0.8028331745754405,
+        "coordinates": [
+          "42.36255",
+          "-71.085605"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 2.103110697566145,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Paperback Tavern",
+        "distance_km": 2.7072813315719153,
+        "coordinates": [
+          "42.353719",
+          "-71.105447"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pathology Consultants",
+        "distance_km": 2.981141034832984,
+        "coordinates": [
+          "42.35417",
+          "-71.109511"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Middle East",
+        "distance_km": 2.0482489849998844,
+        "coordinates": [
+          "42.363591",
+          "-71.101554"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Community Gymnastics",
+        "distance_km": 1.7488846022645885,
+        "coordinates": [
+          "42.358901",
+          "-71.095982"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Shinkansen",
+        "distance_km": 1.6507275560968835,
+        "coordinates": [
+          "42.359027",
+          "-71.094737"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 1.523037113797509,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Shinkansen",
+        "distance_km": 1.6507275560968835,
+        "coordinates": [
+          "42.359027",
+          "-71.094737"
+        ]
+      }
+    },
+    {
+      "start_time": "23:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 1.523037113797509,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36573809821114,
+        -71.07685851996824
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to eat, I go to Shinkansen by walking which takes 20-30 minutes.",
+    "On 07:30, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 20-30 minutes.",
+    "On 08:00, I want to eat, I go to Cantina Bar by walking which takes He is likely to walk for a short trip, given the previous walk to Shinkansen and the city's walkability. The duration is estimated to be 20-30 minutes. minutes.",
+    "On 08:15, I want to shop, I go to Eli Incorporated by on_demand_auto which takes 10-20 minutes.",
+    "On 10:00, I want to eat, I go to Paperback Tavern by public_transit which takes 20-30 minutes.",
+    "On 11:00, I want to recreation, I go to Jose Mateo Ballet Theatre by public_transit which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Cantina Bar by on_demand_auto which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Bachata Room by public_transit which takes 20-30 minutes.",
+    "On 14:00, I want to eat, I go to Chipotle Mexican Grill by walking which takes He is likely to walk for a short trip, given the previous walk to Shinkansen and the city's walkability. The duration is estimated to be 20-30 minutes. minutes.",
+    "On 15:00, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to eat, I go to Paperback Tavern by public_transit which takes 20-30 minutes.",
+    "On 17:00, I want to recreation, I go to Pathology Consultants by public_transit which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to The Middle East by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Cambridge Community Gymnastics by walking which takes 20-30 minutes.",
+    "On 20:00, I want to eat, I go to Shinkansen by walking which takes 20-30 minutes.",
+    "On 21:00, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 20-30 minutes.",
+    "On 22:00, I want to eat, I go to Shinkansen by walking which takes 20-30 minutes.",
+    "On 23:00, I want to recreation, I go to Come to Yoga With Barbara Lyon by walking which takes 20-30 minutes."
+  ]
+}

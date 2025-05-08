@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Sheila Contreras\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Chang Shing Tofu",
+        "distance_km": 4.575317311346383,
+        "coordinates": [
+          "42.366227",
+          "-71.0791"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "time_30-40"
+      },
+      "destination": {
+        "name": "Chang Shing Tofu",
+        "distance_km": 4.575317311346383,
+        "coordinates": [
+          "42.366227",
+          "-71.0791"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3855942272458,
+          -71.12812769217035
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Pita Cambridge",
+        "distance_km": 2.604027804948338,
+        "coordinates": [
+          "42.374049",
+          "-71.100609"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 2.759908149358992,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3855942272458,
+          -71.12812769217035
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3855942272458,
+        -71.12812769217035
+      ]
+    },
+    "work": {
+      "name": "Chang Shing Tofu",
+      "coordinates": [
+        "42.366227",
+        "-71.0791"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Chang Shing Tofu by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Chang Shing Tofu by public_transit which takes time_30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 40-50 minutes.",
+    "On 18:30, I want to eat, I go to Pita Cambridge by public_transit which takes 40-50 minutes.",
+    "On 19:00, I want to recreation, I go to Willis Moore Youth Center by biking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 40-50 minutes."
+  ]
+}

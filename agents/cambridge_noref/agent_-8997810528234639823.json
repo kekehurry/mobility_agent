@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Laura Stokes\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Genki Ya Cambridge",
+        "distance_km": 5.0230645141303745,
+        "coordinates": [
+          "42.389225",
+          "-71.143495"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Beijing Tokyo",
+        "distance_km": 0.3545704411710544,
+        "coordinates": [
+          "42.363348",
+          "-71.096861"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Genki Ya Cambridge",
+        "distance_km": 5.0230645141303745,
+        "coordinates": [
+          "42.389225",
+          "-71.143495"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ":30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.364187127540454,
+          -71.09270816025922
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Upstairs On the Square",
+        "distance_km": 2.5028193898898543,
+        "coordinates": [
+          "42.372446",
+          "-71.120978"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Investments Limited",
+        "distance_km": 4.736831569969673,
+        "coordinates": [
+          "42.396754",
+          "-71.129839"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.364187127540454,
+          -71.09270816025922
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.364187127540454,
+        -71.09270816025922
+      ]
+    },
+    "work": {
+      "name": "Genki Ya Cambridge",
+      "coordinates": [
+        "42.389225",
+        "-71.143495"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Genki Ya Cambridge by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Beijing Tokyo by walking which takes 10-25 minutes.",
+    "On 13:00, I want to work, I go to Genki Ya Cambridge by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes :30-40 minutes.",
+    "On 18:30, I want to eat, I go to Upstairs On the Square by private_auto which takes 30-40 minutes.",
+    "On 20:00, I want to social, I go to Investments Limited by public_transit which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "profile": "{\"name\": \"Jennifer Wells\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Chasma Scientific",
+        "distance_km": 5.2171953190007345,
+        "coordinates": [
+          "42.392501",
+          "-71.152117"
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37112982810578,
+          -71.09570399098646
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37112982810578,
+        -71.09570399098646
+      ]
+    },
+    "work": {
+      "name": "Chasma Scientific",
+      "coordinates": [
+        "42.392501",
+        "-71.152117"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Chasma Scientific by private_auto which takes 30-40 minutes.",
+    "On 17:15, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

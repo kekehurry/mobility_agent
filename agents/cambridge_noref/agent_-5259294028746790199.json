@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Molly Ford\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Lingo Cafe & Bar",
+        "distance_km": 5.01308648158236,
+        "coordinates": [
+          "42.36979",
+          "-71.068794"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yummy Thai",
+        "distance_km": 1.60056810538467,
+        "coordinates": [
+          "42.394486",
+          "-71.126632"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "Heatmap: 30-40"
+      },
+      "destination": {
+        "name": "Lingo Cafe & Bar",
+        "distance_km": 5.01308648158236,
+        "coordinates": [
+          "42.36979",
+          "-71.068794"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380115119927666,
+          -71.12804569818317
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Zoe's",
+        "distance_km": 1.5921515267881288,
+        "coordinates": [
+          "42.370759",
+          "-71.113401"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380115119927666,
+          -71.12804569818317
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.380115119927666,
+        -71.12804569818317
+      ]
+    },
+    "work": {
+      "name": "Lingo Cafe & Bar",
+      "coordinates": [
+        "42.36979",
+        "-71.068794"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Lingo Cafe & Bar by private_auto which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Yummy Thai by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to work, I go to Lingo Cafe & Bar by private_auto which takes Heatmap: 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to eat, I go to Zoe's by public_transit which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

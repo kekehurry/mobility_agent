@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Melanie Duran\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"unemployed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gong Cha",
+        "distance_km": 1.9165254380116838,
+        "coordinates": [
+          "42.37414",
+          "-71.120663"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chasma Scientific",
+        "distance_km": 2.1080944908046484,
+        "coordinates": [
+          "42.392501",
+          "-71.152117"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 3.2935362086400097,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Churn2 Superior Ice Cream",
+        "distance_km": 1.829227107094683,
+        "coordinates": [
+          "42.376225",
+          "-71.116327"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvard University",
+        "distance_km": 2.891601793009539,
+        "coordinates": [
+          "42.364788",
+          "-71.126541"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.6961031903890421,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.9056284341647147,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Lizzy's Ice Cream",
+        "distance_km": 1.886781277259364,
+        "coordinates": [
+          "42.374531",
+          "-71.120119"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.390819499735386,
+          -71.12661561680052
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.390819499735386,
+        -71.12661561680052
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Gong Cha by biking which takes 10-20 minutes.",
+    "On 08:00, I want to recreation, I go to Chasma Scientific by biking which takes 10-20 minutes.",
+    "On 09:00, I want to shop, I go to Adt by public_transit which takes 20-30 minutes.",
+    "On 11:00, I want to eat, I go to Churn2 Superior Ice Cream by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to recreation, I go to Harvard University by public_transit which takes 20-30 minutes.",
+    "On 14:00, I want to shop, I go to Star Market by private_auto which takes  minutes.",
+    "On 16:00, I want to social, I go to Trinity Property Management by biking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Lizzy's Ice Cream by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

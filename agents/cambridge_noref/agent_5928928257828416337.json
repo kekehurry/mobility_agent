@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Ms. Stacey Hughes\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Burger King",
+        "distance_km": 0.7256657731459527,
+        "coordinates": [
+          "42.39049",
+          "-71.150472"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Olympia Fencing Center",
+        "distance_km": 1.058535604122422,
+        "coordinates": [
+          "42.393713",
+          "-71.150772"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.0801265884512286,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "/0-10"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 0.49466659096997245,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Burger King",
+        "distance_km": 0.7256657731459527,
+        "coordinates": [
+          "42.39049",
+          "-71.150472"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gymnastic Academy of Boston",
+        "distance_km": 1.05875043854028,
+        "coordinates": [
+          "42.393583",
+          "-71.15013"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.384467430388,
+        -71.15388614062657
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to eat, I go to Burger King by walking which takes 0-10 minutes.",
+    "On 07:00, I want to recreation, I go to Olympia Fencing Center by walking which takes 0-10 minutes.",
+    "On 09:00, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 11:00, I want to recreation, I go to Glacken Field by walking which takes /0-10 minutes.",
+    "On 13:00, I want to eat, I go to Burger King by walking which takes  minutes.",
+    "On 19:00, I want to recreation, I go to Gymnastic Academy of Boston by walking which takes 0-10 minutes."
+  ]
+}

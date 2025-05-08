@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Phillip Vazquez\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Chasma Scientific",
+        "distance_km": 5.57812753505312,
+        "coordinates": [
+          "42.392501",
+          "-71.152117"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3720863538229,
+          -71.09023234589758
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "Heading home"
+      },
+      "destination": {
+        "name": "Little Lingo",
+        "distance_km": 1.6275623716041376,
+        "coordinates": [
+          "42.369939",
+          "-71.070686"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Fresh Pond Entertainment Cinemas",
+        "distance_km": 4.485145080008748,
+        "coordinates": [
+          "42.391289",
+          "-71.138141"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3720863538229,
+          -71.09023234589758
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3720863538229,
+        -71.09023234589758
+      ]
+    },
+    "work": {
+      "name": "Chasma Scientific",
+      "coordinates": [
+        "42.392501",
+        "-71.152117"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Chasma Scientific by on_demand_auto which takes 30-40 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Little Lingo by private_auto which takes Heading home minutes.",
+    "On 19:30, I want to recreation, I go to Fresh Pond Entertainment Cinemas by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

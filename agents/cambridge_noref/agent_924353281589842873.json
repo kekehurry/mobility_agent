@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Dr. Kristin Manning\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Peabody",
+        "distance_km": 2.649306345356444,
+        "coordinates": [
+          "42.392275",
+          "-71.128074"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Wakuwaku Ramen & Sake",
+        "distance_km": 1.0174596000957796,
+        "coordinates": [
+          "42.373536",
+          "-71.120907"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Peabody",
+        "distance_km": 2.649306345356444,
+        "coordinates": [
+          "42.392275",
+          "-71.128074"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pacific Street Cafe",
+        "distance_km": 1.5707982886701946,
+        "coordinates": [
+          "42.359985",
+          "-71.102192"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 2.6574842669535674,
+        "coordinates": [
+          "42.367707",
+          "-71.077193"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Alice Heller Dance",
+        "distance_km": 2.767971924055501,
+        "coordinates": [
+          "42.386167",
+          "-71.137352"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37331496986662,
+          -71.10855747916526
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 2.040304094956913,
+        "coordinates": [
+          "42.36335",
+          "-71.08775"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 1.6298026343541534,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37331496986662,
+          -71.10855747916526
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37331496986662,
+        -71.10855747916526
+      ]
+    },
+    "school": {
+      "name": "Peabody",
+      "coordinates": [
+        "42.392275",
+        "-71.128074"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to school, I go to Peabody by public_transit which takes 30-40 minutes.",
+    "On 07:30, I want to eat, I go to Wakuwaku Ramen & Sake by public_transit which takes  minutes.",
+    "On 08:00, I want to school, I go to Peabody by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Pacific Street Cafe by walking which takes 20-30 minutes.",
+    "On 13:00, I want to shop, I go to T.J. Maxx by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to recreation, I go to Alice Heller Dance by public_transit which takes 20-30 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to Blue Bottle Coffee by public_transit which takes 20-30 minutes.",
+    "On 20:00, I want to social, I go to Radcliffe Quadrangle by walking which takes 20-30 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

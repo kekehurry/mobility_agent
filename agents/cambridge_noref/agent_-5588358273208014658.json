@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mary Lewis\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Baraka Cafe",
+        "distance_km": 1.5828841493108474,
+        "coordinates": [
+          "42.361232",
+          "-71.115428"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mr Bartley's Gourmet Burgers",
+        "distance_km": 0.34053412039963704,
+        "coordinates": [
+          "42.372417",
+          "-71.11612"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Baraka Cafe",
+        "distance_km": 1.5828841493108474,
+        "coordinates": [
+          "42.361232",
+          "-71.115428"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37544918198244,
+          -71.11672926408848
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Club Passim",
+        "distance_km": 0.3037752324338105,
+        "coordinates": [
+          "42.374223",
+          "-71.120026"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Restorative Yoga with Bo Forbes",
+        "distance_km": 1.5027166804729908,
+        "coordinates": [
+          "42.388881",
+          "-71.118903"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37544918198244,
+          -71.11672926408848
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37544918198244,
+        -71.11672926408848
+      ]
+    },
+    "work": {
+      "name": "Baraka Cafe",
+      "coordinates": [
+        "42.361232",
+        "-71.115428"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Baraka Cafe by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Mr Bartley's Gourmet Burgers by walking which takes 0-10 minutes.",
+    "On 12:30, I want to work, I go to Baraka Cafe by walking which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Club Passim by walking which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Restorative Yoga with Bo Forbes by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

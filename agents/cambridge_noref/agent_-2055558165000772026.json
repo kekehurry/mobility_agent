@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Dana Brown\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Mu Lan",
+        "distance_km": 3.6096003185423746,
+        "coordinates": [
+          "42.366351",
+          "-71.094295"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Jo's Indian Kitchen",
+        "distance_km": 0.6421283504957245,
+        "coordinates": [
+          "42.388778",
+          "-71.119894"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mu Lan",
+        "distance_km": 3.6096003185423746,
+        "coordinates": [
+          "42.366351",
+          "-71.094295"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bon Me Harvard Truck",
+        "distance_km": 1.5139888440002045,
+        "coordinates": [
+          "42.37644",
+          "-71.116861"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ullian B Robt MD",
+        "distance_km": 1.5376782084107607,
+        "coordinates": [
+          "42.37444",
+          "-71.133515"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.387548315642164,
+          -71.12751351939181
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.387548315642164,
+        -71.12751351939181
+      ]
+    },
+    "work": {
+      "name": "Mu Lan",
+      "coordinates": [
+        "42.366351",
+        "-71.094295"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to work, I go to Mu Lan by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Jo's Indian Kitchen by walking which takes 10-25 minutes.",
+    "On 13:00, I want to work, I go to Mu Lan by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Bon Me Harvard Truck by public_transit which takes 20-30 minutes.",
+    "On 18:00, I want to recreation, I go to Ullian B Robt MD by biking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

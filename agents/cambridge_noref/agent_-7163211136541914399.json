@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Phillip Vazquez\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Carmody Matthew MD",
+        "distance_km": 2.515729842422541,
+        "coordinates": [
+          "42.374371",
+          "-71.134015"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 1.5287878394307768,
+        "coordinates": [
+          "42.36335",
+          "-71.08775"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "time_20-30"
+      },
+      "destination": {
+        "name": "Carmody Matthew MD",
+        "distance_km": 2.515729842422541,
+        "coordinates": [
+          "42.374371",
+          "-71.134015"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Little Lingo",
+        "distance_km": 2.7500653701172575,
+        "coordinates": [
+          "42.369939",
+          "-71.070686"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CrossFit Medusa",
+        "distance_km": 2.590483727509264,
+        "coordinates": [
+          "42.389901",
+          "-71.120247"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 3.925388906397149,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369899487033415,
+          -71.1040730252704
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369899487033415,
+        -71.1040730252704
+      ]
+    },
+    "work": {
+      "name": "Carmody Matthew MD",
+      "coordinates": [
+        "42.374371",
+        "-71.134015"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Carmody Matthew MD by public_transit which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Blue Bottle Coffee by public_transit which takes 10-20 minutes.",
+    "On 12:30, I want to work, I go to Carmody Matthew MD by public_transit which takes time_20-30 minutes.",
+    "On 17:30, I want to eat, I go to Little Lingo by public_transit which takes 20-30 minutes.",
+    "On 18:00, I want to recreation, I go to CrossFit Medusa by walking which takes 30-40 minutes.",
+    "On 19:00, I want to social, I go to Majic Construction by public_transit which takes 20-30 minutes.",
+    "On 20:00, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

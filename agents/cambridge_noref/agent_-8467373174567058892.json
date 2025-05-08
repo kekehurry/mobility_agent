@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Amanda Rice\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Route 66 Cafe",
+        "distance_km": 3.172972939928113,
+        "coordinates": [
+          "42.371293",
+          "-71.080101"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Stefani House of Pizza",
+        "distance_km": 1.53892635935533,
+        "coordinates": [
+          "42.363349",
+          "-71.096889"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Route 66 Cafe",
+        "distance_km": 3.172972939928113,
+        "coordinates": [
+          "42.371293",
+          "-71.080101"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35447751880658,
+          -71.11123686050057
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Atwood's Tavern",
+        "distance_km": 2.5999415488291344,
+        "coordinates": [
+          "42.372722",
+          "-71.091466"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Shepen Bernard D Phys",
+        "distance_km": 2.834352855942864,
+        "coordinates": [
+          "42.37396",
+          "-71.133456"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35447751880658,
+          -71.11123686050057
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35447751880658,
+        -71.11123686050057
+      ]
+    },
+    "work": {
+      "name": "Route 66 Cafe",
+      "coordinates": [
+        "42.371293",
+        "-71.080101"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Route 66 Cafe by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Stefani House of Pizza by private_auto which takes  minutes.",
+    "On 13:00, I want to work, I go to Route 66 Cafe by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Atwood's Tavern by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Shepen Bernard D Phys by private_auto which takes 20-30 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

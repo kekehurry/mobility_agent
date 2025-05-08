@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Rachel Wilson\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "DAVID LEVINE MD",
+        "distance_km": 5.037996720182634,
+        "coordinates": [
+          "42.365933",
+          "-71.075887"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ": 30-40"
+      },
+      "destination": {
+        "name": "Bambara",
+        "distance_km": 5.0252113494984325,
+        "coordinates": [
+          "42.367867",
+          "-71.07491"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "DAVID LEVINE MD",
+        "distance_km": 5.037996720182634,
+        "coordinates": [
+          "42.365933",
+          "-71.075887"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38511209342142,
+          -71.13131776547728
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 3.044761445269131,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "Heatmap: 30-40"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 4.768696212740126,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38511209342142,
+          -71.13131776547728
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38511209342142,
+        -71.13131776547728
+      ]
+    },
+    "work": {
+      "name": "DAVID LEVINE MD",
+      "coordinates": [
+        "42.365933",
+        "-71.075887"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to DAVID LEVINE MD by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Bambara by public_transit which takes : 30-40 minutes.",
+    "On 13:00, I want to work, I go to DAVID LEVINE MD by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Brooklyn Bagel Factory by private_auto which takes 30-40 minutes.",
+    "On 19:30, I want to social, I go to Gravestar Inc by private_auto which takes Heatmap: 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Brian Baker\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Memorial Drive BU Bridge gyratory",
+        "distance_km": 2.084924005165458,
+        "coordinates": [
+          "42.354518",
+          "-71.110103"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "American Legion Marsh Post 442",
+        "distance_km": 2.8858556330781098,
+        "coordinates": [
+          "42.365182",
+          "-71.140283"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Apple Retail Store",
+        "distance_km": 2.629983359532697,
+        "coordinates": [
+          "42.367972",
+          "-71.075772"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Delicious Bao & Mein",
+        "distance_km": 2.5511194368768284,
+        "coordinates": [
+          "42.366433",
+          "-71.07731"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "The Diagnostic Center",
+        "distance_km": 4.499883050485825,
+        "coordinates": [
+          "42.391568",
+          "-71.155592"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Live By Leclair & Co",
+        "distance_km": 4.005265293064189,
+        "coordinates": [
+          "42.394464",
+          "-71.146151"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37313958963417,
+          -71.10693174362338
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Genki Ya Cambridge",
+        "distance_km": 3.501369058518663,
+        "coordinates": [
+          "42.389225",
+          "-71.143495"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Chasma Scientific",
+        "distance_km": 4.297916563656823,
+        "coordinates": [
+          "42.392501",
+          "-71.152117"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37313958963417,
+          -71.10693174362338
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37313958963417,
+        -71.10693174362338
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Memorial Drive BU Bridge gyratory by public_transit which takes 40-50 minutes.",
+    "On 08:30, I want to recreation, I go to American Legion Marsh Post 442 by public_transit which takes 40-50 minutes.",
+    "On 10:00, I want to shop, I go to Apple Retail Store by public_transit which takes 40-50 minutes.",
+    "On 12:00, I want to eat, I go to Delicious Bao & Mein by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to recreation, I go to The Diagnostic Center by public_transit which takes 40-50 minutes.",
+    "On 15:00, I want to social, I go to Live By Leclair & Co by public_transit which takes 40-50 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 40-50 minutes.",
+    "On 18:30, I want to eat, I go to Genki Ya Cambridge by public_transit which takes 40-50 minutes.",
+    "On 19:30, I want to recreation, I go to Chasma Scientific by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 40-50 minutes."
+  ]
+}

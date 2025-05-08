@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Douglas James\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Netsky Richard MD",
+        "distance_km": 2.5344567504405027,
+        "coordinates": [
+          "42.380697",
+          "-71.13393"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363995804343574,
+          -71.1129652188357
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "Heatmap: 20-30"
+      },
+      "destination": {
+        "name": "Netsky Richard MD",
+        "distance_km": 2.5344567504405027,
+        "coordinates": [
+          "42.380697",
+          "-71.13393"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Tite's Tropical Mart",
+        "distance_km": 1.0501218686624825,
+        "coordinates": [
+          "42.366474",
+          "-71.100663"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Netsky Richard MD",
+        "distance_km": 2.5344567504405027,
+        "coordinates": [
+          "42.380697",
+          "-71.13393"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363995804343574,
+          -71.1129652188357
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Japonaise Bakery & Cafe",
+        "distance_km": 2.6171684495370955,
+        "coordinates": [
+          "42.387199",
+          "-71.118482"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Maher Sheila Psycholgst",
+        "distance_km": 2.6392876414708524,
+        "coordinates": [
+          "42.382874",
+          "-71.132423"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363995804343574,
+          -71.1129652188357
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.363995804343574,
+        -71.1129652188357
+      ]
+    },
+    "work": {
+      "name": "Netsky Richard MD",
+      "coordinates": [
+        "42.380697",
+        "-71.13393"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Netsky Richard MD by biking which takes 20-30 minutes.",
+    "On 07:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 08:15, I want to work, I go to Netsky Richard MD by biking which takes Heatmap: 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Tite's Tropical Mart by public_transit which takes 30-4,  minutes.",
+    "On 13:00, I want to work, I go to Netsky Richard MD by biking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Japonaise Bakery & Cafe by biking which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Maher Sheila Psycholgst by biking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

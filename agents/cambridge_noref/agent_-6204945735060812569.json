@@ -1,0 +1,129 @@
+{
+  "profile": "{\n  \"name\": \"Pamela Vazquez\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Bon Me Harvard Truck",
+        "distance_km": 1.530381559586884,
+        "coordinates": [
+          "42.37644",
+          "-71.116861"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "DR. DEBORAH JAMES MD",
+        "distance_km": 5.129430349274643,
+        "coordinates": [
+          "42.391674",
+          "-71.155523"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Yotopia",
+        "distance_km": 2.3651859292881827,
+        "coordinates": [
+          "42.387287",
+          "-71.118641"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Planet Fitness",
+        "distance_km": 2.392507315095254,
+        "coordinates": [
+          "42.387421",
+          "-71.118937"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Bon Me Harvard Truck",
+        "distance_km": 1.530381559586884,
+        "coordinates": [
+          "42.37644",
+          "-71.116861"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 3.9795162745738923,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37135108355199,
+        -71.09959428262046
+      ]
+    },
+    "work": {
+      "name": "DR. DEBORAH JAMES MD",
+      "coordinates": [
+        "42.391674",
+        "-71.155523"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:10, I want to eat, I go to Bon Me Harvard Truck by on_demand_auto which takes 50-60 minutes.",
+    "On 13:00, I want to work, I go to DR. DEBORAH JAMES MD by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to eat, I go to Yotopia by biking which takes 30-40 minutes.",
+    "On 18:00, I want to recreation, I go to Planet Fitness by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to eat, I go to Bon Me Harvard Truck by on_demand_auto which takes 50-60 minutes.",
+    "On 20:30, I want to social, I go to Charlotte Huguenor Santana Properties Team by public_transit which takes 30-40 minutes."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Jamie Brown\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Chiang Mai Thai",
+        "distance_km": 5.011465791349825,
+        "coordinates": [
+          "42.368429",
+          "-71.076617"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.811963104953904,
+        "coordinates": [
+          "42.389218",
+          "-71.141312"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Chiang Mai Thai",
+        "distance_km": 5.011465791349825,
+        "coordinates": [
+          "42.368429",
+          "-71.076617"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "La Royal",
+        "distance_km": 0.5233214199917975,
+        "coordinates": [
+          "42.3829",
+          "-71.131553"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Saltzstein Barbara Psychothrpst",
+        "distance_km": 0.5076745838873606,
+        "coordinates": [
+          "42.383142",
+          "-71.13299"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38761003534162,
+          -71.13169303325108
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38761003534162,
+        -71.13169303325108
+      ]
+    },
+    "work": {
+      "name": "Chiang Mai Thai",
+      "coordinates": [
+        "42.368429",
+        "-71.076617"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Chiang Mai Thai by public_transit which takes 30-40 minutes.",
+    "On 12:15, I want to eat, I go to Taqueria by walking which takes 10-25 minutes.",
+    "On 12:45, I want to work, I go to Chiang Mai Thai by public_transit which takes  minutes.",
+    "On 18:00, I want to eat, I go to La Royal by walking which takes 10-20 minutes.",
+    "On 18:30, I want to recreation, I go to Saltzstein Barbara Psychothrpst by walking which takes  minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

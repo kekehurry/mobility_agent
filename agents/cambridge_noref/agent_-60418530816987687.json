@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Carol Hall\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 5.015838988484667,
+        "coordinates": [
+          "42.390886",
+          "-71.139725"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Cambridge Queen's Head",
+        "distance_km": 2.6065279180266616,
+        "coordinates": [
+          "42.375955",
+          "-71.115275"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 5.015838988484667,
+        "coordinates": [
+          "42.390886",
+          "-71.139725"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3728051739426,
+          -71.08391471696059
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 5.3781670838054225,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Seyyide Belly Dance",
+        "distance_km": 2.5044328988727775,
+        "coordinates": [
+          "42.371696",
+          "-71.114284"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3728051739426,
+          -71.08391471696059
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3728051739426,
+        -71.08391471696059
+      ]
+    },
+    "work": {
+      "name": "CorePower Yoga",
+      "coordinates": [
+        "42.390886",
+        "-71.139725"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to CorePower Yoga by auto_passenger which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to The Cambridge Queen's Head by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to CorePower Yoga by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Starbucks by private_auto which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Seyyide Belly Dance by biking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

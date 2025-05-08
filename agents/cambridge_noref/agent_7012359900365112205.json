@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Jordan Wright\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sushi Gourmet",
+        "distance_km": 1.618151391925253,
+        "coordinates": [
+          "42.368109",
+          "-71.102391"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 2.638282816768017,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "730 Tavern Kitchen & Patio",
+        "distance_km": 1.6090313326556427,
+        "coordinates": [
+          "42.365967",
+          "-71.105213"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Turnstyle Kendall Square",
+        "distance_km": 1.0365257100197218,
+        "coordinates": [
+          "42.365975",
+          "-71.090964"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 1.5273137603057652,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3566588157476,
+        -71.09024768331875
+      ]
+    },
+    "work": {
+      "name": "Atrium Restaurant",
+      "coordinates": [
+        "42.371938",
+        "-71.114768"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Sushi Gourmet by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Atrium Restaurant by biking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to 730 Tavern Kitchen & Patio by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to recreation, I go to Turnstyle Kendall Square by public_transit which takes  minutes.",
+    "On 20:00, I want to social, I go to Wellmet Project by public_transit which takes 10-20 minutes."
+  ]
+}

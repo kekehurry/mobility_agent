@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Teresa Oliver\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n                ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Coffee Shop",
+        "distance_km": 0.4201003930049477,
+        "coordinates": [
+          "42.372537",
+          "-71.090863"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 0.9785097633984439,
+        "coordinates": [
+          "42.364147",
+          "-71.078686"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 2.64976814311913,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Toscanini's Ice Cream",
+        "distance_km": 0.8476056610316055,
+        "coordinates": [
+          "42.366118",
+          "-71.078269"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 1.1552554748167194,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Rebel Presents Pop 101",
+        "distance_km": 1.5430262149814709,
+        "coordinates": [
+          "42.363799",
+          "-71.102294"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Blackbird Doughnuts Harvard Square",
+        "distance_km": 2.6887813197696806,
+        "coordinates": [
+          "42.372663",
+          "-71.118796"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Coffee Shop",
+        "distance_km": 0.4201003930049477,
+        "coordinates": [
+          "42.372537",
+          "-71.090863"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rhonda Kelner",
+        "distance_km": 1.54923035184562,
+        "coordinates": [
+          "42.366689",
+          "-71.104143"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37094923768413,
+          -71.08623389100146
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37094923768413,
+        -71.08623389100146
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Cambridge Coffee Shop by walking which takes 0-10 minutes.",
+    "On 08:00, I want to recreation, I go to Cambridge Athletic Club by on_demand_auto which takes 40-50 minutes.",
+    "On 08:30, I want to shop, I go to In Your Ear Records by public_transit which takes 40-50 minutes.",
+    "On 11:00, I want to eat, I go to Toscanini's Ice Cream by walking which takes  minutes.",
+    "On 12:00, I want to social, I go to MIT Wong Auditorium by on_demand_auto which takes 40-50 minutes.",
+    "On 14:00, I want to recreation, I go to Rebel Presents Pop 101 by on_demand_auto which takes  minutes.",
+    "On 16:30, I want to eat, I go to Blackbird Doughnuts Harvard Square by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to eat, I go to Cambridge Coffee Shop by walking which takes 0-10 minutes.",
+    "On 20:30, I want to recreation, I go to Rhonda Kelner by biking which takes 10-20 minutes.",
+    "On 22:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

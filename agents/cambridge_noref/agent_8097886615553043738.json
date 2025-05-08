@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Alan Anderson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bohnert Michael MD",
+        "distance_km": 2.7090448495617285,
+        "coordinates": [
+          "42.372271",
+          "-71.123621"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dumpling Xuan",
+        "distance_km": 0.5722299384047549,
+        "coordinates": [
+          "42.37167",
+          "-71.084075"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Marine Layer",
+        "distance_km": 2.5094680668816975,
+        "coordinates": [
+          "42.373684",
+          "-71.120976"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "River Gods",
+        "distance_km": 1.6338947341419592,
+        "coordinates": [
+          "42.364065",
+          "-71.108695"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Live By Leclair & Co",
+        "distance_km": 5.2799990548966695,
+        "coordinates": [
+          "42.394464",
+          "-71.146151"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "IHOP",
+        "distance_km": 2.5271453669462414,
+        "coordinates": [
+          "42.372106",
+          "-71.121423"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.5038458637540427,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370446218774454,
+        -71.09082338398986
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to recreation, I go to Bohnert Michael MD by on_demand_auto which takes 30-40 minutes.",
+    "On 09:00, I want to eat, I go to Dumpling Xuan by private_auto which takes  minutes.",
+    "On 11:00, I want to shop, I go to Marine Layer by private_auto which takes 10-20 minutes.",
+    "On 13:30, I want to eat, I go to River Gods by private_auto which takes 20-30 minutes.",
+    "On 17:00, I want to social, I go to Live By Leclair & Co by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to IHOP by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes  minutes."
+  ]
+}

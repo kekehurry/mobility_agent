@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"James Brown\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Compliments Food",
+        "distance_km": 0.2238036546496069,
+        "coordinates": [
+          "42.387895",
+          "-71.140417"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Mittelmeier Cynthia Psycholgst",
+        "distance_km": 0.6458527573738104,
+        "coordinates": [
+          "42.382832",
+          "-71.13242"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Compliments Food",
+        "distance_km": 0.2238036546496069,
+        "coordinates": [
+          "42.387895",
+          "-71.140417"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lavash Bar & Grille",
+        "distance_km": 0.22155133236655547,
+        "coordinates": [
+          "42.387881",
+          "-71.140397"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Miller Fern Psychothrpst",
+        "distance_km": 0.3834777111234052,
+        "coordinates": [
+          "42.388204",
+          "-71.14259"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Paddy's Lunch",
+        "distance_km": 0.6194203263331768,
+        "coordinates": [
+          "42.38598",
+          "-71.131145"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Westbridge",
+        "distance_km": 0.5783173130696183,
+        "coordinates": [
+          "42.388138",
+          "-71.132046"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.4914276204709895,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "DR. SUSAN KATTLOVE MD",
+        "distance_km": 0.6793628076101301,
+        "coordinates": [
+          "42.382939",
+          "-71.131815"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38636475644082,
+        -71.13864906257196
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Compliments Food by walking which takes 0-10 minutes.",
+    "On 07:30, I want to recreation, I go to Mittelmeier Cynthia Psycholgst by walking which takes  minutes.",
+    "On 08:00, I want to eat, I go to Compliments Food by walking which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Lavash Bar & Grille by public_transit which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Miller Fern Psychothrpst by walking which takes 10-20 minutes.",
+    "On 15:00, I want to eat, I go to Paddy's Lunch by other_travel_mode which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Westbridge by walking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to DR. SUSAN KATTLOVE MD by walking which takes 0-10 minutes."
+  ]
+}

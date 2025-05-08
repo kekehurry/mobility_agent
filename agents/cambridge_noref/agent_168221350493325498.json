@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Cory Garcia\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tenoch Mexican",
+        "distance_km": 5.023690257651724,
+        "coordinates": [
+          "42.370335",
+          "-71.071236"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Ole to Go",
+        "distance_km": 2.669696183005653,
+        "coordinates": [
+          "42.374071",
+          "-71.100144"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Tenoch Mexican",
+        "distance_km": 5.023690257651724,
+        "coordinates": [
+          "42.370335",
+          "-71.071236"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Cardullo's Gourmet Shoppe",
+        "distance_km": 1.5021588421858703,
+        "coordinates": [
+          "42.373605",
+          "-71.119696"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "American Martial Arts Center",
+        "distance_km": 2.146275722048989,
+        "coordinates": [
+          "42.392089",
+          "-71.153201"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "K B Aruda Construction",
+        "distance_km": 2.0687853797282156,
+        "coordinates": [
+          "42.393209",
+          "-71.151548"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.385330390520714,
+          -71.12878302280741
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.385330390520714,
+        -71.12878302280741
+      ]
+    },
+    "work": {
+      "name": "Tenoch Mexican",
+      "coordinates": [
+        "42.370335",
+        "-71.071236"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Tenoch Mexican by biking which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Ole to Go by walking which takes 50-60 minutes.",
+    "On 13:00, I want to work, I go to Tenoch Mexican by biking which takes 40-50 minutes.",
+    "On 17:30, I want to eat, I go to Cardullo's Gourmet Shoppe by walking which takes 50-60 minutes.",
+    "On 18:00, I want to recreation, I go to American Martial Arts Center by walking which takes 30-40 minutes.",
+    "On 19:30, I want to social, I go to K B Aruda Construction by biking which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 30-40 minutes."
+  ]
+}

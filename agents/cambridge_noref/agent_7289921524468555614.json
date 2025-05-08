@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Linda Boyd\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 2.6686246634794535,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Mobile Telematics",
+        "distance_km": 2.6520939393613343,
+        "coordinates": [
+          "42.362803",
+          "-71.083549"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home_to_school",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "William James Hall",
+        "distance_km": 1.752267385894234,
+        "coordinates": [
+          "42.377191",
+          "-71.113394"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "school_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Putnam Avenue Upper School",
+        "distance_km": 2.511707164443572,
+        "coordinates": [
+          "42.369516",
+          "-71.08718"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CAVA",
+        "distance_km": 2.31104123339623,
+        "coordinates": [
+          "42.363241",
+          "-71.087739"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Toscano",
+        "distance_km": 1.5055054479492613,
+        "coordinates": [
+          "42.374203",
+          "-71.122099"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 3.17644428381135,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 3.1392680241221287,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 3.3333954969974378,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Malkin Athletic Center",
+        "distance_km": 1.136275630307143,
+        "coordinates": [
+          "42.371359",
+          "-71.119416"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Dig Inn",
+        "distance_km": 2.6353488468480655,
+        "coordinates": [
+          "42.362862",
+          "-71.083757"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 2.3111761777047946,
+        "coordinates": [
+          "42.36335",
+          "-71.08775"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36150882099958,
+        -71.1156953541967
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to Brothers Market by walking which takes 20-30 minutes.",
+    "On 07:30, I want to shop_to_home, I go to Cambridge Mobile Telematics by walking which takes 20-30 minutes.",
+    "On 08:00, I want to home_to_school, I go to William James Hall by walking which takes  minutes.",
+    "On 09:00, I want to school_to_home, I go to Putnam Avenue Upper School by biking which takes 20-30 minutes.",
+    "On 12:00, I want to home_to_eat, I go to CAVA by biking which takes 20-30 minutes.",
+    "On 12:30, I want to eat_to_home, I go to Toscano by walking which takes 20-30 minutes.",
+    "On 14:00, I want to home_to_shop, I go to Star Market by private_auto which takes 20-30 minutes.",
+    "On 15:00, I want to shop_to_home, I go to Star Market by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to home_to_recreation, I go to Fresh Pond by biking which takes 20-30 minutes.",
+    "On 18:00, I want to recreation_to_home, I go to Malkin Athletic Center by walking which takes 20-30 minutes.",
+    "On 19:00, I want to home_to_eat, I go to Dig Inn by biking which takes user_input minutes.",
+    "On 19:30, I want to eat_to_home, I go to Blue Bottle Coffee by biking which takes 20-30 minutes."
+  ]
+}

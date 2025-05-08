@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Dillon Carter\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "1369 Coffee House",
+        "distance_km": 1.549664791891709,
+        "coordinates": [
+          "42.366566",
+          "-71.10529"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "F45 Training",
+        "distance_km": 2.849561485967966,
+        "coordinates": [
+          "42.373116",
+          "-71.120108"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 0.7603184715029001,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user_duration"
+      },
+      "destination": {
+        "name": "Freshens",
+        "distance_km": 0.8655358369671516,
+        "coordinates": [
+          "42.36849",
+          "-71.076159"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Gymnastic Academy of Boston",
+        "distance_km": 6.012238990597731,
+        "coordinates": [
+          "42.393583",
+          "-71.15013"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 2.5314924169652095,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sub Zero Ice Cream & Yogurt",
+        "distance_km": 2.4806609870566487,
+        "coordinates": [
+          "42.360735",
+          "-71.115368"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 1.976557472139115,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36706439208773,
+          -71.08648928659885
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36706439208773,
+        -71.08648928659885
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to 1369 Coffee House by private_auto which takes 10-20 minutes.",
+    "On 08:00, I want to recreation, I go to F45 Training by private_auto which takes 10-20 minutes.",
+    "On 09:00, I want to shop, I go to CLEAR Kiosk by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Freshens by private_auto which takes user_duration minutes.",
+    "On 12:00, I want to recreation, I go to Gymnastic Academy of Boston by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to shop, I go to Micro Center by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to eat, I go to Sub Zero Ice Cream & Yogurt by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to recreation, I go to Spaulding National Running Center by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Jon Duncan\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "9Zaab",
+        "distance_km": 5.092313252041391,
+        "coordinates": [
+          "42.371948",
+          "-71.085774"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Greenhouse Cafe",
+        "distance_km": 2.50410961226437,
+        "coordinates": [
+          "42.376383",
+          "-71.116635"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "9Zaab",
+        "distance_km": 5.092313252041391,
+        "coordinates": [
+          "42.371948",
+          "-71.085774"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.379819664139454,
+          -71.1466846076706
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Akai Ryu Shabu & Sushi Restaurant",
+        "distance_km": 2.5052600049429783,
+        "coordinates": [
+          "42.388544",
+          "-71.118631"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Breathing Room",
+        "distance_km": 3.70495566048271,
+        "coordinates": [
+          "42.366673",
+          "-71.105344"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.379819664139454,
+          -71.1466846076706
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.379819664139454,
+        -71.1466846076706
+      ]
+    },
+    "work": {
+      "name": "9Zaab",
+      "coordinates": [
+        "42.371948",
+        "-71.085774"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to 9Zaab by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Greenhouse Cafe by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to 9Zaab by private_auto which takes  minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Akai Ryu Shabu & Sushi Restaurant by on_demand_auto which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to The Breathing Room by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

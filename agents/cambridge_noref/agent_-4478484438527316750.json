@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Ashley Baker\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"student\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Middle East",
+        "distance_km": 0.38944520979212455,
+        "coordinates": [
+          "42.363591",
+          "-71.101554"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvard",
+        "distance_km": 1.6164625994643156,
+        "coordinates": [
+          "42.377157",
+          "-71.117476"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mary Chung Restaurant",
+        "distance_km": 0.40069560346770877,
+        "coordinates": [
+          "42.363575",
+          "-71.101328"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvard",
+        "distance_km": 1.6164625994643156,
+        "coordinates": [
+          "42.377157",
+          "-71.117476"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366613762848594,
+          -71.10394910057471
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 0.6545629869229206,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.5638684833515745,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366613762848594,
+          -71.10394910057471
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366613762848594,
+        -71.10394910057471
+      ]
+    },
+    "school": {
+      "name": "Harvard",
+      "coordinates": [
+        "42.377157",
+        "-71.117476"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to The Middle East by walking which takes 10-20 minutes.",
+    "On 08:00, I want to school, I go to Harvard by walking which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Mary Chung Restaurant by walking which takes 10-20 minutes.",
+    "On 13:00, I want to school, I go to Harvard by walking which takes 20-30 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to MrBeast Burger by walking which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to Victoria Goodman Santana Properties Team by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

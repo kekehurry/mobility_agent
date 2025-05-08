@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Shannon Perez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 2.550333082546708,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "09:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Gymnastic Academy of Boston",
+        "distance_km": 2.7600547014376304,
+        "coordinates": [
+          "42.393583",
+          "-71.15013"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 0.8182183966265333,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 1.632399618894059,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Q Ballroom",
+        "distance_km": 1.7661740371680206,
+        "coordinates": [
+          "42.387836",
+          "-71.140552"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Rakuten USA",
+        "distance_km": 1.0188350595875402,
+        "coordinates": [
+          "42.37229",
+          "-71.123617"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 3.7869852259196395,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38125859098576,
+        -71.12102599663157
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to eat, I go to Revival Cafe & Kitchen by public_transit which takes 30-40 minutes.",
+    "On 09:15, I want to recreation, I go to Gymnastic Academy of Boston by biking which takes 20-30 minutes.",
+    "On 11:15, I want to shop, I go to Wholesome Fresh by walking which takes 10-20 minutes.",
+    "On 13:30, I want to eat, I go to Dado Tea by private_auto which takes 40-50 minutes.",
+    "On 14:30, I want to recreation, I go to Q Ballroom by private_auto which takes 40-50 minutes.",
+    "On 16:30, I want to shop, I go to Rakuten USA by private_auto which takes  minutes.",
+    "On 19:00, I want to social, I go to MIT Wong Auditorium by biking which takes 20-30 minutes."
+  ]
+}

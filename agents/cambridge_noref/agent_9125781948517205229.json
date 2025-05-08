@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Mr. Scott Benton V\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Crimson Foot and Ankle",
+        "distance_km": 5.24446462105152,
+        "coordinates": [
+          "42.390666",
+          "-71.152319"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36878939492972,
+          -71.09588751425098
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Simon's Coffee Shop",
+        "distance_km": 2.632359148591451,
+        "coordinates": [
+          "42.384488",
+          "-71.11983"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Down Under Yoga Cambridge",
+        "distance_km": 3.194370531581838,
+        "coordinates": [
+          "42.390306",
+          "-71.121621"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36878939492972,
+          -71.09588751425098
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36878939492972,
+        -71.09588751425098
+      ]
+    },
+    "work": {
+      "name": "Crimson Foot and Ankle",
+      "coordinates": [
+        "42.390666",
+        "-71.152319"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Crimson Foot and Ankle by public_transit which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 40-50 minutes.",
+    "On 18:30, I want to eat, I go to Simon's Coffee Shop by public_transit which takes 40-50 minutes.",
+    "On 19:30, I want to recreation, I go to Down Under Yoga Cambridge by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

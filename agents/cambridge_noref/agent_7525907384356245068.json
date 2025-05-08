@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Rodney Pruitt\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 1.7449215214802523,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Noir",
+        "distance_km": 2.562698182679331,
+        "coordinates": [
+          "42.372344",
+          "-71.122666"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ": "
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 1.7449215214802523,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.387241658263605,
+          -71.14642572877008
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Longfellow Bar",
+        "distance_km": 2.5560132899349197,
+        "coordinates": [
+          "42.373636",
+          "-71.121396"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Biogen",
+        "distance_km": 5.480305698677685,
+        "coordinates": [
+          "42.365003",
+          "-71.087029"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.387241658263605,
+          -71.14642572877008
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.387241658263605,
+        -71.14642572877008
+      ]
+    },
+    "work": {
+      "name": "Frank's Steak House",
+      "coordinates": [
+        "42.395359",
+        "-71.128283"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Frank's Steak House by walking which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Noir by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Frank's Steak House by private_auto which takes :  minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to The Longfellow Bar by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Biogen by private_auto which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

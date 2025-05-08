@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Jason Sanchez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Kadampa Meditation Center Boston",
+        "distance_km": 4.502948721500791,
+        "coordinates": [
+          "42.395081",
+          "-71.127985"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Honor System Books",
+        "distance_km": 2.5763885179375072,
+        "coordinates": [
+          "42.374334",
+          "-71.122119"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kadampa Meditation Center Boston",
+        "distance_km": 4.502948721500791,
+        "coordinates": [
+          "42.395081",
+          "-71.127985"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36273070807561,
+          -71.09503651682202
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Lee's Restaurant",
+        "distance_km": 2.5125455171904196,
+        "coordinates": [
+          "42.374288",
+          "-71.121257"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dirty Water Fitness",
+        "distance_km": 1.5582038026837484,
+        "coordinates": [
+          "42.371324",
+          "-71.080085"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36273070807561,
+          -71.09503651682202
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36273070807561,
+        -71.09503651682202
+      ]
+    },
+    "work": {
+      "name": "Kadampa Meditation Center Boston",
+      "coordinates": [
+        "42.395081",
+        "-71.127985"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Kadampa Meditation Center Boston by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Honor System Books by biking which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Kadampa Meditation Center Boston by biking which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Lee's Restaurant by biking which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Dirty Water Fitness by walking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

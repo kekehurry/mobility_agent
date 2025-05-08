@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Felicia Davis\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Seyyide Belly Dance",
+        "distance_km": 1.7959189750949514,
+        "coordinates": [
+          "42.371696",
+          "-71.114284"
+        ]
+      }
+    },
+    {
+      "start_time": "08:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard House Of Pizza",
+        "distance_km": 0.6699210064933733,
+        "coordinates": [
+          "42.383291",
+          "-71.119836"
+        ]
+      }
+    },
+    {
+      "start_time": "08:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Patagonia",
+        "distance_km": 1.302556775322249,
+        "coordinates": [
+          "42.373779",
+          "-71.121021"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "United American Veterans Post 30",
+        "distance_km": 1.5010555758683897,
+        "coordinates": [
+          "42.397642",
+          "-71.131189"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38435846973895,
+          -71.127842503544
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Temple Bar",
+        "distance_km": 0.6721572926309681,
+        "coordinates": [
+          "42.382761",
+          "-71.11997"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 2.7767487444665475,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38435846973895,
+          -71.127842503544
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Catholic Charitable Bureau of the Archdiocese of Boston",
+        "distance_km": 0.5521341955177225,
+        "coordinates": [
+          "42.389163",
+          "-71.129561"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She is currently at home and wants to eat. She might be looking for a quick meal, so walking is the most likely mode. However, since she's at home, she might prefer a nearby restaurant. Since she has an advanced degree, she might prefer a more upscale restaurant. However, given her household income, she might prefer a more affordable option. She might be looking for a quick meal, so she might choose a nearby restaurant. Given her previous trips, she might prefer walking or public transit. Since she's at home, walking is the most likely mode. However, she might prefer a more convenient option. She might have a preference for a specific restaurant. Therefore, the most likely mode is walking with a duration of 10-20 minutes."
+      },
+      "destination": {
+        "name": "Chivo Taqueria",
+        "distance_km": 0.6624385849992501,
+        "coordinates": [
+          "42.384156",
+          "-71.119803"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38435846973895,
+          -71.127842503544
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38435846973895,
+        -71.127842503544
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to other_activities, I go to Seyyide Belly Dance by biking which takes 10-20 minutes.",
+    "On 08:10, I want to eat, I go to Harvard House Of Pizza by walking which takes 10-20 minutes.",
+    "On 08:40, I want to shop, I go to Patagonia by public_transit which takes 10-20 minutes.",
+    "On 10:00, I want to recreation, I go to United American Veterans Post 30 by public_transit which takes 20-30 minutes.",
+    "On 11:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Temple Bar by walking which takes  minutes.",
+    "On 14:00, I want to shop, I go to Adt by public_transit which takes 10-20 minutes.",
+    "On 15:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 16:00, I want to recreation, I go to Catholic Charitable Bureau of the Archdiocese of Boston by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Chivo Taqueria by walking which takes She is currently at home and wants to eat. She might be looking for a quick meal, so walking is the most likely mode. However, since she's at home, she might prefer a nearby restaurant. Since she has an advanced degree, she might prefer a more upscale restaurant. However, given her household income, she might prefer a more affordable option. She might be looking for a quick meal, so she might choose a nearby restaurant. Given her previous trips, she might prefer walking or public transit. Since she's at home, walking is the most likely mode. However, she might prefer a more convenient option. She might have a preference for a specific restaurant. Therefore, the most likely mode is walking with a duration of 10-20 minutes. minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

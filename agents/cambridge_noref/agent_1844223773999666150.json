@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Amy Smith\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 0.4676388249382025,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.44584658379488584,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 0.4676388249382025,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Sahaj Kaur",
+        "distance_km": 0.7539916101303692,
+        "coordinates": [
+          "42.366662",
+          "-71.105344"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.7912703128308446,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 0.4434444076343611,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "King's Famous Pizzeria Roast Beef And Seafood",
+        "distance_km": 0.2222977048817818,
+        "coordinates": [
+          "42.374961",
+          "-71.109151"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Seyyide Belly Dance",
+        "distance_km": 0.4876453750289014,
+        "coordinates": [
+          "42.371696",
+          "-71.114284"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.22855518462765254,
+        "coordinates": [
+          "42.374979",
+          "-71.109377"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 0.3161314516912055,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.4436709668938155,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37299745675463,
+          -71.1086296811153
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37299745675463,
+        -71.1086296811153
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to other_activities, I go to McCarter R Harris Psycholgst by walking which takes 0-10 minutes.",
+    "On 07:00, I want to eat, I go to Barismo by walking which takes 0-10 minutes.",
+    "On 07:30, I want to other_activities, I go to McCarter R Harris Psycholgst by walking which takes 0-10 minutes.",
+    "On 08:30, I want to recreation, I go to Sahaj Kaur by walking which takes  minutes.",
+    "On 10:00, I want to shop, I go to Joe's Kwik Mart by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Cafe Anthony by walking which takes  minutes.",
+    "On 13:00, I want to other_activities, I go to King's Famous Pizzeria Roast Beef And Seafood by walking which takes 10-20 minutes.",
+    "On 14:00, I want to recreation, I go to Seyyide Belly Dance by walking which takes 10-20 minutes.",
+    "On 15:30, I want to eat, I go to Darwin's by walking which takes 0-10 minutes.",
+    "On 16:00, I want to other_activities, I go to Spaulding National Running Center by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Dado Tea by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

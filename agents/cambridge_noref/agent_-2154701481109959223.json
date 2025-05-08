@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Scott Greer\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 4.644896059315742,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3608409053512,
+          -71.11340211697859
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 4.644896059315742,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Commonwealth Restaurant and Market",
+        "distance_km": 2.563042402510267,
+        "coordinates": [
+          "42.363323",
+          "-71.08247"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3608409053512,
+          -71.11340211697859
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 4.644896059315742,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3608409053512,
+          -71.11340211697859
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Changsho",
+        "distance_km": 2.575751479876666,
+        "coordinates": [
+          "42.383525",
+          "-71.119887"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 2.1447595263484116,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3608409053512,
+          -71.11340211697859
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3608409053512,
+        -71.11340211697859
+      ]
+    },
+    "work": {
+      "name": "Revival Cafe & Kitchen",
+      "coordinates": [
+        "42.395104",
+        "-71.145732"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Revival Cafe & Kitchen by public_transit which takes 40-50 minutes.",
+    "On 07:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 08:15, I want to work, I go to Revival Cafe & Kitchen by private_auto which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Commonwealth Restaurant and Market by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Revival Cafe & Kitchen by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Changsho by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Cambridge Center Roof Garden by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

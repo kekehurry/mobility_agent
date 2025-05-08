@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Katie Hall\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 1, \"household_income\": \"45k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hana Sushi",
+        "distance_km": 1.5778087489634471,
+        "coordinates": [
+          "42.396633",
+          "-71.12982"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Casbah",
+        "distance_km": 1.5560221919408292,
+        "coordinates": [
+          "42.387876",
+          "-71.140391"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38352814814917,
+          -71.12242866004681
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ": 20-30"
+      },
+      "destination": {
+        "name": "Pammy's",
+        "distance_km": 2.000378830657657,
+        "coordinates": [
+          "42.368421",
+          "-71.109209"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Olympia Fencing Center",
+        "distance_km": 2.5936731081533395,
+        "coordinates": [
+          "42.393713",
+          "-71.150772"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38352814814917,
+          -71.12242866004681
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38352814814917,
+        -71.12242866004681
+      ]
+    },
+    "work": {
+      "name": "Casbah",
+      "coordinates": [
+        "42.387876",
+        "-71.140391"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to eat, I go to Hana Sushi by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to work, I go to Casbah by auto_passenger which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Pammy's by private_auto which takes : 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Olympia Fencing Center by auto_passenger which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

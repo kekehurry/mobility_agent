@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Isabel Swanson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 2.854259896332328,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "Heart of the city"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39439916959248,
+          -71.1424996301707
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 3.072945799800844,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 3.051336878777734,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Harvest of India",
+        "distance_km": 3.767995074941656,
+        "coordinates": [
+          "42.369549",
+          "-71.111356"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 3.051336878777734,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39439916959248,
+          -71.1424996301707
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 4.257106683428689,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 2.854259896332328,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39439916959248,
+          -71.1424996301707
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39439916959248,
+        -71.1424996301707
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Harvest by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to home, I go to home by public_transit which takes Heart of the city minutes.",
+    "On 08:30, I want to shop, I go to Stereo Lab by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to recreation, I go to Barre Soul by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to eat, I go to Harvest of India by public_transit which takes 40-50 minutes.",
+    "On 14:00, I want to recreation, I go to Barre Soul by public_transit which takes 30-40 minutes.",
+    "On 16:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to social, I go to Central House by public_transit which takes 40-50 minutes.",
+    "On 19:00, I want to eat, I go to Harvest by public_transit which takes 40-50 minutes.",
+    "On 20:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

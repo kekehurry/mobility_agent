@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Jeremy Henry\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Druid",
+        "distance_km": 0.5286565634349663,
+        "coordinates": [
+          "42.373813",
+          "-71.100153"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 0.7391999316096178,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Jose Mateo Ballet Theatre",
+        "distance_km": 0.6715647772718407,
+        "coordinates": [
+          "42.371768",
+          "-71.114171"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Wrap",
+        "distance_km": 1.0117436547520309,
+        "coordinates": [
+          "42.372066",
+          "-71.1183"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37188150737359,
+          -71.10601908317311
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Martin Brothers Liquors",
+        "distance_km": 0.7918337036669796,
+        "coordinates": [
+          "42.373016",
+          "-71.096528"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Birss Sarah A MD",
+        "distance_km": 0.4500342790674988,
+        "coordinates": [
+          "42.369354",
+          "-71.101749"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "time_0-10"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.20460463364100204,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "time_0-10"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.4431549986195087,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37188150737359,
+        -71.10601908317311
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to The Druid by walking which takes 0-10 minutes.",
+    "On 09:00, I want to shop, I go to Eli Incorporated by walking which takes 10-20 minutes.",
+    "On 10:30, I want to recreation, I go to Jose Mateo Ballet Theatre by walking which takes  minutes.",
+    "On 12:00, I want to eat, I go to The Wrap by public_transit which takes 20-30 minutes.",
+    "On 13:00, I want to home, I go to home by walking which takes  minutes.",
+    "On 15:00, I want to shop, I go to Martin Brothers Liquors by walking which takes 0-10 minutes.",
+    "On 16:30, I want to recreation, I go to Birss Sarah A MD by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Barismo by walking which takes time_0-10 minutes.",
+    "On 19:00, I want to social, I go to Victoria Goodman Santana Properties Team by walking which takes time_0-10 minutes."
+  ]
+}
