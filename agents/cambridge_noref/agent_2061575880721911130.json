@@ -1,0 +1,95 @@
+{
+  "profile": "{\"name\": \"Alexandra Jones\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Roust Cambridge",
+        "distance_km": 2.7543059497597406,
+        "coordinates": [
+          "42.37399",
+          "-71.125086"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35975719089278,
+          -71.09770611335665
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Pure Barre",
+        "distance_km": 2.5103147041765057,
+        "coordinates": [
+          "42.373029",
+          "-71.122372"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35975719089278,
+          -71.09770611335665
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35975719089278,
+        -71.09770611335665
+      ]
+    },
+    "work": {
+      "name": "Roust Cambridge",
+      "coordinates": [
+        "42.37399",
+        "-71.125086"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Roust Cambridge by walking which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Pure Barre by walking which takes 40-50 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 40-50 minutes."
+  ]
+}

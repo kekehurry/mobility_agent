@@ -1,0 +1,138 @@
+{
+  "profile": "{\n\n  \"name\": \"Teresa Oliver\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"female\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"Under 25k\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corporate Cafe",
+        "distance_km": 0.4020478119100131,
+        "coordinates": [
+          "42.398528",
+          "-71.139919"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.2160689266218523,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond Entertainment Cinemas",
+        "distance_km": 0.8702465630159868,
+        "coordinates": [
+          "42.391289",
+          "-71.138141"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 0.5884895892257509,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Catholic Charitable Bureau of the Archdiocese of Boston",
+        "distance_km": 1.1598894500564996,
+        "coordinates": [
+          "42.389163",
+          "-71.129561"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.9476934866869525,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.398780296039014,
+          -71.13504760526007
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.398780296039014,
+        -71.13504760526007
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Corporate Cafe by walking which takes 0-10 minutes.",
+    "On 08:00, I want to shop, I go to Trader Joe's by walking which takes  minutes.",
+    "On 11:00, I want to recreation, I go to Fresh Pond Entertainment Cinemas by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Verna's Coffee & Donut Shop by walking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Catholic Charitable Bureau of the Archdiocese of Boston by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Pemberton Farms by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

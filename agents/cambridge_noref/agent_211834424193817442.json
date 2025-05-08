@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Kristi Allen\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 1.6715270303470813,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-15"
+      },
+      "destination": {
+        "name": "Beyond Fitness Pilates Studio",
+        "distance_km": 0.4854220282318211,
+        "coordinates": [
+          "42.391604",
+          "-71.152121"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.9247797228997697,
+        "coordinates": [
+          "42.389201",
+          "-71.141301"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 1.9239194424023944,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Miller Fern Psychothrpst",
+        "distance_km": 0.9459264953078407,
+        "coordinates": [
+          "42.388204",
+          "-71.14259"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-15"
+      },
+      "destination": {
+        "name": "CSA Construction Services",
+        "distance_km": 0.2585646888615114,
+        "coordinates": [
+          "42.394225",
+          "-71.151749"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.6044387897013275,
+        "coordinates": [
+          "42.38981",
+          "-71.118204"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-15"
+      },
+      "destination": {
+        "name": "Beyond Fitness Pilates Studio",
+        "distance_km": 0.4854220282318211,
+        "coordinates": [
+          "42.391604",
+          "-71.152121"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-15"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395291703461496,
+          -71.14895781885842
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.395291703461496,
+        -71.14895781885842
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to other_activities, I go to St Peters Field by public_transit which takes 10-20 minutes.",
+    "On 07:15, I want to recreation, I go to Beyond Fitness Pilates Studio by walking which takes 10-15 minutes.",
+    "On 08:00, I want to eat, I go to Genji Express by walking which takes 10-20 minutes.",
+    "On 08:30, I want to shop, I go to Pemberton Farms by public_transit which takes 10-20 minutes.",
+    "On 10:00, I want to recreation, I go to Miller Fern Psychothrpst by public_transit which takes 10-20 minutes.",
+    "On 11:30, I want to social, I go to CSA Construction Services by walking which takes 10-15 minutes.",
+    "On 13:00, I want to eat, I go to Starbucks by biking which takes 10-20 minutes.",
+    "On 14:00, I want to recreation, I go to Beyond Fitness Pilates Studio by walking which takes 10-15 minutes.",
+    "On 16:30, I want to home, I go to home by walking which takes 10-15 minutes."
+  ]
+}

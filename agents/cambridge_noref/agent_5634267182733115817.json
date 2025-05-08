@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Corey Macdonald\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Colette Wine Bistro",
+        "distance_km": 2.5458955028443606,
+        "coordinates": [
+          "42.389238",
+          "-71.1203"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36935301270597,
+          -71.10492853290285
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Colette Wine Bistro",
+        "distance_km": 2.5458955028443606,
+        "coordinates": [
+          "42.389238",
+          "-71.1203"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Halal Guys",
+        "distance_km": 2.531931348594139,
+        "coordinates": [
+          "42.389538",
+          "-71.11921"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Colette Wine Bistro",
+        "distance_km": 2.5458955028443606,
+        "coordinates": [
+          "42.389238",
+          "-71.1203"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Vitality Bowls",
+        "distance_km": 0.7125097293598218,
+        "coordinates": [
+          "42.363878",
+          "-71.100422"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Colette Wine Bistro",
+        "distance_km": 2.5458955028443606,
+        "coordinates": [
+          "42.389238",
+          "-71.1203"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36935301270597,
+          -71.10492853290285
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 2.534863294352259,
+        "coordinates": [
+          "42.390107",
+          "-71.117726"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "American Legion Marsh Post 442",
+        "distance_km": 2.9488659822641528,
+        "coordinates": [
+          "42.365182",
+          "-71.140283"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36935301270597,
+          -71.10492853290285
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36935301270597,
+        -71.10492853290285
+      ]
+    },
+    "work": {
+      "name": "Colette Wine Bistro",
+      "coordinates": [
+        "42.389238",
+        "-71.1203"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Colette Wine Bistro by biking which takes 20-30 minutes.",
+    "On 07:15, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 07:45, I want to work, I go to Colette Wine Bistro by biking which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to The Halal Guys by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to work, I go to Colette Wine Bistro by biking which takes 20-30 minutes.",
+    "On 13:00, I want to eat, I go to Vitality Bowls by walking which takes 10-20 minutes.",
+    "On 14:30, I want to work, I go to Colette Wine Bistro by biking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Ben & Jerry's by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to American Legion Marsh Post 442 by public_transit which takes 30-40 minutes.",
+    "On 20:30, I want to home, I go to home by biking which takes  minutes."
+  ]
+}

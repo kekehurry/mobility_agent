@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Christopher Townsend\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 2.441302549510913,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 3.018092853106162,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "home_to_recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Loews Sony Theatres",
+        "distance_km": 2.9586437495506264,
+        "coordinates": [
+          "42.374256",
+          "-71.119386"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "recreation_to_eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 5.207166446933362,
+        "coordinates": [
+          "42.389201",
+          "-71.141301"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 5.266290210359205,
+        "coordinates": [
+          "42.38882",
+          "-71.14233"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home_to_social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 2.980777452274998,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "social_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 2.980777452274998,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-5, "
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 3.018092853106162,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 3.018092853106162,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36919845017828,
+        -71.08411917012657
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to Broadway Marketplace by public_transit which takes 30-4,  minutes.",
+    "On 08:30, I want to shop_to_home, I go to Gap by public_transit which takes 30-40 minutes.",
+    "On 09:00, I want to home_to_recreation, I go to Loews Sony Theatres by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to recreation_to_eat, I go to Genji Express by private_auto which takes 40-50 minutes.",
+    "On 13:00, I want to eat_to_home, I go to Starbucks by private_auto which takes 40-50 minutes.",
+    "On 15:00, I want to home_to_social, I go to Cambridge Forum by public_transit which takes 30-40 minutes.",
+    "On 16:30, I want to social_to_home, I go to Cambridge Forum by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to home_to_shop, I go to Gap by private_auto which takes 40-5,  minutes.",
+    "On 19:30, I want to shop_to_home, I go to Gap by private_auto which takes 30-40 minutes."
+  ]
+}

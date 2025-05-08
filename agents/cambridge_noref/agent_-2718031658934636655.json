@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Patricia Anderson\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n               ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Le's Sushi Bar & Restaurant",
+        "distance_km": 1.5255734790951516,
+        "coordinates": [
+          "42.37161",
+          "-71.083254"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Ma Sears Appliance Repair",
+        "distance_km": 1.7957346903648175,
+        "coordinates": [
+          "42.367438",
+          "-71.076567"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mass Ave Diner",
+        "distance_km": 1.1026851964805982,
+        "coordinates": [
+          "42.368157",
+          "-71.108699"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Harvard Office of the Arts Studio 74",
+        "distance_km": 2.0071257910492397,
+        "coordinates": [
+          "42.371771",
+          "-71.118582"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.292435380298653,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Lamole",
+        "distance_km": 1.5999036160570024,
+        "coordinates": [
+          "42.370857",
+          "-71.113528"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "value between 20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362783715400965,
+          -71.09744338481798
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.362783715400965,
+        -71.09744338481798
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Le's Sushi Bar & Restaurant by walking which takes 20-30 minutes.",
+    "On 08:00, I want to shop, I go to Cambridge Ma Sears Appliance Repair by walking which takes 20-30 minutes.",
+    "On 11:00, I want to eat, I go to Mass Ave Diner by walking which takes 20-30 minutes.",
+    "On 13:00, I want to recreation, I go to Harvard Office of the Arts Studio 74 by walking which takes 20-30 minutes.",
+    "On 15:00, I want to social, I go to Trinity Property Management by walking which takes 20-30 minutes.",
+    "On 17:00, I want to eat, I go to Lamole by walking which takes 20-30 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes value between 20-30 minutes."
+  ]
+}

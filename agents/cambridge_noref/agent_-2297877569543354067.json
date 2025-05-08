@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Ms. Stacey Hughes\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tavern in the Square",
+        "distance_km": 1.6404265629221242,
+        "coordinates": [
+          "42.387611",
+          "-71.11898"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 3.3347999744470247,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 2.711788672423067,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Hollis Hall",
+        "distance_km": 2.6833253700106314,
+        "coordinates": [
+          "42.375248",
+          "-71.115747"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Longfellow Bar",
+        "distance_km": 2.5521723955758775,
+        "coordinates": [
+          "42.373636",
+          "-71.121396"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "People in their 60s often prefer walking for short distances, especially in a city like Cambridge with walkable neighborhoods. The 30-40 minute duration fits the previous trips, and walking is the most convenient mode for nearby recreational spots like Barre Soul and Hollis Hall. This mode is also preferred for its health benefits and low cost."
+      },
+      "destination": {
+        "name": "Meeting Place",
+        "distance_km": 1.923313774867262,
+        "coordinates": [
+          "42.382788",
+          "-71.118822"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.7019303010462337,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tavern in the Square",
+        "distance_km": 1.6404265629221242,
+        "coordinates": [
+          "42.387611",
+          "-71.11898"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 1.8253671801500435,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 2.5488738711746497,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39333621066772,
+          -71.13734400853959
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39333621066772,
+        -71.13734400853959
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Tavern in the Square by walking which takes 30-40 minutes.",
+    "On 08:00, I want to shop, I go to Louie's Superette by public_transit which takes 30-40 minutes.",
+    "On 09:00, I want to recreation, I go to Barre Soul by walking which takes 30-40 minutes.",
+    "On 10:00, I want to social, I go to Hollis Hall by walking which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to The Longfellow Bar by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to recreation, I go to Meeting Place by walking which takes People in their 60s often prefer walking for short distances, especially in a city like Cambridge with walkable neighborhoods. The 30-40 minute duration fits the previous trips, and walking is the most convenient mode for nearby recreational spots like Barre Soul and Hollis Hall. This mode is also preferred for its health benefits and low cost. minutes.",
+    "On 15:00, I want to shop, I go to Newbury Comics by walking which takes 30-40 minutes.",
+    "On 17:00, I want to eat, I go to Tavern in the Square by walking which takes 30-40 minutes.",
+    "On 18:00, I want to recreation, I go to Glacken Field by walking which takes 30-40 minutes.",
+    "On 19:00, I want to social, I go to Cambridge Forum by walking which takes 30-40 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 30-40 minutes."
+  ]
+}

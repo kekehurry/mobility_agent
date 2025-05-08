@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"April Hart\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n\t",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Lone Star Taco Bar",
+        "distance_km": 2.577744749426925,
+        "coordinates": [
+          "42.372127",
+          "-71.086885"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Blue Bottle Coffee",
+        "distance_km": 2.6808750980643525,
+        "coordinates": [
+          "42.36335",
+          "-71.08775"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Lone Star Taco Bar",
+        "distance_km": 2.577744749426925,
+        "coordinates": [
+          "42.372127",
+          "-71.086885"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37191063636352,
+          -71.11817969757612
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.6105632351275023,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 2.7927115275446366,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37191063636352,
+          -71.11817969757612
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37191063636352,
+        -71.11817969757612
+      ]
+    },
+    "work": {
+      "name": "Lone Star Taco Bar",
+      "coordinates": [
+        "42.372127",
+        "-71.086885"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Lone Star Taco Bar by walking which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Blue Bottle Coffee by biking which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Lone Star Taco Bar by biking which takes  minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Koch Cafe by biking which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Simoni Skating Rink by biking which takes 20-30 minutes.",
+    "On 21:30, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Timothy Miller\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Emily Chen MD",
+        "distance_km": 0.39534710094056913,
+        "coordinates": [
+          "42.391567",
+          "-71.122984"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39079298625045,
+          -71.12767040117345
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gran Gusto",
+        "distance_km": 0.4489201177136941,
+        "coordinates": [
+          "42.38851",
+          "-71.132169"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Planet Fitness",
+        "distance_km": 0.810842617910096,
+        "coordinates": [
+          "42.387421",
+          "-71.118937"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39079298625045,
+          -71.12767040117345
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39079298625045,
+        -71.12767040117345
+      ]
+    },
+    "work": {
+      "name": "Emily Chen MD",
+      "coordinates": [
+        "42.391567",
+        "-71.122984"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Emily Chen MD by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Gran Gusto by walking which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Planet Fitness by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 0-10 minutes."
+  ]
+}

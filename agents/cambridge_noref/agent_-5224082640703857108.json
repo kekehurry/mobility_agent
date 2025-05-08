@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Jamie Brown\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "TopMac",
+        "distance_km": 2.50251297343001,
+        "coordinates": [
+          "42.370887",
+          "-71.080891"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Muddy Charles Pub at MIT",
+        "distance_km": 2.534926052224274,
+        "coordinates": [
+          "42.359176",
+          "-71.088217"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37463854576792,
+          -71.11084982107707
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "The Muddy Charles Pub at MIT",
+        "distance_km": 2.534926052224274,
+        "coordinates": [
+          "42.359176",
+          "-71.088217"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 1.5184163584626476,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37463854576792,
+          -71.11084982107707
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37463854576792,
+        -71.11084982107707
+      ]
+    },
+    "work": {
+      "name": "The Muddy Charles Pub at MIT",
+      "coordinates": [
+        "42.359176",
+        "-71.088217"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to TopMac by walking which takes 40-50 minutes.",
+    "On 13:00, I want to work, I go to The Muddy Charles Pub at MIT by biking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to The Muddy Charles Pub at MIT by walking which takes 40-50 minutes.",
+    "On 19:00, I want to recreation, I go to Quadrangle Recreational Athletic Center by biking which takes 30-4,  minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Darius Garcia\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 1.568981040530077,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Domino's Pizza",
+        "distance_km": 1.6621813023653749,
+        "coordinates": [
+          "42.369751",
+          "-71.111879"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 1.568981040530077,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 2.523125044971085,
+        "coordinates": [
+          "42.373053",
+          "-71.122393"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Orangetheory Fitness",
+        "distance_km": 1.7201274234788804,
+        "coordinates": [
+          "42.366125",
+          "-71.081942"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35787151254786,
+          -71.0996095401194
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35787151254786,
+        -71.0996095401194
+      ]
+    },
+    "work": {
+      "name": "Cafe Anthony",
+      "coordinates": [
+        "42.369328",
+        "-71.11075"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Cafe Anthony by walking which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Domino's Pizza by biking which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Cafe Anthony by walking which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Flour Bakery Cafe by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Orangetheory Fitness by walking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

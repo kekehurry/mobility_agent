@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Teresa Oliver\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Bom Dough",
+        "distance_km": 5.024619185526847,
+        "coordinates": [
+          "42.373563",
+          "-71.098716"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-5, "
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 1.9074383014211576,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Bom Dough",
+        "distance_km": 5.024619185526847,
+        "coordinates": [
+          "42.373563",
+          "-71.098716"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39169600889048,
+          -71.15461256232652
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Umami Omakase",
+        "distance_km": 2.120779461386604,
+        "coordinates": [
+          "42.396725",
+          "-71.129765"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Kadampa Meditation Center Boston",
+        "distance_km": 2.2244826966082467,
+        "coordinates": [
+          "42.395081",
+          "-71.127985"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39169600889048,
+          -71.15461256232652
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39169600889048,
+        -71.15461256232652
+      ]
+    },
+    "work": {
+      "name": "Bom Dough",
+      "coordinates": [
+        "42.373563",
+        "-71.098716"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Bom Dough by biking which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Concord Avenue Cafe by public_transit which takes 40-5,  minutes.",
+    "On 13:00, I want to work, I go to Bom Dough by biking which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 40-50 minutes.",
+    "On 18:30, I want to eat, I go to Umami Omakase by public_transit which takes 40-50 minutes.",
+    "On 19:30, I want to recreation, I go to Kadampa Meditation Center Boston by auto_passenger which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by auto_passenger which takes 20-30 minutes."
+  ]
+}

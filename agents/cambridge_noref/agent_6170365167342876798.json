@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Erica Perkins\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's\", \"household_size\": 1, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 2.768016308767054,
+        "coordinates": [
+          "42.376328",
+          "-71.124091"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Tatte Bakery",
+        "distance_km": 1.5372119517707723,
+        "coordinates": [
+          "42.36491",
+          "-71.08259"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 2.768016308767054,
+        "coordinates": [
+          "42.376328",
+          "-71.124091"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35925097379903,
+          -71.09961864026747
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chiang Mai Thai",
+        "distance_km": 2.1516686079303,
+        "coordinates": [
+          "42.368429",
+          "-71.076617"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Meeting Place",
+        "distance_km": 3.055736684562476,
+        "coordinates": [
+          "42.382788",
+          "-71.118822"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35925097379903,
+          -71.09961864026747
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35925097379903,
+        -71.09961864026747
+      ]
+    },
+    "work": {
+      "name": "Costa Coffee",
+      "coordinates": [
+        "42.376328",
+        "-71.124091"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Costa Coffee by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Tatte Bakery by biking which takes  minutes.",
+    "On 13:00, I want to work, I go to Costa Coffee by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Chiang Mai Thai by biking which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Meeting Place by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

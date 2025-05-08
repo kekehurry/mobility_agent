@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Michael Burton\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "home_to_shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.0477473547578424,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop_to_home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 2.673588645968841,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 1.8316772343566083,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 0.7642439503783165,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genji Sushi Bars",
+        "distance_km": 0.3197140576912219,
+        "coordinates": [
+          "42.360997",
+          "-71.113944"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "home_to_social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.7857924018704111,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home_to_eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "OneZo",
+        "distance_km": 2.509137142719395,
+        "coordinates": [
+          "42.385946",
+          "-71.119619"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat_to_home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Steam Cafe",
+        "distance_km": 1.9241353084329746,
+        "coordinates": [
+          "42.359174",
+          "-71.093161"
+        ]
+      }
+    },
+    {
+      "start_time": "22:30",
+      "desire": "recreation_to_home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "BodyScapes Fitness",
+        "distance_km": 2.6761330839632533,
+        "coordinates": [
+          "42.363642",
+          "-71.083278"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36353914189194,
+        -71.11576393856944
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to home_to_shop, I go to Stereo Lab by walking which takes 0-10 minutes.",
+    "On 08:30, I want to shop_to_home, I go to Brothers Market by public_transit which takes 30-40 minutes.",
+    "On 11:30, I want to recreation_to_home, I go to Come to Yoga With Barbara Lyon by biking which takes 20-30 minutes.",
+    "On 12:30, I want to home_to_eat, I go to Cafe Anthony by walking which takes 0-10 minutes.",
+    "On 13:30, I want to eat_to_home, I go to Genji Sushi Bars by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to home_to_social, I go to Victoria Goodman Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 18:30, I want to home_to_eat, I go to OneZo by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to eat_to_home, I go to Steam Cafe by private_auto which takes 10-20 minutes.",
+    "On 22:30, I want to recreation_to_home, I go to BodyScapes Fitness by biking which takes 20-30 minutes."
+  ]
+}

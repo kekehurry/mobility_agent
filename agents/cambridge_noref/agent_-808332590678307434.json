@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Mr. Scott Benton V\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Cheesecake Factory",
+        "distance_km": 2.6323225938298687,
+        "coordinates": [
+          "42.367183",
+          "-71.076197"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.8369775657877072,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Chobanian John MD",
+        "distance_km": 3.152700867522133,
+        "coordinates": [
+          "42.374433",
+          "-71.133517"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "time_30-40"
+      },
+      "destination": {
+        "name": "Jose's Mexican Food Truck",
+        "distance_km": 1.571372654533782,
+        "coordinates": [
+          "42.361124",
+          "-71.086595"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 4.426724171893397,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.2240118222546985,
+        "coordinates": [
+          "42.371739",
+          "-71.121116"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Shepen Bernard D Phys",
+        "distance_km": 3.1150220924673793,
+        "coordinates": [
+          "42.37396",
+          "-71.133456"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35602462399607,
+          -71.10438641246786
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35602462399607,
+        -71.10438641246786
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to eat, I go to The Cheesecake Factory by biking which takes 30-40 minutes.",
+    "On 07:00, I want to other_activities, I go to Flour Bakery Cafe by walking which takes  minutes.",
+    "On 09:00, I want to recreation, I go to Chobanian John MD by biking which takes 30-40 minutes.",
+    "On 10:00, I want to eat, I go to Jose's Mexican Food Truck by biking which takes time_30-40 minutes.",
+    "On 12:30, I want to recreation, I go to Fresh Pond by private_auto which takes 20-30 minutes.",
+    "On 14:00, I want to eat, I go to Dunkin' by biking which takes 30-40 minutes.",
+    "On 15:30, I want to recreation, I go to Shepen Bernard D Phys by biking which takes  minutes.",
+    "On 17:00, I want to home, I go to home by biking which takes 30-40 minutes."
+  ]
+}

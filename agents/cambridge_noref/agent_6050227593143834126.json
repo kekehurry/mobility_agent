@@ -1,0 +1,146 @@
+{
+  "profile": "{\n  \"name\": \"Billy Livingston\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 45,\n  \"gender\": \"male\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor_s_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 0.778874353486703,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Daedalus Restaurant",
+        "distance_km": 2.6265146409233724,
+        "coordinates": [
+          "42.371329",
+          "-71.116471"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 0.778874353486703,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39307638847713,
+          -71.12898988892934
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "SOFRA Bakery & Cafe",
+        "distance_km": 2.677964415268341,
+        "coordinates": [
+          "42.374917",
+          "-71.150379"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pang Alexander MD",
+        "distance_km": 2.894076413406765,
+        "coordinates": [
+          "42.374441",
+          "-71.10443"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39307638847713,
+          -71.12898988892934
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39307638847713,
+        -71.12898988892934
+      ]
+    },
+    "work": {
+      "name": "Fresh Pond Beer Garden",
+      "coordinates": [
+        "42.391307",
+        "-71.138143"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Fresh Pond Beer Garden by walking which takes 10-25 minutes.",
+    "On 12:15, I want to eat, I go to Daedalus Restaurant by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Fresh Pond Beer Garden by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes  minutes.",
+    "On 18:30, I want to eat, I go to SOFRA Bakery & Cafe by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Pang Alexander MD by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "profile": "{\"name\": \"Phillip Vazquez\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 2.533320693620992,
+        "coordinates": [
+          "42.364391",
+          "-71.083456"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "Heading home"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37044830876184,
+          -71.11310587437524
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Za",
+        "distance_km": 2.5698692978190283,
+        "coordinates": [
+          "42.363653",
+          "-71.083284"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37044830876184,
+          -71.11310587437524
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37044830876184,
+        -71.11310587437524
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to eat, I go to Barismo by auto_passenger which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by auto_passenger which takes Heading home minutes.",
+    "On 18:00, I want to eat, I go to Za by auto_passenger which takes 20-30 minutes.",
+    "On 20:30, I want to home, I go to home by auto_passenger which takes 20-30 minutes."
+  ]
+}

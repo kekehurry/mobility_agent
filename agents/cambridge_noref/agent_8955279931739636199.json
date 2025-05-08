@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mr. Paul Walker II\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.530888117791163,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tatte Bakery & Cafe",
+        "distance_km": 1.6986577245853414,
+        "coordinates": [
+          "42.366372",
+          "-71.093115"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ":10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.530888117791163,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36979956794155,
+          -71.11321221223405
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Za",
+        "distance_km": 2.5580864537417005,
+        "coordinates": [
+          "42.363653",
+          "-71.083284"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 2.7762413002927215,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36979956794155,
+          -71.11321221223405
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36979956794155,
+        -71.11321221223405
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.362829",
+        "-71.083961"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Dunkin' by public_transit which takes 40-50 minutes.",
+    "On 12:00, I want to eat, I go to Tatte Bakery & Cafe by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to work, I go to Dunkin' by private_auto which takes :10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Za by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to CAC Express by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

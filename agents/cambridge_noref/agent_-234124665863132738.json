@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Mary Lewis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.6433765979227908,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Commonwealth Restaurant and Market",
+        "distance_km": 2.5530529524156442,
+        "coordinates": [
+          "42.363323",
+          "-71.08247"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370569497670765,
+          -71.11188299049255
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "She is likely to take a bike ride for a short distance, taking 10-20 minutes to reach her destination."
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 1.073250961186985,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shepen Bernard D Phys",
+        "distance_km": 1.8163595234505205,
+        "coordinates": [
+          "42.37396",
+          "-71.133456"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370569497670765,
+          -71.11188299049255
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370569497670765,
+        -71.11188299049255
+      ]
+    },
+    "work": {
+      "name": "Commonwealth Restaurant and Market",
+      "coordinates": [
+        "42.363323",
+        "-71.08247"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Flour Bakery Cafe by biking which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Commonwealth Restaurant and Market by biking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Brooklyn Bagel Factory by biking which takes She is likely to take a bike ride for a short distance, taking 10-20 minutes to reach her destination. minutes.",
+    "On 18:30, I want to recreation, I go to Shepen Bernard D Phys by public_transit which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

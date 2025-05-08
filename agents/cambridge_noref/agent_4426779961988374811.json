@@ -1,0 +1,240 @@
+{
+  "profile": "{\n\n    \"name\": \"Nathan Rodriguez\",\n    \"city\": \"Cambridge,MA\",\n    \"age\": 24,\n    \"gender\": \"male\",\n    \"employment_status\": \"not_in_labor_force\",\n    \"education\": \"advanced_degree\",\n    \"household_size\": 2,\n    \"household_income\": \"150k+\",\n    \"available_vehicles\": 1\n}\n\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Forbes Cafe",
+        "distance_km": 2.613045222131094,
+        "coordinates": [
+          "42.359338",
+          "-71.088331"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36958287242674,
+          -71.11688560171505
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hagopian Varant Phys",
+        "distance_km": 1.5058148881113151,
+        "coordinates": [
+          "42.373888",
+          "-71.134221"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 3.1594819069412923,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Forbes Cafe",
+        "distance_km": 2.613045222131094,
+        "coordinates": [
+          "42.359338",
+          "-71.088331"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36958287242674,
+          -71.11688560171505
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Associates In Orthopaedics & Sports Medicine",
+        "distance_km": 1.5368278829024535,
+        "coordinates": [
+          "42.374232",
+          "-71.134459"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36958287242674,
+          -71.11688560171505
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Drifter's Tale Tavern",
+        "distance_km": 1.5607694492978677,
+        "coordinates": [
+          "42.37367",
+          "-71.098756"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Associates In Orthopaedics & Sports Medicine",
+        "distance_km": 1.5368278829024535,
+        "coordinates": [
+          "42.374232",
+          "-71.134459"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36958287242674,
+          -71.11688560171505
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Row 34 Cambridge",
+        "distance_km": 2.610663496980087,
+        "coordinates": [
+          "42.362309",
+          "-71.086749"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36958287242674,
+          -71.11688560171505
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36958287242674,
+        -71.11688560171505
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Forbes Cafe by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 08:30, I want to recreation, I go to Hagopian Varant Phys by private_auto which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to Trader Joe's by private_auto which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Forbes Cafe by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 13:30, I want to recreation, I go to Associates In Orthopaedics & Sports Medicine by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to eat, I go to Drifter's Tale Tavern by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to recreation, I go to Associates In Orthopaedics & Sports Medicine by private_auto which takes 30-40 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 19:30, I want to eat, I go to Row 34 Cambridge by private_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

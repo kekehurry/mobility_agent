@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Timothy Miller\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CLUBWAKA Boston",
+        "distance_km": 0.43925658796785,
+        "coordinates": [
+          "42.388815",
+          "-71.133199"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cabot Cafe",
+        "distance_km": 0.7114432351106155,
+        "coordinates": [
+          "42.381988",
+          "-71.124079"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CLUBWAKA Boston",
+        "distance_km": 0.43925658796785,
+        "coordinates": [
+          "42.388815",
+          "-71.133199"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3850228710049,
+          -71.13168666151411
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.9177153414507206,
+        "coordinates": [
+          "42.389201",
+          "-71.141301"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Catholic Charitable Bureau of the Archdiocese of Boston",
+        "distance_km": 0.4920744065654814,
+        "coordinates": [
+          "42.389163",
+          "-71.129561"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3850228710049,
+          -71.13168666151411
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3850228710049,
+        -71.13168666151411
+      ]
+    },
+    "work": {
+      "name": "CLUBWAKA Boston",
+      "coordinates": [
+        "42.388815",
+        "-71.133199"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to CLUBWAKA Boston by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Cabot Cafe by walking which takes  minutes.",
+    "On 13:00, I want to work, I go to CLUBWAKA Boston by walking which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Genji Express by walking which takes  minutes.",
+    "On 19:00, I want to recreation, I go to Catholic Charitable Bureau of the Archdiocese of Boston by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

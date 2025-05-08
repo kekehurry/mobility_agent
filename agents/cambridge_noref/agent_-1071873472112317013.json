@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Sarah Smith\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 4.576982455731836,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Big Easy Cajun",
+        "distance_km": 2.5927313134062526,
+        "coordinates": [
+          "42.367333",
+          "-71.07649"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 4.576982455731836,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36311908094791,
+          -71.10744743212689
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Villa Fresh Italian Kitchen",
+        "distance_km": 2.6080981759503064,
+        "coordinates": [
+          "42.368479",
+          "-71.076622"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Magazine Beach Bath House & Pool",
+        "distance_km": 0.9409538141661293,
+        "coordinates": [
+          "42.356921",
+          "-71.115233"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36311908094791,
+          -71.10744743212689
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36311908094791,
+        -71.10744743212689
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.395742",
+        "-71.141396"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Dunkin' by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Big Easy Cajun by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Dunkin' by public_transit which takes 40-50 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 40-50 minutes.",
+    "On 18:30, I want to eat, I go to Villa Fresh Italian Kitchen by private_auto which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Magazine Beach Bath House & Pool by walking which takes 10-25 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes  minutes."
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Jennifer Duncan\", \"city\": \"Cambridge,MA\", \"age\": 32, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "maintain",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 1.5266819536297804,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe Central Square",
+        "distance_km": 0.19356211526788458,
+        "coordinates": [
+          "42.366709",
+          "-71.105369"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 0.6884409442037976,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.3599823052738438,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 1.748467108833088,
+        "coordinates": [
+          "42.36255",
+          "-71.085605"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.30260330271299224,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "maintain",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Democracy Center",
+        "distance_km": 0.9636683803016227,
+        "coordinates": [
+          "42.371292",
+          "-71.116337"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "BollyX",
+        "distance_km": 0.4935515266793097,
+        "coordinates": [
+          "42.36468",
+          "-71.102113"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe Central Square",
+        "distance_km": 0.19356211526788458,
+        "coordinates": [
+          "42.366709",
+          "-71.105369"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.4152036615293255,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36845037384905,
+          -71.10528303596234
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36845037384905,
+        -71.10528303596234
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to maintain, I go to Done Right Care by walking which takes 0-10 minutes.",
+    "On 08:00, I want to eat, I go to Life Alive Organic Cafe Central Square by biking which takes 0-10 minutes.",
+    "On 09:00, I want to recreation, I go to Willis Moore Youth Center by public_transit which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Gap by biking which takes 10-20 minutes.",
+    "On 13:00, I want to eat, I go to Chipotle Mexican Grill by biking which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to Wellmet Project by walking which takes 0-10 minutes.",
+    "On 16:00, I want to maintain, I go to The Democracy Center by biking which takes 10-20 minutes.",
+    "On 17:00, I want to recreation, I go to BollyX by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Life Alive Organic Cafe Central Square by walking which takes 0-10 minutes.",
+    "On 20:00, I want to social, I go to Trinity Property Management by walking which takes  minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

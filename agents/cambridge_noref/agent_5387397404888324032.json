@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Kevin Mann\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelor\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "J P Licks Cambridge",
+        "distance_km": 2.774828473852666,
+        "coordinates": [
+          "42.372779",
+          "-71.117504"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 2.5855791054242876,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "F45 Training",
+        "distance_km": 2.9870532369326566,
+        "coordinates": [
+          "42.373116",
+          "-71.120108"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Cambridge Queen's Head",
+        "distance_km": 2.7742338899951253,
+        "coordinates": [
+          "42.375955",
+          "-71.115275"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 3.0725869374159966,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 2.3629801713485983,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Rieder Carolyn A Psycholgst",
+        "distance_km": 3.065272086729339,
+        "coordinates": [
+          "42.37251",
+          "-71.121447"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "J P Licks Cambridge",
+        "distance_km": 2.774828473852666,
+        "coordinates": [
+          "42.372779",
+          "-71.117504"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 0.24848097344928075,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36289566620575,
+          -71.08656610542675
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36289566620575,
+        -71.08656610542675
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to J P Licks Cambridge by biking which takes 20-30 minutes.",
+    "On 08:00, I want to shop, I go to Used Sounds of Harvard Square by biking which takes 20-30 minutes.",
+    "On 09:30, I want to recreation, I go to F45 Training by biking which takes 20-30 minutes.",
+    "On 10:30, I want to eat, I go to The Cambridge Queen's Head by biking which takes 20-30 minutes.",
+    "On 12:00, I want to social, I go to Trinity Property Management by public_transit which takes 30-40 minutes.",
+    "On 14:00, I want to shop, I go to Micro Center by public_transit which takes 30-40 minutes.",
+    "On 15:30, I want to recreation, I go to Rieder Carolyn A Psycholgst by biking which takes 20-30 minutes.",
+    "On 17:30, I want to eat, I go to J P Licks Cambridge by biking which takes 20-30 minutes.",
+    "On 19:00, I want to social, I go to One Broadway by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 20-30 minutes."
+  ]
+}

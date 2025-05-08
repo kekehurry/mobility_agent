@@ -1,0 +1,70 @@
+{
+  "profile": "{\"name\": \"Anthony Hayes\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n                ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3696691131589,
+          -71.13340241512934
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-4, "
+      },
+      "destination": {
+        "name": "Gyu-Kaku",
+        "distance_km": 1.0232474926720707,
+        "coordinates": [
+          "42.372084",
+          "-71.121414"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3696691131589,
+          -71.13340241512934
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3696691131589,
+        -71.13340241512934
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 17:00, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Gyu-Kaku by private_auto which takes 30-4,  minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

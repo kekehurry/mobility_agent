@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Jeffrey Hogan DVM\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"professional_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 2.5633693461309535,
+        "coordinates": [
+          "42.389201",
+          "-71.141301"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37300811055566,
+          -71.11912458197033
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 2.5750300267164383,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37300811055566,
+          -71.11912458197033
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Carol Faulkner Yoga",
+        "distance_km": 2.63704745240606,
+        "coordinates": [
+          "42.375024",
+          "-71.151026"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.73273734812123,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37300811055566,
+          -71.11912458197033
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 3.575882828715034,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37300811055566,
+          -71.11912458197033
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ": "
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37300811055566,
+          -71.11912458197033
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 3.314969224479966,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ">=30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37300811055566,
+          -71.11912458197033
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37300811055566,
+        -71.11912458197033
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to eat, I go to Genji Express by public_transit which takes 40-50 minutes.",
+    "On 08:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 08:30, I want to shop, I go to T.J. Maxx by public_transit which takes 30-40 minutes.",
+    "On 10:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to recreation, I go to Carol Faulkner Yoga by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to eat, I go to Koch Cafe by public_transit which takes  minutes.",
+    "On 13:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 14:00, I want to shop, I go to Old Navy by public_transit which takes 40-50 minutes.",
+    "On 15:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to home, I go to home by public_transit which takes :  minutes.",
+    "On 20:00, I want to recreation, I go to Kendall Club by on_demand_auto which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes >=30 minutes."
+  ]
+}

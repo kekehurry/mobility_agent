@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Andrea Harrison\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Loews Sony Theatres",
+        "distance_km": 2.166661878092158,
+        "coordinates": [
+          "42.374256",
+          "-71.119386"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Poke City",
+        "distance_km": 2.5941256699734083,
+        "coordinates": [
+          "42.383958",
+          "-71.119827"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37125923904474,
+          -71.09339285644994
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 1.73670015776309,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "a few minutes"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.989238503936016,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Little Lingo",
+        "distance_km": 1.8760657007785821,
+        "coordinates": [
+          "42.369939",
+          "-71.070686"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 2.189000026992322,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 1.73670015776309,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Zoe's",
+        "distance_km": 1.6489623893820606,
+        "coordinates": [
+          "42.370759",
+          "-71.113401"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.989238503936016,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37125923904474,
+          -71.09339285644994
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37125923904474,
+        -71.09339285644994
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to other_activities, I go to Loews Sony Theatres by on_demand_auto which takes 10-20 minutes.",
+    "On 07:30, I want to eat, I go to Poke City by private_auto which takes 10-20 minutes.",
+    "On 08:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 08:30, I want to other_activities, I go to Harvard Film Archive by private_auto which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to H Mart by private_auto which takes a few minutes minutes.",
+    "On 11:30, I want to eat, I go to Little Lingo by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to recreation, I go to Barre Soul by private_auto which takes 10-20 minutes.",
+    "On 14:00, I want to other_activities, I go to Harvard Film Archive by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to eat, I go to Zoe's by on_demand_auto which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to H Mart by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

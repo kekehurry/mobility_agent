@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Benjamin Smith\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Fiorella's Express",
+        "distance_km": 2.5707554214677155,
+        "coordinates": [
+          "42.397391",
+          "-71.129866"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "Heart of the city is 5 miles away, and public transit takes 30-40 minutes."
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 1.6377257209591807,
+        "coordinates": [
+          "42.36498",
+          "-71.104203"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37871634067883,
+          -71.11142612018521
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Fiorella's Express",
+        "distance_km": 2.5707554214677155,
+        "coordinates": [
+          "42.397391",
+          "-71.129866"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37871634067883,
+          -71.11142612018521
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37871634067883,
+        -71.11142612018521
+      ]
+    },
+    "work": {
+      "name": "Subway",
+      "coordinates": [
+        "42.36498",
+        "-71.104203"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to eat, I go to Fiorella's Express by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to work, I go to Subway by public_transit which takes Heart of the city is 5 miles away, and public transit takes 30-40 minutes. minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Fiorella's Express by public_transit which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 40-50 minutes."
+  ]
+}

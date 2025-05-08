@@ -1,0 +1,257 @@
+{
+  "profile": "{\"name\": \"Colleen O'Neill\", \"city\": \"Cambridge, MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"75k-100k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.20804359188973023,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 0.5897821330009404,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 2.2147694952593424,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37041811524316,
+          -71.10806309351516
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Steinberg Jeffrey MD",
+        "distance_km": 0.5550289645774997,
+        "coordinates": [
+          "42.374508",
+          "-71.104192"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BerryLine",
+        "distance_km": 0.5507315674416652,
+        "coordinates": [
+          "42.371278",
+          "-71.114648"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cheapo Records",
+        "distance_km": 0.8380825129827194,
+        "coordinates": [
+          "42.364206",
+          "-71.102289"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37041811524316,
+          -71.10806309351516
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.20912987260643762,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37041811524316,
+          -71.10806309351516
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friedman Cary MD",
+        "distance_km": 0.28082111603565363,
+        "coordinates": [
+          "42.367945",
+          "-71.107356"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37041811524316,
+          -71.10806309351516
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.20804359188973023,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Karma Yoga Studio",
+        "distance_km": 0.48780760870416784,
+        "coordinates": [
+          "42.370637",
+          "-71.113978"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37041811524316,
+        -71.10806309351516
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Dado Tea by walking which takes 0-10 minutes.",
+    "On 07:45, I want to recreation, I go to Spaulding National Running Center by walking which takes  minutes.",
+    "On 08:15, I want to shop, I go to Brothers Market by public_transit which takes 20-30 minutes.",
+    "On 09:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 10:00, I want to recreation, I go to Steinberg Jeffrey MD by walking which takes  minutes.",
+    "On 11:00, I want to eat, I go to BerryLine by walking which takes 0-10 minutes.",
+    "On 12:30, I want to shop, I go to Cheapo Records by walking which takes  minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to Victoria Goodman Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 15:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:00, I want to recreation, I go to Friedman Cary MD by walking which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Dado Tea by walking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Karma Yoga Studio by walking which takes 0-10 minutes."
+  ]
+}

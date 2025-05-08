@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Courtney Garcia\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"75k-10,000\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Helmand Restaurant",
+        "distance_km": 5.171893950203837,
+        "coordinates": [
+          "42.366473",
+          "-71.078164"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Ole to Go",
+        "distance_km": 3.1755248653560475,
+        "coordinates": [
+          "42.374071",
+          "-71.100144"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Helmand Restaurant",
+        "distance_km": 5.171893950203837,
+        "coordinates": [
+          "42.366473",
+          "-71.078164"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38725394248999,
+          -71.13435832659282
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "Heatmap: 20-30"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.7912781304798349,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 2.502246505659335,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38725394248999,
+          -71.13435832659282
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38725394248999,
+        -71.13435832659282
+      ]
+    },
+    "work": {
+      "name": "Helmand Restaurant",
+      "coordinates": [
+        "42.366473",
+        "-71.078164"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Helmand Restaurant by auto_passenger which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Ole to Go by auto_passenger which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Helmand Restaurant by auto_passenger which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by auto_passenger which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Starbucks by auto_passenger which takes Heatmap: 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to McCarter R Harris Psycholgst by auto_passenger which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by auto_passenger which takes 20-30 minutes."
+  ]
+}

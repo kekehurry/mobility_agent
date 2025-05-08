@@ -1,0 +1,155 @@
+{
+  "profile": "{\n  \"name\": \"Lori Miller\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 34,\n  \"gender\": \"female\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"high_school\",\n  \"household_size\": 1,\n  \"household_income\": \"Under 25k\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bourbon Coffee",
+        "distance_km": 0.5137502383941881,
+        "coordinates": [
+          "42.387418",
+          "-71.11896"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "G & J Variety",
+        "distance_km": 2.8318795789052955,
+        "coordinates": [
+          "42.369191",
+          "-71.092624"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Dance Complex",
+        "distance_km": 2.6255244328199243,
+        "coordinates": [
+          "42.364228",
+          "-71.1023"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BerryLine",
+        "distance_km": 0.16788671016096066,
+        "coordinates": [
+          "42.382035",
+          "-71.120024"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Magnolia",
+        "distance_km": 4.043439965474601,
+        "coordinates": [
+          "42.367449",
+          "-71.077102"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rock N Fitness",
+        "distance_km": 0.645045122183996,
+        "coordinates": [
+          "42.388524",
+          "-71.118395"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Christina's Homemade Ice Cream",
+        "distance_km": 2.1671004281443143,
+        "coordinates": [
+          "42.373614",
+          "-71.098439"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "user's current time is 17:30, and the target is home. Based on the memory, the previous trips have used walking for short distances. The duration for walking would be 0-10 minutes as it's the most common for short trips."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38315782524514,
+          -71.12138864932061
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38315782524514,
+        -71.12138864932061
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Bourbon Coffee by walking which takes 0-10 minutes.",
+    "On 08:00, I want to shop, I go to G & J Variety by public_transit which takes 30-40 minutes.",
+    "On 09:00, I want to recreation, I go to The Dance Complex by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to eat, I go to BerryLine by walking which takes 0-10 minutes.",
+    "On 12:30, I want to shop, I go to Magnolia by public_transit which takes 30-40 minutes.",
+    "On 14:00, I want to recreation, I go to Rock N Fitness by walking which takes 0-10 minutes.",
+    "On 16:30, I want to eat, I go to Christina's Homemade Ice Cream by biking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes user's current time is 17:30, and the target is home. Based on the memory, the previous trips have used walking for short distances. The duration for walking would be 0-10 minutes as it's the most common for short trips. minutes."
+  ]
+}

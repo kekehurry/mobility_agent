@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Kendra Underwood\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"student\", \"education\": \"high_school\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 2.509087505961306,
+        "coordinates": [
+          "42.363793",
+          "-71.096798"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 4.245654842247381,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37732075563433,
+          -71.12119273708495
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Brew on the Grid",
+        "distance_km": 2.509234541868958,
+        "coordinates": [
+          "42.36377",
+          "-71.096819"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37732075563433,
+          -71.12119273708495
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37732075563433,
+        -71.12119273708495
+      ]
+    },
+    "school": {
+      "name": "Hult International Business School",
+      "coordinates": [
+        "42.36979",
+        "-71.070656"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Newtowne Variety by public_transit which takes 30-40 minutes.",
+    "On 13:15, I want to school, I go to Hult International Business School by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Brew on the Grid by private_auto which takes 20-30 minutes.",
+    "On 21:30, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Rebecca Morgan\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 2.553653427054874,
+        "coordinates": [
+          "42.363793",
+          "-71.096798"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 0.5096732329010343,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 3.502218459469309,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Club Passim",
+        "distance_km": 0.6502248377010943,
+        "coordinates": [
+          "42.374223",
+          "-71.120026"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brickworks Condominiums",
+        "distance_km": 2.00023012831427,
+        "coordinates": [
+          "42.392231",
+          "-71.136613"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380003480003126,
+          -71.11878177817503
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.380003480003126,
+        -71.11878177817503
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Newtowne Variety by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to recreation, I go to Harvard Yard by walking which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Brothers Market by public_transit which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Club Passim by walking which takes user_input minutes.",
+    "On 18:30, I want to social, I go to Brickworks Condominiums by biking which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

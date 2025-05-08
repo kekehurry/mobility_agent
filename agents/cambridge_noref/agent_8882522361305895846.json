@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Ms. Stacey Hughes\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pronto Cafe",
+        "distance_km": 5.0916701593466,
+        "coordinates": [
+          "42.372118",
+          "-71.087085"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Pronto Cafe",
+        "distance_km": 5.0916701593466,
+        "coordinates": [
+          "42.372118",
+          "-71.087085"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "Heatmap: 20-30"
+      },
+      "destination": {
+        "name": "Pronto Cafe",
+        "distance_km": 5.0916701593466,
+        "coordinates": [
+          "42.372118",
+          "-71.087085"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.398393624268124,
+          -71.1377482357068
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bon Me Harvard Truck",
+        "distance_km": 2.9841671394239517,
+        "coordinates": [
+          "42.37644",
+          "-71.116861"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Rochman Guy M Surg",
+        "distance_km": 2.6982933376502274,
+        "coordinates": [
+          "42.374237",
+          "-71.134303"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.398393624268124,
+          -71.1377482357068
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.398393624268124,
+        -71.1377482357068
+      ]
+    },
+    "work": {
+      "name": "Pronto Cafe",
+      "coordinates": [
+        "42.372118",
+        "-71.087085"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Pronto Cafe by auto_passenger which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Pronto Cafe by auto_passenger which takes 20-30 minutes.",
+    "On 12:30, I want to work, I go to Pronto Cafe by private_auto which takes Heatmap: 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Bon Me Harvard Truck by auto_passenger which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Rochman Guy M Surg by auto_passenger which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

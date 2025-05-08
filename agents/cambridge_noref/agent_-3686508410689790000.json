@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Ian Murphy\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"college\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chocho's",
+        "distance_km": 0.2355740141939744,
+        "coordinates": [
+          "42.387181",
+          "-71.11849"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Maharaja Restaurant",
+        "distance_km": 0.7859016369388668,
+        "coordinates": [
+          "42.391279",
+          "-71.123481"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.32151248832496,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 1.0275132629619725,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Yume Ga Arukara",
+        "distance_km": 0.2487938411527504,
+        "coordinates": [
+          "42.387293",
+          "-71.118414"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fit Fix",
+        "distance_km": 0.4456298905468338,
+        "coordinates": [
+          "42.381162",
+          "-71.120043"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.210089769071376,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38508012012548,
+          -71.11888063437245
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rosie's Bakery",
+        "distance_km": 0.1256460084006449,
+        "coordinates": [
+          "42.38608",
+          "-71.119594"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Healthworks Fitness",
+        "distance_km": 0.42520585597844096,
+        "coordinates": [
+          "42.388908",
+          "-71.118896"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38508012012548,
+          -71.11888063437245
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38508012012548,
+        -71.11888063437245
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to other_activities, I go to Chocho's by on_demand_auto which takes 0-10 minutes.",
+    "On 08:30, I want to eat, I go to Maharaja Restaurant by on_demand_auto which takes  minutes.",
+    "On 09:00, I want to shop, I go to Gourmet Express by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to recreation, I go to Harvard Yard by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Yume Ga Arukara by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to recreation, I go to Fit Fix by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Rosie's Bakery by on_demand_auto which takes 0-10 minutes.",
+    "On 19:30, I want to recreation, I go to Healthworks Fitness by on_demand_auto which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

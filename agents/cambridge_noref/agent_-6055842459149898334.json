@@ -1,0 +1,189 @@
+{
+  "profile": "{\n\n  \"name\": \"Benjamin Smith\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 45,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"bachelor_degree\",\n  \"household_size\": 2,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": 2\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dumpling House",
+        "distance_km": 2.7366752026317864,
+        "coordinates": [
+          "42.368689",
+          "-71.109924"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Still Water Yoga Cambridge",
+        "distance_km": 1.5726335797758344,
+        "coordinates": [
+          "42.37496",
+          "-71.150975"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 3.462761795554828,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dumpling House",
+        "distance_km": 2.7366752026317864,
+        "coordinates": [
+          "42.368689",
+          "-71.109924"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 2.5269303717458995,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.8490808601976128,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Tampopo",
+        "distance_km": 1.5018013264944434,
+        "coordinates": [
+          "42.387345",
+          "-71.118497"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 3.3141265138812024,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 4.439937564647456,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 2.7114862303677834,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38385072516658,
+        -71.13611446770192
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Dumpling House by private_auto which takes 20-30 minutes.",
+    "On 08:00, I want to recreation, I go to Still Water Yoga Cambridge by biking which takes 10-20 minutes.",
+    "On 09:00, I want to shop, I go to Micro Center by private_auto which takes 20-30 minutes.",
+    "On 11:00, I want to eat, I go to Dumpling House by private_auto which takes 20-30 minutes.",
+    "On 12:00, I want to recreation, I go to Spaulding National Running Center by private_auto which takes 20-30 minutes.",
+    "On 14:00, I want to shop, I go to Stereo Lab by private_auto which takes  minutes.",
+    "On 16:00, I want to eat, I go to Tampopo by private_auto which takes 20-30 minutes.",
+    "On 17:30, I want to social, I go to Wellmet Project by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Simoni Skating Rink by private_auto which takes 20-30 minutes.",
+    "On 20:30, I want to eat, I go to Dado Tea by private_auto which takes 20-30 minutes."
+  ]
+}

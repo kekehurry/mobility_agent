@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Jenna Harris\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 5, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Rosie's Bakery",
+        "distance_km": 2.569386947141061,
+        "coordinates": [
+          "42.38608",
+          "-71.119594"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 2.474155916161567,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Planet Fitness",
+        "distance_km": 2.7063359258790256,
+        "coordinates": [
+          "42.387421",
+          "-71.118937"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Pita Cambridge",
+        "distance_km": 1.5948416101794192,
+        "coordinates": [
+          "42.374049",
+          "-71.100609"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Cove Kendall",
+        "distance_km": 2.4811688138418644,
+        "coordinates": [
+          "42.364359",
+          "-71.083481"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Shepen Bernard D Phys",
+        "distance_km": 2.0156056426396023,
+        "coordinates": [
+          "42.37396",
+          "-71.133456"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Christina's Homemade Ice Cream",
+        "distance_km": 1.686726405945813,
+        "coordinates": [
+          "42.373614",
+          "-71.098439"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Umbarger Carter PHD",
+        "distance_km": 2.7139593058395883,
+        "coordinates": [
+          "42.383126",
+          "-71.132985"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "50-60"
+      },
+      "destination": {
+        "name": "Glacken Field",
+        "distance_km": 3.633796513150299,
+        "coordinates": [
+          "42.380494",
+          "-71.151174"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.363384226518384,
+        -71.11357195552598
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Rosie's Bakery by private_auto which takes 40-50 minutes.",
+    "On 07:45, I want to shop, I go to Roche Brothers Supermarket by walking which takes 30-40 minutes.",
+    "On 08:30, I want to recreation, I go to Planet Fitness by public_transit which takes 40-50 minutes.",
+    "On 11:00, I want to eat, I go to Pita Cambridge by public_transit which takes 40-50 minutes.",
+    "On 12:30, I want to social, I go to Cove Kendall by public_transit which takes 40-50 minutes.",
+    "On 16:00, I want to recreation, I go to Shepen Bernard D Phys by public_transit which takes  minutes.",
+    "On 18:00, I want to eat, I go to Christina's Homemade Ice Cream by walking which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Umbarger Carter PHD by walking which takes 30-40 minutes.",
+    "On 21:00, I want to other_activities, I go to Glacken Field by public_transit which takes 50-60 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Ashley Baker\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "TechFusion",
+        "distance_km": 5.146777284361287,
+        "coordinates": [
+          "42.394085",
+          "-71.15794"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvest",
+        "distance_km": 1.5384877047720655,
+        "coordinates": [
+          "42.373762",
+          "-71.12185"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "TechFusion",
+        "distance_km": 5.146777284361287,
+        "coordinates": [
+          "42.394085",
+          "-71.15794"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37140206406606,
+          -71.10344440234286
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Cambridge House of Pizza",
+        "distance_km": 3.6553614468005944,
+        "coordinates": [
+          "42.397326",
+          "-71.130785"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "time_30-40"
+      },
+      "destination": {
+        "name": "Ruymann Frederick W MD",
+        "distance_km": 2.565092667667718,
+        "coordinates": [
+          "42.374253",
+          "-71.134349"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "user's current time is 20:00, and the target is home. The previous trips to home used public_transit with a duration of 30-40 minutes. Given the consistency in travel patterns and the lack of alternative modes with similar convenience and cost, public_transit remains the most probable choice. The duration is expected to be within the 30-40 minutes range, as it's the most common duration for public transit trips in this context."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37140206406606,
+          -71.10344440234286
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37140206406606,
+        -71.10344440234286
+      ]
+    },
+    "work": {
+      "name": "TechFusion",
+      "coordinates": [
+        "42.394085",
+        "-71.15794"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to TechFusion by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Harvest by on_demand_auto which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to TechFusion by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Cambridge House of Pizza by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Ruymann Frederick W MD by public_transit which takes time_30-40 minutes.",
+    "On 20:00, I want to home, I go to home by public_transit which takes user's current time is 20:00, and the target is home. The previous trips to home used public_transit with a duration of 30-40 minutes. Given the consistency in travel patterns and the lack of alternative modes with similar convenience and cost, public_transit remains the most probable choice. The duration is expected to be within the 30-40 minutes range, as it's the most common duration for public transit trips in this context. minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Miranda Rodriguez\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Le's Restaurant Cambridge",
+        "distance_km": 1.5729940759234398,
+        "coordinates": [
+          "42.37249",
+          "-71.119517"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Richard A And Susan F Smith Campus Center",
+        "distance_km": 1.5372090867763637,
+        "coordinates": [
+          "42.372678",
+          "-71.118648"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Le's Restaurant Cambridge",
+        "distance_km": 1.5729940759234398,
+        "coordinates": [
+          "42.37249",
+          "-71.119517"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362678175963964,
+          -71.10574771498857
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Tahaza Hummus Kitchen",
+        "distance_km": 2.50043495682535,
+        "coordinates": [
+          "42.369777",
+          "-71.076942"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Leone Jas P Psycholgst",
+        "distance_km": 0.5963782602889487,
+        "coordinates": [
+          "42.367909",
+          "-71.107379"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "She is likely to take private_auto with 20-30 minutes duration as it's the most direct and convenient way to get home from her workplace."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.362678175963964,
+          -71.10574771498857
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.362678175963964,
+        -71.10574771498857
+      ]
+    },
+    "work": {
+      "name": "Le's Restaurant Cambridge",
+      "coordinates": [
+        "42.37249",
+        "-71.119517"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Le's Restaurant Cambridge by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Richard A And Susan F Smith Campus Center by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Le's Restaurant Cambridge by private_auto which takes  minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Tahaza Hummus Kitchen by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Leone Jas P Psycholgst by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes She is likely to take private_auto with 20-30 minutes duration as it's the most direct and convenient way to get home from her workplace. minutes."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "profile": "{\"name\": \"Monique Hall\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Caff\u00e8 Nero",
+        "distance_km": 2.0872653702257926,
+        "coordinates": [
+          "42.388049",
+          "-71.119664"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Forbes Cafe",
+        "distance_km": 2.5833844195179716,
+        "coordinates": [
+          "42.359338",
+          "-71.088331"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Jose's Mexican Food Truck",
+        "distance_km": 2.6375063569009143,
+        "coordinates": [
+          "42.361124",
+          "-71.086595"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36939560651435,
+          -71.11660753849176
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36939560651435,
+        -71.11660753849176
+      ]
+    },
+    "work": {
+      "name": "Forbes Cafe",
+      "coordinates": [
+        "42.359338",
+        "-71.088331"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Caff\u00e8 Nero by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Forbes Cafe by walking which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Jose's Mexican Food Truck by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

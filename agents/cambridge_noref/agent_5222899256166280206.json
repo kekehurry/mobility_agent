@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Daniel O'Neill\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelor's degree\", \"household_size\": 3, \"household_income\": \"100k-149k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mr Bartley's Gourmet Burgers",
+        "distance_km": 0.6482704991984277,
+        "coordinates": [
+          "42.372417",
+          "-71.11612"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "American Legion Marsh Post 442",
+        "distance_km": 2.7732521550275977,
+        "coordinates": [
+          "42.365182",
+          "-71.140283"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Calumet Photo Boston",
+        "distance_km": 2.8734807674080294,
+        "coordinates": [
+          "42.366302",
+          "-71.077689"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tommy Doyle's",
+        "distance_km": 1.0112026510770897,
+        "coordinates": [
+          "42.372315",
+          "-71.121169"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 2.328406740469595,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Masscraft Masonry & Construction",
+        "distance_km": 2.6767945988305257,
+        "coordinates": [
+          "42.395211",
+          "-71.129748"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "People's choice for recreation trips on public transit is 20-30 minutes"
+      },
+      "destination": {
+        "name": "Boston Swing Central",
+        "distance_km": 2.8274809855840246,
+        "coordinates": [
+          "42.387908",
+          "-71.140388"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Veggie Galaxy",
+        "distance_km": 1.5607856394391761,
+        "coordinates": [
+          "42.363651",
+          "-71.101142"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Evolve Fitness",
+        "distance_km": 2.7821755297845936,
+        "coordinates": [
+          "42.387936",
+          "-71.139745"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37607651637405,
+        -71.10998880762736
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to eat, I go to Mr Bartley's Gourmet Burgers by public_transit which takes 10-20 minutes.",
+    "On 08:30, I want to recreation, I go to American Legion Marsh Post 442 by public_transit which takes 20-30 minutes.",
+    "On 10:00, I want to shop, I go to Calumet Photo Boston by public_transit which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Tommy Doyle's by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to recreation, I go to Cambridge Center Roof Garden by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to social, I go to Masscraft Masonry & Construction by biking which takes 10-20 minutes.",
+    "On 17:00, I want to recreation, I go to Boston Swing Central by public_transit which takes People's choice for recreation trips on public transit is 20-30 minutes minutes.",
+    "On 18:30, I want to eat, I go to Veggie Galaxy by public_transit which takes 10-20 minutes.",
+    "On 20:00, I want to recreation, I go to Evolve Fitness by public_transit which takes 20-30 minutes."
+  ]
+}

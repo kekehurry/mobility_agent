@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Ashley Parker\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"unemployed\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Blackbird Doughnuts Harvard Square",
+        "distance_km": 0.21003760271237992,
+        "coordinates": [
+          "42.372663",
+          "-71.118796"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fresh Pond Entertainment Cinemas",
+        "distance_km": 2.821313758099677,
+        "coordinates": [
+          "42.391289",
+          "-71.138141"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "ZuZu",
+        "distance_km": 1.5456936903837015,
+        "coordinates": [
+          "42.363678",
+          "-71.101427"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.27843037000749027,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vegan Bowls For All",
+        "distance_km": 0.3049398831300552,
+        "coordinates": [
+          "42.372053",
+          "-71.120749"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Spaulding National Running Center",
+        "distance_km": 0.9511457771306057,
+        "coordinates": [
+          "42.375709",
+          "-71.107464"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Scalable Display Technology",
+        "distance_km": 1.1554609649755554,
+        "coordinates": [
+          "42.365903",
+          "-71.105144"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yotopia",
+        "distance_km": 1.79501904552894,
+        "coordinates": [
+          "42.387287",
+          "-71.118641"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Lawner Peter PHD",
+        "distance_km": 1.01578434262838,
+        "coordinates": [
+          "42.374779",
+          "-71.128574"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Always Best Care",
+        "distance_km": 2.7817722545236694,
+        "coordinates": [
+          "42.394924",
+          "-71.127906"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Taco Bell",
+        "distance_km": 3.371234955286954,
+        "coordinates": [
+          "42.368307",
+          "-71.076501"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.371160439547936,
+        -71.11724793704472
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Blackbird Doughnuts Harvard Square by walking which takes 0-10 minutes.",
+    "On 07:30, I want to recreation, I go to Fresh Pond Entertainment Cinemas by biking which takes 10-20 minutes.",
+    "On 08:00, I want to eat, I go to ZuZu by public_transit which takes 20-30 minutes.",
+    "On 09:00, I want to shop, I go to Newbury Comics by walking which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Vegan Bowls For All by other_travel_mode which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Spaulding National Running Center by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to shop, I go to Scalable Display Technology by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Yotopia by biking which takes 10-20 minutes.",
+    "On 18:30, I want to recreation, I go to Lawner Peter PHD by public_transit which takes  minutes.",
+    "On 20:00, I want to social, I go to Always Best Care by biking which takes 10-20 minutes.",
+    "On 21:30, I want to eat, I go to Taco Bell by public_transit which takes 20-30 minutes."
+  ]
+}

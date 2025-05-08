@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Alicia Anderson\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Geppetto",
+        "distance_km": 5.050545992684362,
+        "coordinates": [
+          "42.372012",
+          "-71.075782"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Newtowne Grille",
+        "distance_km": 0.9207976070002732,
+        "coordinates": [
+          "42.389719",
+          "-71.120012"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "How long does it take to drive from Newtowne Grille to work?"
+      },
+      "destination": {
+        "name": "Geppetto",
+        "distance_km": 5.050545992684362,
+        "coordinates": [
+          "42.372012",
+          "-71.075782"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39478352783489,
+          -71.12886503140119
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe",
+        "distance_km": 2.5442175346461218,
+        "coordinates": [
+          "42.372937",
+          "-71.119585"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Carol Faulkner Yoga",
+        "distance_km": 2.8544757938381986,
+        "coordinates": [
+          "42.375024",
+          "-71.151026"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39478352783489,
+          -71.12886503140119
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39478352783489,
+        -71.12886503140119
+      ]
+    },
+    "work": {
+      "name": "Geppetto",
+      "coordinates": [
+        "42.372012",
+        "-71.075782"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Geppetto by auto_passenger which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Newtowne Grille by walking which takes 10-25 minutes.",
+    "On 13:00, I want to work, I go to Geppetto by auto_passenger which takes How long does it take to drive from Newtowne Grille to work? minutes.",
+    "On 17:30, I want to home, I go to home by auto_passenger which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Life Alive Organic Cafe by auto_passenger which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Carol Faulkner Yoga by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by auto_passenger which takes 20-30 minutes."
+  ]
+}

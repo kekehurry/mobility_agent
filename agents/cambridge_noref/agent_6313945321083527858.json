@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Justin Allen\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 3.21502000426803,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tenoch Mexican",
+        "distance_km": 5.185949818611021,
+        "coordinates": [
+          "42.370335",
+          "-71.071236"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tenoch Mexican",
+        "distance_km": 5.185949818611021,
+        "coordinates": [
+          "42.370335",
+          "-71.071236"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "iLoveKickboxing",
+        "distance_km": 0.9460100644096876,
+        "coordinates": [
+          "42.388355",
+          "-71.141523"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 2.25769175966315,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Little Lingo",
+        "distance_km": 5.242668051772217,
+        "coordinates": [
+          "42.369939",
+          "-71.070686"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38469087324465,
+          -71.13115260731486
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38469087324465,
+        -71.13115260731486
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to shop, I go to Harvest Co Op Markets by private_auto which takes 30-40 minutes.",
+    "On 07:30, I want to eat, I go to Tenoch Mexican by private_auto which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Tenoch Mexican by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to recreation, I go to iLoveKickboxing by private_auto which takes  minutes.",
+    "On 14:00, I want to shop, I go to Louie's Superette by public_transit which takes 40-50 minutes.",
+    "On 15:00, I want to eat, I go to Little Lingo by private_auto which takes 30-40 minutes.",
+    "On 16:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

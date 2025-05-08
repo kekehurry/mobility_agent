@@ -1,0 +1,206 @@
+{
+  "profile": "{\"name\": \"Anthony McClure\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Christine's",
+        "distance_km": 2.6304088781601584,
+        "coordinates": [
+          "42.368225",
+          "-71.077748"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 2.7200881134046306,
+        "coordinates": [
+          "42.364147",
+          "-71.078686"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Christine's",
+        "distance_km": 2.6304088781601584,
+        "coordinates": [
+          "42.368225",
+          "-71.077748"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Nadia Colburn Align Your Light",
+        "distance_km": 2.9137780154083037,
+        "coordinates": [
+          "42.395164",
+          "-71.130695"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Christine's",
+        "distance_km": 2.6304088781601584,
+        "coordinates": [
+          "42.368225",
+          "-71.077748"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 2.642756452555026,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Christine's",
+        "distance_km": 2.6304088781601584,
+        "coordinates": [
+          "42.368225",
+          "-71.077748"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Nadia Colburn Align Your Light",
+        "distance_km": 2.9137780154083037,
+        "coordinates": [
+          "42.395164",
+          "-71.130695"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "TechFusion",
+        "distance_km": 4.60650420385251,
+        "coordinates": [
+          "42.394085",
+          "-71.15794"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Belmont Podiatry",
+        "distance_km": 4.613939839978443,
+        "coordinates": [
+          "42.394227",
+          "-71.157941"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37477220467124,
+          -71.10843829910752
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37477220467124,
+        -71.10843829910752
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Christine's by on_demand_auto which takes 30-40 minutes.",
+    "On 08:00, I want to recreation, I go to Cambridge Athletic Club by walking which takes 40-50 minutes.",
+    "On 08:30, I want to eat, I go to Christine's by public_transit which takes 40-50 minutes.",
+    "On 10:00, I want to recreation, I go to Nadia Colburn Align Your Light by walking which takes 40-50 minutes.",
+    "On 11:00, I want to eat, I go to Christine's by on_demand_auto which takes 30-40 minutes.",
+    "On 12:00, I want to social, I go to CIC Cambridge by public_transit which takes 40-50 minutes.",
+    "On 13:00, I want to eat, I go to Christine's by public_transit which takes  minutes.",
+    "On 14:00, I want to recreation, I go to Nadia Colburn Align Your Light by on_demand_auto which takes 30-40 minutes.",
+    "On 16:00, I want to shop, I go to TechFusion by public_transit which takes 40-50 minutes.",
+    "On 18:00, I want to recreation, I go to Belmont Podiatry by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 40-50 minutes."
+  ]
+}

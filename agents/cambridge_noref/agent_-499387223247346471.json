@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Adam Padilla\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Kendall Kitchen At The Quad",
+        "distance_km": 5.006861080535083,
+        "coordinates": [
+          "42.392449",
+          "-71.150193"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 1.5051637003187401,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Kendall Kitchen At The Quad",
+        "distance_km": 5.006861080535083,
+        "coordinates": [
+          "42.392449",
+          "-71.150193"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Forage",
+        "distance_km": 2.6641018721208716,
+        "coordinates": [
+          "42.379088",
+          "-71.127093"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 1.7431806345718148,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.358963278486144,
+          -71.10949944725553
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.358963278486144,
+        -71.10949944725553
+      ]
+    },
+    "work": {
+      "name": "Kendall Kitchen At The Quad",
+      "coordinates": [
+        "42.392449",
+        "-71.150193"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Kendall Kitchen At The Quad by on_demand_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Atrium Restaurant by walking which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Kendall Kitchen At The Quad by on_demand_auto which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Forage by public_transit which takes 30-40 minutes.",
+    "On 19:30, I want to recreation, I go to Barre Soul by walking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

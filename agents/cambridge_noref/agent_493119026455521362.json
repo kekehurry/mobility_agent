@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Alan Anderson\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Claire Stampfer MD",
+        "distance_km": 1.500660866851854,
+        "coordinates": [
+          "42.374523",
+          "-71.104174"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cicada Coffee Bar",
+        "distance_km": 1.6355316170472898,
+        "coordinates": [
+          "42.367571",
+          "-71.102001"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Claire Stampfer MD",
+        "distance_km": 1.500660866851854,
+        "coordinates": [
+          "42.374523",
+          "-71.104174"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37034636102471,
+          -71.1215008794896
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "New Asia",
+        "distance_km": 0.6562709239257117,
+        "coordinates": [
+          "42.370864",
+          "-71.113564"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 2.7138870824050576,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37034636102471,
+          -71.1215008794896
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37034636102471,
+        -71.1215008794896
+      ]
+    },
+    "work": {
+      "name": "Claire Stampfer MD",
+      "coordinates": [
+        "42.374523",
+        "-71.104174"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Claire Stampfer MD by biking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Cicada Coffee Bar by biking which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Claire Stampfer MD by biking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to New Asia by biking which takes  minutes.",
+    "On 19:00, I want to social, I go to Charlotte Huguenor Santana Properties Team by biking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

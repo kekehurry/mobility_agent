@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Jenna Harris\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.5374462219448575,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genji Sushi Bars",
+        "distance_km": 1.534442634666839,
+        "coordinates": [
+          "42.360997",
+          "-71.113944"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.5374462219448575,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37366021519289,
+          -71.1065009899615
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fava Bean Mediterranean",
+        "distance_km": 2.5313996311065106,
+        "coordinates": [
+          "42.368298",
+          "-71.076631"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "American Legion Marsh Post 442",
+        "distance_km": 2.9376665560413366,
+        "coordinates": [
+          "42.365182",
+          "-71.140283"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37366021519289,
+          -71.1065009899615
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37366021519289,
+        -71.1065009899615
+      ]
+    },
+    "work": {
+      "name": "Whole Foods Market",
+      "coordinates": [
+        "42.360963",
+        "-71.11393"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Whole Foods Market by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Genji Sushi Bars by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Whole Foods Market by public_transit which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Fava Bean Mediterranean by public_transit which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to American Legion Marsh Post 442 by auto_passenger which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes  minutes."
+  ]
+}

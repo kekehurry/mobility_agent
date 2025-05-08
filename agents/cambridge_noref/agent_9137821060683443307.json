@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Shane Jackson\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n       ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Greek Corner Restaurant",
+        "distance_km": 5.118918704924244,
+        "coordinates": [
+          "42.396425",
+          "-71.129578"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Greek Corner Restaurant",
+        "distance_km": 5.118918704924244,
+        "coordinates": [
+          "42.396425",
+          "-71.129578"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "She is going to the restaurant, so it's the same route as before. The distance is similar, so the travel time will be around 20-30 minutes."
+      },
+      "destination": {
+        "name": "Greek Corner Restaurant",
+        "distance_km": 5.118918704924244,
+        "coordinates": [
+          "42.396425",
+          "-71.129578"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36645396798031,
+          -71.08236226501336
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "UpperWest Cocktail Bar",
+        "distance_km": 5.305250409444998,
+        "coordinates": [
+          "42.397624",
+          "-71.131172"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Down Under School of Yoga Harvard Square",
+        "distance_km": 3.1494116699805614,
+        "coordinates": [
+          "42.37291",
+          "-71.119593"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36645396798031,
+          -71.08236226501336
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36645396798031,
+        -71.08236226501336
+      ]
+    },
+    "work": {
+      "name": "Greek Corner Restaurant",
+      "coordinates": [
+        "42.396425",
+        "-71.129578"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Greek Corner Restaurant by auto_passenger which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Greek Corner Restaurant by auto_passenger which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Greek Corner Restaurant by auto_passenger which takes She is going to the restaurant, so it's the same route as before. The distance is similar, so the travel time will be around 20-30 minutes. minutes.",
+    "On 17:30, I want to home, I go to home by auto_passenger which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to UpperWest Cocktail Bar by auto_passenger which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Down Under School of Yoga Harvard Square by public_transit which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by auto_passenger which takes 20-30 minutes."
+  ]
+}

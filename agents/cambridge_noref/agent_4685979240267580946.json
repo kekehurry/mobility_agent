@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Corey Macdonald\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 2.2860048042831864,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 4.417964099930986,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Brookfield Factory Outlet Store",
+        "distance_km": 2.8549174063980858,
+        "coordinates": [
+          "42.372779",
+          "-71.094298"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Spyce",
+        "distance_km": 1.5697293125580911,
+        "coordinates": [
+          "42.373183",
+          "-71.121466"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "American Martial Arts Center",
+        "distance_km": 2.5497466562579847,
+        "coordinates": [
+          "42.392089",
+          "-71.153201"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The People's Republik",
+        "distance_km": 2.50267220161957,
+        "coordinates": [
+          "42.367747",
+          "-71.107765"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pentose Pharmaceuticals",
+        "distance_km": 2.14131866914528,
+        "coordinates": [
+          "42.391266",
+          "-71.148366"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 4.395842039759171,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pressed Juicery",
+        "distance_km": 1.584629783713819,
+        "coordinates": [
+          "42.373276",
+          "-71.119209"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 4.422205233360035,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "The Diagnostic Center",
+        "distance_km": 2.731870206311493,
+        "coordinates": [
+          "42.391568",
+          "-71.155592"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.5277850688402688,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38727295008299,
+        -71.12292541794605
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Dado Tea by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to recreation, I go to CAC Express by public_transit which takes 30-40 minutes.",
+    "On 08:30, I want to shop, I go to Brookfield Factory Outlet Store by walking which takes 30-40 minutes.",
+    "On 10:00, I want to eat, I go to Spyce by walking which takes 30-40 minutes.",
+    "On 11:00, I want to recreation, I go to American Martial Arts Center by walking which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to The People's Republik by public_transit which takes 30-40 minutes.",
+    "On 13:30, I want to recreation, I go to Pentose Pharmaceuticals by walking which takes 30-40 minutes.",
+    "On 15:00, I want to shop, I go to Old Navy by walking which takes 30-40 minutes.",
+    "On 17:00, I want to eat, I go to Pressed Juicery by walking which takes 30-40 minutes.",
+    "On 18:00, I want to social, I go to CIC Cambridge by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to recreation, I go to The Diagnostic Center by private_auto which takes 30-40 minutes.",
+    "On 21:30, I want to eat, I go to Starbucks by public_transit which takes 30-40 minutes."
+  ]
+}

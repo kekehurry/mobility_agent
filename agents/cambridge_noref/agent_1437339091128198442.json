@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Cheryl Garcia\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Silk Road Uyghur Cuisine",
+        "distance_km": 2.5132255871586873,
+        "coordinates": [
+          "42.372122",
+          "-71.087128"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CAVA",
+        "distance_km": 2.610841707942927,
+        "coordinates": [
+          "42.363241",
+          "-71.087739"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 2.5315971976684732,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Dental Clinic",
+        "distance_km": 2.265849417980478,
+        "coordinates": [
+          "42.375646",
+          "-71.144428"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Silk Road Uyghur Cuisine",
+        "distance_km": 2.5132255871586873,
+        "coordinates": [
+          "42.372122",
+          "-71.087128"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 2.954097329292068,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37110138161158,
+          -71.11760948165471
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37110138161158,
+        -71.11760948165471
+      ]
+    },
+    "work": {
+      "name": "CAVA",
+      "coordinates": [
+        "42.363241",
+        "-71.087739"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Silk Road Uyghur Cuisine by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to CAVA by biking which takes 20-30 minutes.",
+    "On 17:30, I want to eat, I go to Koch Cafe by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to recreation, I go to Cambridge Dental Clinic by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to eat, I go to Silk Road Uyghur Cuisine by private_auto which takes 20-30 minutes.",
+    "On 20:00, I want to social, I go to One Broadway by private_auto which takes 20-30 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

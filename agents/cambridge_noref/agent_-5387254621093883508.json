@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Michael Duran\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Mainely Burgers",
+        "distance_km": 1.5850024643939606,
+        "coordinates": [
+          "42.365923",
+          "-71.105031"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.3664802627012937,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "time_unknown"
+      },
+      "destination": {
+        "name": "Firebrand Saints",
+        "distance_km": 0.7918833282828402,
+        "coordinates": [
+          "42.362485",
+          "-71.083315"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dirty Water Fitness",
+        "distance_km": 1.7592857553323364,
+        "coordinates": [
+          "42.371324",
+          "-71.080085"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "First United Market",
+        "distance_km": 1.5053129997985668,
+        "coordinates": [
+          "42.357512",
+          "-71.108056"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Tasty Burger",
+        "distance_km": 1.504617499417208,
+        "coordinates": [
+          "42.366066",
+          "-71.103615"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 1.515374284332689,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3572153458473,
+          -71.08978881966641
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3572153458473,
+        -71.08978881966641
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to eat, I go to Mainely Burgers by walking which takes 30-40 minutes.",
+    "On 08:00, I want to shop, I go to H Mart by walking which takes  minutes.",
+    "On 12:30, I want to eat, I go to Firebrand Saints by walking which takes time_unknown minutes.",
+    "On 13:30, I want to recreation, I go to Dirty Water Fitness by walking which takes 30-40 minutes.",
+    "On 15:00, I want to shop, I go to First United Market by walking which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Tasty Burger by walking which takes 30-40 minutes.",
+    "On 19:00, I want to social, I go to Wellmet Project by walking which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

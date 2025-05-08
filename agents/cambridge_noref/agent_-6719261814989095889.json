@@ -1,0 +1,61 @@
+{
+  "profile": "{\"name\": \"Jessica Hogan\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 1, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sage Hotel Corporation",
+        "distance_km": 2.580316890654139,
+        "coordinates": [
+          "42.358603",
+          "-71.114956"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36350898553695,
+          -71.0843406793408
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36350898553695,
+        -71.0843406793408
+      ]
+    },
+    "work": {
+      "name": "Sage Hotel Corporation",
+      "coordinates": [
+        "42.358603",
+        "-71.114956"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Sage Hotel Corporation by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

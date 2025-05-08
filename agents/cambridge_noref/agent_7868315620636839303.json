@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Robert Morgan\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n               ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Head of the Charles",
+        "distance_km": 2.574081623453398,
+        "coordinates": [
+          "42.372262",
+          "-71.133935"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Wafu Ya",
+        "distance_km": 2.537805788046163,
+        "coordinates": [
+          "42.387219",
+          "-71.118225"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36717093695084,
+          -71.10344806192911
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Tealuxe",
+        "distance_km": 1.518622219397557,
+        "coordinates": [
+          "42.373241",
+          "-71.119968"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shepen Bernard D Phys",
+        "distance_km": 2.5841895858142525,
+        "coordinates": [
+          "42.37396",
+          "-71.133456"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36717093695084,
+          -71.10344806192911
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36717093695084,
+        -71.10344806192911
+      ]
+    },
+    "work": {
+      "name": "Wafu Ya",
+      "coordinates": [
+        "42.387219",
+        "-71.118225"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:30, I want to eat, I go to Head of the Charles by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to Wafu Ya by private_auto which takes 10-25 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Tealuxe by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to recreation, I go to Shepen Bernard D Phys by biking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by other_travel_mode which takes 0-10 minutes."
+  ]
+}

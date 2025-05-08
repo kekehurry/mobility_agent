@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Amy Smith\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"student\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bombay Club",
+        "distance_km": 2.569679921656226,
+        "coordinates": [
+          "42.371581",
+          "-71.123624"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard University Press Book Orders",
+        "distance_km": 2.0667736640981977,
+        "coordinates": [
+          "42.383024",
+          "-71.127138"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bombay Club",
+        "distance_km": 2.569679921656226,
+        "coordinates": [
+          "42.371581",
+          "-71.123624"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard University Press Book Orders",
+        "distance_km": 2.0667736640981977,
+        "coordinates": [
+          "42.383024",
+          "-71.127138"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381047419222384,
+          -71.15209239914601
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bombay Club",
+        "distance_km": 2.569679921656226,
+        "coordinates": [
+          "42.371581",
+          "-71.123624"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Associates In Orthopaedics & Sports Medicine",
+        "distance_km": 1.6377520133221437,
+        "coordinates": [
+          "42.374232",
+          "-71.134459"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ": 30-40"
+      },
+      "destination": {
+        "name": "Thayer & Associates",
+        "distance_km": 2.7626137037605107,
+        "coordinates": [
+          "42.386771",
+          "-71.119446"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.381047419222384,
+        -71.15209239914601
+      ]
+    },
+    "school": {
+      "name": "Harvard University Press Book Orders",
+      "coordinates": [
+        "42.383024",
+        "-71.127138"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Bombay Club by public_transit which takes 30-40 minutes.",
+    "On 08:00, I want to school, I go to Harvard University Press Book Orders by public_transit which takes  minutes.",
+    "On 12:30, I want to eat, I go to Bombay Club by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to school, I go to Harvard University Press Book Orders by public_transit which takes  minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to eat, I go to Bombay Club by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to recreation, I go to Associates In Orthopaedics & Sports Medicine by public_transit which takes  minutes.",
+    "On 20:00, I want to social, I go to Thayer & Associates by public_transit which takes : 30-40 minutes."
+  ]
+}

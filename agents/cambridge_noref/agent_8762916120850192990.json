@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"David Brown\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Zambrero Harvard Square",
+        "distance_km": 2.101528923039677,
+        "coordinates": [
+          "42.372057",
+          "-71.118297"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Henrietta's Table",
+        "distance_km": 2.5112190942578523,
+        "coordinates": [
+          "42.372294",
+          "-71.123262"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Zambrero Harvard Square",
+        "distance_km": 2.101528923039677,
+        "coordinates": [
+          "42.372057",
+          "-71.118297"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37130501162487,
+          -71.09280291506255
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Beantown Taqueria Cafe",
+        "distance_km": 1.5027913256371697,
+        "coordinates": [
+          "42.364783",
+          "-71.108787"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Rock N Fitness",
+        "distance_km": 2.8461657412685497,
+        "coordinates": [
+          "42.388524",
+          "-71.118395"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37130501162487,
+          -71.09280291506255
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37130501162487,
+        -71.09280291506255
+      ]
+    },
+    "work": {
+      "name": "Zambrero Harvard Square",
+      "coordinates": [
+        "42.372057",
+        "-71.118297"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Zambrero Harvard Square by on_demand_auto which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Henrietta's Table by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to work, I go to Zambrero Harvard Square by walking which takes 20-30 minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Beantown Taqueria Cafe by public_transit which takes 20-30 minutes.",
+    "On 19:30, I want to recreation, I go to Rock N Fitness by on_demand_auto which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

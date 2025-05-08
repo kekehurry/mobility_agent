@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Carmen Freeman\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 5.255033983496647,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Ole to Go",
+        "distance_km": 2.822381585629634,
+        "coordinates": [
+          "42.374071",
+          "-71.100144"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 5.255033983496647,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.385040635612334,
+          -71.13105582878093
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kung Fu Tea",
+        "distance_km": 2.0414868641079353,
+        "coordinates": [
+          "42.371255",
+          "-71.114663"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Heffernan Paul M DPM",
+        "distance_km": 2.500843032317786,
+        "coordinates": [
+          "42.37453",
+          "-71.104202"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "other_travel_mode",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.385040635612334,
+          -71.13105582878093
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.385040635612334,
+        -71.13105582878093
+      ]
+    },
+    "work": {
+      "name": "Hult International Business School",
+      "coordinates": [
+        "42.36979",
+        "-71.070656"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Hult International Business School by private_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Ole to Go by auto_passenger which takes 20-30 minutes.",
+    "On 13:00, I want to work, I go to Hult International Business School by private_auto which takes user_input minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 20-30 minutes.",
+    "On 19:30, I want to eat, I go to Kung Fu Tea by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to recreation, I go to Heffernan Paul M DPM by public_transit which takes 30-40 minutes.",
+    "On 21:30, I want to home, I go to home by other_travel_mode which takes 0-10 minutes."
+  ]
+}

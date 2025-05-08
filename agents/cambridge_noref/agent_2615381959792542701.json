@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Bethany Osborne\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 3, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kennedy Longfellow",
+        "distance_km": 0.27242742973301126,
+        "coordinates": [
+          "42.369535",
+          "-71.086791"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36894385085365,
+          -71.08358115497674
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.5058376018655105,
+        "coordinates": [
+          "42.364391",
+          "-71.083456"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Loews Sony Theatres",
+        "distance_km": 3.0075902916243127,
+        "coordinates": [
+          "42.374256",
+          "-71.119386"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36894385085365,
+          -71.08358115497674
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36894385085365,
+        -71.08358115497674
+      ]
+    },
+    "work": {
+      "name": "Kennedy Longfellow",
+      "coordinates": [
+        "42.369535",
+        "-71.086791"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Kennedy Longfellow by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to eat, I go to Barismo by public_transit which takes user_input minutes.",
+    "On 19:30, I want to recreation, I go to Loews Sony Theatres by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

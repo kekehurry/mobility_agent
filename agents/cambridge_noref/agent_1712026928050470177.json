@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Kevin Sanchez\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Forbess Lisa W Cardlgst",
+        "distance_km": 1.7256986287034322,
+        "coordinates": [
+          "42.374412",
+          "-71.133513"
+        ]
+      }
+    },
+    {
+      "start_time": "07:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Colette Wine Bistro",
+        "distance_km": 0.5334679347932397,
+        "coordinates": [
+          "42.389238",
+          "-71.1203"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Goldman Beth Phys",
+        "distance_km": 1.7377279354827377,
+        "coordinates": [
+          "42.374357",
+          "-71.133746"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Skip Viglirolo Ice Rink",
+        "distance_km": 0.7963901364379337,
+        "coordinates": [
+          "42.382888",
+          "-71.131551"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.7113895021616247,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Rod Dee",
+        "distance_km": 0.5687916878340373,
+        "coordinates": [
+          "42.38885",
+          "-71.119879"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mt Auburn Cardiology Assocs",
+        "distance_km": 1.727301851029232,
+        "coordinates": [
+          "42.374395",
+          "-71.133506"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 1.1506366676193354,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rohrbaugh Associates",
+        "distance_km": 0.3179697741396429,
+        "coordinates": [
+          "42.386263",
+          "-71.126612"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.5931080140416443,
+        "coordinates": [
+          "42.389304",
+          "-71.119578"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.5724993605878916,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38912290442147,
+          -71.12677666679744
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38912290442147,
+        -71.12677666679744
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to other_activities, I go to Forbess Lisa W Cardlgst by biking which takes 10-20 minutes.",
+    "On 07:15, I want to eat, I go to Colette Wine Bistro by walking which takes 10-20 minutes.",
+    "On 08:00, I want to other_activities, I go to Goldman Beth Phys by biking which takes 10-20 minutes.",
+    "On 09:00, I want to recreation, I go to Skip Viglirolo Ice Rink by walking which takes  minutes.",
+    "On 11:00, I want to shop, I go to Star Market by walking which takes  minutes.",
+    "On 12:30, I want to eat, I go to Rod Dee by biking which takes  minutes.",
+    "On 13:30, I want to other_activities, I go to Mt Auburn Cardiology Assocs by biking which takes 10-20 minutes.",
+    "On 15:00, I want to social, I go to Charlotte Huguenor Santana Properties Team by walking which takes 10-20 minutes.",
+    "On 17:00, I want to other_activities, I go to Rohrbaugh Associates by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Dunkin' by biking which takes  minutes.",
+    "On 19:30, I want to recreation, I go to Fresh Pond by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

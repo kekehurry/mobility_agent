@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Nathaniel Holt\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Club Passim",
+        "distance_km": 1.5588420755906358,
+        "coordinates": [
+          "42.374223",
+          "-71.120026"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363792650492854,
+          -71.10736503467047
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 1.1307479666460885,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pang Alexander MD",
+        "distance_km": 1.207277567349047,
+        "coordinates": [
+          "42.374441",
+          "-71.10443"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363792650492854,
+          -71.10736503467047
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.363792650492854,
+        -71.10736503467047
+      ]
+    },
+    "work": {
+      "name": "Club Passim",
+      "coordinates": [
+        "42.374223",
+        "-71.120026"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Club Passim by on_demand_auto which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Brooklyn Bagel Factory by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to Pang Alexander MD by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

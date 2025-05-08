@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Sarah Greer\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "YWCA",
+        "distance_km": 2.576371887459778,
+        "coordinates": [
+          "42.366722",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 1.5511923450554748,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "YWCA",
+        "distance_km": 2.576371887459778,
+        "coordinates": [
+          "42.366722",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36940031644362,
+          -71.07310681012764
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Lily P's",
+        "distance_km": 0.6804829438792149,
+        "coordinates": [
+          "42.364875",
+          "-71.078675"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Breathing Room",
+        "distance_km": 2.672655785776242,
+        "coordinates": [
+          "42.366673",
+          "-71.105344"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36940031644362,
+          -71.07310681012764
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36940031644362,
+        -71.07310681012764
+      ]
+    },
+    "work": {
+      "name": "YWCA",
+      "coordinates": [
+        "42.366722",
+        "-71.104175"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to YWCA by private_auto which takes 10-25 minutes.",
+    "On 12:30, I want to eat, I go to Koch Cafe by private_auto which takes 10-25 minutes.",
+    "On 13:00, I want to work, I go to YWCA by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Lily P's by private_auto which takes  minutes.",
+    "On 19:30, I want to recreation, I go to The Breathing Room by public_transit which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

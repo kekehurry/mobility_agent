@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Amanda Rice\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:30",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 2.790308616575235,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.6473188171098028,
+        "coordinates": [
+          "42.38981",
+          "-71.118204"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37354607013643,
+          -71.09470707718162
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.6473188171098028,
+        "coordinates": [
+          "42.38981",
+          "-71.118204"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-25"
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 0.323666963148324,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ung Feodor MD",
+        "distance_km": 0.7858230571426758,
+        "coordinates": [
+          "42.374499",
+          "-71.104161"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37354607013643,
+          -71.09470707718162
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 1.1463274960562977,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-4,0"
+      },
+      "destination": {
+        "name": "Community Running Association",
+        "distance_km": 1.665669939960495,
+        "coordinates": [
+          "42.358694",
+          "-71.097494"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37354607013643,
+          -71.09470707718162
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37354607013643,
+        -71.09470707718162
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:30, I want to other_activities, I go to Quadrangle Recreational Athletic Center by public_transit which takes 30-40 minutes.",
+    "On 07:30, I want to eat, I go to Starbucks by public_transit which takes 30-40 minutes.",
+    "On 08:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Starbucks by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to shop, I go to Eli Incorporated by walking which takes 10-25 minutes.",
+    "On 15:00, I want to recreation, I go to Ung Feodor MD by walking which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Moge Tee Cambridge by walking which takes 10-20 minutes.",
+    "On 20:00, I want to recreation, I go to Community Running Association by public_transit which takes 30-4,0 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

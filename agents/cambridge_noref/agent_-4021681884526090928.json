@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Jordan Hall\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bon Me One Kendall Square",
+        "distance_km": 5.067273291332638,
+        "coordinates": [
+          "42.366098",
+          "-71.09078"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 1.4255556747494917,
+        "coordinates": [
+          "42.38929",
+          "-71.143413"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bon Me One Kendall Square",
+        "distance_km": 5.067273291332638,
+        "coordinates": [
+          "42.366098",
+          "-71.09078"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 1.4255556747494917,
+        "coordinates": [
+          "42.38929",
+          "-71.143413"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Kates Malcolm I Optmtrst",
+        "distance_km": 3.1532213991631477,
+        "coordinates": [
+          "42.372884",
+          "-71.119217"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.399426361494335,
+          -71.13279426628941
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.399426361494335,
+        -71.13279426628941
+      ]
+    },
+    "work": {
+      "name": "Bon Me One Kendall Square",
+      "coordinates": [
+        "42.366098",
+        "-71.09078"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Bon Me One Kendall Square by public_transit which takes 30-40 minutes.",
+    "On 12:00, I want to eat, I go to Chipotle Mexican Grill by walking which takes  minutes.",
+    "On 12:30, I want to work, I go to Bon Me One Kendall Square by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Chipotle Mexican Grill by walking which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to Kates Malcolm I Optmtrst by biking which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Courtney Aguilar\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 2.590698362024992,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Sheger Cafe",
+        "distance_km": 3.0061909243920213,
+        "coordinates": [
+          "42.396695",
+          "-71.129781"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "T.J. Maxx",
+        "distance_km": 2.590698362024992,
+        "coordinates": [
+          "42.3897",
+          "-71.140822"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36996703630571,
+          -71.12405378254037
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Lingo Cafe & Bar",
+        "distance_km": 4.551748301196562,
+        "coordinates": [
+          "42.36979",
+          "-71.068794"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Pinball Over Boston",
+        "distance_km": 2.7859652973044815,
+        "coordinates": [
+          "42.366492",
+          "-71.090558"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36996703630571,
+          -71.12405378254037
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36996703630571,
+        -71.12405378254037
+      ]
+    },
+    "work": {
+      "name": "T.J. Maxx",
+      "coordinates": [
+        "42.3897",
+        "-71.140822"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to T.J. Maxx by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Sheger Cafe by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to work, I go to T.J. Maxx by public_transit which takes  minutes.",
+    "On 17:30, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to Lingo Cafe & Bar by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to recreation, I go to Pinball Over Boston by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by public_transit which takes 30-40 minutes."
+  ]
+}

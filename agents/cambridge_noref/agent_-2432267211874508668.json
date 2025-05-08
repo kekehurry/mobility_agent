@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Michael Bradshaw\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "St Peter School",
+        "distance_km": 3.1114457451514954,
+        "coordinates": [
+          "42.381345",
+          "-71.129702"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.5279058274534074,
+        "coordinates": [
+          "42.368303",
+          "-71.076204"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "Heartland - 10-20"
+      },
+      "destination": {
+        "name": "St Peter School",
+        "distance_km": 3.1114457451514954,
+        "coordinates": [
+          "42.381345",
+          "-71.129702"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372201410497375,
+          -71.09399297965805
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "To be determined"
+      },
+      "destination": {
+        "name": "Pardon My Cheesesteak",
+        "distance_km": 1.0128721929024223,
+        "coordinates": [
+          "42.363412",
+          "-71.097266"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Seidel Rachel Psychtrst",
+        "distance_km": 3.067686891123607,
+        "coordinates": [
+          "42.374885",
+          "-71.131062"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372201410497375,
+        -71.09399297965805
+      ]
+    },
+    "work": {
+      "name": "St Peter School",
+      "coordinates": [
+        "42.381345",
+        "-71.129702"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to St Peter School by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Dunkin' by biking which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to St Peter School by public_transit which takes Heartland - 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to eat, I go to Pardon My Cheesesteak by public_transit which takes To be determined minutes.",
+    "On 20:00, I want to recreation, I go to Seidel Rachel Psychtrst by public_transit which takes 20-30 minutes."
+  ]
+}

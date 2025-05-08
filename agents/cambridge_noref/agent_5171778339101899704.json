@@ -1,0 +1,359 @@
+{
+  "profile": "{\"name\": \"Kenneth Stokes\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Hungry Mother",
+        "distance_km": 1.028051379151483,
+        "coordinates": [
+          "42.367668",
+          "-71.091143"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 1.8478011357711963,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Belmont Podiatry",
+        "distance_km": 5.215538203913026,
+        "coordinates": [
+          "42.394227",
+          "-71.157941"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Third Eye",
+        "distance_km": 2.747370492350602,
+        "coordinates": [
+          "42.391248",
+          "-71.123483"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 3.7602049418681505,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Chasma Scientific",
+        "distance_km": 4.70209758196974,
+        "coordinates": [
+          "42.392501",
+          "-71.152117"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Third Eye",
+        "distance_km": 2.747370492350602,
+        "coordinates": [
+          "42.391248",
+          "-71.123483"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Live By Leclair & Co",
+        "distance_km": 4.3936357797421035,
+        "coordinates": [
+          "42.394464",
+          "-71.146151"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Rohrbaugh Associates",
+        "distance_km": 2.5539267472141356,
+        "coordinates": [
+          "42.386263",
+          "-71.126612"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "El Jefe's Taqueria",
+        "distance_km": 1.502006662398813,
+        "coordinates": [
+          "42.373248",
+          "-71.120058"
+        ]
+      }
+    },
+    {
+      "start_time": "22:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37241570825783,
+          -71.10185667816434
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37241570825783,
+        -71.10185667816434
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to eat, I go to Hungry Mother by private_auto which takes  minutes.",
+    "On 07:45, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 08:00, I want to shop, I go to Roche Brothers Supermarket by public_transit which takes 40-50 minutes.",
+    "On 08:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 09:00, I want to recreation, I go to Belmont Podiatry by private_auto which takes 30-40 minutes.",
+    "On 11:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 11:30, I want to eat, I go to Third Eye by private_auto which takes 30-40 minutes.",
+    "On 12:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 13:00, I want to shop, I go to Bread & Circus by private_auto which takes 30-40 minutes.",
+    "On 14:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 14:30, I want to recreation, I go to Chasma Scientific by private_auto which takes 30-40 minutes.",
+    "On 16:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 16:30, I want to eat, I go to Third Eye by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to social, I go to Live By Leclair & Co by private_auto which takes 30-40 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 20:00, I want to recreation, I go to Rohrbaugh Associates by public_transit which takes 40-50 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 21:30, I want to eat, I go to El Jefe's Taqueria by public_transit which takes 40-50 minutes.",
+    "On 22:30, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}

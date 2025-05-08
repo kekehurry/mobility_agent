@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Robert Morgan\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dig Inn",
+        "distance_km": 4.0438551132092355,
+        "coordinates": [
+          "42.362862",
+          "-71.083757"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunster Grille",
+        "distance_km": 1.5456872770222092,
+        "coordinates": [
+          "42.368866",
+          "-71.11632"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dig Inn",
+        "distance_km": 4.0438551132092355,
+        "coordinates": [
+          "42.362862",
+          "-71.083757"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380430424093106,
+          -71.12675731954425
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 3.076888104121315,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.380430424093106,
+          -71.12675731954425
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.380430424093106,
+        -71.12675731954425
+      ]
+    },
+    "work": {
+      "name": "Dig Inn",
+      "coordinates": [
+        "42.362862",
+        "-71.083757"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Dig Inn by public_transit which takes 30-40 minutes.",
+    "On 12:30, I want to eat, I go to Dunster Grille by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Dig Inn by public_transit which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:30, I want to eat, I go to MrBeast Burger by public_transit which takes 30-40 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "profile": "{\n\n  \"name\": \"Bonnie Robinson\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 3,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Half Shell",
+        "distance_km": 1.0386648464717072,
+        "coordinates": [
+          "42.385222",
+          "-71.119652"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Caron Simmers Guillemette Psychothrpst",
+        "distance_km": 0.5095984851535849,
+        "coordinates": [
+          "42.38375",
+          "-71.13831"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.384645543757635,
+          -71.13224088524638
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Wallace Murray",
+        "distance_km": 1.4993665938014507,
+        "coordinates": [
+          "42.374539",
+          "-71.120173"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.384645543757635,
+          -71.13224088524638
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "1369 Coffee House",
+        "distance_km": 2.8868895510284482,
+        "coordinates": [
+          "42.373814",
+          "-71.100377"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 2.860297040119969,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 1.835445099750162,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.384645543757635,
+          -71.13224088524638
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 2.5242286796412468,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 4.689113660804977,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.384645543757635,
+          -71.13224088524638
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.384645543757635,
+        -71.13224088524638
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Half Shell by walking which takes 20-30 minutes.",
+    "On 07:30, I want to recreation, I go to Caron Simmers Guillemette Psychothrpst by walking which takes  minutes.",
+    "On 08:00, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 09:00, I want to shop, I go to Wallace Murray by walking which takes 20-30 minutes.",
+    "On 11:00, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to 1369 Coffee House by biking which takes 20-30 minutes.",
+    "On 13:00, I want to recreation, I go to Willis Moore Youth Center by biking which takes 30-40 minutes.",
+    "On 15:00, I want to shop, I go to In Your Ear Records by walking which takes 20-30 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Dado Tea by biking which takes 30-40 minutes.",
+    "On 19:00, I want to social, I go to One Broadway by biking which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 20-30 minutes."
+  ]
+}

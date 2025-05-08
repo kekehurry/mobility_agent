@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Katrina Wright\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381707708020635,
+          -71.1147179167329
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Koch Cafe",
+        "distance_km": 3.009494064043441,
+        "coordinates": [
+          "42.362255",
+          "-71.089286"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "40-50"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 2.3469472335963024,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "10:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Middlesex Cambridge",
+        "distance_km": 2.5128063213349483,
+        "coordinates": [
+          "42.36256",
+          "-71.098473"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381707708020635,
+          -71.1147179167329
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381707708020635,
+          -71.1147179167329
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Pizza Pie er",
+        "distance_km": 1.6066711134899712,
+        "coordinates": [
+          "42.372739",
+          "-71.099413"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381707708020635,
+          -71.1147179167329
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 3.316709679297004,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381707708020635,
+          -71.1147179167329
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Stefani House of Pizza",
+        "distance_km": 2.5130049072248717,
+        "coordinates": [
+          "42.363349",
+          "-71.096889"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.381707708020635,
+          -71.1147179167329
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.381707708020635,
+        -71.1147179167329
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 07:45, I want to eat, I go to Koch Cafe by private_auto which takes 30-40 minutes.",
+    "On 08:15, I want to shop, I go to Whole Foods Market by public_transit which takes 40-50 minutes.",
+    "On 10:45, I want to eat, I go to Middlesex Cambridge by private_auto which takes 30-40 minutes.",
+    "On 11:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 13:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 15:30, I want to eat, I go to Pizza Pie er by private_auto which takes  minutes.",
+    "On 16:00, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 16:30, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes 30-40 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 30-40 minutes.",
+    "On 18:00, I want to eat, I go to Stefani House of Pizza by private_auto which takes 30-40 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 30-40 minutes."
+  ]
+}
