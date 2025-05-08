@@ -129,7 +129,7 @@ class BaseModel:
         # print(f"Top {k} accuracy: { topk_accuracies['average']:.4f}")
         print(f"Overall average KL divergence: {overall_kl:.4f}")
         print(f"Overall mean absolute error: {overall_mae:.4f}")
-        return overall_kl,overall_mae,kl_df
+        return kl_df,overall_kl,overall_mae
     
     def save_model(self):
         """
