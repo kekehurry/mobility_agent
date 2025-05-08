@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Daniel Franklin\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Jeff Sraeel Fitness",
+        "distance_km": 0.6466338300483923,
+        "coordinates": [
+          "42.381667",
+          "-71.135229"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The People's Republik",
+        "distance_km": 2.1151679417235956,
+        "coordinates": [
+          "42.367747",
+          "-71.107765"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 1.0053199260036272,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 1.5537306542074802,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.379554271283276,
+          -71.12791259816247
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.379554271283276,
+        -71.12791259816247
+      ]
+    },
+    "work": {
+      "name": "Jeff Sraeel Fitness",
+      "coordinates": [
+        "42.381667",
+        "-71.135229"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:40, I want to work, I go to Jeff Sraeel Fitness by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to The People's Republik by public_transit which takes 20-30 minutes.",
+    "On 14:30, I want to shop, I go to Newbury Comics by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Fresh Pond Beer Garden by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

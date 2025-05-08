@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Joanna Bishop\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:47",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 0.29335934754831317,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.5081624645558181,
+        "coordinates": [
+          "42.372246",
+          "-71.07982"
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 0.40714406154931815,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "14:39",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 0.19310959280302797,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 1.4349812939356137,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "16:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "GUESS",
+        "distance_km": 0.41971823984856704,
+        "coordinates": [
+          "42.36788",
+          "-71.075732"
+        ]
+      }
+    },
+    {
+      "start_time": "17:55",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.7415989558378403,
+        "coordinates": [
+          "42.364982",
+          "-71.089027"
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36773220167129,
+          -71.08082350354435
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36773220167129,
+        -71.08082350354435
+      ]
+    },
+    "work": {
+      "name": "CLEAR Kiosk",
+      "coordinates": [
+        "42.367491",
+        "-71.077277"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:47, I want to work, I go to CLEAR Kiosk by biking which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to Dunkin' by biking which takes  minutes.",
+    "On 13:37, I want to shop, I go to Apple CambridgeSide by biking which takes 0-10 minutes.",
+    "On 14:39, I want to social, I go to Gravestar Inc by private_auto which takes 0-10 minutes.",
+    "On 15:55, I want to eat, I go to MrBeast Burger by private_auto which takes 10-20 minutes.",
+    "On 16:22, I want to shop, I go to GUESS by biking which takes 0-10 minutes.",
+    "On 17:55, I want to recreation, I go to CorePower Yoga by biking which takes 0-10 minutes.",
+    "On 19:35, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

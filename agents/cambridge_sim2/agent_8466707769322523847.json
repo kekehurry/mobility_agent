@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Jesus Garcia\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Third Eye",
+        "distance_km": 2.5730406022276457,
+        "coordinates": [
+          "42.391248",
+          "-71.123483"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cuchi Cuchi",
+        "distance_km": 1.5198891037230577,
+        "coordinates": [
+          "42.36345",
+          "-71.097226"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Third Eye",
+        "distance_km": 2.5730406022276457,
+        "coordinates": [
+          "42.391248",
+          "-71.123483"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36918175087815,
+          -71.11398017871227
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BostonDigital io Computer Repair",
+        "distance_km": 0.2572457863008859,
+        "coordinates": [
+          "42.368827",
+          "-71.110894"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20 minutes"
+      },
+      "destination": {
+        "name": "Breathe Cambridge",
+        "distance_km": 0.6131990588222961,
+        "coordinates": [
+          "42.372732",
+          "-71.119681"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 0.23074646303020718,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Prime",
+        "distance_km": 1.159853418909199,
+        "coordinates": [
+          "42.378086",
+          "-71.121335"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36918175087815,
+          -71.11398017871227
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36918175087815,
+        -71.11398017871227
+      ]
+    },
+    "work": {
+      "name": "Third Eye",
+      "coordinates": [
+        "42.391248",
+        "-71.123483"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to work, I go to Third Eye by private_auto which takes 10-20 minutes.",
+    "On 11:30, I want to eat, I go to Cuchi Cuchi by private_auto which takes 10-20 minutes.",
+    "On 12:20, I want to work, I go to Third Eye by private_auto which takes  minutes.",
+    "On 13:15, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 15:00, I want to shop, I go to BostonDigital io Computer Repair by on_demand_auto which takes 0-10 minutes.",
+    "On 17:30, I want to recreation, I go to Breathe Cambridge by walking which takes 10-20 minutes minutes.",
+    "On 18:30, I want to eat, I go to Flame Hot Pot & Sushi by on_demand_auto which takes 0-10 minutes.",
+    "On 19:15, I want to social, I go to Cambridge Prime by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

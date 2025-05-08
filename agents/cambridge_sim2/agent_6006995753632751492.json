@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Eric Thomas\", \"city\": \"Cambridge, MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Come to Yoga With Barbara Lyon",
+        "distance_km": 0.2883350700481399,
+        "coordinates": [
+          "42.369043",
+          "-71.094803"
+        ]
+      }
+    },
+    {
+      "start_time": "07:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.8901497774074025,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Izzy's Restaurant & Sub Shop",
+        "distance_km": 0.586772673352793,
+        "coordinates": [
+          "42.366289",
+          "-71.095569"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lord Hobo",
+        "distance_km": 0.3232870167830596,
+        "coordinates": [
+          "42.368695",
+          "-71.094997"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tsaparlis Nicholas M MD",
+        "distance_km": 0.7775362936397225,
+        "coordinates": [
+          "42.374491",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 1.393115722063676,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 1.6416827728154195,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Tasty Burger",
+        "distance_km": 0.9002001760299082,
+        "coordinates": [
+          "42.366066",
+          "-71.103615"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371571375710396,
+          -71.09559526667515
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 1.6416827728154195,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Turnstyle Kendall Square",
+        "distance_km": 0.7293651858767921,
+        "coordinates": [
+          "42.365975",
+          "-71.090964"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371571375710396,
+          -71.09559526667515
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.371571375710396,
+        -71.09559526667515
+      ]
+    },
+    "work": {
+      "name": "Izzy's Restaurant & Sub Shop",
+      "coordinates": [
+        "42.366289",
+        "-71.095569"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Come to Yoga With Barbara Lyon by private_auto which takes 0-10 minutes.",
+    "On 07:10, I want to shop, I go to H Mart by biking which takes 0-10 minutes.",
+    "On 09:00, I want to work, I go to Izzy's Restaurant & Sub Shop by biking which takes  minutes.",
+    "On 12:00, I want to eat, I go to Lord Hobo by biking which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Tsaparlis Nicholas M MD by private_auto which takes 0-10 minutes.",
+    "On 14:30, I want to social, I go to One Broadway by biking which takes 0-10 minutes.",
+    "On 16:30, I want to shop, I go to Old Navy by biking which takes  minutes.",
+    "On 17:30, I want to eat, I go to Tasty Burger by biking which takes  minutes.",
+    "On 18:00, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 19:00, I want to shop, I go to Old Navy by biking which takes  minutes.",
+    "On 20:00, I want to recreation, I go to Turnstyle Kendall Square by biking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by biking which takes 0-10 minutes."
+  ]
+}

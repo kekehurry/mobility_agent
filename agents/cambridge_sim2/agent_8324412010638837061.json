@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Mary Burns\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Introductions By Diana",
+        "distance_km": 5.338995593399094,
+        "coordinates": [
+          "42.394367",
+          "-71.146164"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 0.7953643912579514,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 1.1711077400660574,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mae Asian Eatery",
+        "distance_km": 0.45287428672864105,
+        "coordinates": [
+          "42.36339",
+          "-71.09687"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bachata Room",
+        "distance_km": 0.7403952780267076,
+        "coordinates": [
+          "42.36342",
+          "-71.101296"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.30082023161893606,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36651116939723,
+          -71.09333296843154
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bachata Room",
+        "distance_km": 0.7403952780267076,
+        "coordinates": [
+          "42.36342",
+          "-71.101296"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Earnest Drinks",
+        "distance_km": 0.2974781880079936,
+        "coordinates": [
+          "42.367958",
+          "-71.090294"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 0.7528189189409354,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "First Cambridge Realty Corporation",
+        "distance_km": 1.2611823842612748,
+        "coordinates": [
+          "42.368479",
+          "-71.108412"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36651116939723,
+          -71.09333296843154
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36651116939723,
+        -71.09333296843154
+      ]
+    },
+    "work": {
+      "name": "Introductions By Diana",
+      "coordinates": [
+        "42.394367",
+        "-71.146164"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Introductions By Diana by private_auto which takes 20-30 minutes.",
+    "On 07:45, I want to maintenance, I go to C L M Inc by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to social, I go to Gravestar Inc by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Mae Asian Eatery by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to recreation, I go to Bachata Room by public_transit which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Formaggio Kitchen by walking which takes 0-10 minutes.",
+    "On 14:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:00, I want to recreation, I go to Bachata Room by walking which takes 0-10 minutes.",
+    "On 16:00, I want to eat, I go to Earnest Drinks by walking which takes 0-10 minutes.",
+    "On 17:00, I want to shop, I go to Deep Thoughts Cambridge by walking which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to First Cambridge Realty Corporation by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

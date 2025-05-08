@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Natalie Fisher\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:44",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 0.2676399544830456,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36691906148943,
+          -71.11068472633295
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.152562233017863,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "15:59",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.9992871154793289,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "16:59",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36691906148943,
+          -71.11068472633295
+        ]
+      }
+    },
+    {
+      "start_time": "18:58",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Coast Cafe",
+        "distance_km": 0.4311413137681787,
+        "coordinates": [
+          "42.363097",
+          "-71.111596"
+        ]
+      }
+    },
+    {
+      "start_time": "19:29",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.7138628311091935,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "21:08",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36691906148943,
+          -71.11068472633295
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36691906148943,
+        -71.11068472633295
+      ]
+    },
+    "work": {
+      "name": "Cafe Anthony",
+      "coordinates": [
+        "42.369328",
+        "-71.11075"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:44, I want to work, I go to Cafe Anthony by private_auto which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 13:37, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes.",
+    "On 15:59, I want to shop, I go to Trader Joe's by private_auto which takes  minutes.",
+    "On 16:59, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:58, I want to eat, I go to The Coast Cafe by private_auto which takes 0-10 minutes.",
+    "On 19:29, I want to shop, I go to Shalimar India Food & Spices by private_auto which takes 0-10 minutes.",
+    "On 21:08, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Alexander Hays\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Northwest Cafe",
+        "distance_km": 1.5167118228035206,
+        "coordinates": [
+          "42.380267",
+          "-71.115397"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369837206912536,
+          -71.10351212024092
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Smoke Shop BBQ Kendall Square",
+        "distance_km": 1.062508580594012,
+        "coordinates": [
+          "42.366301",
+          "-71.091527"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Northwest Cafe",
+        "distance_km": 1.5167118228035206,
+        "coordinates": [
+          "42.380267",
+          "-71.115397"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369837206912536,
+          -71.10351212024092
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 1.846741987993439,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cafe du Pays",
+        "distance_km": 1.0456391704925243,
+        "coordinates": [
+          "42.367701",
+          "-71.091149"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brothers Market",
+        "distance_km": 1.846741987993439,
+        "coordinates": [
+          "42.362592",
+          "-71.083334"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369837206912536,
+          -71.10351212024092
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369837206912536,
+        -71.10351212024092
+      ]
+    },
+    "work": {
+      "name": "Northwest Cafe",
+      "coordinates": [
+        "42.380267",
+        "-71.115397"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Northwest Cafe by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 12:20, I want to eat, I go to The Smoke Shop BBQ Kendall Square by public_transit which takes  minutes.",
+    "On 13:00, I want to work, I go to Northwest Cafe by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes  minutes.",
+    "On 18:00, I want to shop, I go to Brothers Market by public_transit which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Cafe du Pays by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to shop, I go to Brothers Market by public_transit which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

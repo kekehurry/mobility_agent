@@ -1,0 +1,223 @@
+{
+  "profile": "{\"name\": \"Sarah Santos\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"college\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Jose Mateo Ballet Theatre",
+        "distance_km": 2.8432158046821745,
+        "coordinates": [
+          "42.371768",
+          "-71.114171"
+        ]
+      }
+    },
+    {
+      "start_time": "08:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36773834812876,
+          -71.08008358209615
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "The duration is likely to be 20-30 minutes as per previous trips"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 2.1945044358694545,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chang Shing Tofu",
+        "distance_km": 0.18640931058107496,
+        "coordinates": [
+          "42.366227",
+          "-71.0791"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mu Lan",
+        "distance_km": 1.1807362786449207,
+        "coordinates": [
+          "42.366351",
+          "-71.094295"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 0.7901187334464471,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dr Detail Car Cleaning Service",
+        "distance_km": 0.364349063463763,
+        "coordinates": [
+          "42.36813",
+          "-71.075692"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 0.3217512496968361,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 2.1945044358694545,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36773834812876,
+          -71.08008358209615
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fava Bean Mediterranean",
+        "distance_km": 0.29111017588181554,
+        "coordinates": [
+          "42.368298",
+          "-71.076631"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Green Street Studios",
+        "distance_km": 1.8743919236734723,
+        "coordinates": [
+          "42.363876",
+          "-71.102234"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36773834812876,
+        -71.08008358209615
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to recreation, I go to Jose Mateo Ballet Theatre by public_transit which takes 20-30 minutes.",
+    "On 08:10, I want to home, I go to home by public_transit which takes  minutes.",
+    "On 09:00, I want to social, I go to Central House by public_transit which takes The duration is likely to be 20-30 minutes as per previous trips minutes.",
+    "On 10:30, I want to shop, I go to Chang Shing Tofu by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Mu Lan by public_transit which takes 10-20 minutes.",
+    "On 13:15, I want to recreation, I go to Cambridge Center Roof Garden by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to maintenance, I go to Dr Detail Car Cleaning Service by public_transit which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Old Navy by walking which takes 0-10 minutes.",
+    "On 17:00, I want to social, I go to Central House by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Fava Bean Mediterranean by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to recreation, I go to Green Street Studios by public_transit which takes 10-20 minutes."
+  ]
+}

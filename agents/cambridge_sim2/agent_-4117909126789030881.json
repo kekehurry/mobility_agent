@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Terry Baker\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 1.159336948389624,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 0.9099301597566035,
+        "coordinates": [
+          "42.363707",
+          "-71.09312"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Halal Buns",
+        "distance_km": 0.7695801908439915,
+        "coordinates": [
+          "42.374045",
+          "-71.100616"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She is in a different city, so I can't determine the exact duration."
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 0.6245136558359552,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.6049767970274272,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3718363164416,
+          -71.09176001590251
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Simon's Too",
+        "distance_km": 1.5869393964383465,
+        "coordinates": [
+          "42.36934",
+          "-71.11073"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3718363164416,
+          -71.09176001590251
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3718363164416,
+        -71.09176001590251
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:00, I want to shop, I go to Shalimar India Food & Spices by walking which takes 10-20 minutes.",
+    "On 11:00, I want to recreation, I go to Cambridge Athletic Club by walking which takes  minutes.",
+    "On 12:00, I want to eat, I go to Halal Buns by walking which takes  minutes.",
+    "On 14:00, I want to recreation, I go to Simoni Skating Rink by walking which takes She is in a different city, so I can't determine the exact duration. minutes.",
+    "On 16:00, I want to shop, I go to Joe's Kwik Mart by auto_passenger which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes  minutes.",
+    "On 18:00, I want to eat, I go to Simon's Too by walking which takes 20-30 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

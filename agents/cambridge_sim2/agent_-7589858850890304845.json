@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Lori Graham MD\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"doctorate\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Healthworks Pilates Studio",
+        "distance_km": 0.640675326174645,
+        "coordinates": [
+          "42.388531",
+          "-71.1184"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rindge Field",
+        "distance_km": 0.26775544319369965,
+        "coordinates": [
+          "42.39121",
+          "-71.128521"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newtowne Grille",
+        "distance_km": 0.49556048961420957,
+        "coordinates": [
+          "42.389719",
+          "-71.120012"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Healthworks Pilates Studio",
+        "distance_km": 0.640675326174645,
+        "coordinates": [
+          "42.388531",
+          "-71.1184"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Caff\u00e8 Nero",
+        "distance_km": 0.5539166726852737,
+        "coordinates": [
+          "42.388049",
+          "-71.119664"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Healthworks Pilates Studio",
+        "distance_km": 0.640675326174645,
+        "coordinates": [
+          "42.388531",
+          "-71.1184"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.389660869396906,
+          -71.12602971067736
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.389660869396906,
+        -71.12602971067736
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:00, I want to recreation, I go to Healthworks Pilates Studio by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to social, I go to Rindge Field by biking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Newtowne Grille by biking which takes 0-10 minutes.",
+    "On 16:00, I want to recreation, I go to Healthworks Pilates Studio by private_auto which takes  minutes.",
+    "On 17:30, I want to eat, I go to Caff\u00e8 Nero by private_auto which takes  minutes.",
+    "On 19:00, I want to other_activities, I go to Healthworks Pilates Studio by biking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

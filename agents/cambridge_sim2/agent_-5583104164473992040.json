@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Jenna Torres\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:02",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fernandes Market",
+        "distance_km": 0.20626005059901203,
+        "coordinates": [
+          "42.372604",
+          "-71.091379"
+        ]
+      }
+    },
+    {
+      "start_time": "11:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.48607554758842625,
+        "coordinates": [
+          "42.373154",
+          "-71.095093"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Biogen",
+        "distance_km": 0.9649448474047387,
+        "coordinates": [
+          "42.365003",
+          "-71.087029"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Luigi's Variety",
+        "distance_km": 0.41640096357782297,
+        "coordinates": [
+          "42.371552",
+          "-71.084926"
+        ]
+      }
+    },
+    {
+      "start_time": "13:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fernandes Market",
+        "distance_km": 0.20626005059901203,
+        "coordinates": [
+          "42.372604",
+          "-71.091379"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37353743256508,
+          -71.08921419635034
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Puritan Oyster Bar",
+        "distance_km": 0.6364974304055488,
+        "coordinates": [
+          "42.372941",
+          "-71.0969"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mitsubishi Electric Research Labs",
+        "distance_km": 0.8668063929831913,
+        "coordinates": [
+          "42.366121",
+          "-71.092487"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37353743256508,
+          -71.08921419635034
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.950466457972453,
+        "coordinates": [
+          "42.364982",
+          "-71.089027"
+        ]
+      }
+    },
+    {
+      "start_time": "20:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37353743256508,
+          -71.08921419635034
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37353743256508,
+        -71.08921419635034
+      ]
+    },
+    "work": {
+      "name": "Fernandes Market",
+      "coordinates": [
+        "42.372604",
+        "-71.091379"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:02, I want to work, I go to Fernandes Market by biking which takes 0-10 minutes.",
+    "On 11:25, I want to eat, I go to Clover Food Lab by auto_passenger which takes 0-10 minutes.",
+    "On 12:10, I want to recreation, I go to Biogen by biking which takes 0-10 minutes.",
+    "On 12:45, I want to shop, I go to Luigi's Variety by auto_passenger which takes 0-10 minutes.",
+    "On 13:40, I want to work, I go to Fernandes Market by biking which takes 0-10 minutes.",
+    "On 16:00, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 16:45, I want to eat, I go to Puritan Oyster Bar by auto_passenger which takes  minutes.",
+    "On 17:30, I want to shop, I go to Mitsubishi Electric Research Labs by auto_passenger which takes 0-10 minutes.",
+    "On 18:15, I want to home, I go to home by biking which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to CorePower Yoga by auto_passenger which takes 10-20 minutes.",
+    "On 20:45, I want to home, I go to home by auto_passenger which takes 0-10 minutes."
+  ]
+}

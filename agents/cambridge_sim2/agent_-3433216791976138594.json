@@ -1,0 +1,171 @@
+{
+  "profile": "{\"name\": \"John Carr\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"student\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.5413826830999326,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.5413826830999326,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Yearbook Publications",
+        "distance_km": 2.3615575256127315,
+        "coordinates": [
+          "42.373352",
+          "-71.12186"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.5413826830999326,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chang Shing Tofu",
+        "distance_km": 1.6001769380890773,
+        "coordinates": [
+          "42.366227",
+          "-71.0791"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 0.5723422566823313,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Happy Lamb Hot Pot",
+        "distance_km": 0.3857523315564673,
+        "coordinates": [
+          "42.364142",
+          "-71.101297"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361960463701024,
+          -71.09765357739263
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.361960463701024,
+        -71.09765357739263
+      ]
+    },
+    "work": {
+      "name": "Go! Go! Curry!",
+      "coordinates": [
+        "42.365034",
+        "-71.102754"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Harvard Yearbook Publications",
+      "coordinates": [
+        "42.373352",
+        "-71.12186"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Go! Go! Curry! by walking which takes 10-20 minutes.",
+    "On 10:00, I want to eat, I go to Go! Go! Curry! by private_auto which takes  minutes.",
+    "On 12:00, I want to school, I go to Harvard Yearbook Publications by walking which takes 10-20 minutes.",
+    "On 13:30, I want to eat, I go to Go! Go! Curry! by walking which takes  minutes.",
+    "On 15:30, I want to shop, I go to Chang Shing Tofu by walking which takes 20-30 minutes.",
+    "On 17:30, I want to recreation, I go to Greene Rose Heritage Park by walking which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Happy Lamb Hot Pot by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

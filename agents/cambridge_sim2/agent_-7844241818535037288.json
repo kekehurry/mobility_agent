@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Ann Trevino\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Morse School Lindstrom Field",
+        "distance_km": 0.5817229673259876,
+        "coordinates": [
+          "42.355207",
+          "-71.111187"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Plough & Stars",
+        "distance_km": 1.5751564991680134,
+        "coordinates": [
+          "42.368211",
+          "-71.108844"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Armageddon Shop",
+        "distance_km": 2.4443906275259244,
+        "coordinates": [
+          "42.372315",
+          "-71.121535"
+        ]
+      }
+    },
+    {
+      "start_time": "15:50",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Dance Complex",
+        "distance_km": 1.0967648096766096,
+        "coordinates": [
+          "42.364228",
+          "-71.1023"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 1.199915827492904,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35445538362879,
+          -71.10419940110324
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35445538362879,
+        -71.10419940110324
+      ]
+    },
+    "work": {
+      "name": "Morse School Lindstrom Field",
+      "coordinates": [
+        "42.355207",
+        "-71.111187"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to work, I go to Morse School Lindstrom Field by walking which takes 0-10 minutes.",
+    "On 12:15, I want to eat, I go to The Plough & Stars by private_auto which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to Armageddon Shop by biking which takes 10-20 minutes.",
+    "On 15:50, I want to recreation, I go to The Dance Complex by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Moge Tee Cambridge by walking which takes  minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

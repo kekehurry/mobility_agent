@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Laura Valencia\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 0.4601018641144178,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 0.8773768346109334,
+        "coordinates": [
+          "42.38929",
+          "-71.143413"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Amaral Group",
+        "distance_km": 0.5448323054838252,
+        "coordinates": [
+          "42.39712",
+          "-71.130299"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 1.072523990609715,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Alice Heller Dance",
+        "distance_km": 1.0114344524843049,
+        "coordinates": [
+          "42.386167",
+          "-71.137352"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 0.8773768346109334,
+        "coordinates": [
+          "42.38929",
+          "-71.143413"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39524580764751,
+          -71.13641412807053
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39524580764751,
+        -71.13641412807053
+      ]
+    },
+    "work": {
+      "name": "Fresh Pond Beer Garden",
+      "coordinates": [
+        "42.391307",
+        "-71.138143"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Fresh Pond Beer Garden by biking which takes 0-10 minutes.",
+    "On 11:45, I want to eat, I go to Chipotle Mexican Grill by walking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to The Amaral Group by walking which takes  minutes.",
+    "On 14:15, I want to eat, I go to SANTE Mobile Farmhouse Cafe by walking which takes 0-10 minutes.",
+    "On 17:00, I want to recreation, I go to Alice Heller Dance by biking which takes  minutes.",
+    "On 18:30, I want to eat, I go to Chipotle Mexican Grill by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Elizabeth Curtis\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "EY",
+        "distance_km": 1.551059498402606,
+        "coordinates": [
+          "42.362696",
+          "-71.085366"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Manray",
+        "distance_km": 0.4442429106082615,
+        "coordinates": [
+          "42.366065",
+          "-71.103105"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36988497942078,
+          -71.10150821683258
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kinematix",
+        "distance_km": 1.5815671994072238,
+        "coordinates": [
+          "42.366701",
+          "-71.082794"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Corazon De Frida",
+        "distance_km": 0.4719398863878819,
+        "coordinates": [
+          "42.373666",
+          "-71.098895"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bri Grady Robert Paul Properties",
+        "distance_km": 1.114758156938974,
+        "coordinates": [
+          "42.370813",
+          "-71.114984"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36988497942078,
+          -71.10150821683258
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36988497942078,
+        -71.10150821683258
+      ]
+    },
+    "work": {
+      "name": "EY",
+      "coordinates": [
+        "42.362696",
+        "-71.085366"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to work, I go to EY by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Manray by auto_passenger which takes 0-10 minutes.",
+    "On 13:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 14:30, I want to shop, I go to Kinematix by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Corazon De Frida by biking which takes 0-10 minutes.",
+    "On 17:30, I want to social, I go to Bri Grady Robert Paul Properties by walking which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Barbara Guzman\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:02",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BRIAN PEREIRA MD",
+        "distance_km": 0.2642134673094694,
+        "coordinates": [
+          "42.395252",
+          "-71.145844"
+        ]
+      }
+    },
+    {
+      "start_time": "10:08",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 1.5032375998665746,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.08561807011750824,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "14:03",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BRIAN PEREIRA MD",
+        "distance_km": 0.2642134673094694,
+        "coordinates": [
+          "42.395252",
+          "-71.145844"
+        ]
+      }
+    },
+    {
+      "start_time": "16:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "math.random()"
+      },
+      "destination": {
+        "name": "Bbn Technologies",
+        "distance_km": 0.7050592844217746,
+        "coordinates": [
+          "42.389788",
+          "-71.147614"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.9844011520893867,
+        "coordinates": [
+          "42.389201",
+          "-71.141301"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ashley Allen Santana Properties Team",
+        "distance_km": 0.2849057513854037,
+        "coordinates": [
+          "42.394453",
+          "-71.14617"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3960678871369,
+          -71.14885829354107
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3960678871369,
+        -71.14885829354107
+      ]
+    },
+    "work": {
+      "name": "BRIAN PEREIRA MD",
+      "coordinates": [
+        "42.395252",
+        "-71.145844"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:02, I want to work, I go to BRIAN PEREIRA MD by on_demand_auto which takes 0-10 minutes.",
+    "On 10:08, I want to shop, I go to Friendly Corner Convenience Store by auto_passenger which takes 0-10 minutes.",
+    "On 11:45, I want to eat, I go to SANTE Mobile Farmhouse Cafe by private_auto which takes 0-10 minutes.",
+    "On 14:03, I want to work, I go to BRIAN PEREIRA MD by private_auto which takes 0-10 minutes.",
+    "On 16:20, I want to shop, I go to Bbn Technologies by on_demand_auto which takes math.random() minutes.",
+    "On 17:30, I want to eat, I go to Genji Express by on_demand_auto which takes 0-10 minutes.",
+    "On 19:15, I want to social, I go to Ashley Allen Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

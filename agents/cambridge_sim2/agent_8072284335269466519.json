@@ -1,0 +1,112 @@
+{
+  "profile": "{\n  \"name\": \"Jeanette Clark\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor's_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:55",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-3, "
+      },
+      "destination": {
+        "name": "Sidney's Grille",
+        "distance_km": 0.4207173493442024,
+        "coordinates": [
+          "42.362011",
+          "-71.099965"
+        ]
+      }
+    },
+    {
+      "start_time": "11:10",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Metropolitan Urological Associates PC",
+        "distance_km": 3.1097035190236992,
+        "coordinates": [
+          "42.374276",
+          "-71.134231"
+        ]
+      }
+    },
+    {
+      "start_time": "15:11",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 2.971643041478027,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "21:16",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Middlesex Lounge",
+        "distance_km": 0.5434931078031698,
+        "coordinates": [
+          "42.362555",
+          "-71.098461"
+        ]
+      }
+    },
+    {
+      "start_time": "21:36",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 0.6477566553593461,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35883297771113,
+        -71.1027432111774
+      ]
+    },
+    "work": {
+      "name": "Sidney's Grille",
+      "coordinates": [
+        "42.362011",
+        "-71.099965"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:55, I want to work, I go to Sidney's Grille by biking which takes 20-3,  minutes.",
+    "On 11:10, I want to recreation, I go to Metropolitan Urological Associates PC by biking which takes 20-30 minutes.",
+    "On 15:11, I want to shop, I go to Evergood Super Market by biking which takes 20-30 minutes.",
+    "On 21:16, I want to eat, I go to Middlesex Lounge by walking which takes 10-20 minutes.",
+    "On 21:36, I want to shop, I go to Deep Thoughts Cambridge by walking which takes 10-20 minutes."
+  ]
+}

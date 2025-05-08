@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Danielle Barrett\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:39",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Toad",
+        "distance_km": 2.7872940129113197,
+        "coordinates": [
+          "42.388985",
+          "-71.119948"
+        ]
+      }
+    },
+    {
+      "start_time": "11:02",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bayside Realty",
+        "distance_km": 4.801647189752774,
+        "coordinates": [
+          "42.367459",
+          "-71.106609"
+        ]
+      }
+    },
+    {
+      "start_time": "11:17",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 2.548841450106309,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "12:02",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Boston Marketing & Distribution",
+        "distance_km": 0.17762745982242228,
+        "coordinates": [
+          "42.394098",
+          "-71.151357"
+        ]
+      }
+    },
+    {
+      "start_time": "16:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39336979431612,
+          -71.15327762238273
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39336979431612,
+        -71.15327762238273
+      ]
+    },
+    "work": {
+      "name": "Toad",
+      "coordinates": [
+        "42.388985",
+        "-71.119948"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:39, I want to work, I go to Toad by public_transit which takes 20-30 minutes.",
+    "On 11:02, I want to social, I go to Bayside Realty by public_transit which takes 20-30 minutes.",
+    "On 11:17, I want to recreation, I go to Quadrangle Recreational Athletic Center by public_transit which takes 20-30 minutes.",
+    "On 12:02, I want to eat, I go to Boston Marketing & Distribution by walking which takes 0-10 minutes.",
+    "On 16:55, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

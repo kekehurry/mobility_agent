@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Nathan Santos\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Best Buy",
+        "distance_km": 0.7334896408861074,
+        "coordinates": [
+          "42.367519",
+          "-71.077299"
+        ]
+      }
+    },
+    {
+      "start_time": "08:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "RJ Realty Management",
+        "distance_km": 1.3856623988378423,
+        "coordinates": [
+          "42.368602",
+          "-71.094216"
+        ]
+      }
+    },
+    {
+      "start_time": "11:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Ma Sears Appliance Repair",
+        "distance_km": 0.756317311963274,
+        "coordinates": [
+          "42.367438",
+          "-71.076567"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37399394494902,
+          -71.07904576590134
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 0.8278969040361577,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Eli Incorporated",
+        "distance_km": 1.5174893846839617,
+        "coordinates": [
+          "42.371228",
+          "-71.097088"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37399394494902,
+          -71.07904576590134
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gong Cha",
+        "distance_km": 0.656124138224305,
+        "coordinates": [
+          "42.368489",
+          "-71.076158"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 0.4515074902114329,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37399394494902,
+          -71.07904576590134
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37399394494902,
+        -71.07904576590134
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to shop, I go to Best Buy by walking which takes 0-10 minutes.",
+    "On 08:50, I want to social, I go to RJ Realty Management by walking which takes 10-20 minutes.",
+    "On 11:20, I want to shop, I go to Cambridge Ma Sears Appliance Repair by on_demand_auto which takes  minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to Gravestar Inc by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Eli Incorporated by public_transit which takes 20-30 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:20, I want to eat, I go to Gong Cha by private_auto which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Simoni Skating Rink by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

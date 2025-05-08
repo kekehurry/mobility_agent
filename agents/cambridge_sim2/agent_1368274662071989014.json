@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jordan Anderson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:13",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard House Of Pizza",
+        "distance_km": 2.5003593019258883,
+        "coordinates": [
+          "42.383291",
+          "-71.119836"
+        ]
+      }
+    },
+    {
+      "start_time": "10:53",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 1.9832746129896206,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "12:26",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36268369879045,
+          -71.10762258621324
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.5250789766333805,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "18:26",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36268369879045,
+          -71.10762258621324
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.5250789766333805,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "19:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36268369879045,
+          -71.10762258621324
+        ]
+      }
+    },
+    {
+      "start_time": "19:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36268369879045,
+          -71.10762258621324
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36268369879045,
+        -71.10762258621324
+      ]
+    },
+    "work": {
+      "name": "Harvard House Of Pizza",
+      "coordinates": [
+        "42.383291",
+        "-71.119836"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:13, I want to work, I go to Harvard House Of Pizza by private_auto which takes 10-20 minutes.",
+    "On 10:53, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes 10-20 minutes.",
+    "On 12:26, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:28, I want to shop, I go to H Mart by on_demand_auto which takes 0-10 minutes.",
+    "On 18:26, I want to home, I go to home by walking which takes  minutes.",
+    "On 19:35, I want to shop, I go to H Mart by walking which takes 0-10 minutes.",
+    "On 19:40, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:43, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

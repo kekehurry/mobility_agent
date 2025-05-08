@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Elizabeth Thomas\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Matignon High School",
+        "distance_km": 0.470627182667323,
+        "coordinates": [
+          "42.401313",
+          "-71.131348"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39715025592621,
+          -71.13241204263103
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "J & K Han A Rum Oriental Market",
+        "distance_km": 0.2226050253299853,
+        "coordinates": [
+          "42.396718",
+          "-71.129772"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Julia's Polish Deli",
+        "distance_km": 0.75718019026792,
+        "coordinates": [
+          "42.395756",
+          "-71.141414"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 0.14444343632782755,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 2.724300749623277,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39715025592621,
+          -71.13241204263103
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39715025592621,
+        -71.13241204263103
+      ]
+    },
+    "school": {
+      "name": "Matignon High School",
+      "coordinates": [
+        "42.401313",
+        "-71.131348"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to school, I go to Matignon High School by walking which takes 10-20 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to J & K Han A Rum Oriental Market by walking which takes 0-10 minutes.",
+    "On 16:00, I want to eat, I go to Julia's Polish Deli by walking which takes 10-20 minutes.",
+    "On 18:30, I want to shop, I go to Friendly Corner Convenience Store by auto_passenger which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Cambridge Forum by public_transit which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

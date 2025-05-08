@@ -1,0 +1,180 @@
+{
+  "profile": "{\n  \"name\": \"Heather Barnes\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 65,\n  \"gender\": \"female\",\n  \"employment_status\": \"retired\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 2,\n  \"household_income\": \"50k-75k\",\n  \"available_vehicles\": 2\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 0.7029055275147988,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lavash Bar & Grille",
+        "distance_km": 0.7799135861113008,
+        "coordinates": [
+          "42.387881",
+          "-71.140397"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Up Stage",
+        "distance_km": 0.27568052335757876,
+        "coordinates": [
+          "42.384039",
+          "-71.134041"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Village Fitness",
+        "distance_km": 0.24119675967011617,
+        "coordinates": [
+          "42.381332",
+          "-71.13843"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38183540908139,
+          -71.13558101538494
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 0.597336518380054,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Walden Square Community Association",
+        "distance_km": 0.9517010607308234,
+        "coordinates": [
+          "42.389148",
+          "-71.129559"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.2400546442921871,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38183540908139,
+          -71.13558101538494
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38183540908139,
+        -71.13558101538494
+      ]
+    },
+    "work": {
+      "name": "St Peters Field",
+      "coordinates": [
+        "42.386647",
+        "-71.132342"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to recreation, I go to Fresh Pond by biking which takes 0-10 minutes.",
+    "On 09:30, I want to eat, I go to Lavash Bar & Grille by walking which takes 0-10 minutes.",
+    "On 11:30, I want to social, I go to Up Stage by walking which takes 0-10 minutes.",
+    "On 12:30, I want to recreation, I go to Village Fitness by walking which takes 0-10 minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:30, I want to work, I go to St Peters Field by walking which takes  minutes.",
+    "On 16:30, I want to social, I go to Walden Square Community Association by biking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Concord Avenue Cafe by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

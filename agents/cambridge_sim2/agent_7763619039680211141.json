@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Laura Mcdaniel\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kendall Club",
+        "distance_km": 2.5316754360652616,
+        "coordinates": [
+          "42.362192",
+          "-71.081617"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 0.9608585060325552,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.0074960841354617,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.8810617405786026,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Veggie Grill",
+        "distance_km": 1.5149807551538517,
+        "coordinates": [
+          "42.372002",
+          "-71.120836"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "time_10-20"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.810400320468721,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.359960242981344,
+          -71.11220071318529
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.359960242981344,
+        -71.11220071318529
+      ]
+    },
+    "work": {
+      "name": "Kendall Club",
+      "coordinates": [
+        "42.362192",
+        "-71.081617"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Kendall Club by private_auto which takes 10-20 minutes.",
+    "On 12:15, I want to eat, I go to Go! Go! Curry! by biking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to H Mart by biking which takes 0-10 minutes.",
+    "On 15:30, I want to social, I go to Central House by private_auto which takes 10-20 minutes.",
+    "On 17:45, I want to eat, I go to Veggie Grill by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes time_10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

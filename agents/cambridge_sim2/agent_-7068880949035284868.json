@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Barbara Smith\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ten Tables",
+        "distance_km": 0.7486941134405639,
+        "coordinates": [
+          "42.379312",
+          "-71.12724"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Yard",
+        "distance_km": 0.9727528871071572,
+        "coordinates": [
+          "42.375392",
+          "-71.12457"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37755293347464,
+          -71.13601566164958
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.457719794979846,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Radcliffe Yard",
+        "distance_km": 0.9727528871071572,
+        "coordinates": [
+          "42.375392",
+          "-71.12457"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 1.3545667567960895,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37755293347464,
+          -71.13601566164958
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37755293347464,
+        -71.13601566164958
+      ]
+    },
+    "work": {
+      "name": "Ten Tables",
+      "coordinates": [
+        "42.379312",
+        "-71.12724"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Ten Tables by auto_passenger which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Radcliffe Yard by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Stereo Lab by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Radcliffe Yard by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to social, I go to Marc's Handyman by auto_passenger which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

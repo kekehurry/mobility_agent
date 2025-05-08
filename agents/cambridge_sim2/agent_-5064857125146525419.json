@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Steve Williams\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"unemployed\", \"education\": \"bachelor's\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:05",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Margolin June Psychothrpst",
+        "distance_km": 0.27465239614774534,
+        "coordinates": [
+          "42.384475",
+          "-71.120488"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Baraka",
+        "distance_km": 0.23868895857596478,
+        "coordinates": [
+          "42.384088",
+          "-71.119825"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 1.365322762186224,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.3034168026792625,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38508083703697,
+          -71.11725447441955
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 0.5596588292437801,
+        "coordinates": [
+          "42.390107",
+          "-71.117726"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38508083703697,
+          -71.11725447441955
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38508083703697,
+        -71.11725447441955
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:05, I want to recreation, I go to Margolin June Psychothrpst by biking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Baraka by walking which takes 0-10 minutes.",
+    "On 14:30, I want to social, I go to Done Right Care by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Gap by biking which takes  minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Ben & Jerry's by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

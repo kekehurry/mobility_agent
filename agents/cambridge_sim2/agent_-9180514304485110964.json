@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Christopher Walker\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:18",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "William James Hall",
+        "distance_km": 0.9406862444824046,
+        "coordinates": [
+          "42.377191",
+          "-71.113394"
+        ]
+      }
+    },
+    {
+      "start_time": "07:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard",
+        "distance_km": 0.8880008172900525,
+        "coordinates": [
+          "42.377157",
+          "-71.117476"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bri Grady Robert Paul Properties",
+        "distance_km": 0.2498061463693808,
+        "coordinates": [
+          "42.370813",
+          "-71.114984"
+        ]
+      }
+    },
+    {
+      "start_time": "09:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 1.0296506528391032,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 0.6547043327214543,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard",
+        "distance_km": 0.8880008172900525,
+        "coordinates": [
+          "42.377157",
+          "-71.117476"
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 0.22334812359489511,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "19:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36916893936815,
+          -71.11705329930535
+        ]
+      }
+    },
+    {
+      "start_time": "22:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shanghai Fresh",
+        "distance_km": 1.036311225585311,
+        "coordinates": [
+          "42.366518",
+          "-71.104991"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36916893936815,
+        -71.11705329930535
+      ]
+    },
+    "school": {
+      "name": "William James Hall",
+      "coordinates": [
+        "42.377191",
+        "-71.113394"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Harvard",
+      "coordinates": [
+        "42.377157",
+        "-71.117476"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:18, I want to school, I go to William James Hall by private_auto which takes 0-10 minutes.",
+    "On 07:43, I want to work, I go to Harvard by private_auto which takes  minutes.",
+    "On 08:30, I want to social, I go to Bri Grady Robert Paul Properties by walking which takes 0-10 minutes.",
+    "On 09:10, I want to shop, I go to Adt by private_auto which takes  minutes.",
+    "On 13:00, I want to recreation, I go to Mesomorpheus by private_auto which takes  minutes.",
+    "On 14:43, I want to work, I go to Harvard by private_auto which takes  minutes.",
+    "On 19:35, I want to shop, I go to Louie's Superette by walking which takes 0-10 minutes.",
+    "On 19:40, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 22:10, I want to eat, I go to Shanghai Fresh by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Lauren Brown\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Appleton Wm S Phys",
+        "distance_km": 1.5240953104062174,
+        "coordinates": [
+          "42.375849",
+          "-71.125991"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.9052297049243727,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hoyt Field",
+        "distance_km": 0.23033864059622475,
+        "coordinates": [
+          "42.363705",
+          "-71.112561"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ForestCity",
+        "distance_km": 1.221546487666688,
+        "coordinates": [
+          "42.361466",
+          "-71.100763"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.4415551850607979,
+        "coordinates": [
+          "42.360979",
+          "-71.113912"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.1303982795703562,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 0.5975153834651232,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sahaj Kaur",
+        "distance_km": 0.8076259483985164,
+        "coordinates": [
+          "42.366662",
+          "-71.105344"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Sakana",
+        "distance_km": 0.5989805450809372,
+        "coordinates": [
+          "42.369345",
+          "-71.110752"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.364892302622096,
+          -71.11485344652802
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.364892302622096,
+        -71.11485344652802
+      ]
+    },
+    "work": {
+      "name": "Appleton Wm S Phys",
+      "coordinates": [
+        "42.375849",
+        "-71.125991"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Appleton Wm S Phys by private_auto which takes 10-20 minutes.",
+    "On 07:45, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes  minutes.",
+    "On 09:00, I want to recreation, I go to Hoyt Field by biking which takes 0-10 minutes.",
+    "On 11:30, I want to social, I go to ForestCity by biking which takes 0-10 minutes.",
+    "On 13:00, I want to eat, I go to Taqueria by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to Market In the Square by private_auto which takes 10-20 minutes.",
+    "On 16:30, I want to eat, I go to Cafe Anthony by private_auto which takes  minutes.",
+    "On 17:30, I want to recreation, I go to Sahaj Kaur by biking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Sakana by private_auto which takes  minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Mark Burns\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:40",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Mount Auburn Prevention & Recovery Center",
+        "distance_km": 2.5550837746237365,
+        "coordinates": [
+          "42.374349",
+          "-71.13374"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Magazine Beach Bath House & Pool",
+        "distance_km": 4.544476890236945,
+        "coordinates": [
+          "42.356921",
+          "-71.115233"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 0.16872211734460485,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Goldman Beth Phys",
+        "distance_km": 2.5543176520836353,
+        "coordinates": [
+          "42.374357",
+          "-71.133746"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.557103594835952,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lawner Peter PHD",
+        "distance_km": 2.4535804674974395,
+        "coordinates": [
+          "42.374779",
+          "-71.128574"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Jose's Mexican Restaurant",
+        "distance_km": 0.8706054274324548,
+        "coordinates": [
+          "42.390185",
+          "-71.132847"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kadampa Meditation Center Boston",
+        "distance_km": 0.20460225074472102,
+        "coordinates": [
+          "42.395081",
+          "-71.127985"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.396846270784735,
+          -71.12727559830839
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.396846270784735,
+        -71.12727559830839
+      ]
+    },
+    "work": {
+      "name": "Magazine Beach Bath House & Pool",
+      "coordinates": [
+        "42.356921",
+        "-71.115233"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:40, I want to recreation, I go to Mount Auburn Prevention & Recovery Center by biking which takes 20-30 minutes.",
+    "On 08:30, I want to work, I go to Magazine Beach Bath House & Pool by public_transit which takes 20-30 minutes.",
+    "On 12:00, I want to eat, I go to Verna's Coffee & Donut Shop by walking which takes 0-10 minutes.",
+    "On 12:30, I want to recreation, I go to Goldman Beth Phys by biking which takes 20-30 minutes.",
+    "On 13:30, I want to shop, I go to Trader Joe's by biking which takes 10-20 minutes.",
+    "On 15:30, I want to recreation, I go to Lawner Peter PHD by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Jose's Mexican Restaurant by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to Kadampa Meditation Center Boston by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

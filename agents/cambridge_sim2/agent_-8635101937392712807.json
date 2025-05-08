@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Emma Thomas\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:05",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard University Health Services",
+        "distance_km": 3.404026201498613,
+        "coordinates": [
+          "42.37135",
+          "-71.119421"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "EVOO Restaurant",
+        "distance_km": 0.5705867742198533,
+        "coordinates": [
+          "42.363587",
+          "-71.083219"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36731559763539,
+          -71.07845462548896
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 1.384141223809584,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "EVOO Restaurant",
+        "distance_km": 0.5705867742198533,
+        "coordinates": [
+          "42.363587",
+          "-71.083219"
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Scalable Display Technology",
+        "distance_km": 2.2040897660056227,
+        "coordinates": [
+          "42.365903",
+          "-71.105144"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36731559763539,
+          -71.07845462548896
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fava Bean Mediterranean",
+        "distance_km": 0.18566941222806155,
+        "coordinates": [
+          "42.368298",
+          "-71.076631"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36731559763539,
+          -71.07845462548896
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36731559763539,
+        -71.07845462548896
+      ]
+    },
+    "school": {
+      "name": "Harvard University Health Services",
+      "coordinates": [
+        "42.37135",
+        "-71.119421"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "EVOO Restaurant",
+      "coordinates": [
+        "42.363587",
+        "-71.083219"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:05, I want to school, I go to Harvard University Health Services by private_auto which takes 10-20 minutes.",
+    "On 07:45, I want to work, I go to EVOO Restaurant by walking which takes 10-20 minutes.",
+    "On 12:10, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to shop, I go to Formaggio Kitchen by walking which takes 10-20 minutes.",
+    "On 13:15, I want to work, I go to EVOO Restaurant by walking which takes 10-20 minutes.",
+    "On 17:15, I want to shop, I go to Scalable Display Technology by private_auto which takes 10-20 minutes.",
+    "On 17:45, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Fava Bean Mediterranean by private_auto which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

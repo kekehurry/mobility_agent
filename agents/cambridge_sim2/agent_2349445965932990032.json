@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Robert Hill\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:33",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 0.8010098347700538,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "12:13",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "TopMac",
+        "distance_km": 0.5657694557475185,
+        "coordinates": [
+          "42.370887",
+          "-71.080891"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Broad Institute",
+        "distance_km": 0.8010098347700538,
+        "coordinates": [
+          "42.362837",
+          "-71.088807"
+        ]
+      }
+    },
+    {
+      "start_time": "14:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.6088965851989525,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 0.8989648705594209,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36999722310175,
+          -71.08765413709368
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Bon Me One Kendall Square",
+        "distance_km": 0.5038814686030724,
+        "coordinates": [
+          "42.366098",
+          "-71.09078"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 2.672443805295368,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36999722310175,
+          -71.08765413709368
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36999722310175,
+        -71.08765413709368
+      ]
+    },
+    "work": {
+      "name": "Broad Institute",
+      "coordinates": [
+        "42.362837",
+        "-71.088807"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:33, I want to work, I go to Broad Institute by private_auto which takes 0-10 minutes.",
+    "On 12:13, I want to eat, I go to TopMac by private_auto which takes  minutes.",
+    "On 13:00, I want to work, I go to Broad Institute by private_auto which takes  minutes.",
+    "On 14:50, I want to social, I go to Central House by biking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to CLEAR Kiosk by private_auto which takes  minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 19:30, I want to eat, I go to Bon Me One Kendall Square by private_auto which takes  minutes.",
+    "On 20:30, I want to recreation, I go to Barre Soul by biking which takes 10-20 minutes.",
+    "On 22:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

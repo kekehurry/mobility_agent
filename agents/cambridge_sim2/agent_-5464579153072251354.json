@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Laurie Castillo\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 0.3574687187617005,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "10:57",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 1.675447170071407,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "11:07",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37364910801372,
+          -71.08920566657393
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Tealuxe",
+        "distance_km": 2.5341319532361086,
+        "coordinates": [
+          "42.373241",
+          "-71.119968"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "How long does it take to walk to the store?"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 1.1972099996634553,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dumpling Xuan",
+        "distance_km": 0.47635328474239136,
+        "coordinates": [
+          "42.37167",
+          "-71.084075"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "value of 10-20"
+      },
+      "destination": {
+        "name": "Luigi's Variety",
+        "distance_km": 0.4225154253767497,
+        "coordinates": [
+          "42.371552",
+          "-71.084926"
+        ]
+      }
+    },
+    {
+      "start_time": "17:35",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dumpling Xuan",
+        "distance_km": 0.47635328474239136,
+        "coordinates": [
+          "42.37167",
+          "-71.084075"
+        ]
+      }
+    },
+    {
+      "start_time": "18:05",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.8793008003885591,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "18:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37364910801372,
+          -71.08920566657393
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37364910801372,
+        -71.08920566657393
+      ]
+    },
+    "work": {
+      "name": "Tealuxe",
+      "coordinates": [
+        "42.373241",
+        "-71.119968"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:42, I want to social, I go to Fairlane Properties by walking which takes 10-20 minutes.",
+    "On 10:57, I want to recreation, I go to Cambridge War Memorial Recreation Center by public_transit which takes 20-30 minutes.",
+    "On 11:07, I want to home, I go to home by walking which takes  minutes.",
+    "On 12:45, I want to work, I go to Tealuxe by public_transit which takes 20-30 minutes.",
+    "On 14:00, I want to shop, I go to CLEAR Kiosk by walking which takes How long does it take to walk to the store? minutes.",
+    "On 14:30, I want to eat, I go to Dumpling Xuan by walking which takes 10-20 minutes.",
+    "On 16:15, I want to shop, I go to Luigi's Variety by walking which takes value of 10-20 minutes.",
+    "On 17:35, I want to eat, I go to Dumpling Xuan by walking which takes 10-20 minutes.",
+    "On 18:05, I want to maintenance, I go to Advance Tire Company Inc by walking which takes 10-20 minutes.",
+    "On 18:42, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

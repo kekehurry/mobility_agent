@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Tina Smith\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:50",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 0.3489198220853393,
+        "coordinates": [
+          "42.359256",
+          "-71.093146"
+        ]
+      }
+    },
+    {
+      "start_time": "10:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 0.3489198220853393,
+        "coordinates": [
+          "42.359256",
+          "-71.093146"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tatte Bakery & Cafe",
+        "distance_km": 0.4926298989444898,
+        "coordinates": [
+          "42.366372",
+          "-71.093115"
+        ]
+      }
+    },
+    {
+      "start_time": "13:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 0.9346321701646607,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clement G Morgan Park",
+        "distance_km": 0.42391842351183967,
+        "coordinates": [
+          "42.364855",
+          "-71.098459"
+        ]
+      }
+    },
+    {
+      "start_time": "15:40",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bayside Realty",
+        "distance_km": 1.1347497722512925,
+        "coordinates": [
+          "42.367459",
+          "-71.106609"
+        ]
+      }
+    },
+    {
+      "start_time": "16:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.7490753552565587,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36212943008187,
+          -71.09485700559594
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Abide",
+        "distance_km": 0.30120943886015056,
+        "coordinates": [
+          "42.36256",
+          "-71.098467"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36212943008187,
+          -71.09485700559594
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36212943008187,
+        -71.09485700559594
+      ]
+    },
+    "work": {
+      "name": "Subway",
+      "coordinates": [
+        "42.359256",
+        "-71.093146"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:50, I want to other_activities, I go to Subway by private_auto which takes 0-10 minutes.",
+    "On 10:10, I want to work, I go to Subway by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Tatte Bakery & Cafe by walking which takes 10-20 minutes.",
+    "On 13:10, I want to shop, I go to Roche Brothers Supermarket by walking which takes  minutes.",
+    "On 14:30, I want to recreation, I go to Clement G Morgan Park by walking which takes 0-10 minutes.",
+    "On 15:40, I want to social, I go to Bayside Realty by walking which takes 0-10 minutes.",
+    "On 16:20, I want to shop, I go to Formaggio Kitchen by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:20, I want to eat, I go to Abide by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

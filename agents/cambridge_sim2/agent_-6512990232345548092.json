@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Patrick Fisher\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Corazon De Frida",
+        "distance_km": 1.516974463510918,
+        "coordinates": [
+          "42.373666",
+          "-71.098895"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 2.5539937349835755,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Nu Do' Society",
+        "distance_km": 0.309913145676772,
+        "coordinates": [
+          "42.364033",
+          "-71.108712"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Corazon De Frida",
+        "distance_km": 1.516974463510918,
+        "coordinates": [
+          "42.373666",
+          "-71.098895"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3614776577135,
+          -71.10720185126286
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.7215896057255695,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Boston Lamb Takedown",
+        "distance_km": 0.5282869484483106,
+        "coordinates": [
+          "42.363634",
+          "-71.101486"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3614776577135,
+          -71.10720185126286
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3614776577135,
+        -71.10720185126286
+      ]
+    },
+    "work": {
+      "name": "Corazon De Frida",
+      "coordinates": [
+        "42.373666",
+        "-71.098895"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Corazon De Frida by biking which takes 10-20 minutes.",
+    "On 11:30, I want to shop, I go to CLEAR Kiosk by biking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to The Nu Do' Society by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to work, I go to Corazon De Frida by biking which takes 10-20 minutes.",
+    "On 16:00, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 17:30, I want to shop, I go to Gap by biking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to The Boston Lamb Takedown by private_auto which takes  minutes.",
+    "On 19:00, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

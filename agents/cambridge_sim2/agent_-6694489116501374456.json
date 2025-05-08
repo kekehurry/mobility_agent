@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Zachary Ochoa\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n\t",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bon Me Harvard Truck",
+        "distance_km": 1.6172453721500135,
+        "coordinates": [
+          "42.37644",
+          "-71.116861"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 2.210703865485816,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36860906156866,
+          -71.13341380643558
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.4806001673595068,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hagopian Varant Phys",
+        "distance_km": 0.5901442967375427,
+        "coordinates": [
+          "42.373888",
+          "-71.134221"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.0709612835835083,
+        "coordinates": [
+          "42.371739",
+          "-71.121116"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36860906156866,
+          -71.13341380643558
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36860906156866,
+        -71.13341380643558
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 13:30, I want to eat, I go to Bon Me Harvard Truck by on_demand_auto which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to Central House by public_transit which takes 20-30 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 17:00, I want to shop, I go to Star Market by private_auto which takes  minutes.",
+    "On 18:00, I want to recreation, I go to Hagopian Varant Phys by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Dunkin' by on_demand_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Bryan Guzman\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 4, \"household_income\": \"25k-74.9k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 2.025787958698101,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "08:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-10"
+      },
+      "destination": {
+        "name": "Courthouse Seafood Restaurant",
+        "distance_km": 0.626022332567673,
+        "coordinates": [
+          "42.371483",
+          "-71.084626"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kinematix",
+        "distance_km": 0.4382058166570757,
+        "coordinates": [
+          "42.366701",
+          "-71.082794"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 0.16434721403012245,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sweet Touch Cafe",
+        "distance_km": 0.32858431269068444,
+        "coordinates": [
+          "42.371195",
+          "-71.079971"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 0.7860056171978581,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36857692528296,
+          -71.07811413949887
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 2.050470827765629,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Toscanini's Ice Cream",
+        "distance_km": 0.27343616982743274,
+        "coordinates": [
+          "42.366118",
+          "-71.078269"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36857692528296,
+          -71.07811413949887
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36857692528296,
+        -71.07811413949887
+      ]
+    },
+    "work": {
+      "name": "Old Navy",
+      "coordinates": [
+        "42.368128",
+        "-71.076213"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to shop, I go to H Mart by private_auto which takes 10-20 minutes.",
+    "On 08:40, I want to eat, I go to Courthouse Seafood Restaurant by auto_passenger which takes 10-10 minutes.",
+    "On 11:00, I want to shop, I go to Kinematix by auto_passenger which takes 0-10 minutes.",
+    "On 11:30, I want to work, I go to Old Navy by auto_passenger which takes  minutes.",
+    "On 12:30, I want to eat, I go to Sweet Touch Cafe by auto_passenger which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to One Broadway by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Toscanini's Ice Cream by private_auto which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

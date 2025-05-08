@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Christopher Hall\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:53",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pammy's",
+        "distance_km": 2.5832882954082397,
+        "coordinates": [
+          "42.368421",
+          "-71.109209"
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 0.36821703843212,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "12:55",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Pammy's",
+        "distance_km": 2.5832882954082397,
+        "coordinates": [
+          "42.368421",
+          "-71.109209"
+        ]
+      }
+    },
+    {
+      "start_time": "13:57",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.7856817176437465,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "18:22",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yummy Thai",
+        "distance_km": 0.6524280535987013,
+        "coordinates": [
+          "42.394486",
+          "-71.126632"
+        ]
+      }
+    },
+    {
+      "start_time": "18:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.8054498956929813,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "19:20",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Prime",
+        "distance_km": 1.2281869536382208,
+        "coordinates": [
+          "42.378086",
+          "-71.121335"
+        ]
+      }
+    },
+    {
+      "start_time": "21:16",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rod Dee",
+        "distance_km": 0.32848420553176066,
+        "coordinates": [
+          "42.38885",
+          "-71.119879"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38898256072699,
+        -71.12386414266176
+      ]
+    },
+    "work": {
+      "name": "Pammy's",
+      "coordinates": [
+        "42.368421",
+        "-71.109209"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:53, I want to work, I go to Pammy's by private_auto which takes 10-20 minutes.",
+    "On 12:28, I want to shop, I go to Gourmet Express by auto_passenger which takes 0-10 minutes.",
+    "On 12:55, I want to work, I go to Pammy's by private_auto which takes  minutes.",
+    "On 13:57, I want to recreation, I go to Fresh Pond by walking which takes 20-30 minutes.",
+    "On 18:22, I want to eat, I go to Yummy Thai by walking which takes 10-20 minutes.",
+    "On 18:40, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 19:20, I want to social, I go to Cambridge Prime by walking which takes 10-20 minutes.",
+    "On 21:16, I want to eat, I go to Rod Dee by walking which takes 0-10 minutes."
+  ]
+}

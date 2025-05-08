@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Jennifer Serrano\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "BerryLine",
+        "distance_km": 0.4216929460136487,
+        "coordinates": [
+          "42.371278",
+          "-71.114648"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 1.6336218892597814,
+        "coordinates": [
+          "42.364986",
+          "-71.102566"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.6355412289940383,
+        "coordinates": [
+          "42.368966",
+          "-71.11369"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She will take a walk to Darwin's, which is a short walk, so the duration is 10-20 minutes."
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.6346792054111109,
+        "coordinates": [
+          "42.368985",
+          "-71.11368"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37292435904307,
+          -71.11926122304783
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37292435904307,
+        -71.11926122304783
+      ]
+    },
+    "work": {
+      "name": "BerryLine",
+      "coordinates": [
+        "42.371278",
+        "-71.114648"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:15, I want to work, I go to BerryLine by walking which takes 10-20 minutes.",
+    "On 11:30, I want to recreation, I go to VIM Fitness by walking which takes 20-30 minutes.",
+    "On 12:15, I want to eat, I go to Darwin's by walking which takes  minutes.",
+    "On 18:30, I want to eat, I go to Darwin's by walking which takes She will take a walk to Darwin's, which is a short walk, so the duration is 10-20 minutes. minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

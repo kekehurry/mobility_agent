@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"David Martinez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 1.5773715787254148,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "user has a bachelor's degree and is not in the labor force, so prefers convenient options. The time is 09:00, which is a good time for on-demand auto. The weight is 0.45"
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.6114986589348086,
+        "coordinates": [
+          "42.368123",
+          "-71.102394"
+        ]
+      }
+    },
+    {
+      "start_time": "10:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Oberon",
+        "distance_km": 1.5188393842206178,
+        "coordinates": [
+          "42.370958",
+          "-71.114451"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 2.0293903267951983,
+        "coordinates": [
+          "42.372144",
+          "-71.071427"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Quadrangle Recreational Athletic Center",
+        "distance_km": 2.7955640589615136,
+        "coordinates": [
+          "42.381353",
+          "-71.126909"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 1.6967053232911533,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Oberon",
+        "distance_km": 1.5188393842206178,
+        "coordinates": [
+          "42.370958",
+          "-71.114451"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gypsy Place",
+        "distance_km": 0.29262587856978384,
+        "coordinates": [
+          "42.368482",
+          "-71.094714"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 1.4747672742656808,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370934430021414,
+          -71.09601131324331
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370934430021414,
+        -71.09601131324331
+      ]
+    },
+    "work": {
+      "name": "Oberon",
+      "coordinates": [
+        "42.370958",
+        "-71.114451"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to shop, I go to Western Market by on_demand_auto which takes 10-20 minutes.",
+    "On 09:00, I want to eat, I go to Taqueria by on_demand_auto which takes user has a bachelor's degree and is not in the labor force, so prefers convenient options. The time is 09:00, which is a good time for on-demand auto. The weight is 0.45 minutes.",
+    "On 10:15, I want to work, I go to Oberon by on_demand_auto which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Starbucks by public_transit which takes 20-30 minutes.",
+    "On 13:30, I want to recreation, I go to Quadrangle Recreational Athletic Center by public_transit which takes 20-30 minutes.",
+    "On 15:00, I want to shop, I go to Apple CambridgeSide by on_demand_auto which takes 10-20 minutes.",
+    "On 17:00, I want to work, I go to Oberon by on_demand_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Gypsy Place by walking which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Gravestar Inc by on_demand_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by on_demand_auto which takes 10-20 minutes."
+  ]
+}

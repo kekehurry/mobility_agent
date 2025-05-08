@@ -1,0 +1,155 @@
+{
+  "profile": "{\n  \"name\": \"Francis Thomas\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 65,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"college\",\n  \"household_size\": 2,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:16",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-2, "
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 0.7268438036996417,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.9950719969746726,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "12:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ":10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37063660901567,
+          -71.09261232642503
+        ]
+      }
+    },
+    {
+      "start_time": "16:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "SleekFix",
+        "distance_km": 1.0018595822646417,
+        "coordinates": [
+          "42.364213",
+          "-71.10115"
+        ]
+      }
+    },
+    {
+      "start_time": "16:05",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37063660901567,
+          -71.09261232642503
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37063660901567,
+          -71.09261232642503
+        ]
+      }
+    },
+    {
+      "start_time": "18:51",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lord Hobo",
+        "distance_km": 0.291715920275866,
+        "coordinates": [
+          "42.368695",
+          "-71.094997"
+        ]
+      }
+    },
+    {
+      "start_time": "19:51",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37063660901567,
+          -71.09261232642503
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37063660901567,
+        -71.09261232642503
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:16, I want to other_activities, I go to Simoni Skating Rink by public_transit which takes 10-2,  minutes.",
+    "On 12:28, I want to shop, I go to H Mart by walking which takes 10-20 minutes.",
+    "On 12:33, I want to home, I go to home by walking which takes :10-20 minutes.",
+    "On 16:03, I want to shop, I go to SleekFix by public_transit which takes 10-20 minutes.",
+    "On 16:05, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 18:45, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:51, I want to eat, I go to Lord Hobo by walking which takes 0-10 minutes.",
+    "On 19:51, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

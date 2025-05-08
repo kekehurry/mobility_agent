@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Tyler Price\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Atwood's Tavern",
+        "distance_km": 0.32678749244686905,
+        "coordinates": [
+          "42.372722",
+          "-71.091466"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369797951827024,
+          -71.09190238331192
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.8705450150473177,
+        "coordinates": [
+          "42.367987",
+          "-71.102185"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Atwood's Tavern",
+        "distance_km": 0.32678749244686905,
+        "coordinates": [
+          "42.372722",
+          "-71.091466"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369797951827024,
+          -71.09190238331192
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Elmendorf Baking Supplies",
+        "distance_km": 0.5045932015211899,
+        "coordinates": [
+          "42.371654",
+          "-71.086311"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Center Roof Garden",
+        "distance_km": 0.8048718019021053,
+        "coordinates": [
+          "42.3633",
+          "-71.087579"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369797951827024,
+          -71.09190238331192
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369797951827024,
+        -71.09190238331192
+      ]
+    },
+    "work": {
+      "name": "Atwood's Tavern",
+      "coordinates": [
+        "42.372722",
+        "-71.091466"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Atwood's Tavern by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 13:00, I want to shop, I go to Whole Foods Market by on_demand_auto which takes 0-10 minutes.",
+    "On 17:00, I want to work, I go to Atwood's Tavern by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Elmendorf Baking Supplies by private_auto which takes  minutes.",
+    "On 19:00, I want to recreation, I go to Cambridge Center Roof Garden by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

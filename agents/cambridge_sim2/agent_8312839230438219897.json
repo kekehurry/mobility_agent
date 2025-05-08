@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Kerry Brown\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"25k-50k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Exarchos Aristides E DMD",
+        "distance_km": 2.756438393377909,
+        "coordinates": [
+          "42.382297",
+          "-71.130487"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dosa Factory",
+        "distance_km": 0.3641049127890507,
+        "coordinates": [
+          "42.364998",
+          "-71.102425"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 0.21812877649449103,
+        "coordinates": [
+          "42.36498",
+          "-71.104203"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5256511429393168,
+        "coordinates": [
+          "42.367987",
+          "-71.102185"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dosa Factory",
+        "distance_km": 0.3641049127890507,
+        "coordinates": [
+          "42.364998",
+          "-71.102425"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Les Sablons",
+        "distance_km": 1.535211885187043,
+        "coordinates": [
+          "42.372713",
+          "-71.122059"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 0.2163867144896937,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Katie Lowe Pilates",
+        "distance_km": 1.8037032485648123,
+        "coordinates": [
+          "42.372892",
+          "-71.087891"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36474363267748,
+          -71.1068317194165
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36474363267748,
+        -71.1068317194165
+      ]
+    },
+    "work": {
+      "name": "Dosa Factory",
+      "coordinates": [
+        "42.364998",
+        "-71.102425"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Exarchos Aristides E DMD by private_auto which takes 20-30 minutes.",
+    "On 09:00, I want to work, I go to Dosa Factory by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Subway by on_demand_auto which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Whole Foods Market by on_demand_auto which takes 0-10 minutes.",
+    "On 17:30, I want to work, I go to Dosa Factory by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Les Sablons by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to shop, I go to Daily Table Central Square by on_demand_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Katie Lowe Pilates by private_auto which takes 20-30 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 20-30 minutes."
+  ]
+}

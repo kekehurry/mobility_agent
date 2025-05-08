@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Brandi Curtis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"75k-100k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:47",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Aram's No 2 Pizza & Subs",
+        "distance_km": 0.5322422708267825,
+        "coordinates": [
+          "42.371476",
+          "-71.081655"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "math.random() * 10 + 0"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372952587205155,
+          -71.08780241464613
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Aram's No 2 Pizza & Subs",
+        "distance_km": 0.5322422708267825,
+        "coordinates": [
+          "42.371476",
+          "-71.081655"
+        ]
+      }
+    },
+    {
+      "start_time": "15:58",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "TopMac",
+        "distance_km": 0.6137698589618997,
+        "coordinates": [
+          "42.370887",
+          "-71.080891"
+        ]
+      }
+    },
+    {
+      "start_time": "16:56",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 1.0581515912380186,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "17:52",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Sunset Cafe",
+        "distance_km": 0.2640341695136533,
+        "coordinates": [
+          "42.372668",
+          "-71.090985"
+        ]
+      }
+    },
+    {
+      "start_time": "18:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372952587205155,
+          -71.08780241464613
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372952587205155,
+        -71.08780241464613
+      ]
+    },
+    "work": {
+      "name": "Aram's No 2 Pizza & Subs",
+      "coordinates": [
+        "42.371476",
+        "-71.081655"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:47, I want to work, I go to Aram's No 2 Pizza & Subs by private_auto which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by private_auto which takes math.random() * 10 + 0 minutes.",
+    "On 13:37, I want to work, I go to Aram's No 2 Pizza & Subs by private_auto which takes 0-10 minutes.",
+    "On 15:58, I want to eat, I go to TopMac by private_auto which takes 0-10 minutes.",
+    "On 16:56, I want to shop, I go to CLEAR Kiosk by private_auto which takes 0-10 minutes.",
+    "On 17:52, I want to eat, I go to The Sunset Cafe by private_auto which takes 0-10 minutes.",
+    "On 18:50, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

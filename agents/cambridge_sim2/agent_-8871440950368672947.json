@@ -1,0 +1,95 @@
+{
+  "profile": "{\"name\": \"Michael Jenkins\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Common",
+        "distance_km": 1.6569061936816647,
+        "coordinates": [
+          "42.382113",
+          "-71.119384"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Umbarger Carter PHD",
+        "distance_km": 1.3274692522910627,
+        "coordinates": [
+          "42.383126",
+          "-71.132985"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.651303014760117,
+        "coordinates": [
+          "42.38193",
+          "-71.119937"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39484939567728,
+          -71.1298572436807
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39484939567728,
+        -71.1298572436807
+      ]
+    },
+    "work": {
+      "name": "Cambridge Common",
+      "coordinates": [
+        "42.382113",
+        "-71.119384"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:40, I want to work, I go to Cambridge Common by private_auto which takes 10-20 minutes.",
+    "On 11:55, I want to recreation, I go to Umbarger Carter PHD by private_auto which takes  minutes.",
+    "On 18:30, I want to eat, I go to Starbucks by public_transit which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

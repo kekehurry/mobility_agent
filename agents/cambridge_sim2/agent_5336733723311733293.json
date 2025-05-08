@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Daniel Simmons\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:02",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. JOSEPH LEE MD",
+        "distance_km": 1.5866257095587595,
+        "coordinates": [
+          "42.367903",
+          "-71.107355"
+        ]
+      }
+    },
+    {
+      "start_time": "08:25",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36941704255106,
+          -71.08820153075763
+        ]
+      }
+    },
+    {
+      "start_time": "09:28",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. JOSEPH LEE MD",
+        "distance_km": 1.5866257095587595,
+        "coordinates": [
+          "42.367903",
+          "-71.107355"
+        ]
+      }
+    },
+    {
+      "start_time": "11:02",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kantipur Cafe",
+        "distance_km": 0.6499480812297139,
+        "coordinates": [
+          "42.369953",
+          "-71.096059"
+        ]
+      }
+    },
+    {
+      "start_time": "12:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 0.828582699615492,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36941704255106,
+          -71.08820153075763
+        ]
+      }
+    },
+    {
+      "start_time": "14:45",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dr Detail Car Cleaning Service",
+        "distance_km": 1.0402890832699956,
+        "coordinates": [
+          "42.36813",
+          "-71.075692"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 2.47351670311593,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Real Property Management Commonwealth",
+        "distance_km": 1.0022429967285085,
+        "coordinates": [
+          "42.363577",
+          "-71.078927"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Courtside",
+        "distance_km": 0.6451377191007891,
+        "coordinates": [
+          "42.37126",
+          "-71.080774"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36941704255106,
+          -71.08820153075763
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36941704255106,
+        -71.08820153075763
+      ]
+    },
+    "work": {
+      "name": "DR. JOSEPH LEE MD",
+      "coordinates": [
+        "42.367903",
+        "-71.107355"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:02, I want to work, I go to DR. JOSEPH LEE MD by public_transit which takes 10-20 minutes.",
+    "On 08:25, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 09:28, I want to work, I go to DR. JOSEPH LEE MD by private_auto which takes 10-20 minutes.",
+    "On 11:02, I want to eat, I go to Kantipur Cafe by walking which takes 10-20 minutes.",
+    "On 12:03, I want to shop, I go to Roche Brothers Supermarket by walking which takes 10-20 minutes.",
+    "On 13:20, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 14:45, I want to maintenance, I go to Dr Detail Car Cleaning Service by public_transit which takes 10-20 minutes.",
+    "On 16:15, I want to shop, I go to Trader Joe's by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to social, I go to Real Property Management Commonwealth by walking which takes 10-20 minutes.",
+    "On 19:30, I want to eat, I go to Courtside by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

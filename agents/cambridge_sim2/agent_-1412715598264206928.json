@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Andre Ramos\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:02",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 3.304950501324405,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "10:49",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 0.4598272072339843,
+        "coordinates": [
+          "42.364819",
+          "-71.103271"
+        ]
+      }
+    },
+    {
+      "start_time": "12:12",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36894812919109,
+          -71.10366757370427
+        ]
+      }
+    },
+    {
+      "start_time": "13:11",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.5523233776786808,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "18:05",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 0.41909087747859436,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "20:22",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 0.7667220602242047,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "21:29",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36894812919109,
+          -71.10366757370427
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36894812919109,
+        -71.10366757370427
+      ]
+    },
+    "work": {
+      "name": "Pemberton Farms",
+      "coordinates": [
+        "42.393828",
+        "-71.125675"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:02, I want to work, I go to Pemberton Farms by private_auto which takes 10-20 minutes.",
+    "On 10:49, I want to eat, I go to Chipotle Mexican Grill by walking which takes 0-10 minutes.",
+    "On 12:12, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:11, I want to shop, I go to Joe's Kwik Mart by auto_passenger which takes 0-10 minutes.",
+    "On 18:05, I want to eat, I go to Moge Tee Cambridge by walking which takes  minutes.",
+    "On 20:22, I want to recreation, I go to Greene Rose Heritage Park by walking which takes 0-10 minutes.",
+    "On 21:29, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

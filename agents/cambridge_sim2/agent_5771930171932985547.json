@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Mary Riley\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cicada Coffee Bar",
+        "distance_km": 0.430543024068576,
+        "coordinates": [
+          "42.367571",
+          "-71.102001"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "SalsaBoston Entertainment",
+        "distance_km": 1.6114253234841651,
+        "coordinates": [
+          "42.358545",
+          "-71.114815"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Longfellows",
+        "distance_km": 0.26038027026388794,
+        "coordinates": [
+          "42.367789",
+          "-71.097963"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Richdale Food Store",
+        "distance_km": 0.5484085634707274,
+        "coordinates": [
+          "42.369673",
+          "-71.101087"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Down Under School of Yoga Harvard Square",
+        "distance_km": 1.990301673372096,
+        "coordinates": [
+          "42.37291",
+          "-71.119593"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Radcliffe Quadrangle",
+        "distance_km": 2.876705747723636,
+        "coordinates": [
+          "42.38189",
+          "-71.124615"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mary's Deli On the Charles",
+        "distance_km": 1.5408725790926165,
+        "coordinates": [
+          "42.361816",
+          "-71.115667"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.365458894033914,
+          -71.09761848299246
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "La Fabrica Central",
+        "distance_km": 0.35369980252836747,
+        "coordinates": [
+          "42.363581",
+          "-71.101086"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 2.5334177239858593,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.365458894033914,
+          -71.09761848299246
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.365458894033914,
+        -71.09761848299246
+      ]
+    },
+    "work": {
+      "name": "SalsaBoston Entertainment",
+      "coordinates": [
+        "42.358545",
+        "-71.114815"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Cicada Coffee Bar by biking which takes 0-10 minutes.",
+    "On 07:30, I want to work, I go to SalsaBoston Entertainment by biking which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Longfellows by walking which takes 0-10 minutes.",
+    "On 11:30, I want to shop, I go to Richdale Food Store by walking which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Down Under School of Yoga Harvard Square by biking which takes 10-20 minutes.",
+    "On 15:00, I want to social, I go to Radcliffe Quadrangle by biking which takes 10-20 minutes.",
+    "On 16:00, I want to eat, I go to Mary's Deli On the Charles by biking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by biking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to La Fabrica Central by walking which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to Marc's Handyman by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

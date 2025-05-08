@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Janet Mcintyre\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.5357068717543219,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kennedy Longfellow",
+        "distance_km": 1.257925836617175,
+        "coordinates": [
+          "42.369535",
+          "-71.086791"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Q Audio",
+        "distance_km": 0.4844497549101282,
+        "coordinates": [
+          "42.36385",
+          "-71.101686"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.6596498309068349,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.32534724054003283,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 1.1707138325884838,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3682066166439,
+          -71.10195711781321
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tasty Burger",
+        "distance_km": 0.27420694959582576,
+        "coordinates": [
+          "42.366066",
+          "-71.103615"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3682066166439,
+          -71.10195711781321
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3682066166439,
+        -71.10195711781321
+      ]
+    },
+    "school": {
+      "name": "Kennedy Longfellow",
+      "coordinates": [
+        "42.369535",
+        "-71.086791"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:45, I want to shop, I go to Stereo Lab by biking which takes 0-10 minutes.",
+    "On 14:30, I want to school, I go to Kennedy Longfellow by auto_passenger which takes 0-10 minutes.",
+    "On 15:15, I want to shop, I go to Q Audio by walking which takes 0-10 minutes.",
+    "On 16:00, I want to eat, I go to Dado Tea by walking which takes  minutes.",
+    "On 16:45, I want to shop, I go to H Mart by walking which takes 0-10 minutes.",
+    "On 17:30, I want to social, I go to Society for Critical Aesthetics by walking which takes  minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes  minutes.",
+    "On 20:15, I want to eat, I go to Tasty Burger by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

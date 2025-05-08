@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Mary Brown\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:28",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 2.8383287698219286,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "06:55",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 2.002915185141937,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "07:48",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 0.42761392000203047,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rakuten USA",
+        "distance_km": 0.5028167375871361,
+        "coordinates": [
+          "42.37229",
+          "-71.123617"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3698057059564,
+          -71.11851397541517
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 0.5072400791885708,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "15:58",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sally's Sandwiches",
+        "distance_km": 0.315658665263082,
+        "coordinates": [
+          "42.372645",
+          "-71.118672"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3698057059564,
+          -71.11851397541517
+        ]
+      }
+    },
+    {
+      "start_time": "16:55",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sally's Sandwiches",
+        "distance_km": 0.315658665263082,
+        "coordinates": [
+          "42.372645",
+          "-71.118672"
+        ]
+      }
+    },
+    {
+      "start_time": "17:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3698057059564,
+          -71.11851397541517
+        ]
+      }
+    },
+    {
+      "start_time": "18:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bonchon",
+        "distance_km": 0.3150748344010071,
+        "coordinates": [
+          "42.372124",
+          "-71.120718"
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bri Grady Robert Paul Properties",
+        "distance_km": 0.3115454173702396,
+        "coordinates": [
+          "42.370813",
+          "-71.114984"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3698057059564,
+        -71.11851397541517
+      ]
+    },
+    "work": {
+      "name": "McCarter R Harris Psycholgst",
+      "coordinates": [
+        "42.37086",
+        "-71.113521"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:28, I want to recreation, I go to Simoni Skating Rink by private_auto which takes 10-20 minutes.",
+    "On 06:55, I want to maintenance, I go to C L M Inc by private_auto which takes 10-20 minutes.",
+    "On 07:48, I want to work, I go to McCarter R Harris Psycholgst by public_transit which takes 0-10 minutes.",
+    "On 09:30, I want to shop, I go to Rakuten USA by private_auto which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 14:15, I want to shop, I go to Market In the Square by private_auto which takes 0-10 minutes.",
+    "On 15:58, I want to eat, I go to Sally's Sandwiches by private_auto which takes 0-10 minutes.",
+    "On 16:10, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:55, I want to eat, I go to Sally's Sandwiches by private_auto which takes 0-10 minutes.",
+    "On 17:35, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:10, I want to eat, I go to Bonchon by private_auto which takes 0-10 minutes.",
+    "On 19:35, I want to social, I go to Bri Grady Robert Paul Properties by private_auto which takes 0-10 minutes."
+  ]
+}

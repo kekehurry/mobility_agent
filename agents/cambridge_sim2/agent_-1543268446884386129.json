@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jonathon Morgan\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.5107426909419933,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hollis Hall",
+        "distance_km": 0.1898646775399453,
+        "coordinates": [
+          "42.375248",
+          "-71.115747"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BerryLine",
+        "distance_km": 0.4456065463890248,
+        "coordinates": [
+          "42.371278",
+          "-71.114648"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37518881792316,
+          -71.1134431433254
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Armageddon Shop",
+        "distance_km": 0.7389852007660003,
+        "coordinates": [
+          "42.372315",
+          "-71.121535"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37518881792316,
+          -71.1134431433254
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.15322143625597331,
+        "coordinates": [
+          "42.373855",
+          "-71.112969"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37518881792316,
+          -71.1134431433254
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37518881792316,
+        -71.1134431433254
+      ]
+    },
+    "work": {
+      "name": "Hollis Hall",
+      "coordinates": [
+        "42.375248",
+        "-71.115747"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to social, I go to Cambridge Forum by walking which takes 0-10 minutes.",
+    "On 10:00, I want to work, I go to Hollis Hall by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to BerryLine by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Armageddon Shop by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Starbucks by on_demand_auto which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

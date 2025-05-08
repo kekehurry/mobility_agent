@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Mr. Logan McConnell\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"45k-65k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:18",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Genji Sushi Bars",
+        "distance_km": 0.4022397210457487,
+        "coordinates": [
+          "42.360997",
+          "-71.113944"
+        ]
+      }
+    },
+    {
+      "start_time": "11:18",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SleekFix",
+        "distance_km": 0.7216521968613913,
+        "coordinates": [
+          "42.364213",
+          "-71.10115"
+        ]
+      }
+    },
+    {
+      "start_time": "13:18",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36149727847163,
+          -71.1091081165659
+        ]
+      }
+    },
+    {
+      "start_time": "16:18",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "ABC Pizza House",
+        "distance_km": 0.5940682426236628,
+        "coordinates": [
+          "42.366069",
+          "-71.105366"
+        ]
+      }
+    },
+    {
+      "start_time": "18:06",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.62611022299933,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "19:06",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36149727847163,
+          -71.1091081165659
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36149727847163,
+        -71.1091081165659
+      ]
+    },
+    "work": {
+      "name": "Genji Sushi Bars",
+      "coordinates": [
+        "42.360997",
+        "-71.113944"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:18, I want to work, I go to Genji Sushi Bars by walking which takes 0-10 minutes.",
+    "On 11:18, I want to shop, I go to SleekFix by walking which takes 0-10 minutes.",
+    "On 13:18, I want to home, I go to home by walking which takes  minutes.",
+    "On 16:18, I want to eat, I go to ABC Pizza House by walking which takes  minutes.",
+    "On 18:06, I want to shop, I go to Gap by walking which takes  minutes.",
+    "On 19:06, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

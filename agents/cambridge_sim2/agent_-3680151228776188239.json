@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Michael Middleton\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:53",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Foster & Eldridge",
+        "distance_km": 1.0778627429914018,
+        "coordinates": [
+          "42.369722",
+          "-71.076753"
+        ]
+      }
+    },
+    {
+      "start_time": "12:57",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "All Star Pizza Bar",
+        "distance_km": 2.11163775401987,
+        "coordinates": [
+          "42.373252",
+          "-71.098086"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Foster & Eldridge",
+        "distance_km": 1.0778627429914018,
+        "coordinates": [
+          "42.369722",
+          "-71.076753"
+        ]
+      }
+    },
+    {
+      "start_time": "17:46",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.9673830830935604,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "18:29",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "She is biking to the pizza bar, which is a 10-20 minute trip."
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 2.0139705379024364,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "19:28",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gold Star Pool",
+        "distance_km": 1.5456940301855642,
+        "coordinates": [
+          "42.371424",
+          "-71.090552"
+        ]
+      }
+    },
+    {
+      "start_time": "21:27",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36022223350853,
+          -71.07941987223526
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36022223350853,
+        -71.07941987223526
+      ]
+    },
+    "work": {
+      "name": "Foster & Eldridge",
+      "coordinates": [
+        "42.369722",
+        "-71.076753"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:53, I want to work, I go to Foster & Eldridge by public_transit which takes 10-20 minutes.",
+    "On 12:57, I want to eat, I go to All Star Pizza Bar by biking which takes 10-20 minutes.",
+    "On 16:45, I want to work, I go to Foster & Eldridge by biking which takes  minutes.",
+    "On 17:46, I want to shop, I go to H Mart by biking which takes 10-20 minutes.",
+    "On 18:29, I want to eat, I go to Moge Tee Cambridge by biking which takes She is biking to the pizza bar, which is a 10-20 minute trip. minutes.",
+    "On 19:28, I want to recreation, I go to Gold Star Pool by biking which takes 10-20 minutes.",
+    "On 21:27, I want to home, I go to home by biking which takes 10-20 minutes."
+  ]
+}

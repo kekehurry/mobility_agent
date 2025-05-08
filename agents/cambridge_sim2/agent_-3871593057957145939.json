@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Jerry Bishop\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Steinberg Jeffrey MD",
+        "distance_km": 1.550224030517437,
+        "coordinates": [
+          "42.374508",
+          "-71.104192"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 2.415573004338528,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "12:40",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "D&R Construction",
+        "distance_km": 0.3529792900487718,
+        "coordinates": [
+          "42.369534",
+          "-71.091069"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mass Ave Diner",
+        "distance_km": 1.6956306617361108,
+        "coordinates": [
+          "42.368157",
+          "-71.108699"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36720474181829,
+          -71.08815408184202
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 1.801425291083962,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "18:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 2.415573004338528,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "19:40",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 0.8933864102028712,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "21:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36720474181829,
+          -71.08815408184202
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36720474181829,
+        -71.08815408184202
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Steinberg Jeffrey MD by public_transit which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to Micro Center by private_auto which takes  minutes.",
+    "On 12:40, I want to social, I go to D&R Construction by walking which takes 10-20 minutes.",
+    "On 16:30, I want to eat, I go to Mass Ave Diner by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Dado Tea by public_transit which takes 10-20 minutes.",
+    "On 18:40, I want to shop, I go to Micro Center by private_auto which takes 10-20 minutes.",
+    "On 19:40, I want to maintenance, I go to C L M Inc by walking which takes 10-20 minutes.",
+    "On 21:50, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

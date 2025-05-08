@@ -1,0 +1,137 @@
+{
+  "profile": "{\"name\": \"Cassidy Hall\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Street Upper School",
+        "distance_km": 2.704387313711092,
+        "coordinates": [
+          "42.372203",
+          "-71.091514"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Izakaya Ittoku",
+        "distance_km": 0.40323483273555843,
+        "coordinates": [
+          "42.387235",
+          "-71.11852"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Izakaya Ittoku",
+        "distance_km": 0.40323483273555843,
+        "coordinates": [
+          "42.387235",
+          "-71.11852"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central Rock Gym",
+        "distance_km": 1.1923323795858967,
+        "coordinates": [
+          "42.373132",
+          "-71.120109"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tampopo",
+        "distance_km": 0.41529235887559,
+        "coordinates": [
+          "42.387345",
+          "-71.118497"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.383864583511446,
+          -71.12033875026007
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.383864583511446,
+        -71.12033875026007
+      ]
+    },
+    "school": {
+      "name": "Cambridge Street Upper School",
+      "coordinates": [
+        "42.372203",
+        "-71.091514"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Izakaya Ittoku",
+      "coordinates": [
+        "42.387235",
+        "-71.11852"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to school, I go to Cambridge Street Upper School by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Izakaya Ittoku by auto_passenger which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to Izakaya Ittoku by public_transit which takes 10-20 minutes.",
+    "On 15:00, I want to recreation, I go to Central Rock Gym by public_transit which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Tampopo by public_transit which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

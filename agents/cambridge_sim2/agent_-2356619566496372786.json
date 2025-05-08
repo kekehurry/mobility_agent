@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Sandra Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors\", \"household_size\": 5, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:07",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.025748913889894,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "11:46",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Beantown Taqueria",
+        "distance_km": 0.6294070977724628,
+        "coordinates": [
+          "42.361782",
+          "-71.097149"
+        ]
+      }
+    },
+    {
+      "start_time": "12:52",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Pizza",
+        "distance_km": 0.6373066948738467,
+        "coordinates": [
+          "42.361834",
+          "-71.097083"
+        ]
+      }
+    },
+    {
+      "start_time": "14:23",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.008511099237596,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "15:56",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.0741730556374478,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "18:12",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Catalyst Performance Training",
+        "distance_km": 0.36299360939973147,
+        "coordinates": [
+          "42.360559",
+          "-71.10241"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sola Cafe and Catering",
+        "distance_km": 0.6259970599175666,
+        "coordinates": [
+          "42.362668",
+          "-71.099468"
+        ]
+      }
+    },
+    {
+      "start_time": "20:47",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35731733352296,
+          -71.10185334774395
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35731733352296,
+        -71.10185334774395
+      ]
+    },
+    "work": {
+      "name": "Cambridge Pizza",
+      "coordinates": [
+        "42.361834",
+        "-71.097083"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:07, I want to shop, I go to Trader Joe's by walking which takes 10-20 minutes.",
+    "On 11:46, I want to eat, I go to Beantown Taqueria by auto_passenger which takes  minutes.",
+    "On 12:52, I want to work, I go to Cambridge Pizza by auto_passenger which takes 10-20 minutes.",
+    "On 14:23, I want to maintenance, I go to Nick's Magazine Auto R by auto_passenger which takes 10-20 minutes.",
+    "On 15:56, I want to shop, I go to Whole Foods Market by biking which takes 0-10 minutes.",
+    "On 18:12, I want to recreation, I go to Catalyst Performance Training by biking which takes 0-10 minutes.",
+    "On 19:15, I want to eat, I go to Sola Cafe and Catering by walking which takes 10-20 minutes.",
+    "On 20:47, I want to home, I go to home by biking which takes 0-10 minutes."
+  ]
+}

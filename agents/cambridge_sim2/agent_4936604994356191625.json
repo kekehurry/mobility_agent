@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Mary Wilson\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sandrine's",
+        "distance_km": 1.572385971630562,
+        "coordinates": [
+          "42.372506",
+          "-71.117981"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Pizzeria",
+        "distance_km": 0.2746276508748616,
+        "coordinates": [
+          "42.357691",
+          "-71.107882"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.8014813853671416,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simon's Too",
+        "distance_km": 1.0444031305813,
+        "coordinates": [
+          "42.36934",
+          "-71.11073"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.7706077227179872,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.8014813853671416,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.46545383191367506,
+        "coordinates": [
+          "42.357776",
+          "-71.104201"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360029394230814,
+          -71.10896432697322
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 1.3759898541763436,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.360029394230814,
+          -71.10896432697322
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.360029394230814,
+        -71.10896432697322
+      ]
+    },
+    "work": {
+      "name": "Sandrine's",
+      "coordinates": [
+        "42.372506",
+        "-71.117981"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:15, I want to work, I go to Sandrine's by auto_passenger which takes 10-20 minutes.",
+    "On 10:30, I want to eat, I go to Cambridge Pizzeria by walking which takes 0-10 minutes.",
+    "On 11:30, I want to shop, I go to H Mart by private_auto which takes  minutes.",
+    "On 13:15, I want to eat, I go to Simon's Too by auto_passenger which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to Central House by walking which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to H Mart by private_auto which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Flour Bakery Cafe by private_auto which takes 0-10 minutes.",
+    "On 18:15, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Greene Rose Heritage Park by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

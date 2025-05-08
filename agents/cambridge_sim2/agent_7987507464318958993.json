@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\":\"Ronald Gardner\",\"city\":\"Cambridge,MA\",\"age\":65,\"gender\":\"male\",\"employment_status\":\"not_in_labor_force\",\"education\":\"bachelor_degree\",\"household_size\":1,\"household_income\":\"100k-150k\",\"available_vehicles\":1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sacred Heart Of Jesus Parish",
+        "distance_km": 0.3431297937065924,
+        "coordinates": [
+          "42.370514",
+          "-71.085304"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gravestar Inc",
+        "distance_km": 0.4223428681305435,
+        "coordinates": [
+          "42.366541",
+          "-71.079116"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Panda Express",
+        "distance_km": 0.4139052958261181,
+        "coordinates": [
+          "42.368495",
+          "-71.076606"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.8165946956567742,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 0.507841041592099,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gold Star Pool",
+        "distance_km": 0.7866061419382037,
+        "coordinates": [
+          "42.371424",
+          "-71.090552"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37001740611563,
+          -71.0811924052005
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37001740611563,
+        -71.0811924052005
+      ]
+    },
+    "work": {
+      "name": "Sacred Heart Of Jesus Parish",
+      "coordinates": [
+        "42.370514",
+        "-71.085304"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:40, I want to work, I go to Sacred Heart Of Jesus Parish by walking which takes 10-20 minutes.",
+    "On 11:00, I want to social, I go to Gravestar Inc by walking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Panda Express by auto_passenger which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to H Mart by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to shop, I go to Apple CambridgeSide by walking which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Gold Star Pool by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

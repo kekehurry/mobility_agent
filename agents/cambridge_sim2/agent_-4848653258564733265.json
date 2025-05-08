@@ -1,0 +1,154 @@
+{
+  "profile": "{\"name\": \"Samantha Gardner\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:48",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.0449442049501798,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 1.0449442049501798,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Henry Buckner School",
+        "distance_km": 0.30183276947484783,
+        "coordinates": [
+          "42.365634",
+          "-71.101632"
+        ]
+      }
+    },
+    {
+      "start_time": "13:56",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36358821909139,
+          -71.10404351250699
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Amuse Restaurant",
+        "distance_km": 0.37113237870337773,
+        "coordinates": [
+          "42.362127",
+          "-71.099992"
+        ]
+      }
+    },
+    {
+      "start_time": "15:48",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.9400497005940032,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36358821909139,
+          -71.10404351250699
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36358821909139,
+        -71.10404351250699
+      ]
+    },
+    "work": {
+      "name": "Advance Tire Company Inc",
+      "coordinates": [
+        "42.365965",
+        "-71.09177"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "The Henry Buckner School",
+      "coordinates": [
+        "42.365634",
+        "-71.101632"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:48, I want to maintenance, I go to Advance Tire Company Inc by public_transit which takes 0-10 minutes.",
+    "On 09:00, I want to work, I go to Advance Tire Company Inc by public_transit which takes 0-10 minutes.",
+    "On 13:37, I want to school, I go to The Henry Buckner School by public_transit which takes 0-10 minutes.",
+    "On 13:56, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 15:00, I want to eat, I go to Amuse Restaurant by public_transit which takes 0-10 minutes.",
+    "On 15:48, I want to shop, I go to Formaggio Kitchen by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 0-10 minutes."
+  ]
+}

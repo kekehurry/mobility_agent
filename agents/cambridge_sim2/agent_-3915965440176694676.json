@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Eric Miller\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 0.7584221836869302,
+        "coordinates": [
+          "42.38929",
+          "-71.143413"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SANTE Mobile Farmhouse Cafe",
+        "distance_km": 0.2845982091327118,
+        "coordinates": [
+          "42.395428",
+          "-71.149438"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395837199878365,
+          -71.14602580652692
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.6848527378753885,
+        "coordinates": [
+          "42.389915",
+          "-71.143713"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Revival Cafe & Kitchen",
+        "distance_km": 0.08496122395287725,
+        "coordinates": [
+          "42.395104",
+          "-71.145732"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395837199878365,
+          -71.14602580652692
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.395837199878365,
+        -71.14602580652692
+      ]
+    },
+    "work": {
+      "name": "Chipotle Mexican Grill",
+      "coordinates": [
+        "42.38929",
+        "-71.143413"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Chipotle Mexican Grill by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to SANTE Mobile Farmhouse Cafe by walking which takes 0-10 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:00, I want to shop, I go to Trader Joe's by private_auto which takes  minutes.",
+    "On 18:00, I want to eat, I go to Revival Cafe & Kitchen by on_demand_auto which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

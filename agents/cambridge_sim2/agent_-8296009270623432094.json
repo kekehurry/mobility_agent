@@ -1,0 +1,308 @@
+{
+  "profile": "{\"name\": \"Eric Miller\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n    ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Adt",
+        "distance_km": 0.9367675311819221,
+        "coordinates": [
+          "42.365643",
+          "-71.105493"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35911753275036,
+          -71.0982897018171
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Daily Table Central Square",
+        "distance_km": 0.8945641183566123,
+        "coordinates": [
+          "42.365701",
+          "-71.104544"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Miracle of Science Bar Grill",
+        "distance_km": 0.3891638807083289,
+        "coordinates": [
+          "42.362611",
+          "-71.098646"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35911753275036,
+          -71.0982897018171
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "First United Market",
+        "distance_km": 0.8241185146325829,
+        "coordinates": [
+          "42.357512",
+          "-71.108056"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sumiao Hunan Kitchen",
+        "distance_km": 1.5478550943490659,
+        "coordinates": [
+          "42.366026",
+          "-71.081972"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35911753275036,
+          -71.0982897018171
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.0361623865630203,
+        "coordinates": [
+          "42.367987",
+          "-71.102185"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pardon My Cheesesteak",
+        "distance_km": 0.484427886163206,
+        "coordinates": [
+          "42.363412",
+          "-71.097266"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35911753275036,
+          -71.0982897018171
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 1.96505246982131,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.2426329824761506,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35911753275036,
+          -71.0982897018171
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Scalable Display Technology",
+        "distance_km": 0.9417752418215111,
+        "coordinates": [
+          "42.365903",
+          "-71.105144"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Shojo Cambridge",
+        "distance_km": 0.5549995740007032,
+        "coordinates": [
+          "42.363861",
+          "-71.100406"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Insight Meditation Center",
+        "distance_km": 1.2454824695775313,
+        "coordinates": [
+          "42.369975",
+          "-71.102064"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35911753275036,
+        -71.0982897018171
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 19:35, I want to shop, I go to Adt by walking which takes 10-20 minutes.",
+    "On 16:45, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:00, I want to shop, I go to Daily Table Central Square by private_auto which takes  minutes.",
+    "On 17:30, I want to eat, I go to Miracle of Science Bar Grill by walking which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes  minutes.",
+    "On 18:30, I want to shop, I go to First United Market by walking which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Sumiao Hunan Kitchen by walking which takes 20-30 minutes.",
+    "On 12:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:30, I want to shop, I go to Whole Foods Market by walking which takes  minutes.",
+    "On 13:00, I want to eat, I go to Pardon My Cheesesteak by walking which takes 0-10 minutes.",
+    "On 14:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:30, I want to shop, I go to CLEAR Kiosk by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to eat, I go to Flour Bakery Cafe by walking which takes 0-10 minutes.",
+    "On 16:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:30, I want to shop, I go to Scalable Display Technology by walking which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Shojo Cambridge by walking which takes 10-20 minutes.",
+    "On 20:30, I want to recreation, I go to Cambridge Insight Meditation Center by private_auto which takes 10-20 minutes."
+  ]
+}

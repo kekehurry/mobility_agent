@@ -1,0 +1,171 @@
+{
+  "profile": "{\"name\": \"Mary Brown\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 0.3706894208040094,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "11:48",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 0.5361655715693232,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "12:57",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3737402739802,
+          -71.11855575850028
+        ]
+      }
+    },
+    {
+      "start_time": "14:03",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Focht Birkerts Lynn Licsw",
+        "distance_km": 0.9870719087401342,
+        "coordinates": [
+          "42.368078",
+          "-71.10932"
+        ]
+      }
+    },
+    {
+      "start_time": "15:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 1.103455284416144,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "16:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Crimson Lounge",
+        "distance_km": 0.2691814548132478,
+        "coordinates": [
+          "42.372306",
+          "-71.12119"
+        ]
+      }
+    },
+    {
+      "start_time": "18:17",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Buckingham Browne & Nichols School",
+        "distance_km": 1.4407523935020736,
+        "coordinates": [
+          "42.371237",
+          "-71.135719"
+        ]
+      }
+    },
+    {
+      "start_time": "19:31",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3737402739802,
+          -71.11855575850028
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3737402739802,
+        -71.11855575850028
+      ]
+    },
+    "work": {
+      "name": "Atrium Restaurant",
+      "coordinates": [
+        "42.371938",
+        "-71.114768"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Buckingham Browne & Nichols School",
+      "coordinates": [
+        "42.371237",
+        "-71.135719"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to work, I go to Atrium Restaurant by walking which takes 10-20 minutes.",
+    "On 11:48, I want to social, I go to Harvard Square Rental Properties by walking which takes 10-20 minutes.",
+    "On 12:57, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 14:03, I want to recreation, I go to Focht Birkerts Lynn Licsw by walking which takes 10-20 minutes.",
+    "On 15:35, I want to shop, I go to Western Market by walking which takes 10-20 minutes.",
+    "On 16:48, I want to eat, I go to The Crimson Lounge by walking which takes 10-20 minutes.",
+    "On 18:17, I want to school, I go to Buckingham Browne & Nichols School by walking which takes 0-10 minutes.",
+    "On 19:31, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

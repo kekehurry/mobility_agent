@@ -1,0 +1,171 @@
+{
+  "profile": "{\"name\": \"Leah Cole\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chez Henri",
+        "distance_km": 0.504012016031837,
+        "coordinates": [
+          "42.381831",
+          "-71.120148"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 0.6645632983766581,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Asian University",
+        "distance_km": 1.6328174205114143,
+        "coordinates": [
+          "42.370875",
+          "-71.114602"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Patagonia",
+        "distance_km": 1.0906404720691614,
+        "coordinates": [
+          "42.373779",
+          "-71.121021"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.5187055136010554,
+        "coordinates": [
+          "42.38193",
+          "-71.119937"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.5025613775729374,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Caff\u00e8 Nero",
+        "distance_km": 0.7852735436254611,
+        "coordinates": [
+          "42.388049",
+          "-71.119664"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.382842224667414,
+          -71.12611421657506
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.382842224667414,
+        -71.12611421657506
+      ]
+    },
+    "work": {
+      "name": "Chez Henri",
+      "coordinates": [
+        "42.381831",
+        "-71.120148"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Asian University",
+      "coordinates": [
+        "42.370875",
+        "-71.114602"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Chez Henri by walking which takes 10-20 minutes.",
+    "On 11:00, I want to recreation, I go to St Peters Field by walking which takes  minutes.",
+    "On 13:00, I want to school, I go to Asian University by biking which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Patagonia by walking which takes 10-20 minutes.",
+    "On 16:00, I want to eat, I go to Starbucks by walking which takes  minutes.",
+    "On 17:00, I want to shop, I go to Evergood Super Market by walking which takes  minutes.",
+    "On 18:00, I want to eat, I go to Caff\u00e8 Nero by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

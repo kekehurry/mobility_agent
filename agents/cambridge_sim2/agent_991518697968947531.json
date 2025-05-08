@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Brad Rodriguez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "La Royal",
+        "distance_km": 0.24221841634083477,
+        "coordinates": [
+          "42.3829",
+          "-71.131553"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.2705575520536463,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.20112485052676682,
+        "coordinates": [
+          "42.382482",
+          "-71.131438"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "user_input"
+      },
+      "destination": {
+        "name": "Fresh Pond Entertainment Cinemas",
+        "distance_km": 1.3184292298475262,
+        "coordinates": [
+          "42.391289",
+          "-71.138141"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 2.080367117756981,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 1.3501406734199037,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38119284289399,
+          -71.1297231247572
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.0774456591788804,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38119284289399,
+        -71.1297231247572
+      ]
+    },
+    "work": {
+      "name": "La Royal",
+      "coordinates": [
+        "42.3829",
+        "-71.131553"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:45, I want to work, I go to La Royal by on_demand_auto which takes 0-10 minutes.",
+    "On 11:30, I want to shop, I go to Stereo Lab by private_auto which takes  minutes.",
+    "On 12:15, I want to eat, I go to Hi Rise Bread Company by on_demand_auto which takes 0-10 minutes.",
+    "On 13:00, I want to recreation, I go to Fresh Pond Entertainment Cinemas by private_auto which takes user_input minutes.",
+    "On 15:00, I want to social, I go to Kemsley Education by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to shop, I go to Bread & Circus by private_auto which takes 0-10 minutes.",
+    "On 18:15, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes."
+  ]
+}

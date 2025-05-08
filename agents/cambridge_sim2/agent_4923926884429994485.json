@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Casey Curtis\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 1.0811059484903884,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374686296212914,
+          -71.1282252134821
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Planet Records",
+        "distance_km": 0.2981028644179491,
+        "coordinates": [
+          "42.373857",
+          "-71.124783"
+        ]
+      }
+    },
+    {
+      "start_time": "16:48",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "[10-20]"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374686296212914,
+          -71.1282252134821
+        ]
+      }
+    },
+    {
+      "start_time": "17:07",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.6318814767123895,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "18:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 0.5843266380731191,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.374686296212914,
+          -71.1282252134821
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.374686296212914,
+        -71.1282252134821
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:28, I want to shop, I go to Evergood Super Market by walking which takes 10-20 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 12:28, I want to shop, I go to Planet Records by biking which takes 0-10 minutes.",
+    "On 16:48, I want to home, I go to home by walking which takes [10-20] minutes.",
+    "On 17:07, I want to social, I go to Trinity Property Management by biking which takes 0-10 minutes.",
+    "On 18:22, I want to shop, I go to Market In the Square by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Ms. Lisa Mcconnell\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Yummy Thai",
+        "distance_km": 0.3256715105426238,
+        "coordinates": [
+          "42.394486",
+          "-71.126632"
+        ]
+      }
+    },
+    {
+      "start_time": "11:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "McDonald's",
+        "distance_km": 1.054976428009282,
+        "coordinates": [
+          "42.390291",
+          "-71.140598"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.29917139875270105,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Costa Coffee",
+        "distance_km": 0.9168996116880286,
+        "coordinates": [
+          "42.38737",
+          "-71.118465"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.6398341862257637,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39171679034547,
+          -71.12793101130555
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39171679034547,
+        -71.12793101130555
+      ]
+    },
+    "work": {
+      "name": "Yummy Thai",
+      "coordinates": [
+        "42.394486",
+        "-71.126632"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Yummy Thai by biking which takes 0-10 minutes.",
+    "On 11:20, I want to eat, I go to McDonald's by public_transit which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to Pemberton Farms by walking which takes 0-10 minutes.",
+    "On 16:30, I want to eat, I go to Costa Coffee by walking which takes  minutes.",
+    "On 18:00, I want to recreation, I go to Fresh Pond by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

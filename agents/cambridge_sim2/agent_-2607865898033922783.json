@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Terry Baker\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.418488543720644,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Veggie Grill",
+        "distance_km": 0.3244173794106818,
+        "coordinates": [
+          "42.372002",
+          "-71.120836"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "People with similar profiles in Cambridge,MA often choose walking for short distances, which aligns with the walkability of the city and the typical short distances between locations like Central House and Veggie Grill. This mode is also the most frequent choice in the reference data."
+      },
+      "destination": {
+        "name": "Wallace Murray",
+        "distance_km": 0.5907110793656759,
+        "coordinates": [
+          "42.374539",
+          "-71.120173"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Veggie Grill",
+        "distance_km": 0.3244173794106818,
+        "coordinates": [
+          "42.372002",
+          "-71.120836"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 1.7813666134144648,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36979675418376,
+          -71.12341831806594
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Kennedy's On The Square",
+        "distance_km": 0.5000346113382526,
+        "coordinates": [
+          "42.372935",
+          "-71.119066"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greenfield Joanne Psycholgst",
+        "distance_km": 0.4483195381726551,
+        "coordinates": [
+          "42.373829",
+          "-71.123184"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36979675418376,
+          -71.12341831806594
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36979675418376,
+        -71.12341831806594
+      ]
+    },
+    "work": {
+      "name": "Veggie Grill",
+      "coordinates": [
+        "42.372002",
+        "-71.120836"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to social, I go to Central House by walking which takes 10-20 minutes.",
+    "On 08:30, I want to work, I go to Veggie Grill by walking which takes 10-20 minutes.",
+    "On 10:00, I want to shop, I go to Wallace Murray by walking which takes People with similar profiles in Cambridge,MA often choose walking for short distances, which aligns with the walkability of the city and the typical short distances between locations like Central House and Veggie Grill. This mode is also the most frequent choice in the reference data. minutes.",
+    "On 12:00, I want to eat, I go to Veggie Grill by walking which takes 10-20 minutes.",
+    "On 13:00, I want to shop, I go to Harvest Co Op Markets by walking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Kennedy's On The Square by walking which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Greenfield Joanne Psycholgst by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

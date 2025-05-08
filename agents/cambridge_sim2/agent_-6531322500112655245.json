@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Michele Mills\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chiang Mai Thai",
+        "distance_km": 2.5571920702634774,
+        "coordinates": [
+          "42.368429",
+          "-71.076617"
+        ]
+      }
+    },
+    {
+      "start_time": "09:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37028342729017,
+          -71.10756133135227
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.1592912248151712,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friedman Cary MD",
+        "distance_km": 0.2603036172685092,
+        "coordinates": [
+          "42.367945",
+          "-71.107356"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.2306204516470385,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 1.4367534288948194,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.7231834261488802,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flame Hot Pot & Sushi",
+        "distance_km": 0.3127787719852459,
+        "coordinates": [
+          "42.369519",
+          "-71.111216"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37028342729017,
+          -71.10756133135227
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37028342729017,
+        -71.10756133135227
+      ]
+    },
+    "work": {
+      "name": "Chiang Mai Thai",
+      "coordinates": [
+        "42.368429",
+        "-71.076617"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Lesley University",
+      "coordinates": [
+        "42.38099",
+        "-71.117349"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Chiang Mai Thai by public_transit which takes 20-30 minutes.",
+    "On 09:30, I want to home, I go to home by public_transit which takes 0-10 minutes.",
+    "On 10:00, I want to social, I go to Trinity Property Management by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to recreation, I go to Friedman Cary MD by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Dado Tea by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to school, I go to Lesley University by public_transit which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Shalimar India Food & Spices by public_transit which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Flame Hot Pot & Sushi by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

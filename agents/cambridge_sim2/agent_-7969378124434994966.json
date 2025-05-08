@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Jonathon Morgan\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wok N' Roll",
+        "distance_km": 1.5002019978245826,
+        "coordinates": [
+          "42.388796",
+          "-71.12004"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.6140469912549305,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "S H Construction",
+        "distance_km": 0.3788149795269316,
+        "coordinates": [
+          "42.387879",
+          "-71.140434"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Wok N' Roll",
+        "distance_km": 1.5002019978245826,
+        "coordinates": [
+          "42.388796",
+          "-71.12004"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genki Ya Cambridge",
+        "distance_km": 0.4806709043645334,
+        "coordinates": [
+          "42.389225",
+          "-71.143495"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Amaral Group",
+        "distance_km": 0.9492579455706076,
+        "coordinates": [
+          "42.39712",
+          "-71.130299"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 0.6589415725866563,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39079895400455,
+        -71.13805741802278
+      ]
+    },
+    "work": {
+      "name": "Wok N' Roll",
+      "coordinates": [
+        "42.388796",
+        "-71.12004"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Wok N' Roll by biking which takes 10-20 minutes.",
+    "On 10:00, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 12:30, I want to social, I go to S H Construction by biking which takes 0-10 minutes.",
+    "On 14:30, I want to work, I go to Wok N' Roll by biking which takes  minutes.",
+    "On 18:00, I want to eat, I go to Genki Ya Cambridge by walking which takes 10-20 minutes.",
+    "On 19:00, I want to shop, I go to The Amaral Group by walking which takes 10-20 minutes.",
+    "On 21:00, I want to recreation, I go to St Peters Field by walking which takes 0-10 minutes."
+  ]
+}

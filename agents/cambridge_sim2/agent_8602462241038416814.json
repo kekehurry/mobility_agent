@@ -1,0 +1,239 @@
+{
+  "profile": "{\"name\": \"Amber Singleton\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:55",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Office of the Arts Studio 74",
+        "distance_km": 0.48443650069157673,
+        "coordinates": [
+          "42.371771",
+          "-71.118582"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "math.random() * 10 + 0"
+      },
+      "destination": {
+        "name": "LORI KAPLOWITZ MD",
+        "distance_km": 0.10678661154456759,
+        "coordinates": [
+          "42.368418",
+          "-71.11457"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Winthrop Grille",
+        "distance_km": 0.3460122037297616,
+        "coordinates": [
+          "42.370282",
+          "-71.118519"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.8058131081536656,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Asian University",
+        "distance_km": 0.3360433680521501,
+        "coordinates": [
+          "42.370875",
+          "-71.114602"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 0.7954651593011823,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 0.6266199167682773,
+        "coordinates": [
+          "42.372045",
+          "-71.120965"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "OggiGourmet",
+        "distance_km": 0.5653303777044842,
+        "coordinates": [
+          "42.372441",
+          "-71.118977"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367964065599054,
+          -71.1157127776398
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rakuten USA",
+        "distance_km": 0.8091897173079323,
+        "coordinates": [
+          "42.37229",
+          "-71.123617"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.8058131081536656,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367964065599054,
+          -71.1157127776398
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.367964065599054,
+        -71.1157127776398
+      ]
+    },
+    "work": {
+      "name": "LORI KAPLOWITZ MD",
+      "coordinates": [
+        "42.368418",
+        "-71.11457"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Asian University",
+      "coordinates": [
+        "42.370875",
+        "-71.114602"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:55, I want to other_activities, I go to Harvard Office of the Arts Studio 74 by walking which takes 0-10 minutes.",
+    "On 08:15, I want to work, I go to LORI KAPLOWITZ MD by walking which takes math.random() * 10 + 0 minutes.",
+    "On 11:30, I want to eat, I go to Winthrop Grille by biking which takes 0-10 minutes.",
+    "On 12:00, I want to social, I go to Trinity Property Management by walking which takes 0-10 minutes.",
+    "On 13:00, I want to school, I go to Asian University by biking which takes 0-10 minutes.",
+    "On 14:30, I want to shop, I go to Wholesome Fresh by walking which takes 0-10 minutes.",
+    "On 16:00, I want to recreation, I go to CorePower Yoga by biking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to OggiGourmet by walking which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:30, I want to shop, I go to Rakuten USA by walking which takes 10-20 minutes.",
+    "On 20:00, I want to social, I go to Trinity Property Management by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

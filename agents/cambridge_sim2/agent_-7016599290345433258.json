@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Ronald Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"high_school\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:08",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nop Riverfront Office Office Park",
+        "distance_km": 0.790121081805275,
+        "coordinates": [
+          "42.362238",
+          "-71.080303"
+        ]
+      }
+    },
+    {
+      "start_time": "11:14",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Best Buy",
+        "distance_km": 0.8428134538802258,
+        "coordinates": [
+          "42.367519",
+          "-71.077299"
+        ]
+      }
+    },
+    {
+      "start_time": "14:25",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Kreationz",
+        "distance_km": 0.538853312360572,
+        "coordinates": [
+          "42.362122",
+          "-71.086732"
+        ]
+      }
+    },
+    {
+      "start_time": "16:23",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 0.5119760563558793,
+        "coordinates": [
+          "42.36255",
+          "-71.085605"
+        ]
+      }
+    },
+    {
+      "start_time": "17:34",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Calumet Photo Boston",
+        "distance_km": 0.8113285440434892,
+        "coordinates": [
+          "42.366302",
+          "-71.077689"
+        ]
+      }
+    },
+    {
+      "start_time": "18:22",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CrossFit",
+        "distance_km": 0.7640105718770632,
+        "coordinates": [
+          "42.364263",
+          "-71.078957"
+        ]
+      }
+    },
+    {
+      "start_time": "19:17",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 0.7448233917619437,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "21:26",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366939400771976,
+          -71.08750081267301
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366939400771976,
+        -71.08750081267301
+      ]
+    },
+    "work": {
+      "name": "Kreationz",
+      "coordinates": [
+        "42.362122",
+        "-71.086732"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:08, I want to social, I go to Nop Riverfront Office Office Park by walking which takes 0-10 minutes.",
+    "On 11:14, I want to shop, I go to Best Buy by walking which takes 10-20 minutes.",
+    "On 14:25, I want to work, I go to Kreationz by walking which takes  minutes.",
+    "On 16:23, I want to eat, I go to Chipotle Mexican Grill by walking which takes 10-20 minutes.",
+    "On 17:34, I want to shop, I go to Calumet Photo Boston by walking which takes 0-10 minutes.",
+    "On 18:22, I want to recreation, I go to CrossFit by walking which takes 10-20 minutes.",
+    "On 19:17, I want to social, I go to MIT Wong Auditorium by walking which takes 0-10 minutes.",
+    "On 21:26, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

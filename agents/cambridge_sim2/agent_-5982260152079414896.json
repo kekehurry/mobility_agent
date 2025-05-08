@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Laura Mclean\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"45k-65k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 0.56330986448808,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Churn2 Superior Ice Cream",
+        "distance_km": 0.40862986919453903,
+        "coordinates": [
+          "42.376225",
+          "-71.116327"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "BostonDigital io Computer Repair",
+        "distance_km": 0.6354553565402011,
+        "coordinates": [
+          "42.368827",
+          "-71.110894"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 0.56330986448808,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.41687531290803465,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.43350291930504514,
+        "coordinates": [
+          "42.376364",
+          "-71.116569"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37449390544661,
+          -71.11194927304203
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge War Memorial Recreation Center",
+        "distance_km": 0.20240760596730534,
+        "coordinates": [
+          "42.37466",
+          "-71.109502"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37449390544661,
+          -71.11194927304203
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37449390544661,
+        -71.11194927304203
+      ]
+    },
+    "work": {
+      "name": "Bon Me Smith Campus Center",
+      "coordinates": [
+        "42.372969",
+        "-71.118472"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Bon Me Smith Campus Center by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Churn2 Superior Ice Cream by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to shop, I go to BostonDigital io Computer Repair by private_auto which takes  minutes.",
+    "On 13:30, I want to work, I go to Bon Me Smith Campus Center by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Clover Food Lab by walking which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Cambridge War Memorial Recreation Center by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

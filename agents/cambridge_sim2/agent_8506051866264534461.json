@@ -1,0 +1,112 @@
+{
+  "profile": "{\"name\": \"Terry Baker\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "DR. FRANK FINKELSTEIN MD",
+        "distance_km": 2.5458368171602195,
+        "coordinates": [
+          "42.375112",
+          "-71.108439"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 3.4670307494215744,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thayer & Associates",
+        "distance_km": 1.6217623272358908,
+        "coordinates": [
+          "42.386771",
+          "-71.119446"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38184743744967,
+          -71.13798581835856
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 4.95914231435343,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38184743744967,
+        -71.13798581835856
+      ]
+    },
+    "work": {
+      "name": "DR. FRANK FINKELSTEIN MD",
+      "coordinates": [
+        "42.375112",
+        "-71.108439"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to DR. FRANK FINKELSTEIN MD by public_transit which takes 20-30 minutes.",
+    "On 10:00, I want to shop, I go to H Mart by private_auto which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to Thayer & Associates by private_auto which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 20:00, I want to other_activities, I go to One Broadway by public_transit which takes 20-30 minutes."
+  ]
+}

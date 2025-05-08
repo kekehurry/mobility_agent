@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Alexander Hays\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Phoenix Landing",
+        "distance_km": 0.3388345995084446,
+        "coordinates": [
+          "42.364027",
+          "-71.101967"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Naco Taco",
+        "distance_km": 0.5583285709711944,
+        "coordinates": [
+          "42.362452",
+          "-71.098"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361755406820755,
+          -71.1047121247956
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Richdale Food Store",
+        "distance_km": 0.9288027170750983,
+        "coordinates": [
+          "42.369673",
+          "-71.101087"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Infante Property Management",
+        "distance_km": 1.9588334820589866,
+        "coordinates": [
+          "42.373434",
+          "-71.12253"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "She is going to eat at Naco Taco, which is likely a short distance away. Given the reference data, private_auto is a common choice for this purpose, with a duration of 10-20 minutes."
+      },
+      "destination": {
+        "name": "Roxy's Grilled Cheese",
+        "distance_km": 0.5148534278961193,
+        "coordinates": [
+          "42.361999",
+          "-71.098471"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361755406820755,
+          -71.1047121247956
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 1.5317589646522785,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "How long does it take to go to home from the location?"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361755406820755,
+          -71.1047121247956
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.361755406820755,
+        -71.1047121247956
+      ]
+    },
+    "work": {
+      "name": "Phoenix Landing",
+      "coordinates": [
+        "42.364027",
+        "-71.101967"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Phoenix Landing by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Naco Taco by private_auto which takes  minutes.",
+    "On 12:30, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 17:00, I want to shop, I go to Richdale Food Store by walking which takes 10-20 minutes.",
+    "On 17:30, I want to social, I go to Infante Property Management by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Roxy's Grilled Cheese by private_auto which takes She is going to eat at Naco Taco, which is likely a short distance away. Given the reference data, private_auto is a common choice for this purpose, with a duration of 10-20 minutes. minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Harvard Film Archive by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes How long does it take to go to home from the location? minutes."
+  ]
+}

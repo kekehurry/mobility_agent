@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mary Burns\", \"city\": \"Cambridge,MA\", \"age\": 32, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.47616128459389934,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard University",
+        "distance_km": 2.9930841836726674,
+        "coordinates": [
+          "42.364788",
+          "-71.126541"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Annapurna Restaurant",
+        "distance_km": 0.5845897666916519,
+        "coordinates": [
+          "42.391277",
+          "-71.123498"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Prime",
+        "distance_km": 1.680023032268099,
+        "coordinates": [
+          "42.378086",
+          "-71.121335"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.47616128459389934,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "math.random(0,10)"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 0.6228381887383306,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39156564841785,
+          -71.13058692574282
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39156564841785,
+        -71.13058692574282
+      ]
+    },
+    "work": {
+      "name": "Pemberton Farms",
+      "coordinates": [
+        "42.393828",
+        "-71.125675"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:40, I want to work, I go to Pemberton Farms by auto_passenger which takes 0-10 minutes.",
+    "On 11:30, I want to recreation, I go to Harvard University by biking which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Annapurna Restaurant by auto_passenger which takes 0-10 minutes.",
+    "On 14:00, I want to social, I go to Cambridge Prime by private_auto which takes  minutes.",
+    "On 16:00, I want to shop, I go to Pemberton Farms by auto_passenger which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Fresh Pond Beer Garden by private_auto which takes math.random(0,10) minutes.",
+    "On 18:30, I want to home, I go to home by auto_passenger which takes 0-10 minutes."
+  ]
+}

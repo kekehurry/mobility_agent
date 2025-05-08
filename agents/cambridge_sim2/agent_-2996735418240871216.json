@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Matthew Sexton\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:53",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Selverstone Norman Dr MD",
+        "distance_km": 2.5067265086322346,
+        "coordinates": [
+          "42.390542",
+          "-71.152441"
+        ]
+      }
+    },
+    {
+      "start_time": "12:02",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.9678961885628427,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Planet Records",
+        "distance_km": 1.3212761631469108,
+        "coordinates": [
+          "42.373857",
+          "-71.124783"
+        ]
+      }
+    },
+    {
+      "start_time": "13:03",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369965800997804,
+          -71.13994177199673
+        ]
+      }
+    },
+    {
+      "start_time": "17:43",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "math.random(0, 10)"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 1.6097780254975693,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "18:22",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Legal Sea Foods",
+        "distance_km": 1.3699193568195156,
+        "coordinates": [
+          "42.372313",
+          "-71.123614"
+        ]
+      }
+    },
+    {
+      "start_time": "21:42",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369965800997804,
+          -71.13994177199673
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369965800997804,
+        -71.13994177199673
+      ]
+    },
+    "work": {
+      "name": "Selverstone Norman Dr MD",
+      "coordinates": [
+        "42.390542",
+        "-71.152441"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:53, I want to work, I go to Selverstone Norman Dr MD by private_auto which takes 10-20 minutes.",
+    "On 12:02, I want to eat, I go to Starbucks by biking which takes 0-10 minutes.",
+    "On 12:28, I want to shop, I go to Planet Records by biking which takes 0-10 minutes.",
+    "On 13:03, I want to home, I go to home by biking which takes  minutes.",
+    "On 17:43, I want to shop, I go to Wholesome Fresh by biking which takes math.random(0, 10) minutes.",
+    "On 18:22, I want to eat, I go to Legal Sea Foods by walking which takes 10-20 minutes.",
+    "On 21:42, I want to home, I go to home by biking which takes 0-10 minutes."
+  ]
+}

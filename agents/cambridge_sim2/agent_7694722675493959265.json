@@ -1,0 +1,44 @@
+{
+  "profile": "{\"name\": \"Cassidy Hall\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Midwest Grill Brazilian BBQ",
+        "distance_km": 0.3204735445893644,
+        "coordinates": [
+          "42.372941",
+          "-71.095995"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.373690237264114,
+        -71.0922375884035
+      ]
+    },
+    "work": {
+      "name": "Midwest Grill Brazilian BBQ",
+      "coordinates": [
+        "42.372941",
+        "-71.095995"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:40, I want to work, I go to Midwest Grill Brazilian BBQ by walking which takes 0-10 minutes."
+  ]
+}

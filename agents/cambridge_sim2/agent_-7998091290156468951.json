@@ -1,0 +1,214 @@
+{
+  "profile": "{\n  \"name\": \"Eric Thomas\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"some_college\",\n  \"household_size\": 4,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pang Alexander MD",
+        "distance_km": 0.2536938761996787,
+        "coordinates": [
+          "42.374441",
+          "-71.10443"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 1.6169347175240811,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37248476088488,
+          -71.10601957460428
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Singh's Dhaba",
+        "distance_km": 0.5300440410223659,
+        "coordinates": [
+          "42.369631",
+          "-71.111177"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.8817476763819118,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37248476088488,
+          -71.10601957460428
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 2.140719959409349,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.491054172845781,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.8817476763819118,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37248476088488,
+          -71.10601957460428
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rhonda Kelner",
+        "distance_km": 0.6620919725508925,
+        "coordinates": [
+          "42.366689",
+          "-71.104143"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37248476088488,
+        -71.10601957460428
+      ]
+    },
+    "work": {
+      "name": "Yoga of Energy Flow",
+      "coordinates": [
+        "42.358215",
+        "-71.109896"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Pang Alexander MD by walking which takes 0-10 minutes.",
+    "On 09:00, I want to work, I go to Yoga of Energy Flow by biking which takes 10-20 minutes.",
+    "On 12:15, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 13:15, I want to eat, I go to Singh's Dhaba by walking which takes  minutes.",
+    "On 14:30, I want to shop, I go to Shalimar India Food & Spices by private_auto which takes 0-10 minutes.",
+    "On 16:15, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 17:45, I want to shop, I go to Roche Brothers Supermarket by on_demand_auto which takes 10-20 minutes.",
+    "On 18:20, I want to eat, I go to Dado Tea by private_auto which takes 0-10 minutes.",
+    "On 19:15, I want to shop, I go to Shalimar India Food & Spices by private_auto which takes  minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:00, I want to recreation, I go to Rhonda Kelner by private_auto which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Bryan Guzman\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Taiyaki NYC x The Dough Club Cambridge",
+        "distance_km": 0.5071064883389614,
+        "coordinates": [
+          "42.374293",
+          "-71.119288"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37595735134715,
+          -71.11355474055982
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.23290761121055129,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37595735134715,
+          -71.11355474055982
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.6082037269645335,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ": 10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37595735134715,
+          -71.11355474055982
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37595735134715,
+        -71.11355474055982
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:30, I want to eat, I go to Taiyaki NYC x The Dough Club Cambridge by walking which takes 10-20 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes  minutes.",
+    "On 14:00, I want to shop, I go to Broadway Marketplace by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to social, I go to Trinity Property Management by auto_passenger which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes : 10-20 minutes."
+  ]
+}

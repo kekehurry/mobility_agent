@@ -1,0 +1,222 @@
+{
+  "profile": "{\"name\": \"Mary Reed\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ninety Nine Restaurant & Pub",
+        "distance_km": 0.603459484013609,
+        "coordinates": [
+          "42.388687",
+          "-71.142244"
+        ]
+      }
+    },
+    {
+      "start_time": "11:44",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5510460792763401,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "12:11",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39408764116314,
+          -71.1414500633012
+        ]
+      }
+    },
+    {
+      "start_time": "12:58",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "S H Construction",
+        "distance_km": 0.6947175498786783,
+        "coordinates": [
+          "42.387879",
+          "-71.140434"
+        ]
+      }
+    },
+    {
+      "start_time": "13:35",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 2.4607884938645204,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "14:23",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lavash Bar & Grille",
+        "distance_km": 0.6948706088606853,
+        "coordinates": [
+          "42.387881",
+          "-71.140397"
+        ]
+      }
+    },
+    {
+      "start_time": "15:16",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5510460792763401,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "16:02",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39408764116314,
+          -71.1414500633012
+        ]
+      }
+    },
+    {
+      "start_time": "17:13",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.18382166895697544,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "18:08",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.5510460792763401,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "19:02",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39408764116314,
+          -71.1414500633012
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39408764116314,
+        -71.1414500633012
+      ]
+    },
+    "work": {
+      "name": "Ninety Nine Restaurant & Pub",
+      "coordinates": [
+        "42.388687",
+        "-71.142244"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Lesley University",
+      "coordinates": [
+        "42.38099",
+        "-71.117349"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:38, I want to work, I go to Ninety Nine Restaurant & Pub by walking which takes 0-10 minutes.",
+    "On 11:44, I want to shop, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 12:11, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 12:58, I want to social, I go to S H Construction by private_auto which takes 10-20 minutes.",
+    "On 13:35, I want to school, I go to Lesley University by private_auto which takes 10-20 minutes.",
+    "On 14:23, I want to eat, I go to Lavash Bar & Grille by walking which takes 0-10 minutes.",
+    "On 15:16, I want to shop, I go to Whole Foods Market by private_auto which takes 10-20 minutes.",
+    "On 16:02, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:13, I want to eat, I go to Dunkin' by walking which takes  minutes.",
+    "On 18:08, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 19:02, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Brianna Franklin\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 4.449478086774374,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "DR. ARTHI KUMARAVEL MD",
+        "distance_km": 5.078307104817738,
+        "coordinates": [
+          "42.395325",
+          "-71.147438"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36777889988191,
+          -71.09822395813603
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "White Hen Pantry",
+        "distance_km": 2.8480111987268053,
+        "coordinates": [
+          "42.387924",
+          "-71.119615"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Maharaja Restaurant",
+        "distance_km": 3.337809857272984,
+        "coordinates": [
+          "42.391279",
+          "-71.123481"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Majic Construction",
+        "distance_km": 4.449478086774374,
+        "coordinates": [
+          "42.377841",
+          "-71.150513"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "For longer distances or when time is critical, private auto is more efficient, especially with a car available."
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 1.8404578554908786,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Fresh Pond Beer Garden",
+        "distance_km": 4.1998526299915495,
+        "coordinates": [
+          "42.391307",
+          "-71.138143"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36777889988191,
+          -71.09822395813603
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "BollyX",
+        "distance_km": 0.47023417539647516,
+        "coordinates": [
+          "42.36468",
+          "-71.102113"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36777889988191,
+          -71.09822395813603
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36777889988191,
+        -71.09822395813603
+      ]
+    },
+    "work": {
+      "name": "DR. ARTHI KUMARAVEL MD",
+      "coordinates": [
+        "42.395325",
+        "-71.147438"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to social, I go to Majic Construction by public_transit which takes 30-40 minutes.",
+    "On 10:00, I want to work, I go to DR. ARTHI KUMARAVEL MD by public_transit which takes 30-40 minutes.",
+    "On 13:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 14:00, I want to shop, I go to White Hen Pantry by public_transit which takes 30-40 minutes.",
+    "On 15:00, I want to eat, I go to Maharaja Restaurant by public_transit which takes 30-40 minutes.",
+    "On 16:00, I want to social, I go to Majic Construction by public_transit which takes 30-40 minutes.",
+    "On 17:00, I want to shop, I go to Apple CambridgeSide by private_auto which takes For longer distances or when time is critical, private auto is more efficient, especially with a car available. minutes.",
+    "On 18:00, I want to eat, I go to Fresh Pond Beer Garden by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to home, I go to home by public_transit which takes 30-40 minutes.",
+    "On 20:00, I want to recreation, I go to BollyX by auto_passenger which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

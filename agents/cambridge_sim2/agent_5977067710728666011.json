@@ -1,0 +1,189 @@
+{
+  "profile": "{\"name\": \"Andre Ramos\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n   ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 0.8293202623782455,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "09:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Third Rail",
+        "distance_km": 0.5861397344964526,
+        "coordinates": [
+          "42.366117",
+          "-71.105305"
+        ]
+      }
+    },
+    {
+      "start_time": "10:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 0.8293202623782455,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "math.ceil(rand(0,10))"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 0.8054853029694953,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.16133072338092208,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "14:55",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 1.2596505259654915,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvest Co Op Markets",
+        "distance_km": 0.8293202623782455,
+        "coordinates": [
+          "42.364713",
+          "-71.102908"
+        ]
+      }
+    },
+    {
+      "start_time": "17:25",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37049487121381,
+          -71.10927755998655
+        ]
+      }
+    },
+    {
+      "start_time": "18:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.48141262510141003,
+        "coordinates": [
+          "42.373855",
+          "-71.112969"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37049487121381,
+          -71.10927755998655
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37049487121381,
+        -71.10927755998655
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:05, I want to shop, I go to Harvest Co Op Markets by walking which takes 0-10 minutes.",
+    "On 09:20, I want to eat, I go to The Third Rail by walking which takes  minutes.",
+    "On 10:45, I want to shop, I go to Harvest Co Op Markets by walking which takes 0-10 minutes.",
+    "On 11:50, I want to recreation, I go to Harvard Yard by walking which takes math.ceil(rand(0,10)) minutes.",
+    "On 13:30, I want to eat, I go to Dado Tea by walking which takes 0-10 minutes.",
+    "On 14:55, I want to recreation, I go to Greene Rose Heritage Park by walking which takes 0-10 minutes.",
+    "On 16:10, I want to shop, I go to Harvest Co Op Markets by walking which takes 0-10 minutes.",
+    "On 17:25, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:40, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 21:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

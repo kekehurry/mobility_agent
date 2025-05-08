@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Bryan Smith\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 0.2587956317920249,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Middlesex Cambridge",
+        "distance_km": 0.3452772794592697,
+        "coordinates": [
+          "42.36256",
+          "-71.098473"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 0.2587956317920249,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Joe's Kwik Mart",
+        "distance_km": 0.7680687444149188,
+        "coordinates": [
+          "42.372548",
+          "-71.099042"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "G&G Property Services",
+        "distance_km": 1.3785152194670773,
+        "coordinates": [
+          "42.370082",
+          "-71.082562"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 0.2587956317920249,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 0.5002872079463734,
+        "coordinates": [
+          "42.36498",
+          "-71.104203"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36566174127472,
+          -71.09819970505879
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 0.47142747145405284,
+        "coordinates": [
+          "42.363707",
+          "-71.09312"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36566174127472,
+        -71.09819970505879
+      ]
+    },
+    "work": {
+      "name": "MrBeast Burger",
+      "coordinates": [
+        "42.36344",
+        "-71.097254"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to MrBeast Burger by walking which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to Middlesex Cambridge by public_transit which takes 0-10 minutes.",
+    "On 12:30, I want to work, I go to MrBeast Burger by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Joe's Kwik Mart by walking which takes 10-20 minutes.",
+    "On 16:30, I want to social, I go to G&G Property Services by public_transit which takes  minutes.",
+    "On 18:00, I want to work, I go to MrBeast Burger by private_auto which takes 0-10 minutes.",
+    "On 18:45, I want to eat, I go to Subway by walking which takes 10-20 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to recreation, I go to Cambridge Athletic Club by public_transit which takes 0-10 minutes."
+  ]
+}

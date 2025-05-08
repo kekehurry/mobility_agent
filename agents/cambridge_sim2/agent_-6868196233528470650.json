@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Lisa Poole\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Henrietta's Table",
+        "distance_km": 1.5341021900239593,
+        "coordinates": [
+          "42.372294",
+          "-71.123262"
+        ]
+      }
+    },
+    {
+      "start_time": "11:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dumpling Daughter Cambridge",
+        "distance_km": 1.5614726474746312,
+        "coordinates": [
+          "42.363468",
+          "-71.088546"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.7080478659335566,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "13:10",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Just Crust",
+        "distance_km": 1.548729691936204,
+        "coordinates": [
+          "42.374304",
+          "-71.121482"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Modulo Systems",
+        "distance_km": 1.06072498671611,
+        "coordinates": [
+          "42.366671",
+          "-71.094677"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.365086197180794,
+          -71.10737529199875
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.365086197180794,
+        -71.10737529199875
+      ]
+    },
+    "work": {
+      "name": "Henrietta's Table",
+      "coordinates": [
+        "42.372294",
+        "-71.123262"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Henrietta's Table by public_transit which takes 10-20 minutes.",
+    "On 11:40, I want to eat, I go to Dumpling Daughter Cambridge by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 13:10, I want to eat, I go to The Just Crust by public_transit which takes 10-20 minutes.",
+    "On 15:30, I want to shop, I go to Modulo Systems by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by public_transit which takes  minutes."
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Robert Forbes\", \"city\": \"Cambridge,MA\", \"age\": 30, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Club Passim",
+        "distance_km": 1.6050686058296362,
+        "coordinates": [
+          "42.374223",
+          "-71.120026"
+        ]
+      }
+    },
+    {
+      "start_time": "08:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.5871017224036845,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Yume Wo Katare",
+        "distance_km": 0.5786953168438642,
+        "coordinates": [
+          "42.389396",
+          "-71.119649"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Armageddon Shop",
+        "distance_km": 1.774802400773393,
+        "coordinates": [
+          "42.372315",
+          "-71.121535"
+        ]
+      }
+    },
+    {
+      "start_time": "14:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Club Passim",
+        "distance_km": 1.6050686058296362,
+        "coordinates": [
+          "42.374223",
+          "-71.120026"
+        ]
+      }
+    },
+    {
+      "start_time": "15:10",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Walden Square Community Association",
+        "distance_km": 0.2974280755108516,
+        "coordinates": [
+          "42.389148",
+          "-71.129559"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Echomail",
+        "distance_km": 2.07332267490384,
+        "coordinates": [
+          "42.390462",
+          "-71.151312"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38788452193328,
+          -71.1263744373368
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lee's Restaurant",
+        "distance_km": 1.5680098225554453,
+        "coordinates": [
+          "42.374288",
+          "-71.121257"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mesomorpheus",
+        "distance_km": 1.6367317543396709,
+        "coordinates": [
+          "42.373425",
+          "-71.122552"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38788452193328,
+          -71.1263744373368
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38788452193328,
+        -71.1263744373368
+      ]
+    },
+    "work": {
+      "name": "Club Passim",
+      "coordinates": [
+        "42.374223",
+        "-71.120026"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Club Passim by private_auto which takes 10-20 minutes.",
+    "On 08:30, I want to social, I go to Trinity Property Management by on_demand_auto which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to Yume Wo Katare by private_auto which takes  minutes.",
+    "On 11:50, I want to shop, I go to Armageddon Shop by private_auto which takes 20-30 minutes.",
+    "On 14:20, I want to work, I go to Club Passim by private_auto which takes 10-20 minutes.",
+    "On 15:10, I want to social, I go to Walden Square Community Association by on_demand_auto which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Echomail by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Lee's Restaurant by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to recreation, I go to Mesomorpheus by private_auto which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

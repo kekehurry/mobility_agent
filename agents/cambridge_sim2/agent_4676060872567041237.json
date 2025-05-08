@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Max Reed\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:36",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bambara",
+        "distance_km": 3.05177863545698,
+        "coordinates": [
+          "42.367867",
+          "-71.07491"
+        ]
+      }
+    },
+    {
+      "start_time": "12:27",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chivo Taqueria",
+        "distance_km": 2.6113416487693653,
+        "coordinates": [
+          "42.384156",
+          "-71.119803"
+        ]
+      }
+    },
+    {
+      "start_time": "12:48",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Belly Dance by Johara & Snake Dance Theater Company",
+        "distance_km": 0.7724972525095981,
+        "coordinates": [
+          "42.364238",
+          "-71.102309"
+        ]
+      }
+    },
+    {
+      "start_time": "13:21",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Bambara",
+        "distance_km": 3.05177863545698,
+        "coordinates": [
+          "42.367867",
+          "-71.07491"
+        ]
+      }
+    },
+    {
+      "start_time": "14:05",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 1.6054546752953291,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "15:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Al Hoda Market",
+        "distance_km": 1.6121132172463422,
+        "coordinates": [
+          "42.372744",
+          "-71.098472"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Cambridge Athletic Club",
+        "distance_km": 2.6750316051471104,
+        "coordinates": [
+          "42.364147",
+          "-71.078686"
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Chivo Taqueria",
+        "distance_km": 2.6113416487693653,
+        "coordinates": [
+          "42.384156",
+          "-71.119803"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361577584392094,
+          -71.11097313017572
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 0.8245982981639466,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.361577584392094,
+          -71.11097313017572
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.361577584392094,
+        -71.11097313017572
+      ]
+    },
+    "work": {
+      "name": "Bambara",
+      "coordinates": [
+        "42.367867",
+        "-71.07491"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:36, I want to work, I go to Bambara by public_transit which takes 20-30 minutes.",
+    "On 12:27, I want to eat, I go to Chivo Taqueria by public_transit which takes 20-30 minutes.",
+    "On 12:48, I want to recreation, I go to Belly Dance by Johara & Snake Dance Theater Company by walking which takes 10-20 minutes.",
+    "On 13:21, I want to work, I go to Bambara by public_transit which takes 20-30 minutes.",
+    "On 14:05, I want to social, I go to Cambridge Forum by public_transit which takes  minutes.",
+    "On 15:10, I want to shop, I go to Al Hoda Market by public_transit which takes 20-30 minutes.",
+    "On 16:00, I want to recreation, I go to Cambridge Athletic Club by public_transit which takes 20-30 minutes.",
+    "On 17:15, I want to eat, I go to Chivo Taqueria by public_transit which takes 20-30 minutes.",
+    "On 17:45, I want to home, I go to home by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to shop, I go to H Mart by walking which takes 10-20 minutes.",
+    "On 22:00, I want to home, I go to home by public_transit which takes 20-30 minutes."
+  ]
+}

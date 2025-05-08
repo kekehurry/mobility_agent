@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"James Davis\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.4492828374645296,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "11:50",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "How long does it take to walk to the restaurant?"
+      },
+      "destination": {
+        "name": "Donut Villa Diner",
+        "distance_km": 0.5715383832976181,
+        "coordinates": [
+          "42.36587",
+          "-71.10343"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She walks 10-20 minutes"
+      },
+      "destination": {
+        "name": "SleekFix",
+        "distance_km": 0.6814028933430186,
+        "coordinates": [
+          "42.364213",
+          "-71.10115"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363112351554065,
+          -71.10928749018902
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.4492828374645296,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rhonda Kelner",
+        "distance_km": 0.5808908248195386,
+        "coordinates": [
+          "42.366689",
+          "-71.104143"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.363112351554065,
+          -71.10928749018902
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.363112351554065,
+        -71.10928749018902
+      ]
+    },
+    "work": {
+      "name": "Genji Express",
+      "coordinates": [
+        "42.360985",
+        "-71.113926"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:20, I want to work, I go to Genji Express by walking which takes 10-20 minutes.",
+    "On 11:50, I want to eat, I go to Donut Villa Diner by walking which takes How long does it take to walk to the restaurant? minutes.",
+    "On 12:20, I want to shop, I go to SleekFix by walking which takes She walks 10-20 minutes minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Genji Express by walking which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to Rhonda Kelner by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

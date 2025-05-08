@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Laurie Castillo\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Martin Luther King Jr",
+        "distance_km": 2.514128517439878,
+        "coordinates": [
+          "42.370994",
+          "-71.104264"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Forbes Cafe",
+        "distance_km": 1.6902799999241522,
+        "coordinates": [
+          "42.359338",
+          "-71.088331"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 0.2941246926979164,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Martin Luther King Jr",
+        "distance_km": 2.514128517439878,
+        "coordinates": [
+          "42.370994",
+          "-71.104264"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.27974556950181206,
+        "coordinates": [
+          "42.368303",
+          "-71.076204"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370057180493134,
+          -71.07376717883582
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 1.0313682655153125,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She wants to go home, which is a short trip, so the duration is 10-20 minutes."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370057180493134,
+          -71.07376717883582
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370057180493134,
+        -71.07376717883582
+      ]
+    },
+    "work": {
+      "name": "Martin Luther King Jr",
+      "coordinates": [
+        "42.370994",
+        "-71.104264"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Martin Luther King Jr by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Forbes Cafe by public_transit which takes 10-20 minutes.",
+    "On 13:00, I want to shop, I go to Old Navy by walking which takes 0-10 minutes.",
+    "On 15:30, I want to work, I go to Martin Luther King Jr by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to CAC Express by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes She wants to go home, which is a short trip, so the duration is 10-20 minutes. minutes."
+  ]
+}

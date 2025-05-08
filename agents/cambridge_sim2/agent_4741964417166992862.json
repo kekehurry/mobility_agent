@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Kenneth Mcdaniel\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 2, \"household_income\": \"25k-49.9k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:13",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Peabody",
+        "distance_km": 0.38676167659117977,
+        "coordinates": [
+          "42.392275",
+          "-71.128074"
+        ]
+      }
+    },
+    {
+      "start_time": "11:14",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Verna's Coffee & Donut Shop",
+        "distance_km": 0.14724147010220925,
+        "coordinates": [
+          "42.395992",
+          "-71.12897"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.841353981216788,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "13:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Peabody",
+        "distance_km": 0.38676167659117977,
+        "coordinates": [
+          "42.392275",
+          "-71.128074"
+        ]
+      }
+    },
+    {
+      "start_time": "15:58",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Always Best Care",
+        "distance_km": 0.21455247652258388,
+        "coordinates": [
+          "42.394924",
+          "-71.127906"
+        ]
+      }
+    },
+    {
+      "start_time": "17:14",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nirvana The Taste of India",
+        "distance_km": 1.665467605589539,
+        "coordinates": [
+          "42.382457",
+          "-71.119966"
+        ]
+      }
+    },
+    {
+      "start_time": "18:14",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Sound Lion",
+        "distance_km": 2.5348560268978497,
+        "coordinates": [
+          "42.373568",
+          "-71.120953"
+        ]
+      }
+    },
+    {
+      "start_time": "21:02",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39526991962586,
+          -71.13046967655117
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39526991962586,
+        -71.13046967655117
+      ]
+    },
+    "work": {
+      "name": "Peabody",
+      "coordinates": [
+        "42.392275",
+        "-71.128074"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:13, I want to work, I go to Peabody by walking which takes 0-10 minutes.",
+    "On 11:14, I want to eat, I go to Verna's Coffee & Donut Shop by private_auto which takes 0-10 minutes.",
+    "On 11:55, I want to shop, I go to Thistle & Shamrock by private_auto which takes 10-20 minutes.",
+    "On 13:26, I want to work, I go to Peabody by private_auto which takes 0-10 minutes.",
+    "On 15:58, I want to social, I go to Always Best Care by walking which takes 0-10 minutes.",
+    "On 17:14, I want to eat, I go to Nirvana The Taste of India by private_auto which takes 10-20 minutes.",
+    "On 18:14, I want to shop, I go to Sound Lion by private_auto which takes  minutes.",
+    "On 21:02, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

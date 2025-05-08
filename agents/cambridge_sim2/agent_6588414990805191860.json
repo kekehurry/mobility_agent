@@ -1,0 +1,129 @@
+{
+  "profile": "{\n  \"name\": \"Matthew Ramos\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"some_college\",\n  \"household_size\": 3,\n  \"household_income\": \"50k-75k\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:02",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 1.2595675851126327,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "11:22",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 0.10829243148423505,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 1.2595675851126327,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.357216696641046,
+          -71.11290291985564
+        ]
+      }
+    },
+    {
+      "start_time": "18:01",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She is a young male with some college education in Cambridge,MA, and prefers walking for short trips."
+      },
+      "destination": {
+        "name": "Beantown Taqueria Cafe",
+        "distance_km": 0.9062867124543996,
+        "coordinates": [
+          "42.364783",
+          "-71.108787"
+        ]
+      }
+    },
+    {
+      "start_time": "21:26",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.357216696641046,
+          -71.11290291985564
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.357216696641046,
+        -71.11290291985564
+      ]
+    },
+    "work": {
+      "name": "Vermas Market",
+      "coordinates": [
+        "42.368025",
+        "-71.108279"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:02, I want to shop, I go to Vermas Market by walking which takes 10-20 minutes.",
+    "On 11:22, I want to shop, I go to Micro Center by on_demand_auto which takes 0-10 minutes.",
+    "On 14:43, I want to work, I go to Vermas Market by walking which takes 0-10 minutes.",
+    "On 16:35, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:01, I want to eat, I go to Beantown Taqueria Cafe by walking which takes She is a young male with some college education in Cambridge,MA, and prefers walking for short trips. minutes.",
+    "On 21:26, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

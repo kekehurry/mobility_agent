@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jonathan Mendez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ko Albert Dr",
+        "distance_km": 2.5001651373402445,
+        "coordinates": [
+          "42.374842",
+          "-71.104387"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Brookfield Factory Outlet Store",
+        "distance_km": 3.3146978053613902,
+        "coordinates": [
+          "42.372779",
+          "-71.094298"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "GLOW Boston",
+        "distance_km": 0.6549221312480704,
+        "coordinates": [
+          "42.38949",
+          "-71.120617"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "time"
+      },
+      "destination": {
+        "name": "Ko Albert Dr",
+        "distance_km": 2.5001651373402445,
+        "coordinates": [
+          "42.374842",
+          "-71.104387"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 1.8921471810385362,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "GLOW Boston",
+        "distance_km": 0.6549221312480704,
+        "coordinates": [
+          "42.38949",
+          "-71.120617"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cambridge Prime",
+        "distance_km": 1.302128656767373,
+        "coordinates": [
+          "42.378086",
+          "-71.121335"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38854769996602,
+          -71.12846823197637
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38854769996602,
+        -71.12846823197637
+      ]
+    },
+    "work": {
+      "name": "Ko Albert Dr",
+      "coordinates": [
+        "42.374842",
+        "-71.104387"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Ko Albert Dr by private_auto which takes 10-20 minutes.",
+    "On 11:30, I want to shop, I go to Brookfield Factory Outlet Store by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to GLOW Boston by private_auto which takes  minutes.",
+    "On 14:00, I want to work, I go to Ko Albert Dr by private_auto which takes time minutes.",
+    "On 17:30, I want to shop, I go to Newbury Comics by private_auto which takes  minutes.",
+    "On 18:30, I want to eat, I go to GLOW Boston by private_auto which takes  minutes.",
+    "On 19:00, I want to social, I go to Cambridge Prime by private_auto which takes  minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

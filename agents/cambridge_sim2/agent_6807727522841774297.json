@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Brian Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:06",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.207529622899774,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "10:51",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.7397252240925858,
+        "coordinates": [
+          "42.366307",
+          "-71.094141"
+        ]
+      }
+    },
+    {
+      "start_time": "12:27",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3726856155425,
+          -71.09156091655088
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Albert's Market",
+        "distance_km": 0.38345753324469045,
+        "coordinates": [
+          "42.371765",
+          "-71.087074"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.29553673886944537,
+        "coordinates": [
+          "42.373154",
+          "-71.095093"
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lizzy's",
+        "distance_km": 0.3931119340273959,
+        "coordinates": [
+          "42.372127",
+          "-71.086848"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3726856155425,
+          -71.09156091655088
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3726856155425,
+        -71.09156091655088
+      ]
+    },
+    "work": {
+      "name": "Lizzy's",
+      "coordinates": [
+        "42.372127",
+        "-71.086848"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:06, I want to shop, I go to H Mart by walking which takes 10-20 minutes.",
+    "On 10:51, I want to eat, I go to Dunkin' by walking which takes  minutes.",
+    "On 12:27, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to Albert's Market by walking which takes 10-20 minutes.",
+    "On 16:30, I want to eat, I go to Clover Food Lab by on_demand_auto which takes 0-10 minutes.",
+    "On 18:45, I want to work, I go to Lizzy's by walking which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

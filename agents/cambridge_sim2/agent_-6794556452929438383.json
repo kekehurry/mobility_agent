@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Andrew Morris\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Noodle Stix",
+        "distance_km": 1.5722672454018711,
+        "coordinates": [
+          "42.374947",
+          "-71.15063"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "SOFRA Bakery & Cafe",
+        "distance_km": 1.557817260000418,
+        "coordinates": [
+          "42.374917",
+          "-71.150379"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Noodle Stix",
+        "distance_km": 1.5722672454018711,
+        "coordinates": [
+          "42.374947",
+          "-71.15063"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38345053910573,
+          -71.1353684156386
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "time"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.5901959857772074,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Chipotle Mexican Grill",
+        "distance_km": 0.9271424666552622,
+        "coordinates": [
+          "42.38929",
+          "-71.143413"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hoyt Field",
+        "distance_km": 2.887836046554205,
+        "coordinates": [
+          "42.363705",
+          "-71.112561"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38345053910573,
+          -71.1353684156386
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38345053910573,
+        -71.1353684156386
+      ]
+    },
+    "work": {
+      "name": "Noodle Stix",
+      "coordinates": [
+        "42.374947",
+        "-71.15063"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Noodle Stix by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to SOFRA Bakery & Cafe by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to work, I go to Noodle Stix by private_auto which takes  minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to shop, I go to Star Market by auto_passenger which takes time minutes.",
+    "On 19:30, I want to eat, I go to Chipotle Mexican Grill by private_auto which takes  minutes.",
+    "On 20:00, I want to recreation, I go to Hoyt Field by biking which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}
