@@ -1,0 +1,214 @@
+{
+  "profile": "{\"name\": \"Kevin Castillo\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 1.0690878149745178,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "09:08",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38789202196018,
+          -71.12859865143271
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.6501969731252405,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "11:21",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 0.33903794704570017,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.6501969731252405,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "16:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38789202196018,
+          -71.12859865143271
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 1.2408069265322335,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "17:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Third Eye",
+        "distance_km": 0.5625053495867454,
+        "coordinates": [
+          "42.391248",
+          "-71.123483"
+        ]
+      }
+    },
+    {
+      "start_time": "18:11",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.886839171977737,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Concord Avenue Cafe",
+        "distance_km": 0.6501969731252405,
+        "coordinates": [
+          "42.383702",
+          "-71.134112"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38789202196018,
+          -71.12859865143271
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38789202196018,
+        -71.12859865143271
+      ]
+    },
+    "work": {
+      "name": "Concord Avenue Cafe",
+      "coordinates": [
+        "42.383702",
+        "-71.134112"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to shop, I go to Friendly Corner Convenience Store by private_auto which takes 0-10 minutes.",
+    "On 09:08, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 10:00, I want to eat, I go to Concord Avenue Cafe by private_auto which takes  minutes.",
+    "On 11:21, I want to shop, I go to Thistle & Shamrock by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to work, I go to Concord Avenue Cafe by private_auto which takes 0-10 minutes.",
+    "On 16:20, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 16:50, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 0-10 minutes.",
+    "On 17:40, I want to eat, I go to Third Eye by private_auto which takes 0-10 minutes.",
+    "On 18:11, I want to shop, I go to Star Market by on_demand_auto which takes 0-10 minutes.",
+    "On 19:00, I want to work, I go to Concord Avenue Cafe by private_auto which takes 10-20 minutes.",
+    "On 22:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

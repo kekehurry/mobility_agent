@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"James Serrano\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Malis Law",
+        "distance_km": 0.18737052675606763,
+        "coordinates": [
+          "42.370496",
+          "-71.078413"
+        ]
+      }
+    },
+    {
+      "start_time": "10:55",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Curio Coffee",
+        "distance_km": 0.5137261814639534,
+        "coordinates": [
+          "42.371653",
+          "-71.08351"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "Heatmap data in Cambridge,MA indicates that walking is the most common mode for short trips, especially in a walkable city. The reference data also shows walking is frequently chosen, which aligns with my profile as a young professional who values convenience and environmental considerations."
+      },
+      "destination": {
+        "name": "Magnolia",
+        "distance_km": 0.5014922210030774,
+        "coordinates": [
+          "42.367449",
+          "-71.077102"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Earnest Drinks",
+        "distance_km": 1.1600215793259894,
+        "coordinates": [
+          "42.367958",
+          "-71.090294"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371961594008795,
+          -71.07728683959104
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "iFixOnWheelz com",
+        "distance_km": 0.39296407720364307,
+        "coordinates": [
+          "42.371442",
+          "-71.082006"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.41607078451063473,
+        "coordinates": [
+          "42.368303",
+          "-71.076204"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ABG Commercial",
+        "distance_km": 0.3204697089113494,
+        "coordinates": [
+          "42.371467",
+          "-71.08112"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.371961594008795,
+          -71.07728683959104
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.371961594008795,
+        -71.07728683959104
+      ]
+    },
+    "work": {
+      "name": "Malis Law",
+      "coordinates": [
+        "42.370496",
+        "-71.078413"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:05, I want to work, I go to Malis Law by on_demand_auto which takes 0-10 minutes.",
+    "On 10:55, I want to eat, I go to Curio Coffee by walking which takes 10-20 minutes.",
+    "On 12:20, I want to shop, I go to Magnolia by walking which takes Heatmap data in Cambridge,MA indicates that walking is the most common mode for short trips, especially in a walkable city. The reference data also shows walking is frequently chosen, which aligns with my profile as a young professional who values convenience and environmental considerations. minutes.",
+    "On 13:30, I want to eat, I go to Earnest Drinks by walking which takes 20-30 minutes.",
+    "On 16:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:45, I want to shop, I go to iFixOnWheelz com by walking which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Dunkin' by walking which takes 10-20 minutes.",
+    "On 19:30, I want to social, I go to ABG Commercial by walking which takes 0-10 minutes.",
+    "On 21:15, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

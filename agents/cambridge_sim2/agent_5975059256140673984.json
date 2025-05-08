@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"James Davis\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "The Smoke Shop BBQ Kendall Square",
+        "distance_km": 1.5536741800750442,
+        "coordinates": [
+          "42.366301",
+          "-71.091527"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36678825255996,
+          -71.11037686656533
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.9932149257379926,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 0.9932149257379926,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 0.8205626613065004,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Anthony",
+        "distance_km": 0.2837855825209031,
+        "coordinates": [
+          "42.369328",
+          "-71.11075"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36678825255996,
+          -71.11037686656533
+        ]
+      }
+    },
+    {
+      "start_time": "19:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 0.8563639918947641,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36678825255996,
+          -71.11037686656533
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36678825255996,
+        -71.11037686656533
+      ]
+    },
+    "work": {
+      "name": "Trader Joe's",
+      "coordinates": [
+        "42.358316",
+        "-71.114231"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:45, I want to eat, I go to The Smoke Shop BBQ Kendall Square by walking which takes 20-30 minutes.",
+    "On 11:30, I want to home, I go to home by walking which takes  minutes.",
+    "On 12:15, I want to shop, I go to Trader Joe's by private_auto which takes  minutes.",
+    "On 16:30, I want to work, I go to Trader Joe's by private_auto which takes  minutes.",
+    "On 17:15, I want to recreation, I go to Harvard Film Archive by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Cafe Anthony by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:45, I want to shop, I go to In Your Ear Records by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "profile": "{\"name\": \"Steve Williams\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "World of Beer",
+        "distance_km": 2.5194619633871964,
+        "coordinates": [
+          "42.36724",
+          "-71.07651"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 3.51189034804913,
+        "coordinates": [
+          "42.390828",
+          "-71.139469"
+        ]
+      }
+    },
+    {
+      "start_time": "08:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "World of Beer",
+        "distance_km": 2.5194619633871964,
+        "coordinates": [
+          "42.36724",
+          "-71.07651"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bibim Box",
+        "distance_km": 1.6083899944384241,
+        "coordinates": [
+          "42.359172",
+          "-71.094666"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370531725361325,
+          -71.10677310360373
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.840456797906219,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "D&R Construction",
+        "distance_km": 1.2982708954715514,
+        "coordinates": [
+          "42.369534",
+          "-71.091069"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "World of Beer",
+        "distance_km": 2.5194619633871964,
+        "coordinates": [
+          "42.36724",
+          "-71.07651"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370531725361325,
+          -71.10677310360373
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 2.53011322447884,
+        "coordinates": [
+          "42.368303",
+          "-71.076204"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "She's not here"
+      },
+      "destination": {
+        "name": "World of Beer",
+        "distance_km": 2.5194619633871964,
+        "coordinates": [
+          "42.36724",
+          "-71.07651"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Biogen",
+        "distance_km": 1.7384504808053165,
+        "coordinates": [
+          "42.365003",
+          "-71.087029"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370531725361325,
+          -71.10677310360373
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370531725361325,
+        -71.10677310360373
+      ]
+    },
+    "work": {
+      "name": "World of Beer",
+      "coordinates": [
+        "42.36724",
+        "-71.07651"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to work, I go to World of Beer by public_transit which takes 20-30 minutes.",
+    "On 07:45, I want to recreation, I go to CorePower Yoga by public_transit which takes 20-30 minutes.",
+    "On 08:45, I want to work, I go to World of Beer by private_auto which takes  minutes.",
+    "On 12:00, I want to eat, I go to Bibim Box by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 13:30, I want to shop, I go to Western Market by walking which takes 10-20 minutes.",
+    "On 14:30, I want to social, I go to D&R Construction by walking which takes 0-10 minutes.",
+    "On 16:30, I want to work, I go to World of Beer by private_auto which takes  minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Dunkin' by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to work, I go to World of Beer by private_auto which takes She's not here minutes.",
+    "On 20:00, I want to recreation, I go to Biogen by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

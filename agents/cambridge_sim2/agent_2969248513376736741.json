@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Rebecca Hill\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Liquiteria",
+        "distance_km": 0.3503213979091971,
+        "coordinates": [
+          "42.374306",
+          "-71.119144"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lee's Restaurant",
+        "distance_km": 0.3702613474060206,
+        "coordinates": [
+          "42.374288",
+          "-71.121257"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Liquiteria",
+        "distance_km": 0.3503213979091971,
+        "coordinates": [
+          "42.374306",
+          "-71.119144"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.710024443932381,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Club Passim",
+        "distance_km": 0.3567302051337122,
+        "coordinates": [
+          "42.374223",
+          "-71.120026"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37742782227934,
+          -71.11974779049164
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37742782227934,
+          -71.11974779049164
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37742782227934,
+        -71.11974779049164
+      ]
+    },
+    "work": {
+      "name": "Liquiteria",
+      "coordinates": [
+        "42.374306",
+        "-71.119144"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Liquiteria by public_transit which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Lee's Restaurant by public_transit which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to Liquiteria by public_transit which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Club Passim by walking which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

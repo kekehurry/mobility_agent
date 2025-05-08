@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Mary Brown\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:38",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Saloniki Greek",
+        "distance_km": 1.6120376040781605,
+        "coordinates": [
+          "42.361098",
+          "-71.095823"
+        ]
+      }
+    },
+    {
+      "start_time": "07:45",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.585460083972297,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 2.48609009510225,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tajine",
+        "distance_km": 0.24791127903606325,
+        "coordinates": [
+          "42.370646",
+          "-71.113236"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Western Market",
+        "distance_km": 0.42492495979887285,
+        "coordinates": [
+          "42.364642",
+          "-71.113178"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Turnstyle Kendall Square",
+        "distance_km": 1.8110231638845753,
+        "coordinates": [
+          "42.365975",
+          "-71.090964"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36845056202371,
+          -71.11269479261775
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunster Grille",
+        "distance_km": 0.3021560455277555,
+        "coordinates": [
+          "42.368866",
+          "-71.11632"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.24176424623619705,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36845056202371,
+          -71.11269479261775
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36845056202371,
+        -71.11269479261775
+      ]
+    },
+    "work": {
+      "name": "Saloniki Greek",
+      "coordinates": [
+        "42.361098",
+        "-71.095823"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:38, I want to work, I go to Saloniki Greek by public_transit which takes 10-20 minutes.",
+    "On 07:45, I want to maintenance, I go to C L M Inc by public_transit which takes 10-20 minutes.",
+    "On 11:30, I want to social, I go to MIT Wong Auditorium by public_transit which takes 10-20 minutes.",
+    "On 12:45, I want to eat, I go to Tajine by walking which takes 0-10 minutes.",
+    "On 14:30, I want to shop, I go to Western Market by public_transit which takes 0-10 minutes.",
+    "On 15:15, I want to recreation, I go to Turnstyle Kendall Square by walking which takes 30-40 minutes.",
+    "On 17:00, I want to home, I go to home by public_transit which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Dunster Grille by public_transit which takes 0-10 minutes.",
+    "On 19:30, I want to social, I go to Victoria Goodman Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 21:15, I want to home, I go to home by public_transit which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Andre Ramos\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n        ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Plough & Stars",
+        "distance_km": 0.5883209007653715,
+        "coordinates": [
+          "42.368211",
+          "-71.108844"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.7865404838487189,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 1.0039519846899159,
+        "coordinates": [
+          "42.360979",
+          "-71.113912"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Square Rental Properties",
+        "distance_km": 2.0862992954014907,
+        "coordinates": [
+          "42.378103",
+          "-71.121341"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36509902002526,
+          -71.1030647907132
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mitsubishi Electric Research Labs",
+        "distance_km": 0.8787074125830139,
+        "coordinates": [
+          "42.366121",
+          "-71.092487"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Andala Coffee House",
+        "distance_km": 0.22453113504048747,
+        "coordinates": [
+          "42.364708",
+          "-71.105739"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Swearingen Chas MD",
+        "distance_km": 1.7637473107349417,
+        "coordinates": [
+          "42.374238",
+          "-71.120575"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36509902002526,
+        -71.1030647907132
+      ]
+    },
+    "work": {
+      "name": "The Plough & Stars",
+      "coordinates": [
+        "42.368211",
+        "-71.108844"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to The Plough & Stars by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Market In the Square by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Taqueria by private_auto which takes  minutes.",
+    "On 14:00, I want to social, I go to Harvard Square Rental Properties by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to shop, I go to Mitsubishi Electric Research Labs by on_demand_auto which takes 0-10 minutes.",
+    "On 19:30, I want to eat, I go to Andala Coffee House by on_demand_auto which takes 0-10 minutes.",
+    "On 21:00, I want to recreation, I go to Swearingen Chas MD by private_auto which takes 10-20 minutes."
+  ]
+}

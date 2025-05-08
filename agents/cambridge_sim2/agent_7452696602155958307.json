@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mr. Logan McConnell\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. SUSAN FILENE MD",
+        "distance_km": 1.5176396731310482,
+        "coordinates": [
+          "42.384508",
+          "-71.137118"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.6022010024219182,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Basha Cafe",
+        "distance_km": 1.5470533108670357,
+        "coordinates": [
+          "42.387878",
+          "-71.140395"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. SUSAN FILENE MD",
+        "distance_km": 1.5176396731310482,
+        "coordinates": [
+          "42.384508",
+          "-71.137118"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37752018642387,
+          -71.15295339634267
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "..."
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 2.7769544383459843,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37752018642387,
+          -71.15295339634267
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37752018642387,
+        -71.15295339634267
+      ]
+    },
+    "work": {
+      "name": "DR. SUSAN FILENE MD",
+      "coordinates": [
+        "42.384508",
+        "-71.137118"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to DR. SUSAN FILENE MD by private_auto which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Whole Foods Market by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Basha Cafe by auto_passenger which takes  minutes.",
+    "On 13:30, I want to work, I go to DR. SUSAN FILENE MD by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to shop, I go to Newbury Comics by private_auto which takes ... minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

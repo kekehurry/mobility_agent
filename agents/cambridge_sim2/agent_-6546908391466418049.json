@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"Gary Butler\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Catholic Charitable Bureau of the Archdiocese of Boston",
+        "distance_km": 0.7316242874481115,
+        "coordinates": [
+          "42.389163",
+          "-71.129561"
+        ]
+      }
+    },
+    {
+      "start_time": "08:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 2.782668161035756,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Basha Cafe",
+        "distance_km": 0.5762524898596363,
+        "coordinates": [
+          "42.387878",
+          "-71.140395"
+        ]
+      }
+    },
+    {
+      "start_time": "12:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392501225418215,
+          -71.1372204286554
+        ]
+      }
+    },
+    {
+      "start_time": "14:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.4464596697451966,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 2.523898639348856,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392501225418215,
+          -71.1372204286554
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.392501225418215,
+        -71.1372204286554
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to Catholic Charitable Bureau of the Archdiocese of Boston by walking which takes 10-20 minutes.",
+    "On 08:10, I want to shop, I go to In Your Ear Records by private_auto which takes 20-30 minutes.",
+    "On 12:20, I want to eat, I go to Basha Cafe by walking which takes 10-20 minutes.",
+    "On 12:40, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 14:50, I want to social, I go to Trinity Property Management by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to shop, I go to Gap by private_auto which takes 20-30 minutes.",
+    "On 18:20, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

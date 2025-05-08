@@ -1,0 +1,171 @@
+{
+  "profile": "{\"name\": \"Kaitlin Mcdonald\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.29589666156186195,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36206166293205,
+          -71.08052135547894
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "school",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Henry Buckner School",
+        "distance_km": 1.7837326799555053,
+        "coordinates": [
+          "42.365634",
+          "-71.101632"
+        ]
+      }
+    },
+    {
+      "start_time": "14:38",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jerusalem Palace Truck",
+        "distance_km": 0.5093103919358118,
+        "coordinates": [
+          "42.361099",
+          "-71.086566"
+        ]
+      }
+    },
+    {
+      "start_time": "15:59",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 0.7615978142967268,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36206166293205,
+          -71.08052135547894
+        ]
+      }
+    },
+    {
+      "start_time": "19:23",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.29589666156186195,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "20:03",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Legal Fish Bowl",
+        "distance_km": 0.5784902247903846,
+        "coordinates": [
+          "42.362814",
+          "-71.08747"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36206166293205,
+        -71.08052135547894
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.362829",
+        "-71.083961"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "The Henry Buckner School",
+      "coordinates": [
+        "42.365634",
+        "-71.101632"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to work, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 12:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:37, I want to school, I go to The Henry Buckner School by public_transit which takes 10-20 minutes.",
+    "On 14:38, I want to eat, I go to Jerusalem Palace Truck by auto_passenger which takes 0-10 minutes.",
+    "On 15:59, I want to shop, I go to Old Navy by auto_passenger which takes 0-10 minutes.",
+    "On 16:10, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:23, I want to work, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 20:03, I want to eat, I go to Legal Fish Bowl by walking which takes  minutes."
+  ]
+}

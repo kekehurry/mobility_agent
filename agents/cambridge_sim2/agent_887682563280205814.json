@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Allison Hays\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor's\", \"household_size\": 1, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.4788832979484965,
+        "coordinates": [
+          "42.39013",
+          "-71.14285"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.0951172838068335,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 1.003714930066148,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38215331238749,
+          -71.15722874352218
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.0214974575026718,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fresh Pond",
+        "distance_km": 1.0951172838068335,
+        "coordinates": [
+          "42.382974",
+          "-71.143977"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38215331238749,
+          -71.15722874352218
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38215331238749,
+        -71.15722874352218
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.39013",
+        "-71.14285"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 11:00, I want to recreation, I go to Fresh Pond by walking which takes  minutes.",
+    "On 12:30, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Star Market by walking which takes 10-20 minutes.",
+    "On 16:30, I want to recreation, I go to Fresh Pond by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

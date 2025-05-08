@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Paige King\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 7, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n            ",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dermatology Associates of Concord",
+        "distance_km": 0.2232353741173637,
+        "coordinates": [
+          "42.375567",
+          "-71.14699"
+        ]
+      }
+    },
+    {
+      "start_time": "11:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37637565770964,
+          -71.14450866896213
+        ]
+      }
+    },
+    {
+      "start_time": "13:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.3945242416268349,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "14:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.4393338601218826,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "15:58",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Starbucks",
+        "distance_km": 0.3945242416268349,
+        "coordinates": [
+          "42.375409",
+          "-71.149118"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37637565770964,
+          -71.14450866896213
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.38593571923044695,
+        "coordinates": [
+          "42.375297",
+          "-71.148963"
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37637565770964,
+          -71.14450866896213
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37637565770964,
+        -71.14450866896213
+      ]
+    },
+    "work": {
+      "name": "Dermatology Associates of Concord",
+      "coordinates": [
+        "42.375567",
+        "-71.14699"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:40, I want to work, I go to Dermatology Associates of Concord by walking which takes 0-10 minutes.",
+    "On 11:43, I want to home, I go to home by walking which takes  minutes.",
+    "On 13:48, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 14:55, I want to shop, I go to Whole Foods Market by walking which takes  minutes.",
+    "On 15:58, I want to eat, I go to Starbucks by walking which takes 0-10 minutes.",
+    "On 16:15, I want to home, I go to home by walking which takes  minutes.",
+    "On 18:45, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 19:35, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Kathryn Mendez\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cancun Taqueria Y Mas",
+        "distance_km": 0.25823757243036427,
+        "coordinates": [
+          "42.370767",
+          "-71.113384"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373043565377074,
+          -71.11274879869978
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 0.7033845053402249,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Cancun Taqueria Y Mas",
+        "distance_km": 0.25823757243036427,
+        "coordinates": [
+          "42.370767",
+          "-71.113384"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373043565377074,
+          -71.11274879869978
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "John Harvard's Brewery & Ale House",
+        "distance_km": 0.5432237688405458,
+        "coordinates": [
+          "42.372547",
+          "-71.11931"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Prime",
+        "distance_km": 0.9021236516605826,
+        "coordinates": [
+          "42.378086",
+          "-71.121335"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373043565377074,
+          -71.11274879869978
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.373043565377074,
+        -71.11274879869978
+      ]
+    },
+    "work": {
+      "name": "Cancun Taqueria Y Mas",
+      "coordinates": [
+        "42.370767",
+        "-71.113384"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Cancun Taqueria Y Mas by walking which takes 0-10 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Market In the Square by walking which takes  minutes.",
+    "On 15:00, I want to work, I go to Cancun Taqueria Y Mas by walking which takes  minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to John Harvard's Brewery & Ale House by walking which takes  minutes.",
+    "On 19:00, I want to social, I go to Cambridge Prime by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

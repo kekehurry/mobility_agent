@@ -1,0 +1,197 @@
+{
+  "profile": "{\n  \"name\": \"Ronald Baker\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 35,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 1,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Center for Astrophysics Harvard & Smithsonian",
+        "distance_km": 2.5860791820998523,
+        "coordinates": [
+          "42.381456",
+          "-71.128183"
+        ]
+      }
+    },
+    {
+      "start_time": "07:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.5732292101566612,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "09:57",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 0.6498650107918944,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.333285911179164,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "12:26",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36231914765588,
+          -71.11030224716164
+        ]
+      }
+    },
+    {
+      "start_time": "14:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.5759103985121126,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "17:01",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36231914765588,
+          -71.11030224716164
+        ]
+      }
+    },
+    {
+      "start_time": "18:01",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Black Sheep Market",
+        "distance_km": 0.23023532395031315,
+        "coordinates": [
+          "42.360254",
+          "-71.110064"
+        ]
+      }
+    },
+    {
+      "start_time": "18:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Louie's Superette",
+        "distance_km": 0.7739800023594593,
+        "coordinates": [
+          "42.368565",
+          "-71.114467"
+        ]
+      }
+    },
+    {
+      "start_time": "19:51",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36231914765588,
+          -71.11030224716164
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36231914765588,
+        -71.11030224716164
+      ]
+    },
+    "work": {
+      "name": "Center for Astrophysics Harvard & Smithsonian",
+      "coordinates": [
+        "42.381456",
+        "-71.128183"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Center for Astrophysics Harvard & Smithsonian by public_transit which takes 20-30 minutes.",
+    "On 07:50, I want to social, I go to Trinity Property Management by walking which takes 0-10 minutes.",
+    "On 09:57, I want to shop, I go to Micro Center by biking which takes 0-10 minutes.",
+    "On 11:55, I want to eat, I go to Genji Express by auto_passenger which takes 0-10 minutes.",
+    "On 12:26, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:50, I want to social, I go to Central House by auto_passenger which takes 0-10 minutes.",
+    "On 17:01, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:01, I want to eat, I go to Black Sheep Market by walking which takes 0-10 minutes.",
+    "On 18:58, I want to shop, I go to Louie's Superette by public_transit which takes  minutes.",
+    "On 19:51, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

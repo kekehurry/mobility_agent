@@ -1,0 +1,189 @@
+{
+  "profile": "{\n  \"name\": \"Bryan Smith\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 55,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"bachelors_degree\",\n  \"household_size\": 4,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 2\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 1.3160789140497355,
+        "coordinates": [
+          "42.362525",
+          "-71.099602"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 0.727488711068223,
+        "coordinates": [
+          "42.360985",
+          "-71.113926"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 1.4411103470090612,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35467397866715,
+          -71.11156616646166
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Go! Go! Curry!",
+        "distance_km": 1.3606449512912826,
+        "coordinates": [
+          "42.365034",
+          "-71.102754"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 1.4011754277906165,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35467397866715,
+          -71.11156616646166
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "VIM Fitness",
+        "distance_km": 1.3160789140497355,
+        "coordinates": [
+          "42.362525",
+          "-71.099602"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.6978038463138131,
+        "coordinates": [
+          "42.357776",
+          "-71.104201"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35467397866715,
+          -71.11156616646166
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35467397866715,
+        -71.11156616646166
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:00, I want to recreation, I go to VIM Fitness by public_transit which takes 0-10 minutes.",
+    "On 07:00, I want to eat, I go to Genji Express by public_transit which takes 0-10 minutes.",
+    "On 08:00, I want to shop, I go to Weirdo Records by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Go! Go! Curry! by private_auto which takes 0-10 minutes.",
+    "On 13:30, I want to social, I go to Central House by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to recreation, I go to VIM Fitness by public_transit which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Flour Bakery Cafe by on_demand_auto which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

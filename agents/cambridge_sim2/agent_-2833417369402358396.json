@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Kenneth Mcdaniel\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kantipur Cafe",
+        "distance_km": 0.3881735634032908,
+        "coordinates": [
+          "42.369953",
+          "-71.096059"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hit Wicket",
+        "distance_km": 0.38884383291344643,
+        "coordinates": [
+          "42.373063",
+          "-71.097013"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 1.4422166155400769,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 1.1446819646677917,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Brooklyn Bagel Factory",
+        "distance_km": 0.5389382912982267,
+        "coordinates": [
+          "42.371845",
+          "-71.098967"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37219188083244,
+          -71.09244056613625
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37219188083244,
+        -71.09244056613625
+      ]
+    },
+    "work": {
+      "name": "Kantipur Cafe",
+      "coordinates": [
+        "42.369953",
+        "-71.096059"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Kantipur Cafe by private_auto which takes 0-10 minutes.",
+    "On 11:00, I want to eat, I go to Hit Wicket by walking which takes 10-20 minutes.",
+    "On 12:00, I want to social, I go to CIC Cambridge by private_auto which takes 0-10 minutes.",
+    "On 16:00, I want to shop, I go to Shalimar India Food & Spices by private_auto which takes  minutes.",
+    "On 17:30, I want to eat, I go to Brooklyn Bagel Factory by private_auto which takes  minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

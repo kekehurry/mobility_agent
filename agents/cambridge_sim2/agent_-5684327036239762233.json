@@ -1,0 +1,214 @@
+{
+  "profile": "{\n  \"name\": \"Paul Smith\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"not_in_labor_force\",\n  \"education\": \"some_college\",\n  \"household_size\": 1,\n  \"household_income\": \"100k-150k\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "02:48",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 1.2029877902258637,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "06:12",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pang Alexander MD",
+        "distance_km": 0.9132863820515604,
+        "coordinates": [
+          "42.374441",
+          "-71.10443"
+        ]
+      }
+    },
+    {
+      "start_time": "07:05",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 0.5212301562130668,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "10:24",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ung Feodor MD",
+        "distance_km": 0.9215260350703524,
+        "coordinates": [
+          "42.374499",
+          "-71.104161"
+        ]
+      }
+    },
+    {
+      "start_time": "11:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Wrapro Falafel & Grill",
+        "distance_km": 0.7472743074341822,
+        "coordinates": [
+          "42.382066",
+          "-71.119991"
+        ]
+      }
+    },
+    {
+      "start_time": "12:48",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 0.5212301562130668,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "13:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stoked Pizza Company Cambridge",
+        "distance_km": 0.7160487921999397,
+        "coordinates": [
+          "42.380164",
+          "-71.119632"
+        ]
+      }
+    },
+    {
+      "start_time": "14:48",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lesley University",
+        "distance_km": 0.5212301562130668,
+        "coordinates": [
+          "42.38099",
+          "-71.117349"
+        ]
+      }
+    },
+    {
+      "start_time": "16:48",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38105322728202,
+          -71.11102048432711
+        ]
+      }
+    },
+    {
+      "start_time": "18:24",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.1288366071786988,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "19:24",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38105322728202,
+          -71.11102048432711
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38105322728202,
+        -71.11102048432711
+      ]
+    },
+    "work": {
+      "name": "Lesley University",
+      "coordinates": [
+        "42.38099",
+        "-71.117349"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 02:48, I want to shop, I go to In Your Ear Records by on_demand_auto which takes 0-10 minutes.",
+    "On 06:12, I want to recreation, I go to Pang Alexander MD by private_auto which takes 0-10 minutes.",
+    "On 07:05, I want to work, I go to Lesley University by public_transit which takes 0-10 minutes.",
+    "On 10:24, I want to recreation, I go to Ung Feodor MD by on_demand_auto which takes 0-10 minutes.",
+    "On 11:48, I want to eat, I go to Wrapro Falafel & Grill by private_auto which takes  minutes.",
+    "On 12:48, I want to work, I go to Lesley University by private_auto which takes  minutes.",
+    "On 13:48, I want to eat, I go to Stoked Pizza Company Cambridge by private_auto which takes 0-10 minutes.",
+    "On 14:48, I want to work, I go to Lesley University by private_auto which takes 0-10 minutes.",
+    "On 16:48, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:24, I want to shop, I go to Gap by on_demand_auto which takes 0-10 minutes.",
+    "On 19:24, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

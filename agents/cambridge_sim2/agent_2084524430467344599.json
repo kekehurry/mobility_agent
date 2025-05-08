@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Steven Greer\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.7653215387752962,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39654787172278,
+          -71.14440743044506
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ": 0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.7653215387752962,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39654787172278,
+          -71.14440743044506
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.0337319149470665,
+        "coordinates": [
+          "42.398696",
+          "-71.132191"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bread & Circus",
+        "distance_km": 0.7653215387752962,
+        "coordinates": [
+          "42.390238",
+          "-71.140675"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.8606375579832352,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39654787172278,
+          -71.14440743044506
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Russell Field",
+        "distance_km": 0.5224632034989632,
+        "coordinates": [
+          "42.396585",
+          "-71.138062"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39654787172278,
+          -71.14440743044506
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39654787172278,
+        -71.14440743044506
+      ]
+    },
+    "work": {
+      "name": "Bread & Circus",
+      "coordinates": [
+        "42.390238",
+        "-71.140675"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to work, I go to Bread & Circus by private_auto which takes 0-10 minutes.",
+    "On 08:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 12:00, I want to work, I go to Bread & Circus by private_auto which takes : 0-10 minutes.",
+    "On 12:45, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 13:00, I want to eat, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 16:30, I want to work, I go to Bread & Circus by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to shop, I go to Whole Foods Market by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 20:30, I want to recreation, I go to Russell Field by walking which takes 0-10 minutes.",
+    "On 22:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

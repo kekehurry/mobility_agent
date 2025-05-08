@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\":\"Ashley Banks\",\"city\":\"Cambridge,MA\",\"age\":24,\"gender\":\"female\",\"employment_status\":\"employed\",\"education\":\"advanced_degree\",\"household_size\":5,\"household_income\":\"150k+\",\"available_vehicles\":0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:52",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Rotisserie House",
+        "distance_km": 0.3462123480079241,
+        "coordinates": [
+          "42.366111",
+          "-71.105215"
+        ]
+      }
+    },
+    {
+      "start_time": "11:03",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Subway",
+        "distance_km": 0.4839178307736811,
+        "coordinates": [
+          "42.36498",
+          "-71.104203"
+        ]
+      }
+    },
+    {
+      "start_time": "12:03",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Victoria Goodman Santana Properties Team",
+        "distance_km": 0.1905440828198879,
+        "coordinates": [
+          "42.36912",
+          "-71.109902"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 2.607748175690204,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "14:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367561725359245,
+          -71.1089349258525
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rotisserie House",
+        "distance_km": 0.3462123480079241,
+        "coordinates": [
+          "42.366111",
+          "-71.105215"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Life Alive Organic Cafe Central Square",
+        "distance_km": 0.3086301099371573,
+        "coordinates": [
+          "42.366709",
+          "-71.105369"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "Macy's",
+        "distance_km": 2.7291266831153727,
+        "coordinates": [
+          "42.367407",
+          "-71.075804"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.367561725359245,
+          -71.1089349258525
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.367561725359245,
+        -71.1089349258525
+      ]
+    },
+    "work": {
+      "name": "Rotisserie House",
+      "coordinates": [
+        "42.366111",
+        "-71.105215"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:52, I want to work, I go to Rotisserie House by walking which takes 10-20 minutes.",
+    "On 11:03, I want to eat, I go to Subway by walking which takes 0-10 minutes.",
+    "On 12:03, I want to social, I go to Victoria Goodman Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 13:15, I want to shop, I go to CLEAR Kiosk by public_transit which takes 30-40 minutes.",
+    "On 14:45, I want to home, I go to home by walking which takes  minutes.",
+    "On 16:30, I want to work, I go to Rotisserie House by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Life Alive Organic Cafe Central Square by walking which takes 0-10 minutes.",
+    "On 18:15, I want to shop, I go to Macy's by public_transit which takes 30-40 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

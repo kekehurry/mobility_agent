@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Allison Hays\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Base Crave",
+        "distance_km": 1.1838651523962578,
+        "coordinates": [
+          "42.381077",
+          "-71.137932"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Q Ballroom",
+        "distance_km": 1.9558693152818774,
+        "coordinates": [
+          "42.387836",
+          "-71.140552"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bayside Realty",
+        "distance_km": 2.505039853339683,
+        "coordinates": [
+          "42.367459",
+          "-71.106609"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Base Crave",
+        "distance_km": 1.1838651523962578,
+        "coordinates": [
+          "42.381077",
+          "-71.137932"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "She is likely to choose private_auto for the shop trip, as it's the most common mode for similar profiles. The duration is expected to be around 10-20 minutes, which aligns with the reference data for similar profiles."
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 1.4149638928631847,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Evolve Fitness",
+        "distance_km": 1.9573577469971006,
+        "coordinates": [
+          "42.387936",
+          "-71.139745"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 1.2173365054441632,
+        "coordinates": [
+          "42.373053",
+          "-71.122393"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37045530408581,
+          -71.1367512551442
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ":[{"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 1.4149638928631847,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37045530408581,
+          -71.1367512551442
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37045530408581,
+        -71.1367512551442
+      ]
+    },
+    "work": {
+      "name": "Base Crave",
+      "coordinates": [
+        "42.381077",
+        "-71.137932"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Base Crave by walking which takes 10-20 minutes.",
+    "On 10:30, I want to recreation, I go to Q Ballroom by private_auto which takes 10-20 minutes.",
+    "On 11:30, I want to social, I go to Bayside Realty by private_auto which takes 10-20 minutes.",
+    "On 13:00, I want to work, I go to Base Crave by private_auto which takes 10-20 minutes.",
+    "On 14:30, I want to shop, I go to Newbury Comics by private_auto which takes She is likely to choose private_auto for the shop trip, as it's the most common mode for similar profiles. The duration is expected to be around 10-20 minutes, which aligns with the reference data for similar profiles. minutes.",
+    "On 16:00, I want to recreation, I go to Evolve Fitness by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Flour Bakery Cafe by private_auto which takes  minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 19:30, I want to shop, I go to Newbury Comics by private_auto which takes :[{ minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Linda Young\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:35",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Surya Indian Express",
+        "distance_km": 0.4356300512760715,
+        "coordinates": [
+          "42.368663",
+          "-71.076589"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 1.2040460658549996,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "12:25",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Ma Sears Appliance Repair",
+        "distance_km": 0.5229465132482651,
+        "coordinates": [
+          "42.367438",
+          "-71.076567"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37086228664647,
+          -71.0722101537805
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Roche Brothers Supermarket",
+        "distance_km": 1.2936267201105671,
+        "coordinates": [
+          "42.362804",
+          "-71.083548"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Route 66 Cafe",
+        "distance_km": 0.6517091378157874,
+        "coordinates": [
+          "42.371293",
+          "-71.080101"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37086228664647,
+          -71.0722101537805
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37086228664647,
+        -71.0722101537805
+      ]
+    },
+    "work": {
+      "name": "Surya Indian Express",
+      "coordinates": [
+        "42.368663",
+        "-71.076589"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:35, I want to work, I go to Surya Indian Express by private_auto which takes 0-10 minutes.",
+    "On 11:55, I want to social, I go to CIC Cambridge by walking which takes 10-20 minutes.",
+    "On 12:25, I want to shop, I go to Cambridge Ma Sears Appliance Repair by walking which takes 10-20 minutes.",
+    "On 13:15, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 15:45, I want to shop, I go to Roche Brothers Supermarket by private_auto which takes  minutes.",
+    "On 16:30, I want to eat, I go to Route 66 Cafe by walking which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

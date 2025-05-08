@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Brian Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "uBreakiFix",
+        "distance_km": 0.5847411771891726,
+        "coordinates": [
+          "42.368684",
+          "-71.10981"
+        ]
+      }
+    },
+    {
+      "start_time": "10:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.5899587670377864,
+        "coordinates": [
+          "42.360905",
+          "-71.11543"
+        ]
+      }
+    },
+    {
+      "start_time": "11:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.8892740462561127,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 0.8892740462561127,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366195165305264,
+          -71.11606523489154
+        ]
+      }
+    },
+    {
+      "start_time": "17:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Micro Center",
+        "distance_km": 1.006327517593103,
+        "coordinates": [
+          "42.35724",
+          "-71.114217"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sub Zero Ice Cream & Yogurt",
+        "distance_km": 0.6092305738552088,
+        "coordinates": [
+          "42.360735",
+          "-71.115368"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Forum",
+        "distance_km": 0.9716038213759699,
+        "coordinates": [
+          "42.374544",
+          "-71.119583"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366195165305264,
+          -71.11606523489154
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366195165305264,
+        -71.11606523489154
+      ]
+    },
+    "work": {
+      "name": "Gap",
+      "coordinates": [
+        "42.373564",
+        "-71.120285"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:05, I want to shop, I go to uBreakiFix by biking which takes 0-10 minutes.",
+    "On 10:20, I want to eat, I go to Dunkin' by private_auto which takes 0-10 minutes.",
+    "On 11:10, I want to shop, I go to Gap by private_auto which takes  minutes.",
+    "On 12:30, I want to work, I go to Gap by biking which takes 0-10 minutes.",
+    "On 16:00, I want to home, I go to home by biking which takes  minutes.",
+    "On 17:10, I want to shop, I go to Micro Center by private_auto which takes  minutes.",
+    "On 18:20, I want to eat, I go to Sub Zero Ice Cream & Yogurt by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to social, I go to Cambridge Forum by private_auto which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

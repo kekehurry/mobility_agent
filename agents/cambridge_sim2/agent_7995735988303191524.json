@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"Lisa Poole\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mother Juice",
+        "distance_km": 0.3113068045199429,
+        "coordinates": [
+          "42.372652",
+          "-71.118671"
+        ]
+      }
+    },
+    {
+      "start_time": "07:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Putnam Avenue Upper School",
+        "distance_km": 2.3372209265393087,
+        "coordinates": [
+          "42.369516",
+          "-71.08718"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373461200251086,
+          -71.1150523841695
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bon Me Smith Campus Center",
+        "distance_km": 0.2869136820587109,
+        "coordinates": [
+          "42.372969",
+          "-71.118472"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.4032491492595963,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Barre Soul",
+        "distance_km": 0.4102620719382279,
+        "coordinates": [
+          "42.372628",
+          "-71.119905"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.16971919906277652,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373461200251086,
+          -71.1150523841695
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Atrium Restaurant",
+        "distance_km": 0.17081154120454958,
+        "coordinates": [
+          "42.371938",
+          "-71.114768"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.373461200251086,
+          -71.1150523841695
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.373461200251086,
+        -71.1150523841695
+      ]
+    },
+    "work": {
+      "name": "Mother Juice",
+      "coordinates": [
+        "42.372652",
+        "-71.118671"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Putnam Avenue Upper School",
+      "coordinates": [
+        "42.369516",
+        "-71.08718"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to work, I go to Mother Juice by walking which takes 10-20 minutes.",
+    "On 07:30, I want to school, I go to Putnam Avenue Upper School by walking which takes 20-30 minutes.",
+    "On 09:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Bon Me Smith Campus Center by walking which takes 0-10 minutes.",
+    "On 12:00, I want to shop, I go to Newbury Comics by walking which takes 0-10 minutes.",
+    "On 14:00, I want to recreation, I go to Barre Soul by walking which takes 10-20 minutes.",
+    "On 16:00, I want to shop, I go to Broadway Marketplace by walking which takes 0-10 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Atrium Restaurant by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

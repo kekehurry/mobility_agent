@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Ronald Baker\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Democracy Center",
+        "distance_km": 1.2822506757093293,
+        "coordinates": [
+          "42.371292",
+          "-71.116337"
+        ]
+      }
+    },
+    {
+      "start_time": "09:56",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 1.5825579306076492,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36153925671108,
+          -71.10800956384537
+        ]
+      }
+    },
+    {
+      "start_time": "14:50",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.5898821419513798,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "18:01",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Pizzeria",
+        "distance_km": 0.42759456056282796,
+        "coordinates": [
+          "42.357691",
+          "-71.107882"
+        ]
+      }
+    },
+    {
+      "start_time": "18:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 0.6357061630200499,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36153925671108,
+        -71.10800956384537
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to social, I go to The Democracy Center by biking which takes 0-10 minutes.",
+    "On 09:56, I want to shop, I go to Newbury Comics by biking which takes 0-10 minutes.",
+    "On 10:05, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 14:50, I want to social, I go to Central House by walking which takes 0-10 minutes.",
+    "On 18:01, I want to eat, I go to Cambridge Pizzeria by private_auto which takes 0-10 minutes.",
+    "On 18:58, I want to shop, I go to Weirdo Records by private_auto which takes 10-20 minutes."
+  ]
+}

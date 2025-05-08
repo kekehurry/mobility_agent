@@ -1,0 +1,172 @@
+{
+  "profile": "{\"name\": \"Jennifer Serrano\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:48",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 1.0430856910537532,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "11:17",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "McCarter R Harris Psycholgst",
+        "distance_km": 0.7125785563242347,
+        "coordinates": [
+          "42.37086",
+          "-71.113521"
+        ]
+      }
+    },
+    {
+      "start_time": "12:33",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "MrBeast Burger",
+        "distance_km": 1.5465705396005018,
+        "coordinates": [
+          "42.36344",
+          "-71.097254"
+        ]
+      }
+    },
+    {
+      "start_time": "13:37",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.375245722515814,
+          -71.10720723488964
+        ]
+      }
+    },
+    {
+      "start_time": "15:12",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Martin Brothers Liquors",
+        "distance_km": 0.9137875132251527,
+        "coordinates": [
+          "42.373016",
+          "-71.096528"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.375245722515814,
+          -71.10720723488964
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.375245722515814,
+          -71.10720723488964
+        ]
+      }
+    },
+    {
+      "start_time": "20:03",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Taiyaki NYC x The Dough Club Cambridge",
+        "distance_km": 1.000618316536694,
+        "coordinates": [
+          "42.374293",
+          "-71.119288"
+        ]
+      }
+    },
+    {
+      "start_time": "20:43",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Jose Mateo Ballet Theatre",
+        "distance_km": 0.6915290357645104,
+        "coordinates": [
+          "42.371768",
+          "-71.114171"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.375245722515814,
+        -71.10720723488964
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:48, I want to maintenance, I go to C L M Inc by walking which takes 0-10 minutes.",
+    "On 11:17, I want to recreation, I go to McCarter R Harris Psycholgst by private_auto which takes 10-20 minutes.",
+    "On 12:33, I want to eat, I go to MrBeast Burger by private_auto which takes 10-20 minutes.",
+    "On 13:37, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:12, I want to shop, I go to Martin Brothers Liquors by walking which takes  minutes.",
+    "On 16:10, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:35, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:03, I want to eat, I go to Taiyaki NYC x The Dough Club Cambridge by private_auto which takes 10-20 minutes.",
+    "On 20:43, I want to recreation, I go to Jose Mateo Ballet Theatre by private_auto which takes 0-10 minutes."
+  ]
+}

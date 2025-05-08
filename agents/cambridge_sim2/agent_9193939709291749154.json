@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Mary Wilson\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelor\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:25",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "JOANNA PIECHNICZEK-BUCZEK MD",
+        "distance_km": 2.544607753588394,
+        "coordinates": [
+          "42.374982",
+          "-71.104589"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.385655034853635,
+          -71.13192831640536
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.8867559455206869,
+        "coordinates": [
+          "42.387839",
+          "-71.142286"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Amaral Group",
+        "distance_km": 1.2805854943271775,
+        "coordinates": [
+          "42.39712",
+          "-71.130299"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "First Cambridge Realty Corporation",
+        "distance_km": 2.7187074209148054,
+        "coordinates": [
+          "42.368479",
+          "-71.108412"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 1.6325251006125678,
+        "coordinates": [
+          "42.376364",
+          "-71.116569"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.385655034853635,
+          -71.13192831640536
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.385655034853635,
+        -71.13192831640536
+      ]
+    },
+    "work": {
+      "name": "JOANNA PIECHNICZEK-BUCZEK MD",
+      "coordinates": [
+        "42.374982",
+        "-71.104589"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:25, I want to work, I go to JOANNA PIECHNICZEK-BUCZEK MD by private_auto which takes 10-20 minutes.",
+    "On 12:10, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 13:15, I want to eat, I go to Dunkin' by private_auto which takes  minutes.",
+    "On 14:00, I want to shop, I go to The Amaral Group by public_transit which takes 10-20 minutes.",
+    "On 16:00, I want to social, I go to First Cambridge Realty Corporation by private_auto which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Clover Food Lab by public_transit which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

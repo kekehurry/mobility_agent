@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Michael Chen\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelor_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sulmona",
+        "distance_km": 1.0498818501525153,
+        "coordinates": [
+          "42.362782",
+          "-71.09388"
+        ]
+      }
+    },
+    {
+      "start_time": "10:03",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CLEAR Kiosk",
+        "distance_km": 0.5095877506134291,
+        "coordinates": [
+          "42.367491",
+          "-71.077277"
+        ]
+      }
+    },
+    {
+      "start_time": "11:32",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Amuse Restaurant",
+        "distance_km": 1.5585571039751052,
+        "coordinates": [
+          "42.362127",
+          "-71.099992"
+        ]
+      }
+    },
+    {
+      "start_time": "12:16",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "LabCentral",
+        "distance_km": 1.1521702810660819,
+        "coordinates": [
+          "42.362253",
+          "-71.09503"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 0.6204391911803325,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "17:02",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36396568417459,
+          -71.08123561217246
+        ]
+      }
+    },
+    {
+      "start_time": "18:18",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ZAGG",
+        "distance_km": 0.6101894358728641,
+        "coordinates": [
+          "42.367982",
+          "-71.076182"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dig Inn",
+        "distance_km": 0.24118870285534466,
+        "coordinates": [
+          "42.362862",
+          "-71.083757"
+        ]
+      }
+    },
+    {
+      "start_time": "19:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36396568417459,
+          -71.08123561217246
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36396568417459,
+        -71.08123561217246
+      ]
+    },
+    "work": {
+      "name": "Sulmona",
+      "coordinates": [
+        "42.362782",
+        "-71.09388"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to work, I go to Sulmona by public_transit which takes 10-20 minutes.",
+    "On 10:03, I want to shop, I go to CLEAR Kiosk by public_transit which takes 10-20 minutes.",
+    "On 11:32, I want to eat, I go to Amuse Restaurant by public_transit which takes 10-20 minutes.",
+    "On 12:16, I want to social, I go to LabCentral by walking which takes  minutes.",
+    "On 16:35, I want to shop, I go to Old Navy by walking which takes  minutes.",
+    "On 17:02, I want to home, I go to home by walking which takes  minutes.",
+    "On 18:18, I want to shop, I go to ZAGG by walking which takes 0-10 minutes.",
+    "On 18:30, I want to eat, I go to Dig Inn by walking which takes 0-10 minutes.",
+    "On 19:55, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

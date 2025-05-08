@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Elizabeth Thomas\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n\t",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Mix It Restaurant Sushi Bar",
+        "distance_km": 1.5393239849647642,
+        "coordinates": [
+          "42.382388",
+          "-71.119986"
+        ]
+      }
+    },
+    {
+      "start_time": "15:16",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 0.8859442785800694,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.5963551695702165,
+        "coordinates": [
+          "42.372895",
+          "-71.117919"
+        ]
+      }
+    },
+    {
+      "start_time": "18:50",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 0.8859442785800694,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Boathouse",
+        "distance_km": 0.4304926696727316,
+        "coordinates": [
+          "42.371436",
+          "-71.116713"
+        ]
+      }
+    },
+    {
+      "start_time": "20:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36988630844097,
+          -71.11192258711927
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36988630844097,
+        -71.11192258711927
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:15, I want to eat, I go to Mix It Restaurant Sushi Bar by public_transit which takes 10-20 minutes.",
+    "On 15:16, I want to shop, I go to Market In the Square by walking which takes 10-20 minutes.",
+    "On 16:45, I want to eat, I go to Clover Food Lab by walking which takes  minutes.",
+    "On 18:50, I want to shop, I go to Market In the Square by walking which takes 10-20 minutes.",
+    "On 19:30, I want to eat, I go to The Boathouse by private_auto which takes 0-10 minutes.",
+    "On 20:45, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

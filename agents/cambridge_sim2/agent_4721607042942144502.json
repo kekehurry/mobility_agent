@@ -1,0 +1,146 @@
+{
+  "profile": "{\n  \"name\": \"Paige King\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 25,\n  \"gender\": \"female\",\n  \"employment_status\": \"student\",\n  \"education\": \"advanced_degree\",\n  \"household_size\": 2,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 1\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sal's Mobile",
+        "distance_km": 0.2313724142360836,
+        "coordinates": [
+          "42.359247",
+          "-71.093127"
+        ]
+      }
+    },
+    {
+      "start_time": "11:47",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cambridge Community Gymnastics",
+        "distance_km": 0.201854068990905,
+        "coordinates": [
+          "42.358901",
+          "-71.095982"
+        ]
+      }
+    },
+    {
+      "start_time": "14:56",
+      "desire": "shop",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Apple CambridgeSide",
+        "distance_km": 1.776489318653308,
+        "coordinates": [
+          "42.367696",
+          "-71.075881"
+        ]
+      }
+    },
+    {
+      "start_time": "15:54",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Flour Bakery Cafe",
+        "distance_km": 0.1277556285903112,
+        "coordinates": [
+          "42.360962",
+          "-71.096712"
+        ]
+      }
+    },
+    {
+      "start_time": "16:11",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36062984051388,
+          -71.09522729382526
+        ]
+      }
+    },
+    {
+      "start_time": "18:51",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Pearl Street Market",
+        "distance_km": 0.8403928228378403,
+        "coordinates": [
+          "42.362714",
+          "-71.105034"
+        ]
+      }
+    },
+    {
+      "start_time": "19:36",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36062984051388,
+          -71.09522729382526
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36062984051388,
+        -71.09522729382526
+      ]
+    },
+    "work": {
+      "name": "Sal's Mobile",
+      "coordinates": [
+        "42.359247",
+        "-71.093127"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to work, I go to Sal's Mobile by private_auto which takes 0-10 minutes.",
+    "On 11:47, I want to recreation, I go to Cambridge Community Gymnastics by private_auto which takes 0-10 minutes.",
+    "On 14:56, I want to shop, I go to Apple CambridgeSide by biking which takes  minutes.",
+    "On 15:54, I want to eat, I go to Flour Bakery Cafe by private_auto which takes 0-10 minutes.",
+    "On 16:11, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:51, I want to shop, I go to Pearl Street Market by private_auto which takes  minutes.",
+    "On 19:36, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

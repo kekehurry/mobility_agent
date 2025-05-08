@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Michael Williams\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Big Easy Cajun",
+        "distance_km": 0.5808782618753997,
+        "coordinates": [
+          "42.367333",
+          "-71.07649"
+        ]
+      }
+    },
+    {
+      "start_time": "12:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Big Easy Cajun",
+        "distance_km": 0.5808782618753997,
+        "coordinates": [
+          "42.367333",
+          "-71.07649"
+        ]
+      }
+    },
+    {
+      "start_time": "16:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She's not here"
+      },
+      "destination": {
+        "name": "Big Easy Cajun",
+        "distance_km": 0.5808782618753997,
+        "coordinates": [
+          "42.367333",
+          "-71.07649"
+        ]
+      }
+    },
+    {
+      "start_time": "17:40",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "ZAGG",
+        "distance_km": 0.6498315720054061,
+        "coordinates": [
+          "42.367982",
+          "-71.076182"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Sate Grill on Wheels",
+        "distance_km": 0.44941887293832417,
+        "coordinates": [
+          "42.361317",
+          "-71.085981"
+        ]
+      }
+    },
+    {
+      "start_time": "19:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36373423332448,
+          -71.08160620600893
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36373423332448,
+        -71.08160620600893
+      ]
+    },
+    "work": {
+      "name": "Big Easy Cajun",
+      "coordinates": [
+        "42.367333",
+        "-71.07649"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to work, I go to Big Easy Cajun by walking which takes 10-20 minutes.",
+    "On 12:20, I want to eat, I go to Big Easy Cajun by private_auto which takes  minutes.",
+    "On 16:50, I want to work, I go to Big Easy Cajun by walking which takes She's not here minutes.",
+    "On 17:40, I want to shop, I go to ZAGG by public_transit which takes 0-10 minutes.",
+    "On 18:20, I want to eat, I go to Sate Grill on Wheels by walking which takes 10-20 minutes.",
+    "On 19:20, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

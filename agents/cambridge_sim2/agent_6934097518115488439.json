@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Danielle Barrett\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bon Me Harvard Truck",
+        "distance_km": 0.3933611669508425,
+        "coordinates": [
+          "42.37644",
+          "-71.116861"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.4114662257568908,
+        "coordinates": [
+          "42.376364",
+          "-71.116569"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37965907946565,
+          -71.1188513830021
+        ]
+      }
+    },
+    {
+      "start_time": "13:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Evergood Super Market",
+        "distance_km": 0.3100704378779166,
+        "coordinates": [
+          "42.382304",
+          "-71.120055"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37965907946565,
+          -71.1188513830021
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Democracy Center",
+        "distance_km": 0.9522119679529046,
+        "coordinates": [
+          "42.371292",
+          "-71.116337"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37965907946565,
+          -71.1188513830021
+        ]
+      }
+    },
+    {
+      "start_time": "20:45",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fit Fix",
+        "distance_km": 0.1936530036267067,
+        "coordinates": [
+          "42.381162",
+          "-71.120043"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37965907946565,
+        -71.1188513830021
+      ]
+    },
+    "work": {
+      "name": "Bon Me Harvard Truck",
+      "coordinates": [
+        "42.37644",
+        "-71.116861"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Bon Me Harvard Truck by walking which takes 0-10 minutes.",
+    "On 11:15, I want to eat, I go to Clover Food Lab by walking which takes 10-20 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes  minutes.",
+    "On 13:45, I want to shop, I go to Evergood Super Market by walking which takes 0-10 minutes.",
+    "On 16:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:30, I want to social, I go to The Democracy Center by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 20:45, I want to recreation, I go to Fit Fix by private_auto which takes 0-10 minutes."
+  ]
+}

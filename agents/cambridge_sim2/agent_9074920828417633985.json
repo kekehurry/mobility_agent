@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Julie Carr\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 3}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 0.12618573566789393,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fairlane Properties",
+        "distance_km": 1.185369145973117,
+        "coordinates": [
+          "42.373589",
+          "-71.093545"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Tanjore",
+        "distance_km": 0.37633032436314584,
+        "coordinates": [
+          "42.367674",
+          "-71.1079"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 0.12618573566789393,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.0103726036516014,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366128448217424,
+          -71.1038344930671
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Moge Tee Cambridge",
+        "distance_km": 0.12618573566789393,
+        "coordinates": [
+          "42.365216",
+          "-71.102922"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 1.1928974013520326,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.366128448217424,
+          -71.1038344930671
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.366128448217424,
+        -71.1038344930671
+      ]
+    },
+    "work": {
+      "name": "Moge Tee Cambridge",
+      "coordinates": [
+        "42.365216",
+        "-71.102922"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Moge Tee Cambridge by walking which takes 0-10 minutes.",
+    "On 11:00, I want to social, I go to Fairlane Properties by private_auto which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Tanjore by auto_passenger which takes 0-10 minutes.",
+    "On 13:30, I want to work, I go to Moge Tee Cambridge by private_auto which takes 0-10 minutes.",
+    "On 15:00, I want to shop, I go to Whole Foods Market by auto_passenger which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 18:00, I want to eat, I go to Moge Tee Cambridge by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to recreation, I go to Harvard Film Archive by private_auto which takes  minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

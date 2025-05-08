@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Matthew Burns\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's_degree\", \"household_size\": 4, \"household_income\": \"75k-100k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:55",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Law Office of Joseph T Moen",
+        "distance_km": 1.5202661309074723,
+        "coordinates": [
+          "42.366488",
+          "-71.103681"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "State Park",
+        "distance_km": 2.552153236749994,
+        "coordinates": [
+          "42.36615",
+          "-71.090746"
+        ]
+      }
+    },
+    {
+      "start_time": "12:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.55297708642784,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "13:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Law Office of Joseph T Moen",
+        "distance_km": 1.5202661309074723,
+        "coordinates": [
+          "42.366488",
+          "-71.103681"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wallace Murray",
+        "distance_km": 0.3551943688899703,
+        "coordinates": [
+          "42.374539",
+          "-71.120173"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37138887157518,
+          -71.12091355190742
+        ]
+      }
+    },
+    {
+      "start_time": "18:25",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Dolphin Seafood",
+        "distance_km": 0.6074175374985681,
+        "coordinates": [
+          "42.370865",
+          "-71.113573"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 0.27872537194200486,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37138887157518,
+          -71.12091355190742
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37138887157518,
+        -71.12091355190742
+      ]
+    },
+    "work": {
+      "name": "Law Office of Joseph T Moen",
+      "coordinates": [
+        "42.366488",
+        "-71.103681"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:55, I want to work, I go to Law Office of Joseph T Moen by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to State Park by biking which takes 20-30 minutes.",
+    "On 12:55, I want to shop, I go to Trader Joe's by walking which takes 10-20 minutes.",
+    "On 13:20, I want to work, I go to Law Office of Joseph T Moen by private_auto which takes 10-20 minutes.",
+    "On 16:15, I want to shop, I go to Wallace Murray by walking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:25, I want to eat, I go to Dolphin Seafood by walking which takes  minutes.",
+    "On 19:00, I want to shop, I go to Wholesome Fresh by walking which takes 10-20 minutes.",
+    "On 21:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

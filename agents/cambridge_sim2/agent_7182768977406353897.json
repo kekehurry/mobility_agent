@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Jordan Jordan\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 2.117698009995734,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pronto Cafe",
+        "distance_km": 0.318086238747164,
+        "coordinates": [
+          "42.372118",
+          "-71.087085"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 0.7814551400688597,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "CAC Express",
+        "distance_km": 0.8993343027719521,
+        "coordinates": [
+          "42.362473",
+          "-71.08099"
+        ]
+      }
+    },
+    {
+      "start_time": "16:48",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Xo Communications Operations",
+        "distance_km": 0.2994564295772043,
+        "coordinates": [
+          "42.369378",
+          "-71.087663"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37021024111511,
+          -71.08420504274893
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "GUESS",
+        "distance_km": 0.7443808155609174,
+        "coordinates": [
+          "42.36788",
+          "-71.075732"
+        ]
+      }
+    },
+    {
+      "start_time": "22:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37021024111511,
+          -71.08420504274893
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37021024111511,
+        -71.08420504274893
+      ]
+    },
+    "work": {
+      "name": "Dado Tea",
+      "coordinates": [
+        "42.369111",
+        "-71.109872"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:50, I want to work, I go to Dado Tea by private_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to Pronto Cafe by walking which takes 0-10 minutes.",
+    "On 13:00, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes 0-10 minutes.",
+    "On 14:15, I want to recreation, I go to CAC Express by walking which takes  minutes.",
+    "On 16:48, I want to shop, I go to Xo Communications Operations by walking which takes 0-10 minutes.",
+    "On 17:45, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:35, I want to shop, I go to GUESS by private_auto which takes 10-20 minutes.",
+    "On 22:20, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

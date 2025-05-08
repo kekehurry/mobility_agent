@@ -1,0 +1,138 @@
+{
+  "profile": "{\"name\": \"James Serrano\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelor_degree\", \"household_size\": 3, \"household_income\": \"100k-149k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 1.350734201817927,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Violette Gluten Free Bakery",
+        "distance_km": 0.5953722630070334,
+        "coordinates": [
+          "42.38598",
+          "-71.119624"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 1.350734201817927,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shama Yoga",
+        "distance_km": 0.6236717275129322,
+        "coordinates": [
+          "42.383673",
+          "-71.134043"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 1.350734201817927,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Brickworks Condominiums",
+        "distance_km": 1.1160302046536337,
+        "coordinates": [
+          "42.392231",
+          "-71.136613"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.385303954685,
+          -71.126796156394
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.385303954685,
+        -71.126796156394
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:10, I want to shop, I go to Wholesome Fresh by walking which takes 0-10 minutes.",
+    "On 10:00, I want to eat, I go to Violette Gluten Free Bakery by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to shop, I go to Wholesome Fresh by walking which takes  minutes.",
+    "On 14:00, I want to recreation, I go to Shama Yoga by private_auto which takes 0-10 minutes.",
+    "On 16:30, I want to shop, I go to Wholesome Fresh by private_auto which takes  minutes.",
+    "On 17:45, I want to social, I go to Brickworks Condominiums by walking which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

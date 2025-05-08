@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Laurie Castillo\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Automatic Food & Drink",
+        "distance_km": 1.5443983406060402,
+        "coordinates": [
+          "42.366663",
+          "-71.092562"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "SalsaBoston Entertainment",
+        "distance_km": 0.5008693745881958,
+        "coordinates": [
+          "42.358545",
+          "-71.114815"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Automatic Food & Drink",
+        "distance_km": 1.5443983406060402,
+        "coordinates": [
+          "42.366663",
+          "-71.092562"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vermas Market",
+        "distance_km": 0.8731474229598492,
+        "coordinates": [
+          "42.368025",
+          "-71.108279"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Automatic Food & Drink",
+        "distance_km": 1.5443983406060402,
+        "coordinates": [
+          "42.366663",
+          "-71.092562"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Sushi Gourmet",
+        "distance_km": 0.4043903991768803,
+        "coordinates": [
+          "42.360984",
+          "-71.113946"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36019138821631,
+          -71.1091549937503
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Willis Moore Youth Center",
+        "distance_km": 0.4700753194993497,
+        "coordinates": [
+          "42.364123",
+          "-71.111266"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36019138821631,
+          -71.1091549937503
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36019138821631,
+        -71.1091549937503
+      ]
+    },
+    "work": {
+      "name": "The Automatic Food & Drink",
+      "coordinates": [
+        "42.366663",
+        "-71.092562"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to The Automatic Food & Drink by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to SalsaBoston Entertainment by auto_passenger which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to The Automatic Food & Drink by walking which takes 10-20 minutes.",
+    "On 14:00, I want to shop, I go to Vermas Market by auto_passenger which takes 0-10 minutes.",
+    "On 16:30, I want to work, I go to The Automatic Food & Drink by walking which takes 10-20 minutes.",
+    "On 17:30, I want to eat, I go to Sushi Gourmet by auto_passenger which takes 0-10 minutes.",
+    "On 18:30, I want to home, I go to home by auto_passenger which takes  minutes.",
+    "On 19:00, I want to recreation, I go to Willis Moore Youth Center by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

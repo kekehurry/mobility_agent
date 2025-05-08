@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Jeffrey Chaney\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"25k-50k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Koreana",
+        "distance_km": 0.3994918201913672,
+        "coordinates": [
+          "42.36908",
+          "-71.100912"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ole to Go",
+        "distance_km": 0.39612537291863004,
+        "coordinates": [
+          "42.374071",
+          "-71.100144"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She's not coming back"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 0.8182039747444428,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "MIT Wong Auditorium",
+        "distance_km": 2.0371266559296513,
+        "coordinates": [
+          "42.360637",
+          "-71.084414"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "biking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 1.8677941404631526,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37188631223142,
+          -71.10394520696332
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 1.074624731433845,
+        "coordinates": [
+          "42.363793",
+          "-71.096798"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.7740152530701327,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37188631223142,
+          -71.10394520696332
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37188631223142,
+        -71.10394520696332
+      ]
+    },
+    "work": {
+      "name": "Koreana",
+      "coordinates": [
+        "42.36908",
+        "-71.100912"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Koreana by private_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Ole to Go by walking which takes 10-20 minutes.",
+    "On 12:30, I want to shop, I go to Deep Thoughts Cambridge by walking which takes She's not coming back minutes.",
+    "On 14:00, I want to social, I go to MIT Wong Auditorium by biking which takes 10-20 minutes.",
+    "On 15:00, I want to maintenance, I go to Nick's Magazine Auto R by biking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Newtowne Variety by walking which takes 10-20 minutes.",
+    "On 18:30, I want to shop, I go to Shalimar India Food & Spices by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

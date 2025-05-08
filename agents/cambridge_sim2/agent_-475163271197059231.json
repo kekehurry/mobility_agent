@@ -1,0 +1,205 @@
+{
+  "profile": "{\"name\": \"Tina Smith\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Community Charter School Of Cambridge",
+        "distance_km": 2.5310409591396863,
+        "coordinates": [
+          "42.367721",
+          "-71.085187"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 2.7914563519697313,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Swissbakers",
+        "distance_km": 0.3114275380056405,
+        "coordinates": [
+          "42.37252",
+          "-71.11871"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Community Charter School Of Cambridge",
+        "distance_km": 2.5310409591396863,
+        "coordinates": [
+          "42.367721",
+          "-71.085187"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.113906245617842,
+        "coordinates": [
+          "42.360963",
+          "-71.11393"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37091307953637,
+          -71.1156116963722
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Hult International Business School",
+        "distance_km": 3.705039258477812,
+        "coordinates": [
+          "42.36979",
+          "-71.070656"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Jose's Mexican Food Truck",
+        "distance_km": 2.6259436935091442,
+        "coordinates": [
+          "42.361124",
+          "-71.086595"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 1.108720889707696,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37091307953637,
+          -71.1156116963722
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37091307953637,
+        -71.1156116963722
+      ]
+    },
+    "work": {
+      "name": "Community Charter School Of Cambridge",
+      "coordinates": [
+        "42.367721",
+        "-71.085187"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Hult International Business School",
+      "coordinates": [
+        "42.36979",
+        "-71.070656"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:00, I want to work, I go to Community Charter School Of Cambridge by public_transit which takes 20-30 minutes.",
+    "On 10:00, I want to social, I go to One Broadway by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Swissbakers by walking which takes 0-10 minutes.",
+    "On 13:00, I want to work, I go to Community Charter School Of Cambridge by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to shop, I go to Whole Foods Market by auto_passenger which takes 10-20 minutes.",
+    "On 16:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 17:00, I want to school, I go to Hult International Business School by private_auto which takes 20-30 minutes.",
+    "On 18:00, I want to eat, I go to Jose's Mexican Food Truck by private_auto which takes 20-30 minutes.",
+    "On 19:00, I want to social, I go to Wellmet Project by auto_passenger which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

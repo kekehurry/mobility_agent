@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Katie Jordan\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:58",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Vassal Lane Upper School",
+        "distance_km": 1.1656440911392403,
+        "coordinates": [
+          "42.384232",
+          "-71.139603"
+        ]
+      }
+    },
+    {
+      "start_time": "13:53",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3909660528289,
+          -71.1287467194919
+        ]
+      }
+    },
+    {
+      "start_time": "14:03",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ullian B Robt MD",
+        "distance_km": 1.8772551111887537,
+        "coordinates": [
+          "42.37444",
+          "-71.133515"
+        ]
+      }
+    },
+    {
+      "start_time": "14:40",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3909660528289,
+          -71.1287467194919
+        ]
+      }
+    },
+    {
+      "start_time": "15:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.8722649747243882,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "15:12",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "..."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3909660528289,
+          -71.1287467194919
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "HealthAF",
+        "distance_km": 0.8405538983170604,
+        "coordinates": [
+          "42.388886",
+          "-71.118932"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3909660528289,
+          -71.1287467194919
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Elephant Walk",
+        "distance_km": 0.4934421072793071,
+        "coordinates": [
+          "42.391465",
+          "-71.122792"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3909660528289,
+          -71.1287467194919
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3909660528289,
+        -71.1287467194919
+      ]
+    },
+    "school": {
+      "name": "Vassal Lane Upper School",
+      "coordinates": [
+        "42.384232",
+        "-71.139603"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:58, I want to school, I go to Vassal Lane Upper School by walking which takes 10-20 minutes.",
+    "On 13:53, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 14:03, I want to recreation, I go to Ullian B Robt MD by auto_passenger which takes 10-20 minutes.",
+    "On 14:40, I want to home, I go to home by walking which takes  minutes.",
+    "On 15:05, I want to shop, I go to Star Market by walking which takes  minutes.",
+    "On 15:12, I want to home, I go to home by walking which takes ... minutes.",
+    "On 15:30, I want to recreation, I go to HealthAF by walking which takes  minutes.",
+    "On 15:55, I want to home, I go to home by walking which takes  minutes.",
+    "On 18:15, I want to eat, I go to The Elephant Walk by walking which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes  minutes."
+  ]
+}

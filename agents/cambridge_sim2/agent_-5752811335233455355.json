@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Anthony Singleton\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "biking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Landmark Theaters",
+        "distance_km": 0.2987228305177942,
+        "coordinates": [
+          "42.367319",
+          "-71.090109"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Putnam Avenue Upper School",
+        "distance_km": 0.3512260378032738,
+        "coordinates": [
+          "42.369516",
+          "-71.08718"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kantipur Cafe",
+        "distance_km": 0.3820796791931955,
+        "coordinates": [
+          "42.369953",
+          "-71.096059"
+        ]
+      }
+    },
+    {
+      "start_time": "12:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gold Star Pool",
+        "distance_km": 0.1915411528023652,
+        "coordinates": [
+          "42.371424",
+          "-71.090552"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "H Mart",
+        "distance_km": 1.0281881094370766,
+        "coordinates": [
+          "42.365289",
+          "-71.102304"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "school",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Putnam Avenue Upper School",
+        "distance_km": 0.3512260378032738,
+        "coordinates": [
+          "42.369516",
+          "-71.08718"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 0.3229825505107216,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cafe Kiraz",
+        "distance_km": 0.3832972760261241,
+        "coordinates": [
+          "42.369968",
+          "-71.096073"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3698253505816,
+          -71.09142357322168
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3698253505816,
+        -71.09142357322168
+      ]
+    },
+    "work": {
+      "name": "Landmark Theaters",
+      "coordinates": [
+        "42.367319",
+        "-71.090109"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Putnam Avenue Upper School",
+      "coordinates": [
+        "42.369516",
+        "-71.08718"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Landmark Theaters by biking which takes 0-10 minutes.",
+    "On 08:15, I want to school, I go to Putnam Avenue Upper School by private_auto which takes 0-10 minutes.",
+    "On 11:30, I want to eat, I go to Kantipur Cafe by private_auto which takes 0-10 minutes.",
+    "On 12:15, I want to recreation, I go to Gold Star Pool by walking which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to H Mart by private_auto which takes  minutes.",
+    "On 16:30, I want to school, I go to Putnam Avenue Upper School by private_auto which takes 0-10 minutes.",
+    "On 18:00, I want to shop, I go to Formaggio Kitchen by private_auto which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Cafe Kiraz by private_auto which takes 0-10 minutes.",
+    "On 20:30, I want to home, I go to home by private_auto which takes  minutes."
+  ]
+}

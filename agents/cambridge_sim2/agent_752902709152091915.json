@@ -1,0 +1,121 @@
+{
+  "profile": "{\"name\": \"Brandi Curtis\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelor's\", \"household_size\": 4, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "14:00",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "C L M Inc",
+        "distance_km": 0.7353898768671584,
+        "coordinates": [
+          "42.373595",
+          "-71.09474"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 2.407203586170765,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "16:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36703970402778,
+          -71.09349162468757
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newtowne Variety",
+        "distance_km": 0.4551349898961273,
+        "coordinates": [
+          "42.363767",
+          "-71.096816"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Bachata Room",
+        "distance_km": 0.758268772073117,
+        "coordinates": [
+          "42.36342",
+          "-71.101296"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36703970402778,
+          -71.09349162468757
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36703970402778,
+        -71.09349162468757
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 14:00, I want to maintenance, I go to C L M Inc by private_auto which takes 10-20 minutes.",
+    "On 15:30, I want to shop, I go to Market In the Square by private_auto which takes 10-20 minutes.",
+    "On 16:15, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 17:45, I want to eat, I go to Newtowne Variety by walking which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to Bachata Room by walking which takes 10-20 minutes.",
+    "On 20:30, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

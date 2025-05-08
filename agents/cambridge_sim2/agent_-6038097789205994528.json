@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Max Reed\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 3, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "McCabe's Bar and Grille",
+        "distance_km": 0.18411446528388695,
+        "coordinates": [
+          "42.390956",
+          "-71.122877"
+        ]
+      }
+    },
+    {
+      "start_time": "12:27",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.391752957205284,
+          -71.12483755858212
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Tsaparlis Nicholas M MD",
+        "distance_km": 2.563618903021934,
+        "coordinates": [
+          "42.374491",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "14:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.9746923479053589,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.5765139400874064,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 0.49084763725767244,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "17:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.5765139400874064,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.391752957205284,
+          -71.12483755858212
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.391752957205284,
+        -71.12483755858212
+      ]
+    },
+    "work": {
+      "name": "McCabe's Bar and Grille",
+      "coordinates": [
+        "42.390956",
+        "-71.122877"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to McCabe's Bar and Grille by on_demand_auto which takes 0-10 minutes.",
+    "On 12:27, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 13:15, I want to recreation, I go to Tsaparlis Nicholas M MD by private_auto which takes 10-20 minutes.",
+    "On 14:15, I want to social, I go to Trinity Property Management by private_auto which takes 10-20 minutes.",
+    "On 15:45, I want to shop, I go to Star Market by walking which takes 10-20 minutes.",
+    "On 16:45, I want to eat, I go to Frank's Steak House by walking which takes 0-10 minutes.",
+    "On 17:15, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 19:15, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

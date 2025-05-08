@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Kenneth Mclean\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Fitzgerald & Favorat PC",
+        "distance_km": 0.21120859735733438,
+        "coordinates": [
+          "42.397621",
+          "-71.130185"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Alewife Cafe",
+        "distance_km": 0.7708966491894845,
+        "coordinates": [
+          "42.398487",
+          "-71.139892"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Amaral Group",
+        "distance_km": 0.26507650250203924,
+        "coordinates": [
+          "42.39712",
+          "-71.130299"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39949386513566,
+          -71.13062770715558
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.7499258979105616,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Joe Sent Me",
+        "distance_km": 0.3043437932428759,
+        "coordinates": [
+          "42.396805",
+          "-71.129918"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "St Peters Field",
+        "distance_km": 1.4340055695364675,
+        "coordinates": [
+          "42.386647",
+          "-71.132342"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39949386513566,
+          -71.13062770715558
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39949386513566,
+        -71.13062770715558
+      ]
+    },
+    "work": {
+      "name": "Fitzgerald & Favorat PC",
+      "coordinates": [
+        "42.397621",
+        "-71.130185"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to Fitzgerald & Favorat PC by walking which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to Alewife Cafe by private_auto which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to The Amaral Group by walking which takes 0-10 minutes.",
+    "On 16:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 18:00, I want to shop, I go to Pemberton Farms by walking which takes  minutes.",
+    "On 19:00, I want to eat, I go to Joe Sent Me by on_demand_auto which takes 0-10 minutes.",
+    "On 20:00, I want to recreation, I go to St Peters Field by private_auto which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

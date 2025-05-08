@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Brian Hernandez\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor_s_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:40",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "McGinn Law",
+        "distance_km": 0.4542559005675987,
+        "coordinates": [
+          "42.385417",
+          "-71.119634"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Friendly Corner Convenience Store",
+        "distance_km": 1.990411894981347,
+        "coordinates": [
+          "42.397391",
+          "-71.130688"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Abbey",
+        "distance_km": 0.424122052586466,
+        "coordinates": [
+          "42.385103",
+          "-71.119129"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38133463519563,
+          -71.11995790308964
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.9529577206045764,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hollis Hall",
+        "distance_km": 0.7598638711497705,
+        "coordinates": [
+          "42.375248",
+          "-71.115747"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38133463519563,
+          -71.11995790308964
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 0.6864018946344473,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "21:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38133463519563,
+          -71.11995790308964
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38133463519563,
+        -71.11995790308964
+      ]
+    },
+    "work": {
+      "name": "McGinn Law",
+      "coordinates": [
+        "42.385417",
+        "-71.119634"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:40, I want to work, I go to McGinn Law by walking which takes 10-20 minutes.",
+    "On 11:00, I want to shop, I go to Friendly Corner Convenience Store by on_demand_auto which takes 10-20 minutes.",
+    "On 12:30, I want to eat, I go to The Abbey by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 15:30, I want to shop, I go to Newbury Comics by private_auto which takes 0-10 minutes.",
+    "On 17:00, I want to social, I go to Hollis Hall by walking which takes 10-20 minutes.",
+    "On 18:30, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 20:00, I want to recreation, I go to Harvard Yard by private_auto which takes 0-10 minutes.",
+    "On 21:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Elizabeth Miller\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:50",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Matignon High School",
+        "distance_km": 2.5712358662940127,
+        "coordinates": [
+          "42.401313",
+          "-71.131348"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Atomic Bean Cafe",
+        "distance_km": 2.703226232205661,
+        "coordinates": [
+          "42.368137",
+          "-71.108617"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Matignon High School",
+        "distance_km": 2.5712358662940127,
+        "coordinates": [
+          "42.401313",
+          "-71.131348"
+        ]
+      }
+    },
+    {
+      "start_time": "15:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.6721977176070335,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rubenstein Sidney C MD",
+        "distance_km": 0.5918778747440971,
+        "coordinates": [
+          "42.374225",
+          "-71.134319"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Atomic Bean Cafe",
+        "distance_km": 2.703226232205661,
+        "coordinates": [
+          "42.368137",
+          "-71.108617"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "She's already used public transit for similar trips, so this is a likely continuation."
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.378724480314155,
+          -71.13816841371708
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.5315536221184054,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.378724480314155,
+        -71.13816841371708
+      ]
+    },
+    "work": {
+      "name": "Matignon High School",
+      "coordinates": [
+        "42.401313",
+        "-71.131348"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:50, I want to work, I go to Matignon High School by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Atomic Bean Cafe by public_transit which takes 20-30 minutes.",
+    "On 13:30, I want to work, I go to Matignon High School by public_transit which takes 20-30 minutes.",
+    "On 15:30, I want to shop, I go to Stereo Lab by walking which takes 0-10 minutes.",
+    "On 16:30, I want to recreation, I go to Rubenstein Sidney C MD by walking which takes 0-10 minutes.",
+    "On 18:00, I want to eat, I go to Atomic Bean Cafe by public_transit which takes 20-30 minutes.",
+    "On 18:30, I want to home, I go to home by public_transit which takes She's already used public transit for similar trips, so this is a likely continuation. minutes.",
+    "On 20:00, I want to social, I go to Trinity Property Management by walking which takes 0-10 minutes."
+  ]
+}

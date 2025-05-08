@@ -1,0 +1,188 @@
+{
+  "profile": "{\"name\": \"Michael Middleton\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:52",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.6174154832921142,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wellmet Project",
+        "distance_km": 0.9630035654394895,
+        "coordinates": [
+          "42.365907",
+          "-71.103967"
+        ]
+      }
+    },
+    {
+      "start_time": "12:23",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Scalable Display Technology",
+        "distance_km": 0.942373951460119,
+        "coordinates": [
+          "42.365903",
+          "-71.105144"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cambridge Rindge And Latin",
+        "distance_km": 0.3800093637596691,
+        "coordinates": [
+          "42.374469",
+          "-71.111674"
+        ]
+      }
+    },
+    {
+      "start_time": "16:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "She is 10-20"
+      },
+      "destination": {
+        "name": "Dado Tea",
+        "distance_km": 0.6174154832921142,
+        "coordinates": [
+          "42.369111",
+          "-71.109872"
+        ]
+      }
+    },
+    {
+      "start_time": "17:48",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Druid",
+        "distance_km": 0.571789514912778,
+        "coordinates": [
+          "42.373813",
+          "-71.100153"
+        ]
+      }
+    },
+    {
+      "start_time": "18:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Brookfield Factory Outlet Store",
+        "distance_km": 1.0647091242176818,
+        "coordinates": [
+          "42.372779",
+          "-71.094298"
+        ]
+      }
+    },
+    {
+      "start_time": "20:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Film Archive",
+        "distance_km": 0.5954228908870026,
+        "coordinates": [
+          "42.373597",
+          "-71.114241"
+        ]
+      }
+    },
+    {
+      "start_time": "21:20",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37426584018996,
+          -71.10706832758828
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37426584018996,
+        -71.10706832758828
+      ]
+    },
+    "work": {
+      "name": "Dado Tea",
+      "coordinates": [
+        "42.369111",
+        "-71.109872"
+      ],
+      "category": ""
+    },
+    "school": {
+      "name": "Cambridge Rindge And Latin",
+      "coordinates": [
+        "42.374469",
+        "-71.111674"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:52, I want to work, I go to Dado Tea by walking which takes 10-20 minutes.",
+    "On 11:55, I want to social, I go to Wellmet Project by walking which takes 10-20 minutes.",
+    "On 12:23, I want to shop, I go to Scalable Display Technology by walking which takes 10-20 minutes.",
+    "On 14:00, I want to school, I go to Cambridge Rindge And Latin by walking which takes 10-20 minutes.",
+    "On 16:45, I want to work, I go to Dado Tea by walking which takes She is 10-20 minutes.",
+    "On 17:48, I want to eat, I go to The Druid by walking which takes  minutes.",
+    "On 18:20, I want to shop, I go to Brookfield Factory Outlet Store by walking which takes  minutes.",
+    "On 20:30, I want to recreation, I go to Harvard Film Archive by walking which takes 10-20 minutes.",
+    "On 21:20, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

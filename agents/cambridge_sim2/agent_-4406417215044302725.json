@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Jordan Jordan\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ahern Field",
+        "distance_km": 0.3208171354414747,
+        "coordinates": [
+          "42.36864",
+          "-71.08649"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "The Friendly Toast Cambridge",
+        "distance_km": 0.40728347554722283,
+        "coordinates": [
+          "42.366198",
+          "-71.090669"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Sound Lion",
+        "distance_km": 2.58007342571781,
+        "coordinates": [
+          "42.373568",
+          "-71.120953"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "Heading to a nearby park or recreational area"
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 0.5304802822723733,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ahern Field",
+        "distance_km": 0.3208171354414747,
+        "coordinates": [
+          "42.36864",
+          "-71.08649"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Blue Room",
+        "distance_km": 0.3817378122698109,
+        "coordinates": [
+          "42.366449",
+          "-71.090833"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 2.5629410173097424,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Xo Communications Operations",
+        "distance_km": 0.20194358099323423,
+        "coordinates": [
+          "42.369378",
+          "-71.087663"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.3698344078341,
+          -71.0900361591713
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.3698344078341,
+        -71.0900361591713
+      ]
+    },
+    "work": {
+      "name": "Ahern Field",
+      "coordinates": [
+        "42.36864",
+        "-71.08649"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to Ahern Field by on_demand_auto which takes 0-10 minutes.",
+    "On 12:00, I want to eat, I go to The Friendly Toast Cambridge by walking which takes 10-20 minutes.",
+    "On 12:30, I want to shop, I go to Sound Lion by walking which takes 20-30 minutes.",
+    "On 15:00, I want to recreation, I go to Greene Rose Heritage Park by walking which takes Heading to a nearby park or recreational area minutes.",
+    "On 17:30, I want to work, I go to Ahern Field by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to The Blue Room by auto_passenger which takes 0-10 minutes.",
+    "On 18:30, I want to social, I go to Trinity Property Management by private_auto which takes 10-20 minutes.",
+    "On 19:30, I want to shop, I go to Xo Communications Operations by private_auto which takes 0-10 minutes.",
+    "On 22:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

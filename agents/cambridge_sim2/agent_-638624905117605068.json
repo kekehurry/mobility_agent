@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Misty Schmidt\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:26",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Bombay Club",
+        "distance_km": 0.18755609826780184,
+        "coordinates": [
+          "42.371581",
+          "-71.123624"
+        ]
+      }
+    },
+    {
+      "start_time": "11:45",
+      "desire": "eat",
+      "transportation": {
+        "mode": "biking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Simon's Coffee Shop",
+        "distance_km": 1.6545478201423907,
+        "coordinates": [
+          "42.384488",
+          "-71.11983"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "math.random() * 5 + 5"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36991070444918,
+          -71.1239571977955
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rakuten USA",
+        "distance_km": 0.2657746324653311,
+        "coordinates": [
+          "42.37229",
+          "-71.123617"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Veggie Grill",
+        "distance_km": 0.346493340870675,
+        "coordinates": [
+          "42.372002",
+          "-71.120836"
+        ]
+      }
+    },
+    {
+      "start_time": "19:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 0.5575894128947343,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36991070444918,
+          -71.1239571977955
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36991070444918,
+        -71.1239571977955
+      ]
+    },
+    "work": {
+      "name": "Bombay Club",
+      "coordinates": [
+        "42.371581",
+        "-71.123624"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:26, I want to work, I go to Bombay Club by walking which takes 0-10 minutes.",
+    "On 11:45, I want to eat, I go to Simon's Coffee Shop by biking which takes  minutes.",
+    "On 13:30, I want to home, I go to home by walking which takes math.random() * 5 + 5 minutes.",
+    "On 15:15, I want to shop, I go to Rakuten USA by walking which takes 0-10 minutes.",
+    "On 18:15, I want to eat, I go to Veggie Grill by on_demand_auto which takes 10-20 minutes.",
+    "On 19:15, I want to social, I go to Trinity Property Management by walking which takes 0-10 minutes.",
+    "On 20:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

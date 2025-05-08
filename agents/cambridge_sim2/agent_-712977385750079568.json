@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Matthew Wilson\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "D&R Construction",
+        "distance_km": 1.238217880845427,
+        "coordinates": [
+          "42.369534",
+          "-71.091069"
+        ]
+      }
+    },
+    {
+      "start_time": "09:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Greenman Deborah MD",
+        "distance_km": 0.4689627427830634,
+        "coordinates": [
+          "42.367866",
+          "-71.107451"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Happy Lamb Hot Pot",
+        "distance_km": 0.25283776367406313,
+        "coordinates": [
+          "42.364142",
+          "-71.101297"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.7496880010348665,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.3320750944633068,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.364322231423344,
+          -71.1043566537136
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "O2 Yoga Studio Cambridge",
+        "distance_km": 0.8180786356003348,
+        "coordinates": [
+          "42.369561",
+          "-71.111337"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.364322231423344,
+          -71.1043566537136
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.364322231423344,
+        -71.1043566537136
+      ]
+    },
+    "work": {
+      "name": "Greenman Deborah MD",
+      "coordinates": [
+        "42.367866",
+        "-71.107451"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:30, I want to social, I go to D&R Construction by walking which takes 0-10 minutes.",
+    "On 09:00, I want to work, I go to Greenman Deborah MD by private_auto which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Happy Lamb Hot Pot by walking which takes 0-10 minutes.",
+    "On 13:00, I want to shop, I go to Market In the Square by private_auto which takes 10-20 minutes.",
+    "On 16:00, I want to social, I go to Central House by walking which takes 0-10 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 19:30, I want to recreation, I go to O2 Yoga Studio Cambridge by public_transit which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

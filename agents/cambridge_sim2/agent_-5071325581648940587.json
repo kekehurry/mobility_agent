@@ -1,0 +1,248 @@
+{
+  "profile": "{\"name\": \"Stephen Perez\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Veggie Planet",
+        "distance_km": 2.504771610328562,
+        "coordinates": [
+          "42.373944",
+          "-71.119578"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.44918659802431066,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "09:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "She takes 10-20 minutes."
+      },
+      "destination": {
+        "name": "Veggie Planet",
+        "distance_km": 2.504771610328562,
+        "coordinates": [
+          "42.373944",
+          "-71.119578"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.44918659802431066,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Anna's Taqueria",
+        "distance_km": 1.6226212096378911,
+        "coordinates": [
+          "42.388454",
+          "-71.118574"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392072579957976,
+          -71.13766554084087
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "United American Veterans Post 30",
+        "distance_km": 0.816760759113611,
+        "coordinates": [
+          "42.397642",
+          "-71.131189"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "In Your Ear Records",
+        "distance_km": 2.7641556198379114,
+        "coordinates": [
+          "42.371702",
+          "-71.118388"
+        ]
+      }
+    },
+    {
+      "start_time": "17:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Veggie Planet",
+        "distance_km": 2.504771610328562,
+        "coordinates": [
+          "42.373944",
+          "-71.119578"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Anna's Taqueria",
+        "distance_km": 1.6226212096378911,
+        "coordinates": [
+          "42.388454",
+          "-71.118574"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392072579957976,
+          -71.13766554084087
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "other_activities",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Maharaja Restaurant",
+        "distance_km": 1.1712875754054144,
+        "coordinates": [
+          "42.391279",
+          "-71.123481"
+        ]
+      }
+    },
+    {
+      "start_time": "22:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.392072579957976,
+          -71.13766554084087
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.392072579957976,
+        -71.13766554084087
+      ]
+    },
+    "work": {
+      "name": "Veggie Planet",
+      "coordinates": [
+        "42.373944",
+        "-71.119578"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to work, I go to Veggie Planet by private_auto which takes 10-20 minutes.",
+    "On 08:00, I want to shop, I go to Whole Foods Market by walking which takes 10-20 minutes.",
+    "On 09:10, I want to work, I go to Veggie Planet by private_auto which takes She takes 10-20 minutes. minutes.",
+    "On 11:00, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to Anna's Taqueria by private_auto which takes 10-20 minutes.",
+    "On 13:30, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 15:00, I want to recreation, I go to United American Veterans Post 30 by walking which takes 10-20 minutes.",
+    "On 16:30, I want to shop, I go to In Your Ear Records by private_auto which takes 10-20 minutes.",
+    "On 17:45, I want to work, I go to Veggie Planet by private_auto which takes 10-20 minutes.",
+    "On 18:30, I want to eat, I go to Anna's Taqueria by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to other_activities, I go to Maharaja Restaurant by private_auto which takes 10-20 minutes.",
+    "On 22:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

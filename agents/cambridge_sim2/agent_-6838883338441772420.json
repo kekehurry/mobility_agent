@@ -1,0 +1,231 @@
+{
+  "profile": "{\"name\": \"Lori Burns\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"k_12\", \"household_size\": 4, \"household_income\": \"Under 25k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:42",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Charlotte Huguenor Santana Properties Team",
+        "distance_km": 1.1293064659718737,
+        "coordinates": [
+          "42.390218",
+          "-71.140672"
+        ]
+      }
+    },
+    {
+      "start_time": "11:17",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Inner Strength Fitness",
+        "distance_km": 0.2514597524912557,
+        "coordinates": [
+          "42.397124",
+          "-71.130305"
+        ]
+      }
+    },
+    {
+      "start_time": "11:58",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.0356005706859586,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "12:53",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "ONO Pokebar",
+        "distance_km": 0.9786335119855312,
+        "coordinates": [
+          "42.389397",
+          "-71.11976"
+        ]
+      }
+    },
+    {
+      "start_time": "13:22",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rindge Avenue Upper School",
+        "distance_km": 0.31635201944760855,
+        "coordinates": [
+          "42.39238",
+          "-71.128111"
+        ]
+      }
+    },
+    {
+      "start_time": "14:42",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Maharaja Restaurant",
+        "distance_km": 0.6119422065249983,
+        "coordinates": [
+          "42.391279",
+          "-71.123481"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395192989639554,
+          -71.12871109367293
+        ]
+      }
+    },
+    {
+      "start_time": "16:33",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Mavis Tires & Brakes",
+        "distance_km": 0.5563697378199152,
+        "coordinates": [
+          "42.399464",
+          "-71.132241"
+        ]
+      }
+    },
+    {
+      "start_time": "17:35",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Maharaja Restaurant",
+        "distance_km": 0.6119433653982934,
+        "coordinates": [
+          "42.391279",
+          "-71.123481"
+        ]
+      }
+    },
+    {
+      "start_time": "18:12",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pemberton Farms",
+        "distance_km": 0.292372074532002,
+        "coordinates": [
+          "42.393828",
+          "-71.125675"
+        ]
+      }
+    },
+    {
+      "start_time": "18:50",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395192989639554,
+          -71.12871109367293
+        ]
+      }
+    },
+    {
+      "start_time": "22:33",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.395192989639554,
+          -71.12871109367293
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.395192989639554,
+        -71.12871109367293
+      ]
+    },
+    "school": {
+      "name": "Rindge Avenue Upper School",
+      "coordinates": [
+        "42.39238",
+        "-71.128111"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:42, I want to social, I go to Charlotte Huguenor Santana Properties Team by walking which takes 0-10 minutes.",
+    "On 11:17, I want to recreation, I go to Inner Strength Fitness by walking which takes 0-10 minutes.",
+    "On 11:58, I want to shop, I go to Star Market by walking which takes 0-10 minutes.",
+    "On 12:53, I want to eat, I go to ONO Pokebar by walking which takes  minutes.",
+    "On 13:22, I want to school, I go to Rindge Avenue Upper School by walking which takes 0-10 minutes.",
+    "On 14:42, I want to eat, I go to Maharaja Restaurant by walking which takes 0-10 minutes.",
+    "On 15:55, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 16:33, I want to maintenance, I go to Mavis Tires & Brakes by walking which takes 0-10 minutes.",
+    "On 17:35, I want to eat, I go to Maharaja Restaurant by walking which takes 0-10 minutes.",
+    "On 18:12, I want to shop, I go to Pemberton Farms by walking which takes 0-10 minutes.",
+    "On 18:50, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 22:33, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

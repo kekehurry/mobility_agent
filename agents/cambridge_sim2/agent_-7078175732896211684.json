@@ -1,0 +1,197 @@
+{
+  "profile": "{\n  \"name\": \"Angela Rodriguez\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 35,\n  \"gender\": \"female\",\n  \"employment_status\": \"employed\",\n  \"education\": \"bachelor's\",\n  \"household_size\": 1,\n  \"household_income\": \"150k+\",\n  \"available_vehicles\": 2\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:46",
+      "desire": "social",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Trinity Property Management",
+        "distance_km": 1.404917071167378,
+        "coordinates": [
+          "42.374259",
+          "-71.120575"
+        ]
+      }
+    },
+    {
+      "start_time": "08:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Masscraft Masonry & Construction",
+        "distance_km": 1.3650621346189828,
+        "coordinates": [
+          "42.395211",
+          "-71.129748"
+        ]
+      }
+    },
+    {
+      "start_time": "10:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Amaral Group",
+        "distance_km": 1.5676294684693515,
+        "coordinates": [
+          "42.39712",
+          "-71.130299"
+        ]
+      }
+    },
+    {
+      "start_time": "11:23",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Taqueria",
+        "distance_km": 0.9778914322344661,
+        "coordinates": [
+          "42.389218",
+          "-71.141312"
+        ]
+      }
+    },
+    {
+      "start_time": "12:10",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Masscraft Masonry & Construction",
+        "distance_km": 1.3650621346189828,
+        "coordinates": [
+          "42.395211",
+          "-71.129748"
+        ]
+      }
+    },
+    {
+      "start_time": "16:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.9763825851729526,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "16:35",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Ninety Nine Restaurant & Pub",
+        "distance_km": 0.9970561277975533,
+        "coordinates": [
+          "42.388687",
+          "-71.142244"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Breathe Cambridge",
+        "distance_km": 1.577856810138581,
+        "coordinates": [
+          "42.372732",
+          "-71.119681"
+        ]
+      }
+    },
+    {
+      "start_time": "19:05",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.12890617988377448,
+        "coordinates": [
+          "42.382482",
+          "-71.131438"
+        ]
+      }
+    },
+    {
+      "start_time": "20:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38312415179221,
+          -71.13274181175058
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38312415179221,
+        -71.13274181175058
+      ]
+    },
+    "work": {
+      "name": "Masscraft Masonry & Construction",
+      "coordinates": [
+        "42.395211",
+        "-71.129748"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:46, I want to social, I go to Trinity Property Management by auto_passenger which takes 0-10 minutes.",
+    "On 08:15, I want to work, I go to Masscraft Masonry & Construction by private_auto which takes 0-10 minutes.",
+    "On 10:15, I want to shop, I go to The Amaral Group by auto_passenger which takes  minutes.",
+    "On 11:23, I want to eat, I go to Taqueria by private_auto which takes  minutes.",
+    "On 12:10, I want to work, I go to Masscraft Masonry & Construction by private_auto which takes 0-10 minutes.",
+    "On 16:10, I want to shop, I go to Whole Foods Market by auto_passenger which takes 0-10 minutes.",
+    "On 16:35, I want to eat, I go to Ninety Nine Restaurant & Pub by auto_passenger which takes 0-10 minutes.",
+    "On 17:30, I want to recreation, I go to Breathe Cambridge by private_auto which takes 10-20 minutes.",
+    "On 19:05, I want to eat, I go to Hi Rise Bread Company by private_auto which takes 0-10 minutes.",
+    "On 20:55, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

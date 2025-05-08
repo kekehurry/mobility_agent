@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Ronald Baker\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelor's degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:36",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "KAREN MACHELEDT MD",
+        "distance_km": 1.5257222984355046,
+        "coordinates": [
+          "42.359886",
+          "-71.101014"
+        ]
+      }
+    },
+    {
+      "start_time": "10:05",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Weirdo Records",
+        "distance_km": 1.2992421826976852,
+        "coordinates": [
+          "42.367226",
+          "-71.107143"
+        ]
+      }
+    },
+    {
+      "start_time": "10:50",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Beauty's Pizza",
+        "distance_km": 0.5342775475925167,
+        "coordinates": [
+          "42.372775",
+          "-71.099329"
+        ]
+      }
+    },
+    {
+      "start_time": "11:32",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "First Cambridge Realty Corporation",
+        "distance_km": 1.3450528695594135,
+        "coordinates": [
+          "42.368479",
+          "-71.108412"
+        ]
+      }
+    },
+    {
+      "start_time": "12:26",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 2.261726622471544,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": ""
+      },
+      "destination": {
+        "name": "KAREN MACHELEDT MD",
+        "distance_km": 1.5257222984355046,
+        "coordinates": [
+          "42.359886",
+          "-71.101014"
+        ]
+      }
+    },
+    {
+      "start_time": "18:05",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Clover Food Lab",
+        "distance_km": 0.20899559061109366,
+        "coordinates": [
+          "42.373154",
+          "-71.095093"
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "time_unknown"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 1.1215701525136557,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37222756559009,
+          -71.09288450854508
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37222756559009,
+        -71.09288450854508
+      ]
+    },
+    "work": {
+      "name": "KAREN MACHELEDT MD",
+      "coordinates": [
+        "42.359886",
+        "-71.101014"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:36, I want to work, I go to KAREN MACHELEDT MD by auto_passenger which takes 10-20 minutes.",
+    "On 10:05, I want to shop, I go to Weirdo Records by auto_passenger which takes 10-20 minutes.",
+    "On 10:50, I want to eat, I go to Beauty's Pizza by walking which takes  minutes.",
+    "On 11:32, I want to social, I go to First Cambridge Realty Corporation by private_auto which takes 0-10 minutes.",
+    "On 12:26, I want to shop, I go to Gap by auto_passenger which takes 10-20 minutes.",
+    "On 16:00, I want to work, I go to KAREN MACHELEDT MD by auto_passenger which takes  minutes.",
+    "On 18:05, I want to eat, I go to Clover Food Lab by private_auto which takes 0-10 minutes.",
+    "On 18:45, I want to shop, I go to Shalimar India Food & Spices by auto_passenger which takes time_unknown minutes.",
+    "On 20:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

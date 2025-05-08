@@ -1,0 +1,154 @@
+{
+  "profile": "{\"name\": \"Lisa Jones\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"some_college\", \"household_size\": 2, \"household_income\": \"50k-75k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Harvard Divinity School",
+        "distance_km": 0.5480208958197457,
+        "coordinates": [
+          "42.374182",
+          "-71.116059"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Weston Jesuit Community",
+        "distance_km": 0.3013237602317624,
+        "coordinates": [
+          "42.376839",
+          "-71.112161"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Chez Henri",
+        "distance_km": 0.5682356475006884,
+        "coordinates": [
+          "42.381831",
+          "-71.120148"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "White Hen Pantry",
+        "distance_km": 1.0827610801188847,
+        "coordinates": [
+          "42.387924",
+          "-71.119615"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Ullian B Robt MD",
+        "distance_km": 1.6501236452564583,
+        "coordinates": [
+          "42.37444",
+          "-71.133515"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "math.ceil(10 * random())"
+      },
+      "destination": {
+        "name": "Ramen O Bowl",
+        "distance_km": 0.5716756719416805,
+        "coordinates": [
+          "42.381964",
+          "-71.120074"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37896579302322,
+          -71.11443204339844
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37896579302322,
+        -71.11443204339844
+      ]
+    },
+    "school": {
+      "name": "Harvard Divinity School",
+      "coordinates": [
+        "42.374182",
+        "-71.116059"
+      ],
+      "category": ""
+    },
+    "work": {
+      "name": "Weston Jesuit Community",
+      "coordinates": [
+        "42.376839",
+        "-71.112161"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to school, I go to Harvard Divinity School by walking which takes 10-20 minutes.",
+    "On 10:00, I want to work, I go to Weston Jesuit Community by walking which takes  minutes.",
+    "On 12:30, I want to eat, I go to Chez Henri by walking which takes 0-10 minutes.",
+    "On 14:00, I want to shop, I go to White Hen Pantry by auto_passenger which takes 10-20 minutes.",
+    "On 16:00, I want to recreation, I go to Ullian B Robt MD by auto_passenger which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Ramen O Bowl by walking which takes math.ceil(10 * random()) minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

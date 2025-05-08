@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Robert Scott\", \"city\": \"Cambridge,MA\", \"age\": 25, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"Under 25k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. HAROLD BURSZTAJN MD",
+        "distance_km": 1.5152887123873673,
+        "coordinates": [
+          "42.37889",
+          "-71.146059"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-2,0"
+      },
+      "destination": {
+        "name": "Ana's Kitchen",
+        "distance_km": 0.41725759331188955,
+        "coordinates": [
+          "42.385967",
+          "-71.131135"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38912068043672,
+          -71.13388778609757
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "DR. HAROLD BURSZTAJN MD",
+        "distance_km": 1.5152887123873673,
+        "coordinates": [
+          "42.37889",
+          "-71.146059"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38912068043672,
+          -71.13388778609757
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.6188338003090635,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38912068043672,
+          -71.13388778609757
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38912068043672,
+        -71.13388778609757
+      ]
+    },
+    "work": {
+      "name": "DR. HAROLD BURSZTAJN MD",
+      "coordinates": [
+        "42.37889",
+        "-71.146059"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:30, I want to work, I go to DR. HAROLD BURSZTAJN MD by public_transit which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Ana's Kitchen by walking which takes 10-2,0 minutes.",
+    "On 12:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 15:00, I want to work, I go to DR. HAROLD BURSZTAJN MD by walking which takes  minutes.",
+    "On 17:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:00, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

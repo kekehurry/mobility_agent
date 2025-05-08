@@ -1,0 +1,44 @@
+{
+  "profile": "{\"name\": \"Elizabeth Thomas\", \"city\": \"Cambridge,MA\", \"age\": 76, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:06",
+      "desire": "school",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Haggerty",
+        "distance_km": 0.29547561413845763,
+        "coordinates": [
+          "42.378106",
+          "-71.152445"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38025137383717,
+        -71.15456605308557
+      ]
+    },
+    "school": {
+      "name": "Haggerty",
+      "coordinates": [
+        "42.378106",
+        "-71.152445"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:06, I want to school, I go to Haggerty by walking which takes 0-10 minutes."
+  ]
+}

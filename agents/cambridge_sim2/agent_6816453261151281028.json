@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Barbara Smith\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"Under 25k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.2902660914006573,
+        "coordinates": [
+          "42.372246",
+          "-71.07982"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Bayside Realty",
+        "distance_km": 1.9794896398469377,
+        "coordinates": [
+          "42.367459",
+          "-71.106609"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Pinball Over Boston",
+        "distance_km": 0.8301967527772631,
+        "coordinates": [
+          "42.366492",
+          "-71.090558"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "TopMac",
+        "distance_km": 0.2111529162400275,
+        "coordinates": [
+          "42.370887",
+          "-71.080891"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Apple Retail Store",
+        "distance_km": 0.7380917809657502,
+        "coordinates": [
+          "42.367972",
+          "-71.075772"
+        ]
+      }
+    },
+    {
+      "start_time": "16:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.2902660914006573,
+        "coordinates": [
+          "42.372246",
+          "-71.07982"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Lou's Place",
+        "distance_km": 0.343911400434197,
+        "coordinates": [
+          "42.37062",
+          "-71.079303"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Albert's Market",
+        "distance_km": 0.315551430325575,
+        "coordinates": [
+          "42.371765",
+          "-71.087074"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37163649293488,
+          -71.08324687312113
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37163649293488,
+        -71.08324687312113
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.372246",
+        "-71.07982"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 10:00, I want to social, I go to Bayside Realty by walking which takes  minutes.",
+    "On 11:30, I want to recreation, I go to Pinball Over Boston by walking which takes 0-10 minutes.",
+    "On 12:30, I want to eat, I go to TopMac by walking which takes 0-10 minutes.",
+    "On 13:30, I want to shop, I go to Apple Retail Store by private_auto which takes 0-10 minutes.",
+    "On 16:30, I want to work, I go to Dunkin' by walking which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Lou's Place by public_transit which takes 0-10 minutes.",
+    "On 18:30, I want to shop, I go to Albert's Market by public_transit which takes 0-10 minutes.",
+    "On 19:00, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

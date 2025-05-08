@@ -1,0 +1,129 @@
+{
+  "profile": "{\"name\": \"Sarah Wilson\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"retired\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:55",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 0.5762378581539299,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "08:35",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Nick's Magazine Auto R",
+        "distance_km": 0.5762378581539299,
+        "coordinates": [
+          "42.356844",
+          "-71.114078"
+        ]
+      }
+    },
+    {
+      "start_time": "11:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36186242923094,
+          -71.11230640100746
+        ]
+      }
+    },
+    {
+      "start_time": "12:55",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Yoga of Energy Flow",
+        "distance_km": 0.45120300008946296,
+        "coordinates": [
+          "42.358215",
+          "-71.109896"
+        ]
+      }
+    },
+    {
+      "start_time": "13:23",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Central House",
+        "distance_km": 0.7139625928847316,
+        "coordinates": [
+          "42.366759",
+          "-71.106692"
+        ]
+      }
+    },
+    {
+      "start_time": "15:55",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Q Audio",
+        "distance_km": 0.9023188669775445,
+        "coordinates": [
+          "42.36385",
+          "-71.101686"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36186242923094,
+        -71.11230640100746
+      ]
+    },
+    "work": {
+      "name": "Nick's Magazine Auto R",
+      "coordinates": [
+        "42.356844",
+        "-71.114078"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:55, I want to maintenance, I go to Nick's Magazine Auto R by private_auto which takes 0-10 minutes.",
+    "On 08:35, I want to work, I go to Nick's Magazine Auto R by private_auto which takes 0-10 minutes.",
+    "On 11:55, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 12:55, I want to recreation, I go to Yoga of Energy Flow by private_auto which takes 0-10 minutes.",
+    "On 13:23, I want to social, I go to Central House by private_auto which takes 0-10 minutes.",
+    "On 15:55, I want to shop, I go to Q Audio by private_auto which takes 0-10 minutes."
+  ]
+}

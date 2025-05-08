@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Tyler Price\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"100k-150k\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:15",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Greene Rose Heritage Park",
+        "distance_km": 0.6621924586267096,
+        "coordinates": [
+          "42.366683",
+          "-71.094875"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Tsaparlis Nicholas M MD",
+        "distance_km": 0.6633995456250356,
+        "coordinates": [
+          "42.374491",
+          "-71.104175"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372509258873784,
+          -71.09657692262441
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Cheapo Records",
+        "distance_km": 1.0354092900985297,
+        "coordinates": [
+          "42.364206",
+          "-71.102289"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372509258873784,
+          -71.09657692262441
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Barismo",
+        "distance_km": 0.6853074215556515,
+        "coordinates": [
+          "42.370467",
+          "-71.104428"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Society for Critical Aesthetics",
+        "distance_km": 1.3942781217995623,
+        "coordinates": [
+          "42.374585",
+          "-71.113272"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372509258873784,
+          -71.09657692262441
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372509258873784,
+        -71.09657692262441
+      ]
+    },
+    "work": {
+      "name": "Tsaparlis Nicholas M MD",
+      "coordinates": [
+        "42.374491",
+        "-71.104175"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:15, I want to recreation, I go to Greene Rose Heritage Park by private_auto which takes 0-10 minutes.",
+    "On 07:00, I want to work, I go to Tsaparlis Nicholas M MD by private_auto which takes  minutes.",
+    "On 12:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 17:30, I want to shop, I go to Cheapo Records by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 19:00, I want to eat, I go to Barismo by walking which takes  minutes.",
+    "On 20:00, I want to social, I go to Society for Critical Aesthetics by walking which takes 0-10 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

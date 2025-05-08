@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Dana Martinez\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. MARGARET MCLAUGHLIN MD",
+        "distance_km": 0.5021252730820132,
+        "coordinates": [
+          "42.373098",
+          "-71.106373"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Tavern in the Square",
+        "distance_km": 0.5383478420817275,
+        "coordinates": [
+          "42.365949",
+          "-71.105208"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. MARGARET MCLAUGHLIN MD",
+        "distance_km": 0.5021252730820132,
+        "coordinates": [
+          "42.373098",
+          "-71.106373"
+        ]
+      }
+    },
+    {
+      "start_time": "13:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.9070850846004651,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "14:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Tite's Tropical Mart",
+        "distance_km": 0.8210344697493279,
+        "coordinates": [
+          "42.366474",
+          "-71.100663"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "DR. MARGARET MCLAUGHLIN MD",
+        "distance_km": 0.5021252730820132,
+        "coordinates": [
+          "42.373098",
+          "-71.106373"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36937503669879,
+          -71.1098305971644
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Four Burgers",
+        "distance_km": 0.5439841646423108,
+        "coordinates": [
+          "42.365924",
+          "-71.105145"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.36937503669879,
+          -71.1098305971644
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.36937503669879,
+        -71.1098305971644
+      ]
+    },
+    "work": {
+      "name": "DR. MARGARET MCLAUGHLIN MD",
+      "coordinates": [
+        "42.373098",
+        "-71.106373"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:45, I want to work, I go to DR. MARGARET MCLAUGHLIN MD by walking which takes 10-20 minutes.",
+    "On 11:30, I want to eat, I go to Tavern in the Square by walking which takes  minutes.",
+    "On 12:00, I want to work, I go to DR. MARGARET MCLAUGHLIN MD by walking which takes 10-20 minutes.",
+    "On 13:00, I want to shop, I go to Newbury Comics by walking which takes 10-20 minutes.",
+    "On 14:30, I want to eat, I go to Tite's Tropical Mart by walking which takes  minutes.",
+    "On 15:00, I want to work, I go to DR. MARGARET MCLAUGHLIN MD by walking which takes 10-20 minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 19:00, I want to eat, I go to Four Burgers by private_auto which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

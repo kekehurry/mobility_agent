@@ -1,0 +1,155 @@
+{
+  "profile": "{\"name\": \"Scott Santos\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"male\", \"employment_status\": \"retired\", \"education\": \"bachelors_degree\", \"household_size\": 3, \"household_income\": \"100k-150k\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Genji Express",
+        "distance_km": 1.195681161865739,
+        "coordinates": [
+          "42.389201",
+          "-71.141301"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Thistle & Shamrock",
+        "distance_km": 1.587175038504229,
+        "coordinates": [
+          "42.38899",
+          "-71.124757"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Hi Rise Bread Company",
+        "distance_km": 0.692853917561729,
+        "coordinates": [
+          "42.382482",
+          "-71.131438"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Stereo Lab",
+        "distance_km": 1.667742887012984,
+        "coordinates": [
+          "42.372515",
+          "-71.119673"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Done Right Care",
+        "distance_km": 1.4092773799005407,
+        "coordinates": [
+          "42.373435",
+          "-71.122556"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Gong Cha",
+        "distance_km": 1.524721639120893,
+        "coordinates": [
+          "42.37414",
+          "-71.120663"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Meeting Place",
+        "distance_km": 1.653398569619226,
+        "coordinates": [
+          "42.382788",
+          "-71.118822"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37869752393196,
+          -71.13812549014163
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37869752393196,
+        -71.13812549014163
+      ]
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:00, I want to eat, I go to Genji Express by public_transit which takes 10-20 minutes.",
+    "On 08:00, I want to shop, I go to Thistle & Shamrock by public_transit which takes 10-20 minutes.",
+    "On 11:00, I want to eat, I go to Hi Rise Bread Company by walking which takes 10-20 minutes.",
+    "On 12:00, I want to shop, I go to Stereo Lab by walking which takes 10-20 minutes.",
+    "On 14:00, I want to social, I go to Done Right Care by walking which takes 10-20 minutes.",
+    "On 17:00, I want to eat, I go to Gong Cha by walking which takes  minutes.",
+    "On 19:00, I want to recreation, I go to Meeting Place by public_transit which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"Steven Green\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 4, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "06:20",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "CorePower Yoga",
+        "distance_km": 1.2643250590515887,
+        "coordinates": [
+          "42.364982",
+          "-71.089027"
+        ]
+      }
+    },
+    {
+      "start_time": "07:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Frank's Steak House",
+        "distance_km": 5.115439481474917,
+        "coordinates": [
+          "42.395359",
+          "-71.128283"
+        ]
+      }
+    },
+    {
+      "start_time": "12:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Lingo Cafe & Bar",
+        "distance_km": 0.5856238484565391,
+        "coordinates": [
+          "42.36979",
+          "-71.068794"
+        ]
+      }
+    },
+    {
+      "start_time": "13:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Formaggio Kitchen",
+        "distance_km": 1.6064912185427906,
+        "coordinates": [
+          "42.36887",
+          "-71.095127"
+        ]
+      }
+    },
+    {
+      "start_time": "15:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "CIC Cambridge",
+        "distance_km": 1.0381104498981633,
+        "coordinates": [
+          "42.362278",
+          "-71.081135"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370740453744915,
+          -71.07578729107651
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dumpling Xuan",
+        "distance_km": 0.6904027318836824,
+        "coordinates": [
+          "42.37167",
+          "-71.084075"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Simoni Skating Rink",
+        "distance_km": 0.7380960355675249,
+        "coordinates": [
+          "42.372825",
+          "-71.084296"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.370740453744915,
+          -71.07578729107651
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.370740453744915,
+        -71.07578729107651
+      ]
+    },
+    "work": {
+      "name": "Frank's Steak House",
+      "coordinates": [
+        "42.395359",
+        "-71.128283"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 06:20, I want to recreation, I go to CorePower Yoga by walking which takes 10-20 minutes.",
+    "On 07:00, I want to work, I go to Frank's Steak House by private_auto which takes 20-30 minutes.",
+    "On 12:40, I want to eat, I go to Lingo Cafe & Bar by walking which takes 10-20 minutes.",
+    "On 13:30, I want to shop, I go to Formaggio Kitchen by walking which takes 10-20 minutes.",
+    "On 15:00, I want to social, I go to CIC Cambridge by on_demand_auto which takes  minutes.",
+    "On 17:00, I want to home, I go to home by walking which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Dumpling Xuan by walking which takes 10-20 minutes.",
+    "On 19:00, I want to recreation, I go to Simoni Skating Rink by walking which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "profile": "{\"name\": \"Martha King\", \"city\": \"Cambridge,MA\", \"age\": 24, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "09:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Taco Bell",
+        "distance_km": 2.5388153283679453,
+        "coordinates": [
+          "42.368307",
+          "-71.076501"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Old Navy",
+        "distance_km": 2.5639934707787364,
+        "coordinates": [
+          "42.368128",
+          "-71.076213"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Fava Bean Mediterranean",
+        "distance_km": 2.5282095417734167,
+        "coordinates": [
+          "42.368298",
+          "-71.076631"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Gap",
+        "distance_km": 1.145978748869302,
+        "coordinates": [
+          "42.373564",
+          "-71.120285"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.5429199750301461,
+        "coordinates": [
+          "42.368966",
+          "-71.11369"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Cascap",
+        "distance_km": 0.5441969740363916,
+        "coordinates": [
+          "42.365521",
+          "-71.10449"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369975255165194,
+          -71.10724079941862
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369975255165194,
+        -71.10724079941862
+      ]
+    },
+    "work": {
+      "name": "Taco Bell",
+      "coordinates": [
+        "42.368307",
+        "-71.076501"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 09:30, I want to work, I go to Taco Bell by public_transit which takes 20-30 minutes.",
+    "On 11:30, I want to shop, I go to Old Navy by public_transit which takes 20-30 minutes.",
+    "On 12:30, I want to eat, I go to Fava Bean Mediterranean by private_auto which takes 20-30 minutes.",
+    "On 16:00, I want to shop, I go to Gap by public_transit which takes 0-10 minutes.",
+    "On 17:30, I want to eat, I go to Darwin's by private_auto which takes  minutes.",
+    "On 18:30, I want to recreation, I go to Cascap by public_transit which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

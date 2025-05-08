@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\": \"John McDonald\", \"city\": \"Cambridge,MA\", \"age\": 34, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors_degree\", \"household_size\": 2, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:49",
+      "desire": "work",
+      "transportation": {
+        "mode": "on_demand_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Rosie's Bakery",
+        "distance_km": 0.4421943942971157,
+        "coordinates": [
+          "42.38608",
+          "-71.119594"
+        ]
+      }
+    },
+    {
+      "start_time": "11:43",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "$duration2"
+      },
+      "destination": {
+        "name": "Cafe Mami",
+        "distance_km": 0.5330795083127601,
+        "coordinates": [
+          "42.387262",
+          "-71.118638"
+        ]
+      }
+    },
+    {
+      "start_time": "12:36",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 1.4062239795141047,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "14:05",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Honeycomb Creamery",
+        "distance_km": 0.5378606816698135,
+        "coordinates": [
+          "42.383215",
+          "-71.119849"
+        ]
+      }
+    },
+    {
+      "start_time": "16:25",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Market In the Square",
+        "distance_km": 1.4027197678772805,
+        "coordinates": [
+          "42.373912",
+          "-71.121208"
+        ]
+      }
+    },
+    {
+      "start_time": "17:43",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38622973210593,
+          -71.1249600280534
+        ]
+      }
+    },
+    {
+      "start_time": "19:16",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 1.39173453719733,
+        "coordinates": [
+          "42.389127",
+          "-71.141403"
+        ]
+      }
+    },
+    {
+      "start_time": "20:26",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Violette Gluten Free Bakery",
+        "distance_km": 0.44028616370716656,
+        "coordinates": [
+          "42.38598",
+          "-71.119624"
+        ]
+      }
+    },
+    {
+      "start_time": "21:36",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.38622973210593,
+          -71.1249600280534
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.38622973210593,
+        -71.1249600280534
+      ]
+    },
+    "work": {
+      "name": "Rosie's Bakery",
+      "coordinates": [
+        "42.38608",
+        "-71.119594"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:49, I want to work, I go to Rosie's Bakery by on_demand_auto which takes 0-10 minutes.",
+    "On 11:43, I want to eat, I go to Cafe Mami by private_auto which takes $duration2 minutes.",
+    "On 12:36, I want to shop, I go to Wholesome Fresh by private_auto which takes 0-10 minutes.",
+    "On 14:05, I want to eat, I go to Honeycomb Creamery by walking which takes 0-10 minutes.",
+    "On 16:25, I want to shop, I go to Market In the Square by walking which takes 0-10 minutes.",
+    "On 17:43, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:16, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 20:26, I want to eat, I go to Violette Gluten Free Bakery by walking which takes 0-10 minutes.",
+    "On 21:36, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "profile": "{\n\n  \"name\": \"Matthew Sexton\",\n  \"city\": \"Cambridge,MA\",\n  \"age\": 24,\n  \"gender\": \"male\",\n  \"employment_status\": \"employed\",\n  \"education\": \"some_college\",\n  \"household_size\": 1,\n  \"household_income\": \"Under 25k\",\n  \"available_vehicles\": 0\n}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.6638716567522628,
+        "coordinates": [
+          "42.368966",
+          "-71.11369"
+        ]
+      }
+    },
+    {
+      "start_time": "08:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Veggie Grill",
+        "distance_km": 0.16773804090835426,
+        "coordinates": [
+          "42.372002",
+          "-71.120836"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Darwin's",
+        "distance_km": 0.6638716567522628,
+        "coordinates": [
+          "42.368966",
+          "-71.11369"
+        ]
+      }
+    },
+    {
+      "start_time": "12:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Veggie Grill",
+        "distance_km": 0.16773804090835426,
+        "coordinates": [
+          "42.372002",
+          "-71.120836"
+        ]
+      }
+    },
+    {
+      "start_time": "12:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Trader Joe's",
+        "distance_km": 1.484980414587606,
+        "coordinates": [
+          "42.358316",
+          "-71.114231"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vegan Bowls For All",
+        "distance_km": 0.17539096400398915,
+        "coordinates": [
+          "42.372053",
+          "-71.120749"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Newbury Comics",
+        "distance_km": 0.2769467863679146,
+        "coordinates": [
+          "42.372756",
+          "-71.119855"
+        ]
+      }
+    },
+    {
+      "start_time": "17:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Vegan Bowls For All",
+        "distance_km": 0.17539096400398915,
+        "coordinates": [
+          "42.372053",
+          "-71.120749"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Broadway Marketplace",
+        "distance_km": 0.7830524329746082,
+        "coordinates": [
+          "42.373891",
+          "-71.113075"
+        ]
+      }
+    },
+    {
+      "start_time": "18:15",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "The Maharaja",
+        "distance_km": 0.17528570437896587,
+        "coordinates": [
+          "42.37209",
+          "-71.120916"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Wholesome Fresh",
+        "distance_km": 0.37080085393351747,
+        "coordinates": [
+          "42.373893",
+          "-71.121129"
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37056370996629,
+          -71.12145635236756
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37056370996629,
+        -71.12145635236756
+      ]
+    },
+    "work": {
+      "name": "Darwin's",
+      "coordinates": [
+        "42.368966",
+        "-71.11369"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Darwin's by walking which takes 10-20 minutes.",
+    "On 08:00, I want to eat, I go to Veggie Grill by walking which takes 0-10 minutes.",
+    "On 11:30, I want to work, I go to Darwin's by walking which takes 10-20 minutes.",
+    "On 12:00, I want to eat, I go to Veggie Grill by private_auto which takes 0-10 minutes.",
+    "On 12:45, I want to shop, I go to Trader Joe's by walking which takes 10-20 minutes.",
+    "On 14:00, I want to eat, I go to Vegan Bowls For All by walking which takes 0-10 minutes.",
+    "On 15:15, I want to shop, I go to Newbury Comics by walking which takes 0-10 minutes.",
+    "On 17:00, I want to eat, I go to Vegan Bowls For All by walking which takes 0-10 minutes.",
+    "On 17:30, I want to shop, I go to Broadway Marketplace by walking which takes 10-20 minutes.",
+    "On 18:15, I want to eat, I go to The Maharaja by walking which takes 0-10 minutes.",
+    "On 19:00, I want to shop, I go to Wholesome Fresh by walking which takes 10-20 minutes.",
+    "On 20:00, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

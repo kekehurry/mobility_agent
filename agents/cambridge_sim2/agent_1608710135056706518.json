@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Marissa Sexton\", \"city\": \"Cambridge,MA\", \"age\": 65, \"gender\": \"female\", \"employment_status\": \"not_in_labor_force\", \"education\": \"advanced_degree\", \"household_size\": 3, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:15",
+      "desire": "work",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Pammy's",
+        "distance_km": 1.5632345589111827,
+        "coordinates": [
+          "42.368421",
+          "-71.109209"
+        ]
+      }
+    },
+    {
+      "start_time": "09:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "30-40"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 3.6270162906557735,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "11:00",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "To be determined"
+      },
+      "destination": {
+        "name": "Mount Auburn Prevention & Recovery Center",
+        "distance_km": 1.1089251290613438,
+        "coordinates": [
+          "42.374349",
+          "-71.13374"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "West Side Lounge",
+        "distance_km": 0.4115692351047898,
+        "coordinates": [
+          "42.382429",
+          "-71.120057"
+        ]
+      }
+    },
+    {
+      "start_time": "13:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.9425550647402671,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "16:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Kemsley Education",
+        "distance_km": 1.4483007598716298,
+        "coordinates": [
+          "42.36876",
+          "-71.110833"
+        ]
+      }
+    },
+    {
+      "start_time": "18:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Used Sounds of Harvard Square",
+        "distance_km": 0.9425550647402671,
+        "coordinates": [
+          "42.371849",
+          "-71.11554"
+        ]
+      }
+    },
+    {
+      "start_time": "19:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.37895498789002,
+          -71.1217944354395
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.37895498789002,
+        -71.1217944354395
+      ]
+    },
+    "work": {
+      "name": "Pammy's",
+      "coordinates": [
+        "42.368421",
+        "-71.109209"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:15, I want to work, I go to Pammy's by public_transit which takes 10-20 minutes.",
+    "On 09:15, I want to social, I go to One Broadway by public_transit which takes 30-40 minutes.",
+    "On 11:00, I want to recreation, I go to Mount Auburn Prevention & Recovery Center by public_transit which takes To be determined minutes.",
+    "On 12:30, I want to eat, I go to West Side Lounge by public_transit which takes 0-10 minutes.",
+    "On 13:15, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 0-10 minutes.",
+    "On 16:00, I want to social, I go to Kemsley Education by walking which takes 0-10 minutes.",
+    "On 18:45, I want to shop, I go to Used Sounds of Harvard Square by walking which takes 0-10 minutes.",
+    "On 19:30, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

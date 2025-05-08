@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Ronald Gardner\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"male\", \"employment_status\": \"employed\", \"education\": \"bachelors_degree\", \"household_size\": 5, \"household_income\": \"150k+\", \"available_vehicles\": 2}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:20",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Phoenix Landing",
+        "distance_km": 1.56225106326398,
+        "coordinates": [
+          "42.364027",
+          "-71.101967"
+        ]
+      }
+    },
+    {
+      "start_time": "07:50",
+      "desire": "maintenance",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Advance Tire Company Inc",
+        "distance_km": 2.2259450257668685,
+        "coordinates": [
+          "42.365965",
+          "-71.09177"
+        ]
+      }
+    },
+    {
+      "start_time": "10:00",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.9937862533930106,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Rob Ramsdell Real Estate",
+        "distance_km": 0.5933083432808949,
+        "coordinates": [
+          "42.369052",
+          "-71.111582"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Blackbird Doughnuts Harvard Square",
+        "distance_km": 0.12394434510676082,
+        "coordinates": [
+          "42.372663",
+          "-71.118796"
+        ]
+      }
+    },
+    {
+      "start_time": "18:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 1.9937862533930106,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "One Broadway",
+        "distance_km": 2.9819546814482316,
+        "coordinates": [
+          "42.362764",
+          "-71.083555"
+        ]
+      }
+    },
+    {
+      "start_time": "21:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.372102214329665,
+          -71.1174950566288
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.372102214329665,
+        -71.1174950566288
+      ]
+    },
+    "work": {
+      "name": "Phoenix Landing",
+      "coordinates": [
+        "42.364027",
+        "-71.101967"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:20, I want to work, I go to Phoenix Landing by private_auto which takes 10-20 minutes.",
+    "On 07:50, I want to maintenance, I go to Advance Tire Company Inc by private_auto which takes  minutes.",
+    "On 10:00, I want to shop, I go to Star Market by private_auto which takes 10-20 minutes.",
+    "On 11:30, I want to social, I go to Rob Ramsdell Real Estate by private_auto which takes  minutes.",
+    "On 18:00, I want to eat, I go to Blackbird Doughnuts Harvard Square by auto_passenger which takes 0-10 minutes.",
+    "On 18:30, I want to shop, I go to Star Market by private_auto which takes 10-20 minutes.",
+    "On 19:00, I want to social, I go to One Broadway by private_auto which takes 10-20 minutes.",
+    "On 21:00, I want to home, I go to home by private_auto which takes 10-20 minutes."
+  ]
+}

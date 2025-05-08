@@ -1,0 +1,95 @@
+{
+  "profile": "{\"name\": \"Kathryn Mendez\", \"city\": \"Cambridge,MA\", \"age\": 55, \"gender\": \"female\", \"employment_status\": \"employed\", \"education\": \"advanced_degree\", \"household_size\": 4, \"household_income\": \"25k-50k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "12:00",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.6757652137483403,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "18:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "public_transit",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 1.6757652137483403,
+        "coordinates": [
+          "42.362829",
+          "-71.083961"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.35783414733082,
+          -71.10315519473198
+        ]
+      }
+    },
+    {
+      "start_time": "20:00",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "The Democracy Center",
+        "distance_km": 1.8476585655308386,
+        "coordinates": [
+          "42.371292",
+          "-71.116337"
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.35783414733082,
+        -71.10315519473198
+      ]
+    },
+    "work": {
+      "name": "Dunkin'",
+      "coordinates": [
+        "42.362829",
+        "-71.083961"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 12:00, I want to work, I go to Dunkin' by private_auto which takes 10-20 minutes.",
+    "On 18:00, I want to eat, I go to Dunkin' by public_transit which takes 20-30 minutes.",
+    "On 19:00, I want to home, I go to home by private_auto which takes  minutes.",
+    "On 20:00, I want to social, I go to The Democracy Center by private_auto which takes  minutes."
+  ]
+}

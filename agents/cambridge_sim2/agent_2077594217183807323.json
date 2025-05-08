@@ -1,0 +1,197 @@
+{
+  "profile": "{\"name\": \"Christopher Walker\", \"city\": \"Cambridge,MA\", \"age\": 45, \"gender\": \"male\", \"employment_status\": \"not_in_labor_force\", \"education\": \"bachelors\", \"household_size\": 2, \"household_income\": \"75k-100k\", \"available_vehicles\": 1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "07:18",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "20-30"
+      },
+      "destination": {
+        "name": "&pizza",
+        "distance_km": 1.5198713933185226,
+        "coordinates": [
+          "42.373559",
+          "-71.119619"
+        ]
+      }
+    },
+    {
+      "start_time": "09:10",
+      "desire": "shop",
+      "transportation": {
+        "mode": "auto_passenger",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Shalimar India Food & Spices",
+        "distance_km": 0.4662262489945672,
+        "coordinates": [
+          "42.365012",
+          "-71.102409"
+        ]
+      }
+    },
+    {
+      "start_time": "11:30",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369203956097905,
+          -71.10212627673424
+        ]
+      }
+    },
+    {
+      "start_time": "12:28",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Deep Thoughts Cambridge",
+        "distance_km": 0.5063000031449988,
+        "coordinates": [
+          "42.364646",
+          "-71.102119"
+        ]
+      }
+    },
+    {
+      "start_time": "13:21",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Community Legal Services & Counseling Center",
+        "distance_km": 0.11827216023156933,
+        "coordinates": [
+          "42.369642",
+          "-71.103435"
+        ]
+      }
+    },
+    {
+      "start_time": "14:43",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "&pizza",
+        "distance_km": 1.5198713933185226,
+        "coordinates": [
+          "42.373559",
+          "-71.119619"
+        ]
+      }
+    },
+    {
+      "start_time": "16:55",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369203956097905,
+          -71.10212627673424
+        ]
+      }
+    },
+    {
+      "start_time": "19:35",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Whole Foods Market",
+        "distance_km": 0.1352665402162586,
+        "coordinates": [
+          "42.367987",
+          "-71.102185"
+        ]
+      }
+    },
+    {
+      "start_time": "20:48",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "&pizza",
+        "distance_km": 1.5198713933185226,
+        "coordinates": [
+          "42.373559",
+          "-71.119619"
+        ]
+      }
+    },
+    {
+      "start_time": "21:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.369203956097905,
+          -71.10212627673424
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.369203956097905,
+        -71.10212627673424
+      ]
+    },
+    "work": {
+      "name": "&pizza",
+      "coordinates": [
+        "42.373559",
+        "-71.119619"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 07:18, I want to work, I go to &pizza by walking which takes 20-30 minutes.",
+    "On 09:10, I want to shop, I go to Shalimar India Food & Spices by auto_passenger which takes 0-10 minutes.",
+    "On 11:30, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 12:28, I want to shop, I go to Deep Thoughts Cambridge by private_auto which takes 0-10 minutes.",
+    "On 13:21, I want to recreation, I go to Community Legal Services & Counseling Center by private_auto which takes 0-10 minutes.",
+    "On 14:43, I want to work, I go to &pizza by private_auto which takes  minutes.",
+    "On 16:55, I want to home, I go to home by private_auto which takes 0-10 minutes.",
+    "On 19:35, I want to shop, I go to Whole Foods Market by walking which takes 0-10 minutes.",
+    "On 20:48, I want to work, I go to &pizza by walking which takes 10-20 minutes.",
+    "On 21:15, I want to home, I go to home by walking which takes 10-20 minutes."
+  ]
+}

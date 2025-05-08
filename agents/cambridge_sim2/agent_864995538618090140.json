@@ -1,0 +1,180 @@
+{
+  "profile": "{\"name\":\"Brianna Franklin\",\"city\":\"Cambridge,MA\",\"age\":25,\"gender\":\"female\",\"employment_status\":\"employed\",\"education\":\"advanced_degree\",\"household_size\":2,\"household_income\":\"Under 25k\",\"available_vehicles\":1}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "08:52",
+      "desire": "work",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard House Of Pizza",
+        "distance_km": 0.21420566102450717,
+        "coordinates": [
+          "42.383291",
+          "-71.119836"
+        ]
+      }
+    },
+    {
+      "start_time": "10:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Harvard Yard",
+        "distance_km": 1.0427785388092827,
+        "coordinates": [
+          "42.376226",
+          "-71.115269"
+        ]
+      }
+    },
+    {
+      "start_time": "11:12",
+      "desire": "social",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Infante Property Management",
+        "distance_km": 1.1824885484800625,
+        "coordinates": [
+          "42.373434",
+          "-71.12253"
+        ]
+      }
+    },
+    {
+      "start_time": "15:15",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.7395132265368283,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "16:05",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "OneZo",
+        "distance_km": 0.2978118959762138,
+        "coordinates": [
+          "42.385946",
+          "-71.119619"
+        ]
+      }
+    },
+    {
+      "start_time": "16:20",
+      "desire": "shop",
+      "transportation": {
+        "mode": "walking",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Star Market",
+        "distance_km": 0.7395132265368283,
+        "coordinates": [
+          "42.390043",
+          "-71.118227"
+        ]
+      }
+    },
+    {
+      "start_time": "17:35",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.384076695356086,
+          -71.122211431371
+        ]
+      }
+    },
+    {
+      "start_time": "19:40",
+      "desire": "eat",
+      "transportation": {
+        "mode": "walking",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Ben & Jerry's",
+        "distance_km": 0.7649364564211756,
+        "coordinates": [
+          "42.390107",
+          "-71.117726"
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.384076695356086,
+          -71.122211431371
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.384076695356086,
+        -71.122211431371
+      ]
+    },
+    "work": {
+      "name": "Harvard House Of Pizza",
+      "coordinates": [
+        "42.383291",
+        "-71.119836"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 08:52, I want to work, I go to Harvard House Of Pizza by walking which takes 0-10 minutes.",
+    "On 10:30, I want to recreation, I go to Harvard Yard by walking which takes 0-10 minutes.",
+    "On 11:12, I want to social, I go to Infante Property Management by walking which takes 10-20 minutes.",
+    "On 15:15, I want to shop, I go to Star Market by walking which takes 10-20 minutes.",
+    "On 16:05, I want to eat, I go to OneZo by walking which takes 0-10 minutes.",
+    "On 16:20, I want to shop, I go to Star Market by walking which takes 10-20 minutes.",
+    "On 17:35, I want to home, I go to home by walking which takes 0-10 minutes.",
+    "On 19:40, I want to eat, I go to Ben & Jerry's by walking which takes  minutes.",
+    "On 20:15, I want to home, I go to home by walking which takes 0-10 minutes."
+  ]
+}

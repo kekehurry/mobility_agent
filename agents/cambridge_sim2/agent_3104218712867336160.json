@@ -1,0 +1,163 @@
+{
+  "profile": "{\"name\": \"Stefanie Williams\", \"city\": \"Cambridge,MA\", \"age\": 35, \"gender\": \"female\", \"employment_status\": \"homemaker\", \"education\": \"advanced_degree\", \"household_size\": 1, \"household_income\": \"150k+\", \"available_vehicles\": 0}\n",
+  "city": "Cambridge,MA",
+  "reference_city": "Cambridge,MA",
+  "schedule": [
+    {
+      "start_time": "10:45",
+      "desire": "work",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "10-20"
+      },
+      "destination": {
+        "name": "Base Crave",
+        "distance_km": 1.6299265223909027,
+        "coordinates": [
+          "42.381077",
+          "-71.137932"
+        ]
+      }
+    },
+    {
+      "start_time": "11:15",
+      "desire": "social",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Marc's Handyman",
+        "distance_km": 2.5997347367906585,
+        "coordinates": [
+          "42.380934",
+          "-71.120213"
+        ]
+      }
+    },
+    {
+      "start_time": "12:30",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "TechFusion",
+        "distance_km": 0.988716880790923,
+        "coordinates": [
+          "42.394085",
+          "-71.15794"
+        ]
+      }
+    },
+    {
+      "start_time": "14:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.5476800589140919,
+        "coordinates": [
+          "42.39013",
+          "-71.14285"
+        ]
+      }
+    },
+    {
+      "start_time": "15:45",
+      "desire": "shop",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": ""
+      },
+      "destination": {
+        "name": "Gourmet Express",
+        "distance_km": 2.286655835978969,
+        "coordinates": [
+          "42.387921",
+          "-71.119628"
+        ]
+      }
+    },
+    {
+      "start_time": "17:30",
+      "desire": "recreation",
+      "transportation": {
+        "mode": "walking",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Russell Field",
+        "distance_km": 0.689315510642244,
+        "coordinates": [
+          "42.396585",
+          "-71.138062"
+        ]
+      }
+    },
+    {
+      "start_time": "19:00",
+      "desire": "eat",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "Dunkin'",
+        "distance_km": 0.3993338013250346,
+        "coordinates": [
+          "42.395742",
+          "-71.141396"
+        ]
+      }
+    },
+    {
+      "start_time": "20:15",
+      "desire": "home",
+      "transportation": {
+        "mode": "private_auto",
+        "duration": "0-10"
+      },
+      "destination": {
+        "name": "home",
+        "distance_km": 0.0,
+        "coordinates": [
+          42.39449434465634,
+          -71.1459445814636
+        ]
+      }
+    }
+  ],
+  "memory_locations": {
+    "home": {
+      "name": "home",
+      "coordinates": [
+        42.39449434465634,
+        -71.1459445814636
+      ]
+    },
+    "work": {
+      "name": "Base Crave",
+      "coordinates": [
+        "42.381077",
+        "-71.137932"
+      ],
+      "category": ""
+    }
+  },
+  "working_memory": [
+    "Today is a normal weekday",
+    "On 10:45, I want to work, I go to Base Crave by private_auto which takes 10-20 minutes.",
+    "On 11:15, I want to social, I go to Marc's Handyman by private_auto which takes  minutes.",
+    "On 12:30, I want to shop, I go to TechFusion by private_auto which takes 0-10 minutes.",
+    "On 14:00, I want to eat, I go to Dunkin' by private_auto which takes 0-10 minutes.",
+    "On 15:45, I want to shop, I go to Gourmet Express by private_auto which takes  minutes.",
+    "On 17:30, I want to recreation, I go to Russell Field by walking which takes 0-10 minutes.",
+    "On 19:00, I want to eat, I go to Dunkin' by private_auto which takes 0-10 minutes.",
+    "On 20:15, I want to home, I go to home by private_auto which takes 0-10 minutes."
+  ]
+}
