@@ -1,5 +1,3 @@
-from sklearn.preprocessing import LabelEncoder
-from sklearn.compose import ColumnTransformer
 import datetime
 import math
 import pandas as pd
@@ -95,7 +93,7 @@ def load_data(trip_file):
     return trip_df
 
 
-def prepare_data(trip_df):
+def prepare_data(trip_df, encoder=None):
     # Define input and output features
     X_props = ['age_group','income_group', 'employment_status', 'household_size','available_vehicles', 'education', 'trip_purpose', 'start_time']
     y_props = ['primary_mode', 'duration_minutes']
@@ -111,7 +109,20 @@ def prepare_data(trip_df):
     'primary_mode': ['walking', 'biking', 'auto_passenger', 'public_transit','private_auto',  'on_demand_auto','other_travel_mode'], 
     'duration_minutes': ['0-10','10-20', '20-30', '30-40', '40-50', '50-60']
     }
-    
+
+    synthetic_rows = []
+    for cat_feature in y_props:
+        labels = set(label_dict[cat_feature])
+        unique_values = set(trip_df[cat_feature].astype('str').unique())
+        missing_categories = labels - unique_values
+        for cat in missing_categories:
+            sythetic_row = trip_df.iloc[0].copy()
+            sythetic_row[cat_feature] = cat
+            synthetic_rows.append(sythetic_row)
+
+    if len(synthetic_rows)>0:
+        trip_df = pd.concat([trip_df, pd.DataFrame(synthetic_rows)], ignore_index=True)
+        
     # Split data into features and targets before preprocessing
     X_df = trip_df[X_props]
     y_df = trip_df[y_props]
@@ -119,6 +130,7 @@ def prepare_data(trip_df):
     # Create label encoders for categorical features in X
     X_encoded = X_df.copy()
     y_encoded = y_df.copy()
+
     for cat_feature in X_props:
         labels = label_dict[cat_feature]
         mapping = {label: idx for idx, label in enumerate(labels)}
@@ -126,10 +138,12 @@ def prepare_data(trip_df):
         # Replace NaN values with a default value (-1 or most common)
         if X_encoded[cat_feature].isna().any():
             X_encoded[cat_feature] = X_encoded[cat_feature].fillna(-1)
+
     for cat_feature in y_props:
         labels = label_dict[cat_feature]
         mapping = {label: idx for idx, label in enumerate(labels)}
         y_encoded[cat_feature] = y_df[cat_feature].astype(str).map(mapping)
         if y_encoded[cat_feature].isna().any():
-            raise ValueError(f"Missing values found in target variable {cat_feature}. Check your data.")
-    return X_encoded, y_encoded, label_dict
+            y_encoded[cat_feature] = y_encoded[cat_feature].fillna(-1)
+        
+    return X_encoded, y_encoded, encoder

@@ -4,7 +4,7 @@ from .base_model import BaseModel
 
 
 class RandomForest(BaseModel):
-    def __init__(self, train_file=None,eval_file=None, model_path=None,save_dir='models/random_forest',sample_num=1000, seed=42):
+    def __init__(self, train_file=None,eval_file=None, model_path=None,save_dir='models/random_forest',sample_num=1000, seed=None):
         super().__init__(train_file=train_file,eval_file=eval_file, model_path=model_path,sample_num=sample_num, seed=seed,save_dir=save_dir)
         base_model = RandomForestClassifier(random_state=seed)
         self.model = MultiOutputClassifier(base_model)
