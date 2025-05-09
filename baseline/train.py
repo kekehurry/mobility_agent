@@ -3,9 +3,7 @@ from .xgboost import XGBoost
 from .multilayer_perceptron import MultilayerPerceptron
 import random
 
-def train_baseline_model(num_samples,model_key,train_file,eval_file,seed=None):
-    if not seed:
-        seed = random.randint(0,9999)
+def train_baseline_model(num_samples,model_key,train_file,eval_file,seed=42):
     if model_key == "RF":
         model = RandomForest(train_file=train_file, eval_file=eval_file, sample_num=num_samples, seed=seed)
     elif model_key == "XGB":
