@@ -314,7 +314,7 @@ class BehaviorGraph:
             self.behavior_graph = pickle.load(f)
         return self.behavior_graph
     
-    def visualize_graph(self, subgraph,desire='eat',time=12):
+    def visualize_graph(self, subgraph,desire='eat',time=12,node_size=300,font_size=9,title_size=16):
         # Edge colors by relationship type
         edges = subgraph.edges(data=True)
         edge_colors = []
@@ -363,14 +363,14 @@ class BehaviorGraph:
             hierarchy_pos[node] = (x_spacing_intention * (i + 1), y_intention)
 
         # Draw the graph with hierarchical positions
-        agent_nodes_plot = nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
-                            nodelist=agent_nodes, node_color='#FF1744', node_size=300, alpha=0.8, ax=ax1)
-        person_nodes_plot = nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
-                            nodelist=person_nodes, node_color='#1f77b4', node_size=300, alpha=0.8, ax=ax1)
-        desire_nodes_plot = nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
-                            nodelist=desire_nodes, node_color='#ff7f0e', node_size=300, alpha=0.8, ax=ax1)
-        intention_nodes_plot = nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
-                            nodelist=intention_nodes, node_color='#2ca02c', node_size=300, alpha=0.8, ax=ax1)
+        nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
+                            nodelist=agent_nodes, node_color='#FF1744', node_size=node_size, alpha=0.8, ax=ax1)
+        nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
+                            nodelist=person_nodes, node_color='#1f77b4', node_size=node_size, alpha=0.8, ax=ax1)
+        nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
+                            nodelist=desire_nodes, node_color='#ff7f0e', node_size=node_size, alpha=0.8, ax=ax1)
+        nx.draw_networkx_nodes(subgraph, hierarchy_pos, 
+                            nodelist=intention_nodes, node_color='#2ca02c', node_size=node_size, alpha=0.8, ax=ax1)
 
         # Draw edges
         edge_weights = [d['weight']*2 for n,v, d in subgraph.edges(data=True)]
@@ -420,7 +420,7 @@ class BehaviorGraph:
             attrs = subgraph.nodes[node]
             simple_labels[node] = f"{attrs['props']['primary_mode']}\n{attrs['props']['duration_minutes']} min"
 
-        nx.draw_networkx_labels(subgraph, hierarchy_pos, labels=simple_labels, font_size=9, ax=ax1)
+        nx.draw_networkx_labels(subgraph, hierarchy_pos, labels=simple_labels, font_size=font_size, ax=ax1)
         
         # Create legend for nodes and edges
         legend_handles = [
@@ -466,11 +466,11 @@ class BehaviorGraph:
         
         # Draw explanation nodes with matching colors to main graph
         nx.draw_networkx_nodes(explanation_graph, explanation_pos, 
-                            nodelist=[agent_node], node_color='#FF1744', node_size=600, alpha=0.8, ax=ax2)
+                            nodelist=[agent_node], node_color='#FF1744', node_size=node_size*2, alpha=0.9, ax=ax2)
         nx.draw_networkx_nodes(explanation_graph, explanation_pos, 
-                            nodelist=[desire_node], node_color='#ff7f0e', node_size=600, alpha=0.8, ax=ax2)
+                            nodelist=[desire_node], node_color='#ff7f0e', node_size=node_size*2, alpha=0.9, ax=ax2)
         nx.draw_networkx_nodes(explanation_graph, explanation_pos, 
-                            nodelist=[intention_node], node_color='#2ca02c', node_size=600, alpha=0.8, ax=ax2)
+                            nodelist=[intention_node], node_color='#2ca02c', node_size=node_size*2, alpha=0.9, ax=ax2)
         
         # Draw explanation edges with consistent colors
         want_to_edge = [(agent_node, desire_node)]
@@ -487,20 +487,20 @@ class BehaviorGraph:
             (agent_node, desire_node): "want_to",
             (desire_node, intention_node): "choose_to"
         }
-        nx.draw_networkx_edge_labels(explanation_graph, explanation_pos, edge_labels=edge_labels, ax=ax2)
+        nx.draw_networkx_edge_labels(explanation_graph, explanation_pos, edge_labels=edge_labels, ax=ax2, font_size=font_size)
         
         # Add node labels
-        nx.draw_networkx_labels(explanation_graph, explanation_pos, font_size=10, ax=ax2)
+        nx.draw_networkx_labels(explanation_graph, explanation_pos, font_size=font_size, ax=ax2)
         
         ax2.text(0.2, 0.91, "Agent", 
-            ha='center', va='center', fontsize=10, transform=ax2.transAxes)
+            ha='center', va='center', fontsize=font_size, transform=ax2.transAxes)
         ax2.text(0.2, 0.5, "Desire", 
-            ha='center', va='center', fontsize=10, transform=ax2.transAxes)
+            ha='center', va='center', fontsize=font_size, transform=ax2.transAxes)
         ax2.text(0.2, 0.06, "Intention", 
-            ha='center', va='center', fontsize=10, transform=ax2.transAxes)
+            ha='center', va='center', fontsize=font_size, transform=ax2.transAxes)
         ax2.axis('off')
 
-        fig.suptitle(f"What transportation mode would {agent_node} choose when he/she want to {desire_node} at {time}:00?", fontsize=16, fontweight='bold')
+        fig.suptitle(f"Today is a normal weekday,\nWhat transportation mode would {agent_node} choose when he/she want to {desire_node} at {time}:00?", fontsize=title_size, fontweight='bold')
         plt.tight_layout()
         plt.show()
 

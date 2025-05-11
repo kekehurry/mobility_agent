@@ -1,6 +1,8 @@
+from sklearn.preprocessing import StandardScaler
 import datetime
 import math
 import pandas as pd
+
 
 def number2strtime(numeric_time):
     hours = int(numeric_time)
@@ -145,5 +147,5 @@ def prepare_data(trip_df, encoder=None):
         y_encoded[cat_feature] = y_df[cat_feature].astype(str).map(mapping)
         if y_encoded[cat_feature].isna().any():
             y_encoded[cat_feature] = y_encoded[cat_feature].fillna(-1)
-        
+
     return X_encoded, y_encoded, encoder

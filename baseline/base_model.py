@@ -26,6 +26,7 @@ class BaseModel:
         if train_file and os.path.exists(train_file):
             self.train_df = load_data(train_file)
             self.train_df = self.train_df.sample(self.sample_num,random_state=self.seed)
+            # self.train_df = self.train_df[:self.sample_num]
             self.X_train, self.y_train, self.encoder = prepare_data(self.train_df)
 
         if eval_file and os.path.exists(eval_file):

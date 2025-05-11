@@ -16,7 +16,6 @@ def train_baseline_model(num_samples,model_key,train_file,eval_file,seed=42):
     kl_df, overall_kl, overall_mae = model.evaluate()
     return {
         "model": model_key,
-        "seed": seed,
         "num_samples": num_samples,
         "overall_kl": overall_kl,
         "overall_mae": overall_mae
