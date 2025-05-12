@@ -35,7 +35,7 @@ class BaseModel:
     
     def optimize(self,max_iter=100,verbose=True):
         """
-        Optimize the random forest model using GridSearch
+        Optimize the model using GridSearch
 
         Returns:
             Best parameters found by GridSearch
