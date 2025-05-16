@@ -29,7 +29,8 @@ class BehaviorGraph:
             trip_file = TRIP_FILE
         self.graph_file = graph_file
         if not graph_file:
-            self.graph_file = f"cache/graph/graph_{self.num_sample}"
+            basename = os.path.basename(trip_file).split('.')[0]
+            self.graph_file = f"cache/graph/{basename}_{sample_num}.pkl"
         if self.graph_file and os.path.exists(self.graph_file):
             self.behavior_graph = self.load_graph()
         elif trip_file and os.path.exists(trip_file):
