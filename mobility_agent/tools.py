@@ -18,6 +18,7 @@ load_dotenv()
 DEMOGRAPGIC_FILE = os.getenv('DEMOGRAPGIC_FILE',None)
 POI_FILE = os.getenv('POI_FILE',None)
 CENCUS_FILE = os.getenv('CENCUS_FILE',None)
+
 BASE_URL = os.getenv('BASE_URL', 'http://localhost:11434/v1')
 API_KEY = os.getenv('API_KEY', '123')
 MODEL = os.getenv('MODEL', 'qwen3')

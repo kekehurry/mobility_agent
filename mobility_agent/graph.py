@@ -16,25 +16,25 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get environment variables with fallbacks
-TRIP_FILE = os.getenv('TRIP_FILE', None)
+REF_FILE = os.getenv('REF_FILE', None)
 EMBEDDING_BASE_URL = os.getenv('EMBEDDING_BASE_URL', 'http://localhost:11434/v1')
 EMBEDDING_API_KEY = os.getenv('EMBEDDING_API_KEY', '123')
 EMBEDDING_MODEL = os.getenv('EMBEDDING_MODEL', 'mxbai-embed-large')
 
 class BehaviorGraph:
 
-    def __init__(self,sample_num=1000,trip_file=None,graph_file=None):
+    def __init__(self,sample_num=1000,ref_file=None,graph_file=None):
         self.num_sample = sample_num
-        if not trip_file:
-            trip_file = TRIP_FILE
+        if not ref_file:
+            ref_file = REF_FILE
         self.graph_file = graph_file
         if not graph_file:
-            basename = os.path.basename(trip_file).split('.')[0]
+            basename = os.path.basename(ref_file).split('.')[0]
             self.graph_file = f"cache/graph/{basename}_{sample_num}.pkl"
         if self.graph_file and os.path.exists(self.graph_file):
             self.behavior_graph = self.load_graph()
-        elif trip_file and os.path.exists(trip_file):
-            trip_df = self._load_data(trip_file,sample_num)
+        elif ref_file and os.path.exists(ref_file):
+            trip_df = self._load_data(ref_file,sample_num)
             self.behavior_graph = self._create_graph(trip_df)
             self.behavior_graph = self._embedding_graph()
             self.save_graph()

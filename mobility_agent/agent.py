@@ -17,7 +17,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get environment variables with fallbacks
-REFERENCE_CITY = os.getenv('REFERENCE_CITY', 'Cambridge,MA')
 BASE_URL = os.getenv('BASE_URL', 'http://localhost:11434/v1')
 API_KEY = os.getenv('API_KEY', '123')
 MODEL = os.getenv('MODEL', 'qwen3')
@@ -44,7 +43,8 @@ class POISelection(BaseModel):
     selection: int = Field(description="The selected destination option number")
     
 class MobilityAgent:
-    def __init__(self,profile=None,city='Cambridge,MA',sample_num=1000,reference_city=REFERENCE_CITY,
+    def __init__(self,profile=None,city='Cambridge,MA',sample_num=1000,
+                 reference_city='Cambridge,MA',
                  reference_file = None,
                  save_dir="data/agents"):
         self.client = OpenAI(base_url=BASE_URL,api_key=API_KEY)
@@ -55,7 +55,7 @@ class MobilityAgent:
             "profile_generator": ProfileGeneratorTool()
         }
         self.reference_city = reference_city
-        self.behavior_graph = BehaviorGraph(sample_num=sample_num,trip_file=reference_file)
+        self.behavior_graph = BehaviorGraph(sample_num=sample_num,ref_file=reference_file)
         self.memory_locations = {}
         self.working_memory = ["Today is a normal weekday"]
         self.save_dir = save_dir
