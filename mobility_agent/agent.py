@@ -102,7 +102,7 @@ class MobilityAgent:
             Available Mode Choices : {[d['primary_mode'] for d in weights]}
             Available Duration Choices : {[d['duration_minutes'] for d in weights]}
             """
-            reference_note = f"- You should consider your profile, the choices, and the possible cultural difference between {self.reference_city} and {self.city}."
+            reference_note = f"- You should consider your profile, the choices, the possible cultural difference between {self.reference_city} and {self.city}, and the weather(if provided)"
         else:
             reference_prompt = """"
             Available Mode Choices : ['walking', 'biking', 'auto_passenger','public_transit','private_auto', 'on_demand_auto','other_travel_mode']
