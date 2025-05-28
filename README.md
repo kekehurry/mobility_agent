@@ -19,7 +19,7 @@ gdown 1ZMA_tNP6EapE6UED8hyi5_6uoNzTSvt0 -O data/geo/safegraph-sf-poi.csv
 gdown 1JnOaM22HSrWC8SWVKm2x7kJHjl0oHoVt -O data/geo/safegraph-cambridge-poi.csv
 ```
 
-## Create Qwen2-nothink Model
+## Create Qwen3-nothink Model
 
 The experiments are using `qwen3:8b`, and the thinking mode is off by default. Using the `Modelfile` to create this model
 
