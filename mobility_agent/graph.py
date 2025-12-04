@@ -173,31 +173,35 @@ class BehaviorGraph:
             self.behavior_graph.nodes[node_id]['embedding'] = all_embedding_vectors[i]
         return self.behavior_graph
     
-    def _similarity_search(self,query_text, k=5):
-        # Encode query
-        query_embedding = self._get_embeddings(query_text)
-        query_embedding = np.array(query_embedding,dtype=np.float32)
-        # Collect all person nodes with their text representations
-        person_nodes = []
-        person_embeddings = []
+    def _cosine_similarity(self, a, b):
+        """Compute cosine similarity between two vectors or batches."""
+        a = np.array(a)
+        b = np.array(b)
+        if a.ndim == 1:
+            a = a.reshape(1, -1)
+        if b.ndim == 1:
+            b = b.reshape(1, -1)
+        a_norm = np.linalg.norm(a, axis=1, keepdims=True)
+        b_norm = np.linalg.norm(b, axis=1, keepdims=True)
+        a_norm = np.where(a_norm == 0, 1, a_norm)
+        b_norm = np.where(b_norm == 0, 1, b_norm)
+        sim = np.dot(a / a_norm, (b / b_norm).T)
+        return sim
 
-        for node_id, data in self.behavior_graph.nodes(data=True):
-            if data.get('type') == 'person':
-                person_nodes.append(node_id)
-                person_embeddings.append(data['embedding'])
-
-        person_embeddings = np.array(person_embeddings,dtype=np.float32)
-        
-        # Perform semantic search using cosine similarity
-        hits = util.semantic_search(query_embedding, person_embeddings, top_k=k)[0]
-        # Format results
-        results = []
-        for hit in hits:
-            idx = hit['corpus_id']
-            score = hit['score']
-            results.append((person_nodes[idx], score))
-
-        return results
+    def _semantic_search(self, query_embedding, corpus_embeddings, top_k=5):
+        """Manual semantic search using cosine similarity."""
+        query_embedding = np.array(query_embedding).reshape(1, -1)
+        corpus_embeddings = np.array(corpus_embeddings)
+        similarities = self._cosine_similarity(query_embedding, corpus_embeddings).flatten()
+        top_k = min(top_k, len(similarities))
+        if top_k <= 0:
+            return []
+        top_indices = np.argpartition(-similarities, top_k - 1)[:top_k]
+        top_scores = similarities[top_indices]
+        sorted_idx = np.argsort(-top_scores)
+        top_indices = top_indices[sorted_idx]
+        top_scores = top_scores[sorted_idx]
+        return [{'corpus_id': idx, 'score': float(score)} for idx, score in zip(top_indices, top_scores)]
 
     def _dfs_search(self,source,depth):
         node_list = []

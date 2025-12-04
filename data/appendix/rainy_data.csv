@@ -1,0 +1,757 @@
+,person_id,mode_probs,amenity_probs,predict_mode_numeric,predict_amenity_numeric,income_group,household_size,vehicles,family_structure,age_group,target_amenity,target_mode,target_amenity_numeric,target_mode_numeric,predict_mode,predict_amenity
+0,7.600486064949899e+18,[0.55 0.35 0.1 ],[0.42105263 0.31578947 0.21052632 0.05263158],1.0,0.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Limited-Service Restaurants
+1,8.362512996903005e+18,[0.25 0.2  0.55],[0.15 0.1  0.71 0.04],0.0,0.0,Low,2_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Limited-Service Restaurants
+3,1.0071335025903251e+19,[0.44 0.14 0.42],[0.35 0.08 0.55 0.02],2.0,0.0,High,3_person,1,married_couple,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Limited-Service Restaurants
+4,1.821605400043433e+19,[0.15 0.2  0.65],[0.12 0.02 0.85 0.01],2.0,2.0,Low,1_person,1,living_alone,Elderly,Drinking Places,Car,3.0,2,Car,Full-Service Restaurants
+5,1.0667773244889338e+19,[0.4 0.4 0.2],[0.4  0.15 0.3  0.15],2.0,3.0,Low,7_plus_person,1,married_couple,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Drinking Places
+6,4.070314964041576e+18,[0.25 0.35 0.4 ],[0.2  0.05 0.73 0.02],0.0,2.0,Moderate,3_person,3_plus,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+7,1.2885427959691106e+19,[0.12 0.26 0.62],[0.31578947 0.10526316 0.52631579 0.05263158],2.0,3.0,Very High,3_person,3_plus,family_single,Senior,Limited-Service Restaurants,Car,0.0,2,Car,Drinking Places
+8,3.10199410911337e+18,[0.15 0.18 0.67],[0.26 0.12 0.58 0.04],0.0,3.0,High,2_person,2,nonfamily_single,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Drinking Places
+9,1.77248120754765e+19,[0.4 0.4 0.2],[0.3  0.05 0.6  0.05],0.0,2.0,Debt,7_plus_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+10,1.545106594786923e+18,[0.08 0.28 0.64],[0.31958763 0.17525773 0.46391753 0.04123711],2.0,1.0,High,3_person,3_plus,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+11,1.3080210318158606e+19,[0.25 0.6  0.15],[0.22105263 0.28421053 0.45263158 0.04210526],0.0,2.0,Low,3_person,0,family_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+13,1.151087097270117e+19,[0.35 0.4  0.25],[0.15 0.05 0.75 0.05],1.0,2.0,Debt,6_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+14,1.241589407882131e+19,[0.05 0.85 0.1 ],[0.28 0.04 0.64 0.04],1.0,2.0,High,2_person,0,married_couple,Middle Age,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+16,1.8215067173106444e+19,[0.19 0.26 0.55],[0.15 0.31 0.51 0.03],2.0,2.0,Very High,4_person,2,married_couple,Middle Age,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+17,1.5205639798626724e+19,[0.55 0.4  0.05],[0.25 0.1  0.6  0.05],1.0,2.0,Moderate,3_person,0,family_single,Elderly,Drinking Places,Walking,3.0,0,Public_transport,Full-Service Restaurants
+18,1.0527771326346113e+19,[0.17 0.26 0.57],[0.15 0.34 0.47 0.04],0.0,2.0,Moderate,2_person,1,nonfamily_single,Senior,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+19,7.999406880555621e+18,[0.13 0.45 0.42],[0.14 0.31 0.48 0.07],2.0,3.0,Low,2_person,0,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Drinking Places
+20,5.195620046872372e+18,[0.1  0.25 0.65],[0.23 0.1  0.62 0.05],2.0,0.0,Ultra High,4_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+21,3.260722484969248e+17,[0.22 0.26 0.52],[0.25 0.05 0.65 0.05],0.0,0.0,High,2_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+22,7.992154538069809e+18,[0.2 0.1 0.7],[0.20512821 0.05128205 0.71794872 0.02564103],2.0,0.0,High,2_person,1,nonfamily_single,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+23,6.21873187393563e+17,[0.14 0.32 0.54],[0.28 0.12 0.56 0.04],1.0,2.0,Moderate,2_person,1,family_single,Senior,Drinking Places,Car,3.0,2,Public_transport,Full-Service Restaurants
+24,6.325591393422687e+18,[0.3  0.45 0.25],[0.1 0.2 0.6 0.1],0.0,2.0,Debt,1_person,1,living_alone,Middle Age,Nonalcoholic Bars,Public_transport,1.0,1,Walking,Full-Service Restaurants
+25,1.1911846177181594e+19,[0.2  0.35 0.45],[0.1  0.2  0.65 0.05],0.0,1.0,Ultra High,2_person,2,married_couple,Middle Age,Limited-Service Restaurants,Walking,0.0,0,Walking,Nonalcoholic Bars
+26,1.3270103578439553e+19,[0.25 0.2  0.55],[0.08 0.24 0.62 0.06],2.0,0.0,Moderate,1_person,1,living_alone,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+27,8.860510867231447e+18,[0.1  0.27 0.63],[0.35 0.15 0.47 0.03],2.0,2.0,Moderate,2_person,2,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+28,3334330022187018.0,[0.2  0.28 0.52],[0.18 0.38 0.28 0.16],2.0,3.0,Moderate,2_person,1,nonfamily_single,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Drinking Places
+30,1.0269199770082634e+19,[0.25 0.25 0.5 ],[0.25 0.05 0.65 0.05],2.0,2.0,Moderate,2_person,1,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+31,5.324555472376509e+18,[0.32 0.53 0.15],[0.3  0.2  0.45 0.05],2.0,0.0,Debt,6_person,1,married_couple,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+33,8.800311900976599e+18,[0.13 0.55 0.32],[0.28865979 0.12371134 0.55670103 0.03092784],1.0,1.0,Moderate,1_person,1,living_alone,Senior,Full-Service Restaurants,Walking,2.0,0,Public_transport,Nonalcoholic Bars
+34,1.2614046980687049e+19,[0.45 0.35 0.2 ],[0.35 0.15 0.45 0.05],2.0,1.0,Moderate,4_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+35,1.546287298284822e+19,[0.25 0.1  0.65],[0.1 0.2 0.6 0.1],2.0,0.0,Moderate,4_person,2,family_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+36,1.4557324738653932e+18,[0.1 0.8 0.1],[0.15 0.42 0.38 0.05],1.0,2.0,Debt,5_person,1,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+37,6.151195384140786e+18,[0.15 0.3  0.55],[0.25 0.06 0.67 0.02],2.0,0.0,Moderate,3_person,1,family_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+38,1.7267927822371097e+19,[0.11 0.26 0.63],[0.3  0.1  0.55 0.05],0.0,2.0,Moderate,3_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+39,3.632856760141869e+18,[0.55 0.35 0.1 ],[0.28 0.12 0.55 0.05],0.0,2.0,High,2_person,1,married_couple,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+40,7.432489020438284e+18,[0.25 0.2  0.55],[0.0625     0.13541667 0.77083333 0.03125   ],0.0,2.0,Very High,1_person,1,living_alone,Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+41,9.355814540958252e+17,[0.45 0.2  0.35],[0.1  0.2  0.65 0.05],0.0,2.0,Ultra High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+42,8.98981793732501e+18,[0.2  0.35 0.45],[0.2  0.27 0.43 0.1 ],0.0,1.0,High,2_person,2,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Nonalcoholic Bars
+43,1.7745764619380627e+19,[0.4 0.5 0.1],[0.21649485 0.08247423 0.64948454 0.05154639],0.0,0.0,Low,6_person,0,family_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+44,8.265639512172123e+18,[0.25 0.3  0.45],[0.15 0.19 0.63 0.03],2.0,2.0,Ultra High,1_person,1,living_alone,Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+45,2.800834359096604e+18,[0.28 0.14 0.58],[0.15 0.25 0.53 0.07],1.0,0.0,Ultra High,2_person,1,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Public_transport,Limited-Service Restaurants
+46,1.3971796664956928e+19,[0.45 0.4  0.15],[0.18 0.28 0.45 0.09],0.0,2.0,Low,4_person,1,family_single,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+47,5.596528865965317e+18,[0.23 0.3  0.47],[0.35 0.08 0.52 0.05],0.0,1.0,Moderate,2_person,1,nonfamily_single,Young Adult,Drinking Places,Car,3.0,2,Walking,Nonalcoholic Bars
+48,1.4740321691281943e+18,[0.1  0.35 0.55],[0.45 0.15 0.2  0.2 ],1.0,3.0,Low,1_person,1,living_alone,Senior,Limited-Service Restaurants,Car,0.0,2,Public_transport,Drinking Places
+50,1.2465059861198303e+19,[0.35 0.45 0.2 ],[0.66666667 0.16666667 0.11111111 0.05555556],1.0,0.0,Debt,5_person,1,married_couple,Young Adult,Drinking Places,Public_transport,3.0,1,Public_transport,Limited-Service Restaurants
+51,1.1297535379449798e+18,[0.1  0.35 0.55],[0.0625     0.17708333 0.76041667 0.        ],2.0,2.0,Ultra High,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+52,1.1029144171013802e+19,[0.2  0.45 0.35],[0.3 0.1 0.5 0.1],0.0,3.0,Ultra High,1_person,1,living_alone,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Drinking Places
+53,1.3527072733351352e+19,[0.15 0.21 0.64],[0.15 0.25 0.55 0.05],2.0,2.0,Low,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+54,9.515779483170218e+18,[0.36 0.44 0.2 ],[0.24 0.05 0.68 0.03],1.0,0.0,Very High,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+55,7.207265335519337e+18,[0.12 0.36 0.52],[0.25 0.05 0.65 0.05],2.0,2.0,Moderate,3_person,1,married_couple,Adult,Drinking Places,Walking,3.0,0,Car,Full-Service Restaurants
+56,3.630455311923905e+18,[0.45 0.42 0.13],[0.38 0.15 0.47 0.  ],1.0,2.0,Debt,3_person,0,family_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+57,7.095155994799121e+18,[0.42 0.38 0.2 ],[0.27 0.04 0.68 0.01],2.0,2.0,Moderate,3_person,3_plus,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+58,3.339560348876756e+18,[0.15 0.35 0.5 ],[0.25 0.05 0.65 0.05],2.0,2.0,Very High,6_person,3_plus,married_couple,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+59,1.412743512860687e+19,[0.05 0.1  0.85],[0.31578947 0.10526316 0.52631579 0.05263158],2.0,1.0,Ultra High,1_person,1,living_alone,Elderly,Drinking Places,Car,3.0,2,Car,Nonalcoholic Bars
+61,5.624143527260796e+18,[0.17 0.31 0.52],[0.26262626 0.08080808 0.62626263 0.03030303],1.0,0.0,Ultra High,1_person,1,living_alone,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+62,1.5529624238226584e+19,[0.32 0.52 0.16],[0.1  0.21 0.62 0.07],0.0,2.0,Debt,3_person,1,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+64,4.793342788474607e+18,[0.38 0.35 0.27],[0.1 0.3 0.5 0.1],2.0,2.0,Low,3_person,2,married_couple,Adult,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+65,1.5751268060541026e+19,[0.1  0.55 0.35],[0.35 0.09 0.52 0.04],2.0,2.0,Ultra High,3_person,2,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+66,3.161925274564293e+18,[0.2  0.28 0.52],[0.26 0.15 0.55 0.04],1.0,2.0,Low,2_person,2,married_couple,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+67,2.9678525392543365e+18,[0.2 0.2 0.6],[0.15 0.3  0.5  0.05],2.0,0.0,High,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+68,1.718346579452031e+19,[0.15 0.3  0.55],[0.3 0.1 0.5 0.1],2.0,2.0,Moderate,1_person,1,living_alone,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+70,6.222112094547884e+18,[0.12 0.42 0.46],[0.1  0.15 0.65 0.1 ],1.0,1.0,Low,3_person,2,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Public_transport,Nonalcoholic Bars
+71,8.552186379466208e+18,[0.47 0.39 0.14],[0.23 0.13 0.45 0.19],0.0,0.0,Debt,2_person,1,family_single,Young Adult,Limited-Service Restaurants,Car,0.0,2,Walking,Limited-Service Restaurants
+72,2.0159136086654008e+18,[0.3  0.55 0.15],[0.3  0.25 0.4  0.05],1.0,2.0,Low,5_person,0,married_couple,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+73,3.095603292170357e+18,[0.45 0.35 0.2 ],[0.25 0.1  0.6  0.05],0.0,0.0,Low,1_person,0,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Walking,Limited-Service Restaurants
+74,2.6020122867935887e+18,[0.15 0.3  0.55],[0.21 0.04 0.73 0.02],2.0,1.0,Moderate,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+75,1.7975056229704835e+19,[0.12 0.26 0.62],[0.26 0.24 0.39 0.11],2.0,2.0,Low,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+76,4.78788659421534e+18,[0.2 0.2 0.6],[0.42 0.09 0.47 0.02],1.0,0.0,Low,2_person,2,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Limited-Service Restaurants
+77,1.2887116290219332e+19,[0.15 0.35 0.5 ],[0.24489796 0.05102041 0.66326531 0.04081633],1.0,0.0,Ultra High,2_person,0,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+78,7.795066969776755e+18,[0.2  0.42 0.38],[0.31 0.08 0.58 0.03],2.0,2.0,Moderate,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+79,1.5473820774128191e+19,[0.15 0.25 0.6 ],[0.15 0.06 0.73 0.06],2.0,0.0,Very High,4_person,3_plus,family_single,Senior,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+80,6.539512779017173e+18,[0.42 0.54 0.04],[0.36 0.15 0.42 0.07],0.0,2.0,Moderate,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+81,6.279005694274863e+18,[0.2  0.44 0.36],[0.3  0.1  0.55 0.05],0.0,0.0,Moderate,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+82,1.1945390963355806e+19,[0.25 0.27 0.48],[0.1  0.45 0.35 0.1 ],0.0,1.0,Moderate,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Nonalcoholic Bars
+83,1.3580224128204458e+19,[0.16 0.21 0.63],[0.41 0.09 0.46 0.04],2.0,0.0,Moderate,5_person,3_plus,married_couple,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Limited-Service Restaurants
+84,1.184758576238401e+18,[0.17391304 0.26086957 0.56521739],[0.16326531 0.32653061 0.46938776 0.04081633],2.0,1.0,Ultra High,2_person,2,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+85,9.134688859656068e+18,[0.2  0.35 0.45],[0.33673469 0.15306122 0.44897959 0.06122449],1.0,2.0,Debt,2_person,1,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Public_transport,Full-Service Restaurants
+86,1.75969900527818e+19,[0.2  0.52 0.28],[0.14 0.21 0.54 0.11],1.0,0.0,Ultra High,1_person,0,living_alone,Middle Age,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+87,1.4237046771034547e+18,[0.2 0.2 0.6],[0.25510204 0.10204082 0.6122449  0.03061224],2.0,0.0,Ultra High,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+88,1.232957273984122e+18,[0.1  0.26 0.64],[0.26 0.12 0.54 0.08],2.0,2.0,Moderate,2_person,2,nonfamily_single,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+89,1.2549949260663188e+16,[0.3  0.55 0.15],[0.28 0.24 0.34 0.14],2.0,0.0,Ultra High,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Limited-Service Restaurants
+90,1.2754172937398485e+19,[0.6  0.35 0.05],[0.15 0.26 0.48 0.11],1.0,1.0,Low,3_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Nonalcoholic Bars
+91,5.86810538286761e+18,[0.15 0.7  0.15],[0.16 0.07 0.73 0.04],0.0,1.0,Debt,3_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Walking,Nonalcoholic Bars
+92,1.5548476353222871e+19,[0.4  0.45 0.15],[0.31 0.09 0.56 0.04],1.0,0.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Limited-Service Restaurants
+93,1.049552115486953e+19,[0.15 0.3  0.55],[0.16 0.31 0.46 0.07],2.0,2.0,Ultra High,7_plus_person,1,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+94,1.0525736188457144e+19,[0.15 0.4  0.45],[0.15 0.25 0.55 0.05],1.0,2.0,Very High,1_person,1,living_alone,Senior,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+95,1.5076856796173384e+19,[0.12 0.26 0.62],[0.25 0.15 0.55 0.05],1.0,2.0,High,2_person,2,married_couple,Middle Age,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+96,8.890651736448819e+18,[0.1  0.35 0.55],[0.35 0.15 0.45 0.05],2.0,1.0,Debt,4_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+97,1.5745586233024612e+19,[0.55 0.35 0.1 ],[0.45 0.15 0.28 0.12],0.0,2.0,Debt,2_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+98,5.948174127995676e+18,[0.2  0.55 0.25],[0.25 0.1  0.6  0.05],1.0,2.0,Moderate,2_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+99,1.3160703201466012e+19,[0.55 0.3  0.15],[0.28 0.12 0.54 0.06],0.0,0.0,High,1_person,0,living_alone,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Limited-Service Restaurants
+100,3.186884988304475e+18,[0.32 0.52 0.16],[0.24 0.16 0.45 0.15],2.0,3.0,Debt,4_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Drinking Places
+101,7.071141664606755e+18,[0.15 0.3  0.55],[0.31 0.08 0.58 0.03],2.0,0.0,Ultra High,2_person,2,married_couple,Middle Age,Limited-Service Restaurants,Walking,0.0,0,Car,Limited-Service Restaurants
+102,4.5918479664887546e+17,[0.15 0.23 0.62],[0.26804124 0.12371134 0.59793814 0.01030928],1.0,2.0,Ultra High,1_person,1,living_alone,Senior,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+103,7.149562998195157e+18,[0.2 0.3 0.5],[0.07 0.25 0.65 0.03],2.0,2.0,Ultra High,2_person,1,family_single,Senior,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+104,1.1957037987574356e+19,[0.41 0.37 0.22],[0.15 0.35 0.42 0.08],0.0,2.0,Moderate,3_person,0,married_couple,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+105,2.270223271390246e+18,[0.16 0.12 0.72],[0.26315789 0.10526316 0.57894737 0.05263158],2.0,2.0,Moderate,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+106,1.7820451355316406e+18,[0.25 0.4  0.35],[0.3 0.1 0.5 0.1],2.0,3.0,Moderate,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Drinking Places
+107,6.887873864471251e+18,[0.35 0.25 0.4 ],[0.26 0.05 0.67 0.02],0.0,0.0,Low,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Limited-Service Restaurants
+108,1.0258552510066248e+19,[0.4  0.45 0.15],[0.13 0.13 0.74 0.  ],1.0,2.0,Moderate,4_person,2,nonfamily_single,Middle Age,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+109,1.155173274183743e+19,[0.1  0.25 0.65],[0.1 0.2 0.6 0.1],2.0,2.0,Debt,6_person,2,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+110,5.24119947441084e+18,[0.17 0.48 0.35],[0.36 0.08 0.52 0.04],0.0,2.0,Moderate,2_person,2,nonfamily_single,Middle Age,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+111,8.985566402683585e+17,[0.27 0.26 0.47],[0.32 0.09 0.55 0.04],2.0,2.0,High,2_person,2,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+112,1.2910482655259742e+19,[0.15 0.35 0.5 ],[0.3  0.1  0.55 0.05],2.0,2.0,Moderate,7_plus_person,1,married_couple,Adult,Drinking Places,Walking,3.0,0,Car,Full-Service Restaurants
+113,1.1503374881512067e+19,[0.2  0.75 0.05],[0.27835052 0.15463918 0.49484536 0.07216495],1.0,0.0,Debt,1_person,0,living_alone,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+114,1.612583316702532e+19,[0.35 0.6  0.05],[0.21 0.06 0.62 0.11],1.0,0.0,Low,1_person,0,living_alone,Senior,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+115,1.5765750785635946e+19,[0.3  0.55 0.15],[0.26 0.1  0.58 0.06],0.0,2.0,High,1_person,0,living_alone,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Walking,Full-Service Restaurants
+116,8.669882308469954e+18,[0.17 0.28 0.55],[0.2  0.25 0.45 0.1 ],1.0,0.0,Moderate,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Limited-Service Restaurants
+117,7.464689094731272e+18,[0.38 0.29 0.33],[0.35 0.15 0.45 0.05],0.0,0.0,Low,2_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Limited-Service Restaurants
+118,1.1094034985913936e+19,[0.2  0.25 0.55],[0.26530612 0.12244898 0.57142857 0.04081633],2.0,2.0,Moderate,2_person,1,nonfamily_single,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+119,8.963341165582495e+18,[0.22 0.36 0.42],[0.26 0.15 0.53 0.06],2.0,1.0,Low,3_person,1,married_couple,Middle Age,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+120,8.551332300465706e+18,[0.25 0.2  0.55],[0.15 0.25 0.55 0.05],2.0,3.0,High,7_plus_person,2,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Drinking Places
+121,2.0932442368432136e+18,[0.24 0.33 0.43],[0.25 0.1  0.6  0.05],1.0,2.0,Low,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+122,7.191514771247198e+18,[0.28 0.42 0.3 ],[0.1  0.05 0.7  0.15],0.0,2.0,Moderate,3_person,1,family_single,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+123,7.426253887404767e+17,[0.24 0.44 0.32],[0.12 0.21 0.55 0.12],2.0,2.0,Moderate,4_person,1,family_single,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+125,9.32461144264644e+18,[0.26 0.22 0.52],[0.34 0.11 0.45 0.1 ],0.0,2.0,Moderate,4_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+126,9.953173655904098e+18,[0.22 0.42 0.36],[0.01010101 0.36363636 0.55555556 0.07070707],1.0,2.0,Moderate,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+128,1.2342943704103471e+19,[0.2 0.3 0.5],[0.26 0.15 0.54 0.05],2.0,2.0,High,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+129,1.4310046302062789e+19,[0.25 0.2  0.55],[0.31313131 0.12121212 0.54545455 0.02020202],2.0,2.0,Low,2_person,1,nonfamily_single,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+131,1.2119313620028903e+19,[0.35 0.55 0.1 ],[0.35 0.1  0.5  0.05],1.0,2.0,Low,3_person,0,family_single,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+132,8.522720164181306e+18,[0.21 0.37 0.42],[0.27 0.06 0.64 0.03],1.0,0.0,Moderate,3_person,3_plus,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+133,7.117996337404711e+18,[0.25 0.65 0.1 ],[0.15 0.25 0.55 0.05],1.0,1.0,Low,4_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Nonalcoholic Bars
+135,1.469615573196586e+19,[0.2 0.2 0.6],[0.36 0.1  0.52 0.02],2.0,1.0,Low,2_person,2,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+136,1.5564259188311986e+19,[0.05 0.94 0.01],[0.32 0.43 0.21 0.04],1.0,0.0,Low,2_person,0,nonfamily_single,Elderly,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Limited-Service Restaurants
+137,1.1769129396149996e+19,[0.55 0.3  0.15],[0.15 0.05 0.8  0.  ],0.0,2.0,Low,1_person,0,living_alone,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+138,1.2693320177452792e+19,[0.2  0.35 0.45],[0.18367347 0.05102041 0.73469388 0.03061224],2.0,2.0,Ultra High,1_person,1,living_alone,Adult,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+139,1.5637824811907934e+19,[0.2 0.3 0.5],[0.26 0.12 0.56 0.06],1.0,1.0,High,2_person,1,married_couple,Senior,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Nonalcoholic Bars
+140,1.1580927038675762e+17,[0.15 0.2  0.65],[0.42 0.16 0.35 0.07],1.0,0.0,Ultra High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+141,1.4296655319794586e+18,[0.2  0.25 0.55],[0.35 0.09 0.54 0.02],2.0,2.0,Low,4_person,2,family_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+142,6.432412528695932e+18,[0.22 0.42 0.36],[0.3  0.1  0.55 0.05],2.0,0.0,Low,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+144,3.294024389639315e+18,[0.18 0.58 0.24],[0.15151515 0.08080808 0.72727273 0.04040404],1.0,0.0,Debt,3_person,2,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Public_transport,Limited-Service Restaurants
+145,2.448535250358194e+17,[0.2 0.5 0.3],[0.15 0.3  0.5  0.05],0.0,0.0,Debt,4_person,2,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+147,5.014805299639532e+18,[0.2  0.55 0.25],[0.55 0.15 0.3  0.  ],1.0,2.0,Low,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+148,4.521876939796267e+18,[0.15 0.25 0.6 ],[0.26 0.13 0.58 0.03],2.0,2.0,Ultra High,4_person,2,married_couple,Adult,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+149,6.443564417639376e+18,[0.25 0.35 0.4 ],[0.38 0.12 0.45 0.05],0.0,2.0,Ultra High,1_person,1,living_alone,Young Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+150,4.162792400160358e+17,[0.32 0.36 0.32],[0.25 0.1  0.6  0.05],0.0,1.0,Ultra High,2_person,1,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Walking,Nonalcoholic Bars
+151,2.67126342451353e+18,[0.11 0.52 0.37],[0.08 0.24 0.56 0.12],2.0,1.0,Ultra High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+154,1.6787231540055753e+19,[0.1  0.35 0.55],[0.15789474 0.31578947 0.47368421 0.05263158],2.0,2.0,Low,1_person,1,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+155,7.198528737325471e+18,[0.36 0.42 0.22],[0.31 0.08 0.42 0.19],0.0,3.0,High,2_person,2,nonfamily_single,Young Adult,Drinking Places,Car,3.0,2,Walking,Drinking Places
+156,4.373954470066979e+18,[0.23 0.42 0.35],[0.26 0.12 0.62 0.  ],2.0,2.0,Moderate,3_person,1,family_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+157,1.7429523622377304e+19,[0.33 0.42 0.25],[0.35 0.1  0.5  0.05],0.0,3.0,Moderate,3_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Drinking Places
+158,1.6245814866070426e+19,[0.25 0.45 0.3 ],[0.18 0.06 0.73 0.03],0.0,2.0,Debt,3_person,1,married_couple,Adult,Drinking Places,Public_transport,3.0,1,Walking,Full-Service Restaurants
+159,1.3812313909209328e+19,[0.2  0.35 0.45],[0.26 0.13 0.56 0.05],2.0,1.0,Low,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+160,1.3620485436059478e+19,[0.5 0.2 0.3],[0.27835052 0.12371134 0.55670103 0.04123711],1.0,2.0,Ultra High,3_person,1,married_couple,Adult,Drinking Places,Walking,3.0,0,Public_transport,Full-Service Restaurants
+161,8.224673353663336e+18,[0.2  0.35 0.45],[0.24752475 0.04950495 0.69306931 0.00990099],1.0,0.0,Ultra High,2_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Limited-Service Restaurants
+163,1.602885113409015e+19,[0.43 0.35 0.22],[0.6  0.05 0.3  0.05],0.0,0.0,Low,4_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Limited-Service Restaurants
+164,5.14190210341808e+17,[0.2  0.68 0.12],[0.3  0.1  0.55 0.05],1.0,0.0,Low,2_person,1,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Limited-Service Restaurants
+165,1.417664517275699e+19,[0.35 0.45 0.2 ],[0.2  0.25 0.45 0.1 ],1.0,2.0,Low,3_person,0,family_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+166,1.5065145737652582e+19,[0.35 0.45 0.2 ],[0.12121212 0.28282828 0.55555556 0.04040404],1.0,1.0,Low,1_person,0,living_alone,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Nonalcoholic Bars
+167,2.564975616672589e+18,[0.42 0.33 0.25],[0.25 0.1  0.55 0.1 ],1.0,2.0,Debt,5_person,3_plus,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+168,1.4894292490515763e+19,[0.62 0.24 0.14],[0.36 0.17 0.43 0.04],2.0,2.0,Debt,4_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+169,7.937834143401987e+17,[0.1  0.35 0.55],[0.26 0.08 0.62 0.04],0.0,2.0,Low,1_person,1,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+170,6.768776746102918e+18,[0.15 0.55 0.3 ],[0.2 0.1 0.6 0.1],1.0,3.0,Low,7_plus_person,1,family_single,Senior,Drinking Places,Car,3.0,2,Public_transport,Drinking Places
+171,7.926683067108646e+18,[0.25 0.2  0.55],[0.2020202  0.07070707 0.70707071 0.02020202],1.0,2.0,Low,4_person,1,family_single,Senior,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+173,1.59347687860768e+19,[0.27 0.28 0.45],[0.25 0.15 0.51 0.09],0.0,2.0,Ultra High,1_person,1,living_alone,Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+174,6.090262339997255e+18,[0.26 0.53 0.21],[0.3  0.05 0.6  0.05],0.0,0.0,Low,2_person,0,nonfamily_single,Young Adult,Drinking Places,Walking,3.0,0,Walking,Limited-Service Restaurants
+175,7.143113190477823e+17,[0.4  0.35 0.25],[0.05 0.26 0.56 0.13],1.0,2.0,Very High,2_person,0,nonfamily_single,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+176,1.544962035937942e+19,[0.15 0.25 0.6 ],[0.08 0.08 0.72 0.12],1.0,2.0,Low,2_person,1,family_single,Elderly,Drinking Places,Walking,3.0,0,Public_transport,Full-Service Restaurants
+177,3.2980010849829683e+18,[0.55 0.4  0.05],[0.2  0.3  0.45 0.05],0.0,0.0,Low,7_plus_person,0,nonfamily_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Walking,Limited-Service Restaurants
+178,6.748861442720223e+18,[0.15 0.15 0.7 ],[0.14 0.06 0.78 0.02],2.0,2.0,Low,2_person,1,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+179,1.45053432015072e+19,[0.35 0.15 0.5 ],[0.25773196 0.10309278 0.63917526 0.        ],1.0,1.0,Very High,1_person,1,living_alone,Senior,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Nonalcoholic Bars
+180,1.926029605087289e+18,[0.3  0.25 0.45],[0.28 0.12 0.55 0.05],2.0,1.0,High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Nonalcoholic Bars
+181,5.160078523488719e+18,[0.2  0.55 0.25],[0.55 0.1  0.25 0.1 ],1.0,0.0,Debt,6_person,1,married_couple,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+182,1.1564641950012226e+19,[0.1  0.25 0.65],[0.1  0.21 0.64 0.05],0.0,2.0,Low,2_person,0,family_single,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+183,4.714770184734711e+18,[0.55 0.36 0.09],[0.5  0.15 0.25 0.1 ],2.0,1.0,Debt,2_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Nonalcoholic Bars
+184,1.4355658665372422e+19,[0.25 0.65 0.1 ],[0.51 0.15 0.29 0.05],1.0,0.0,Debt,4_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Limited-Service Restaurants
+185,1.6910375169057405e+19,[0.45 0.4  0.15],[0.35 0.11 0.51 0.03],2.0,0.0,Moderate,2_person,2,married_couple,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+186,1.5120515512110492e+19,[0.1  0.55 0.35],[0.1  0.26 0.62 0.02],2.0,2.0,High,3_person,0,married_couple,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+187,5.585663694520604e+18,[0.15 0.3  0.55],[0.26 0.16 0.52 0.06],2.0,0.0,Ultra High,3_person,2,married_couple,Middle Age,Limited-Service Restaurants,Car,0.0,2,Car,Limited-Service Restaurants
+188,2.311668880180902e+18,[0.15 0.52 0.33],[0.35 0.05 0.55 0.05],1.0,2.0,Moderate,4_person,1,family_single,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+189,1.0661264559972106e+19,[0.1  0.22 0.68],[0.14 0.36 0.46 0.04],2.0,1.0,Debt,2_person,2,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Nonalcoholic Bars
+190,7.673575743378635e+18,[0.1  0.28 0.62],[0.25773196 0.12371134 0.56701031 0.05154639],1.0,2.0,Ultra High,6_person,1,married_couple,Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+191,1.0839180546127014e+19,[0.1  0.35 0.55],[0.15151515 0.24242424 0.55555556 0.05050505],1.0,1.0,High,2_person,2,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Public_transport,Nonalcoholic Bars
+192,8.364484361509201e+17,[0.25 0.55 0.2 ],[0.1  0.2  0.65 0.05],0.0,2.0,Ultra High,1_person,1,living_alone,Senior,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+193,1.7782807149667387e+19,[0.25 0.5  0.25],[0.3  0.1  0.55 0.05],1.0,2.0,Very High,1_person,0,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+194,2.898198006134125e+18,[0.18085106 0.4787234  0.34042553],[0.23 0.22 0.46 0.09],2.0,2.0,Debt,4_person,1,married_couple,Middle Age,Drinking Places,Public_transport,3.0,1,Car,Full-Service Restaurants
+195,1.3061636890794148e+19,[0.25 0.5  0.25],[0.2020202  0.1010101  0.65656566 0.04040404],1.0,0.0,Low,3_person,0,family_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Limited-Service Restaurants
+196,1.341911747143503e+19,[0.2  0.35 0.45],[0.26 0.14 0.57 0.03],2.0,0.0,High,2_person,2,family_single,Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Limited-Service Restaurants
+197,5.157481326617438e+18,[0.45 0.3  0.25],[0.27 0.14 0.56 0.03],1.0,2.0,Moderate,1_person,1,living_alone,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+198,3.226095272170787e+18,[0.1  0.35 0.55],[0.26 0.09 0.62 0.03],1.0,2.0,Very High,1_person,1,living_alone,Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+199,6.549902704176828e+18,[0.31 0.47 0.22],[0.36 0.06 0.55 0.03],2.0,0.0,Moderate,6_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Limited-Service Restaurants
+200,1.3187028747541365e+19,[0.26 0.26 0.48],[0.15 0.25 0.55 0.05],2.0,2.0,Moderate,6_person,2,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+201,4.426286444035104e+18,[0.25 0.55 0.2 ],[0.29591837 0.12244898 0.54081633 0.04081633],1.0,2.0,Low,1_person,1,living_alone,Senior,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+202,1.808957528302214e+19,[0.5  0.45 0.05],[0.3  0.1  0.55 0.05],0.0,2.0,Low,4_person,1,married_couple,Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+203,1.7665380994271383e+18,[0.08 0.26 0.66],[0.26 0.16 0.52 0.06],1.0,1.0,Ultra High,4_person,2,married_couple,Adult,Drinking Places,Walking,3.0,0,Public_transport,Nonalcoholic Bars
+204,3.5125908636477824e+18,[0.24 0.44 0.32],[0.1  0.3  0.55 0.05],2.0,1.0,Low,5_person,1,married_couple,Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Nonalcoholic Bars
+205,9.475830470737754e+18,[0.12 0.53 0.35],[0.21 0.1  0.64 0.05],1.0,1.0,Low,5_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Nonalcoholic Bars
+206,1.135491447036403e+19,[0.2  0.35 0.45],[0.47 0.12 0.38 0.03],1.0,2.0,Moderate,4_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+207,4.890394070341263e+18,[0.35 0.4  0.25],[0.32 0.16 0.45 0.07],1.0,2.0,High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+208,1.796743966829469e+19,[0.32 0.48 0.2 ],[0.25 0.05 0.65 0.05],0.0,2.0,Moderate,4_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Walking,Full-Service Restaurants
+209,5.205717178631919e+18,[0.12 0.62 0.26],[0.26 0.08 0.61 0.05],1.0,0.0,Moderate,2_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Limited-Service Restaurants
+210,6.198540790237243e+18,[0.15 0.35 0.5 ],[0.16129032 0.34408602 0.40860215 0.08602151],2.0,1.0,Debt,3_person,1,family_single,Elderly,Drinking Places,Car,3.0,2,Car,Nonalcoholic Bars
+211,7.622840282158668e+18,[0.15 0.35 0.5 ],[0.1  0.45 0.4  0.05],1.0,2.0,Moderate,2_person,1,family_single,Elderly,Drinking Places,Car,3.0,2,Public_transport,Full-Service Restaurants
+212,4.298949639678575e+18,[0.1  0.25 0.65],[0.24 0.08 0.62 0.06],2.0,0.0,High,2_person,1,family_single,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+213,1.033265558046613e+19,[0.22 0.26 0.52],[0.31 0.08 0.55 0.06],0.0,0.0,Ultra High,4_person,2,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Walking,Limited-Service Restaurants
+215,7.240222721657694e+18,[0.1  0.32 0.58],[0.3  0.15 0.5  0.05],2.0,1.0,Low,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+216,5.30607872887863e+18,[0.22 0.23 0.55],[0.2  0.05 0.7  0.05],2.0,0.0,Low,5_person,2,married_couple,Young Adult,Drinking Places,Public_transport,3.0,1,Car,Limited-Service Restaurants
+217,1.348259937664248e+19,[0.55 0.25 0.2 ],[0.15 0.45 0.35 0.05],0.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+218,3.750643807980524e+18,[0.45 0.15 0.4 ],[0.09090909 0.13131313 0.62626263 0.15151515],2.0,1.0,Ultra High,2_person,2,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+219,1.0497715439015246e+19,[0.15 0.23 0.62],[0.25 0.2  0.55 0.  ],1.0,1.0,Moderate,7_plus_person,1,family_single,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Nonalcoholic Bars
+220,1.158346158699116e+19,[0.1 0.3 0.6],[0.15 0.05 0.8  0.  ],2.0,2.0,Low,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+221,7.37606326494099e+18,[0.1  0.25 0.65],[0.3  0.1  0.55 0.05],2.0,2.0,Low,3_person,2,married_couple,Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+222,3.7189304659345454e+18,[0.15 0.2  0.65],[0.18 0.06 0.73 0.03],2.0,2.0,Low,3_person,3_plus,married_couple,Middle Age,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+223,1.0414118408981197e+19,[0.32 0.52 0.16],[0.35 0.15 0.4  0.1 ],1.0,2.0,Low,7_plus_person,3_plus,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+224,1.7434823053264474e+19,[0.2  0.32 0.48],[0.09 0.26 0.55 0.1 ],2.0,0.0,Low,2_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+225,1.668913937294147e+19,[0.11 0.22 0.67],[0.05 0.3  0.6  0.05],1.0,2.0,High,6_person,3_plus,married_couple,Middle Age,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+226,8.852825502258281e+18,[0.15 0.6  0.25],[0.19 0.18 0.48 0.15],1.0,0.0,Low,4_person,1,married_couple,Elderly,Drinking Places,Walking,3.0,0,Public_transport,Limited-Service Restaurants
+227,7.369593124817718e+17,[0.2  0.45 0.35],[0.25 0.1  0.6  0.05],1.0,0.0,Moderate,4_person,1,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+228,7.057424693016211e+18,[0.22 0.33 0.45],[0.25252525 0.15151515 0.55555556 0.04040404],1.0,2.0,Low,4_person,3_plus,married_couple,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+229,1.774091434520146e+19,[0.15 0.55 0.3 ],[0.26 0.17 0.53 0.04],1.0,2.0,Moderate,1_person,0,living_alone,Elderly,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+230,1.3856019269257232e+19,[0.24489796 0.2244898  0.53061224],[0.05 0.2  0.7  0.05],1.0,2.0,Debt,6_person,1,married_couple,Elderly,Drinking Places,Car,3.0,2,Public_transport,Full-Service Restaurants
+231,1.3424238389544174e+19,[0.17 0.27 0.56],[0.11 0.21 0.62 0.06],1.0,2.0,Low,2_person,1,family_single,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+232,1.4888200929068182e+19,[0.4  0.35 0.25],[0.54 0.23 0.13 0.1 ],0.0,0.0,Low,3_person,0,family_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Limited-Service Restaurants
+233,3.109268700869754e+18,[0.45 0.35 0.2 ],[0.3  0.1  0.55 0.05],1.0,0.0,Low,7_plus_person,0,nonfamily_single,Elderly,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Limited-Service Restaurants
+234,2.5748451136069934e+18,[0.42 0.31 0.27],[0.28 0.12 0.55 0.05],2.0,0.0,Low,3_person,1,family_single,Young Adult,Limited-Service Restaurants,Car,0.0,2,Car,Limited-Service Restaurants
+235,1.6846716946146816e+19,[0.05 0.15 0.8 ],[0.7804878  0.04878049 0.14634146 0.02439024],2.0,0.0,Debt,4_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+236,8.869774573160285e+18,[0.7  0.12 0.18],[0.4  0.15 0.25 0.2 ],0.0,2.0,Debt,4_person,2,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+237,8.489533099239065e+18,[0.22 0.36 0.42],[0.14285714 0.24489796 0.56122449 0.05102041],0.0,2.0,Very High,4_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+238,9.093706402709124e+18,[0.15 0.35 0.5 ],[0.05 0.2  0.7  0.05],1.0,2.0,Very High,2_person,2,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+239,1.7511139861946012e+19,[0.15 0.4  0.45],[0.25 0.15 0.55 0.05],2.0,0.0,Moderate,2_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Limited-Service Restaurants
+241,1.3897396748104389e+19,[0.27777778 0.72222222 0.        ],[0.35 0.05 0.55 0.05],1.0,0.0,Low,1_person,0,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+242,1.3430480577689766e+19,[0.2  0.35 0.45],[0.25 0.1  0.6  0.05],1.0,2.0,Very High,2_person,0,family_single,Middle Age,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+243,1.5920614207076098e+19,[0.25 0.2  0.55],[0.15 0.25 0.55 0.05],0.0,2.0,High,4_person,2,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+244,8.144385084048352e+16,[0.2  0.25 0.55],[0.14 0.28 0.52 0.06],2.0,1.0,High,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Walking,1.0,0,Car,Nonalcoholic Bars
+245,1.7988612970851488e+19,[0.55 0.15 0.3 ],[0.32 0.23 0.21 0.24],2.0,0.0,High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+246,7.582728293643774e+16,[0.28 0.2  0.52],[0.15 0.09 0.72 0.04],2.0,2.0,Low,5_person,2,family_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Full-Service Restaurants
+247,6.67887611539351e+18,[0.275 0.35  0.375],[0.3 0.1 0.5 0.1],2.0,1.0,High,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Nonalcoholic Bars
+248,1.2912209976519118e+16,[0.1  0.25 0.65],[0.20618557 0.06185567 0.72164948 0.01030928],2.0,0.0,Ultra High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+249,2.751481353789279e+18,[0.2  0.25 0.55],[0.11 0.25 0.56 0.08],0.0,2.0,Low,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+250,3.635632372018154e+17,[0.2  0.35 0.45],[0.1  0.2  0.65 0.05],2.0,1.0,Ultra High,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+252,2.5338295416240343e+18,[0.25 0.32 0.43],[0.15 0.25 0.53 0.07],2.0,2.0,Ultra High,1_person,1,living_alone,Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+253,1.455361208472237e+19,[0.26 0.52 0.22],[0.5  0.05 0.4  0.05],2.0,0.0,Debt,1_person,0,living_alone,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+255,8.408154726327623e+18,[0.1 0.2 0.7],[0.16 0.06 0.76 0.02],1.0,2.0,Ultra High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+257,1.7099348008320664e+19,[0.12 0.62 0.26],[0.25 0.05 0.65 0.05],1.0,0.0,Debt,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+258,6.079851789664115e+18,[0.25 0.2  0.55],[0.14 0.26 0.57 0.03],1.0,1.0,High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Nonalcoholic Bars
+261,6.268984441010605e+18,[0.23 0.45 0.32],[0.16326531 0.36734694 0.42857143 0.04081633],0.0,2.0,Debt,4_person,2,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+262,6.493759994371164e+18,[0.25 0.2  0.55],[0.12 0.24 0.62 0.02],2.0,1.0,High,3_person,2,married_couple,Senior,Limited-Service Restaurants,Walking,0.0,0,Car,Nonalcoholic Bars
+263,7.405047717418113e+18,[0.25 0.35 0.4 ],[0.35 0.1  0.5  0.05],1.0,2.0,High,3_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Car,0.0,2,Public_transport,Full-Service Restaurants
+264,1.6138816169237092e+19,[0.1  0.35 0.55],[0.15306122 0.05102041 0.76530612 0.03061224],2.0,2.0,Moderate,2_person,1,family_single,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+265,1.039843412546037e+19,[0.05 0.33 0.62],[0.15 0.2  0.55 0.1 ],2.0,2.0,Low,1_person,2,living_alone,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+266,1.2070989314275586e+19,[0.2  0.45 0.35],[0.25 0.1  0.6  0.05],2.0,2.0,Ultra High,2_person,2,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+267,1.394975120368105e+19,[0.21 0.43 0.36],[0.26 0.12 0.58 0.04],0.0,2.0,Low,1_person,1,living_alone,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+269,6.872559369107271e+18,[0.1  0.35 0.55],[0.25 0.1  0.6  0.05],1.0,2.0,Low,3_person,1,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+271,3.703555463066902e+18,[0.36 0.42 0.22],[0.3  0.1  0.55 0.05],1.0,2.0,Moderate,5_person,1,married_couple,Senior,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+272,1.0883670767913194e+18,[0.2 0.3 0.5],[0.25 0.05 0.65 0.05],2.0,0.0,Very High,4_person,1,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+273,1.0589763906421647e+19,[0.25 0.55 0.2 ],[0.12 0.25 0.55 0.08],1.0,0.0,Ultra High,1_person,0,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+274,1.3450116247584688e+19,[0.  0.5 0.5],[0.1  0.35 0.5  0.05],2.0,1.0,Low,3_person,1,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+275,2.662491730926654e+18,[0.2 0.3 0.5],[0.21052632 0.31578947 0.42105263 0.05263158],2.0,1.0,Ultra High,2_person,1,nonfamily_single,Adult,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+277,8.716573544711501e+18,[0.15 0.4  0.45],[0.08 0.23 0.64 0.05],0.0,0.0,Moderate,4_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+278,5.198250332827099e+18,[0.26 0.31 0.43],[0.27 0.16 0.47 0.1 ],2.0,2.0,High,3_person,2,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+279,1.9440151609434245e+18,[0.15 0.3  0.55],[0.3  0.1  0.55 0.05],2.0,1.0,Ultra High,1_person,2,living_alone,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Nonalcoholic Bars
+280,1.4125515008498584e+19,[0.2  0.37 0.43],[0.25 0.1  0.6  0.05],1.0,2.0,Low,3_person,1,family_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+281,8.525318690338083e+18,[0.16 0.32 0.52],[0.35 0.1  0.5  0.05],2.0,2.0,Debt,2_person,2,married_couple,Senior,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+282,1.5831933488909677e+19,[0.1  0.85 0.05],[0.28 0.2  0.35 0.17],1.0,0.0,Debt,3_person,0,married_couple,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Limited-Service Restaurants
+283,1.4651155448102795e+19,[0.15 0.85 0.  ],[0.65 0.1  0.21 0.04],0.0,2.0,Low,5_person,0,married_couple,Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+284,1.5692960230325678e+18,[0.25 0.55 0.2 ],[0.12 0.16 0.64 0.08],1.0,2.0,Low,3_person,0,nonfamily_single,Middle Age,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+285,8.634896593102525e+18,[0.13 0.42 0.45],[0.26 0.09 0.62 0.03],2.0,2.0,Very High,4_person,2,family_single,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+286,9.554064840606558e+18,[0.3 0.4 0.3],[0.35 0.1  0.5  0.05],2.0,2.0,Debt,5_person,0,family_single,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+287,6.328325801843055e+18,[0.15 0.45 0.4 ],[0.35 0.1  0.5  0.05],2.0,2.0,Moderate,2_person,1,married_couple,Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+288,1.4574166459397702e+19,[0.3  0.25 0.45],[0.12 0.26 0.52 0.1 ],0.0,2.0,Low,2_person,1,married_couple,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+289,3.1271839268852874e+18,[0.25 0.3  0.45],[0.25 0.15 0.55 0.05],0.0,2.0,Moderate,1_person,1,living_alone,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+290,1.6882315518875447e+19,[0.1  0.35 0.55],[0.20512821 0.05128205 0.71794872 0.02564103],1.0,2.0,Moderate,3_person,2,family_single,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+291,6.822358577456115e+17,[0.2 0.3 0.5],[0.3  0.05 0.6  0.05],2.0,2.0,Ultra High,2_person,1,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+293,4.960087033948083e+18,[0.1 0.2 0.7],[0.35 0.15 0.45 0.05],2.0,0.0,Moderate,2_person,1,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+294,7.118377202205565e+18,[0.2 0.2 0.6],[0.12 0.25 0.55 0.08],2.0,2.0,Ultra High,2_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+295,2.006055643302046e+18,[0.08 0.39 0.53],[0.25 0.15 0.55 0.05],1.0,0.0,Moderate,2_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Limited-Service Restaurants
+296,1.343153421638884e+19,[0.13 0.7  0.17],[0.13402062 0.37113402 0.43298969 0.06185567],2.0,0.0,Low,4_person,1,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+297,1.6519670090578632e+18,[0.14 0.53 0.33],[0.35 0.05 0.55 0.05],2.0,0.0,Ultra High,7_plus_person,1,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+298,1.464536023720539e+19,[0.12 0.36 0.52],[0.11111111 0.31313131 0.53535354 0.04040404],2.0,2.0,Ultra High,3_person,2,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+300,6.129402692861172e+17,[0.2  0.25 0.55],[0.10309278 0.20618557 0.6185567  0.07216495],2.0,2.0,Very High,3_person,3_plus,family_single,Senior,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+301,1.4234265968768387e+19,[0.17 0.21 0.62],[0.11 0.15 0.71 0.03],0.0,2.0,Low,7_plus_person,3_plus,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+302,1.83225866475054e+19,[0.33 0.29 0.38],[0.26 0.08 0.62 0.04],2.0,0.0,Ultra High,2_person,1,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+303,1.1814909647554933e+19,[0.22 0.42 0.36],[0.25 0.05 0.65 0.05],1.0,0.0,Low,6_person,3_plus,married_couple,Middle Age,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Limited-Service Restaurants
+304,1.4249087796281858e+19,[0.17 0.45 0.38],[0.25 0.15 0.5  0.1 ],2.0,2.0,Ultra High,3_person,1,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+306,5.03626408811575e+18,[0.23 0.35 0.42],[0.26 0.16 0.52 0.06],2.0,2.0,Low,2_person,2,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+307,5.925507614833934e+18,[0.1 0.2 0.7],[0.17 0.43 0.24 0.16],1.0,0.0,Debt,5_person,2,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Public_transport,Limited-Service Restaurants
+308,7.125447460173298e+18,[0.1  0.38 0.52],[0.25 0.15 0.55 0.05],2.0,1.0,Moderate,2_person,1,married_couple,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Nonalcoholic Bars
+309,1.480585926989117e+19,[0. 1. 0.],[0.26262626 0.13131313 0.56565657 0.04040404],1.0,1.0,Low,7_plus_person,0,nonfamily_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Nonalcoholic Bars
+310,1.480585926989117e+19,[0. 1. 0.],[0.26262626 0.13131313 0.56565657 0.04040404],1.0,1.0,Low,7_plus_person,0,nonfamily_single,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Nonalcoholic Bars
+311,1.480585926989117e+19,[0.14 0.72 0.14],[0.53 0.27 0.15 0.05],1.0,0.0,Low,7_plus_person,0,nonfamily_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Limited-Service Restaurants
+312,1.480585926989117e+19,[0.14 0.72 0.14],[0.53 0.27 0.15 0.05],1.0,0.0,Low,7_plus_person,0,nonfamily_single,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Limited-Service Restaurants
+313,1.3927998775046631e+19,[0.2  0.26 0.54],[0.12 0.13 0.69 0.06],2.0,2.0,Low,2_person,1,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+314,1.047001802019766e+19,[0.15 0.25 0.6 ],[0.15 0.1  0.73 0.02],2.0,2.0,Very High,3_person,3_plus,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+315,1.7084590935646968e+19,[0.31 0.48 0.21],[0.4  0.1  0.45 0.05],0.0,2.0,Very High,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+316,1.4632236921216578e+19,[0.2  0.25 0.55],[0.25 0.05 0.65 0.05],2.0,2.0,Moderate,3_person,1,married_couple,Adult,Drinking Places,Public_transport,3.0,1,Car,Full-Service Restaurants
+317,1.2257507258757614e+19,[0.31 0.55 0.14],[0.15 0.05 0.75 0.05],1.0,2.0,Low,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+318,7.111016295303631e+18,[0.22 0.2  0.58],[0.1  0.05 0.85 0.  ],1.0,0.0,Very High,3_person,1,married_couple,Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Limited-Service Restaurants
+319,5.594984777184905e+18,[0.2  0.42 0.38],[0.24 0.43 0.31 0.02],2.0,0.0,High,3_person,3_plus,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+321,7.129144054401398e+18,[0.1 0.4 0.5],[0.31578947 0.10526316 0.52631579 0.05263158],0.0,0.0,Low,1_person,1,living_alone,Senior,Full-Service Restaurants,Car,2.0,2,Walking,Limited-Service Restaurants
+322,1.440675986943387e+19,[0.07368421 0.27368421 0.65263158],[0.24 0.08 0.63 0.05],1.0,2.0,Moderate,2_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+323,7.394418246204071e+18,[0.2  0.35 0.45],[0.15 0.45 0.35 0.05],1.0,2.0,Low,2_person,2,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+324,1.6263158681632584e+19,[0.2  0.35 0.45],[0.2  0.04 0.75 0.01],2.0,2.0,High,2_person,1,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+326,1.4686619988643031e+19,[0.45 0.55 0.  ],[0.15 0.2  0.55 0.1 ],0.0,1.0,Moderate,2_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Nonalcoholic Bars
+327,7.403526416790706e+18,[0.25 0.35 0.4 ],[0.3  0.1  0.55 0.05],2.0,2.0,Moderate,6_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+328,4.398565932511873e+18,[0.25 0.25 0.5 ],[0.25 0.15 0.55 0.05],2.0,0.0,Low,1_person,3_plus,living_alone,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Car,Limited-Service Restaurants
+329,1.3373969128523796e+19,[0.18 0.18 0.64],[0.29473684 0.17894737 0.44210526 0.08421053],2.0,1.0,High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+330,1.2141413721561797e+18,[0.45 0.15 0.4 ],[0.3  0.12 0.55 0.03],0.0,2.0,Moderate,2_person,2,married_couple,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+331,2.4589986289105894e+18,[0.45 0.35 0.2 ],[0.25 0.08 0.63 0.04],2.0,2.0,Low,4_person,0,family_single,Senior,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+332,1.6457676706320563e+18,[0.25 0.1  0.65],[0.13 0.26 0.58 0.03],2.0,2.0,Debt,2_person,1,family_single,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+334,1.1743447115773594e+19,[0.17 0.31 0.52],[0.28 0.15 0.52 0.05],0.0,2.0,Very High,3_person,1,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+337,8.348950325535942e+18,[0.62 0.28 0.1 ],[0.4  0.2  0.25 0.15],0.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+338,1.2308260213902498e+19,[0.67 0.25 0.08],[0.15 0.25 0.55 0.05],0.0,2.0,High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+339,8.799804796309767e+18,[0.13 0.35 0.52],[0.25 0.15 0.52 0.08],2.0,2.0,Low,3_person,2,married_couple,Senior,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+340,8.913704136874931e+17,[0.12 0.36 0.52],[0.12 0.26 0.55 0.07],1.0,2.0,Ultra High,2_person,1,married_couple,Senior,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+341,8.519603866841827e+18,[0.15 0.25 0.6 ],[0.28 0.15 0.45 0.12],2.0,2.0,Debt,1_person,1,living_alone,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+342,3.693970471160988e+18,[0.15 0.25 0.6 ],[0.26 0.14 0.55 0.05],1.0,2.0,Very High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+344,1.5884453012087362e+19,[0.15 0.3  0.55],[0.15 0.26 0.52 0.07],0.0,2.0,High,3_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+345,8.04233468784638e+17,[0.25 0.3  0.45],[0.1  0.25 0.6  0.05],2.0,2.0,High,3_person,2,nonfamily_single,Adult,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+348,6.82970135574844e+18,[0.1 0.4 0.5],[0.3  0.1  0.55 0.05],2.0,0.0,Debt,5_person,1,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+350,1.1012305996978184e+18,[0.12 0.36 0.52],[0.36 0.08 0.54 0.02],0.0,2.0,High,2_person,2,family_single,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+351,9.811089001795504e+18,[0.2 0.3 0.5],[0.24 0.1  0.61 0.05],2.0,2.0,Very High,5_person,1,family_single,Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+352,2.465826183838009e+18,[0.22 0.35 0.43],[0.23 0.04 0.45 0.28],1.0,0.0,High,1_person,1,living_alone,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+353,8.849202655065774e+18,[0.28 0.7  0.02],[0.20408163 0.06122449 0.71428571 0.02040816],1.0,0.0,Debt,7_plus_person,1,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+355,1.18876077821428e+19,[0.37 0.41 0.22],[0.25 0.12 0.55 0.08],1.0,2.0,Moderate,2_person,0,family_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+356,4.680385473514596e+18,[0.3  0.45 0.25],[0.4 0.3 0.1 0.2],1.0,0.0,Debt,5_person,1,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+357,4.628551133622409e+18,[0.15 0.4  0.45],[0.35 0.08 0.53 0.04],1.0,2.0,Moderate,2_person,2,family_single,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+358,1.1538439246952423e+19,[0.17 0.35 0.48],[0.21 0.05 0.73 0.01],1.0,2.0,Moderate,4_person,2,family_single,Senior,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+359,1.7414886412358548e+18,[0.04 0.9  0.06],[0.5        0.16666667 0.22222222 0.11111111],1.0,2.0,Low,1_person,1,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+361,1.0141152551648516e+19,[0.27 0.31 0.42],[0.25 0.05 0.65 0.05],2.0,2.0,Low,5_person,3_plus,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+362,1.0291050847285858e+19,[0.3  0.36 0.34],[0.27 0.32 0.26 0.15],2.0,0.0,Moderate,2_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+363,1.0188121266078951e+19,[0.25 0.25 0.5 ],[0.25 0.05 0.65 0.05],2.0,2.0,Ultra High,4_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+364,1.1745483761168054e+19,[0.35 0.25 0.4 ],[0.24 0.16 0.52 0.08],2.0,0.0,Moderate,2_person,2,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+365,2.3615906030511683e+18,[0.15 0.6  0.25],[0.14 0.21 0.63 0.02],1.0,2.0,Low,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+366,3.536675198992059e+18,[0.2  0.25 0.55],[0.25       0.14583333 0.57291667 0.03125   ],2.0,2.0,Low,4_person,3_plus,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+367,1.538035585717403e+19,[0.17 0.21 0.62],[0.15151515 0.27272727 0.53535354 0.04040404],0.0,2.0,Ultra High,3_person,1,married_couple,Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+368,1.3340923204543609e+19,[0.35 0.55 0.1 ],[0.14 0.24 0.59 0.03],0.0,1.0,Low,1_person,0,living_alone,Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Nonalcoholic Bars
+369,4.760627348892325e+18,[0.25 0.3  0.45],[0.15 0.04 0.8  0.01],1.0,2.0,Low,1_person,2,living_alone,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+370,3.6957331277928914e+18,[0.2 0.3 0.5],[0.29 0.18 0.46 0.07],2.0,1.0,Ultra High,2_person,2,married_couple,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+371,1.328282315531752e+19,[0.42 0.36 0.22],[0.15 0.26 0.54 0.05],1.0,2.0,Moderate,2_person,1,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+372,1.268359446395928e+19,[0.2  0.45 0.35],[0.3 0.1 0.5 0.1],1.0,0.0,High,1_person,1,living_alone,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+373,1.1077775457729053e+19,[0.16 0.32 0.52],[0.08080808 0.15151515 0.72727273 0.04040404],1.0,2.0,Low,2_person,1,family_single,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+374,1.179511896883526e+19,[0.1  0.35 0.55],[0.21 0.14 0.62 0.03],1.0,1.0,Low,2_person,2,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Public_transport,Nonalcoholic Bars
+375,8.503543395739184e+18,[0.3 0.5 0.2],[0.35 0.1  0.5  0.05],1.0,1.0,Debt,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Nonalcoholic Bars
+377,1.4423987684055511e+19,[0.2  0.35 0.45],[0.35 0.08 0.55 0.02],2.0,0.0,Debt,3_person,0,family_single,Senior,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+378,1.4820977335238896e+19,[0.2  0.25 0.55],[0.16 0.46 0.27 0.11],0.0,2.0,Low,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+380,1.6283848791273589e+19,[0.15 0.4  0.45],[0.1  0.25 0.6  0.05],1.0,2.0,Low,3_person,1,family_single,Elderly,Limited-Service Restaurants,Car,0.0,2,Public_transport,Full-Service Restaurants
+381,1.5718079643493958e+19,[0.45 0.4  0.15],[0.14 0.08 0.74 0.04],1.0,2.0,Debt,1_person,0,living_alone,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+382,8.078971197748575e+18,[0.25 0.3  0.45],[0.35 0.15 0.45 0.05],1.0,2.0,Low,3_person,2,married_couple,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+383,1.7321169640349411e+19,[0.25 0.55 0.2 ],[0.05 0.2  0.7  0.05],2.0,3.0,Low,3_person,0,family_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Drinking Places
+384,1.4331010142161912e+19,[0.2 0.5 0.3],[0.12 0.02 0.85 0.01],2.0,2.0,Low,3_person,1,nonfamily_single,Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Full-Service Restaurants
+387,1.0235869778516236e+19,[0.25 0.55 0.2 ],[0.14 0.02 0.83 0.01],0.0,2.0,Moderate,1_person,0,living_alone,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+389,1.698603030858973e+19,[0.17 0.67 0.16],[0.38 0.17 0.45 0.  ],1.0,2.0,Moderate,7_plus_person,0,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+390,3.4022251635678945e+18,[0.2  0.55 0.25],[0.15151515 0.01010101 0.83838384 0.        ],1.0,0.0,Low,7_plus_person,1,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+391,7.954673656105589e+18,[0.1  0.25 0.65],[0.2755102  0.10204082 0.60204082 0.02040816],2.0,0.0,Moderate,2_person,1,family_single,Elderly,Drinking Places,Car,3.0,2,Car,Limited-Service Restaurants
+394,1.6520329791264289e+19,[0.25 0.65 0.1 ],[0.05 0.3  0.6  0.05],1.0,2.0,High,1_person,0,living_alone,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+395,1.7549487838892638e+19,[0.35 0.65 0.  ],[0.1  0.3  0.55 0.05],0.0,1.0,Low,2_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Nonalcoholic Bars
+396,1.0581832978226602e+19,[0.23 0.56 0.21],[0.04 0.21 0.62 0.13],1.0,2.0,Low,4_person,0,family_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+397,1.2601876487824929e+19,[0.52 0.36 0.12],[0.43564356 0.02970297 0.52475248 0.00990099],0.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Drinking Places,Walking,3.0,0,Walking,Full-Service Restaurants
+398,2.504424624762369e+18,[0.25 0.3  0.45],[0.26530612 0.13265306 0.56122449 0.04081633],0.0,1.0,Ultra High,1_person,1,living_alone,Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Nonalcoholic Bars
+399,2.0557023012509025e+18,[0.45 0.2  0.35],[0.15 0.25 0.55 0.05],2.0,1.0,High,3_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Nonalcoholic Bars
+400,1.5714833861507207e+19,[0.2  0.52 0.28],[0.55 0.12 0.31 0.02],0.0,2.0,Low,4_person,1,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+401,8.668900489791126e+18,[0.1  0.35 0.55],[0.26 0.15 0.55 0.04],2.0,0.0,Low,2_person,1,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Limited-Service Restaurants
+403,1.0647795013608397e+19,[0.25 0.2  0.55],[0.35 0.15 0.45 0.05],0.0,2.0,Low,5_person,2,family_single,Middle Age,Limited-Service Restaurants,Car,0.0,2,Walking,Full-Service Restaurants
+404,5.256684183105025e+18,[0.38 0.45 0.17],[0.28 0.12 0.58 0.02],1.0,0.0,Low,2_person,0,family_single,Young Adult,Drinking Places,Walking,3.0,0,Public_transport,Limited-Service Restaurants
+405,9.262733424919388e+17,[0.14 0.28 0.58],[0.25 0.09 0.63 0.03],1.0,2.0,Moderate,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+406,5.326228891824007e+18,[0.35 0.45 0.2 ],[0.48 0.08 0.42 0.02],2.0,0.0,Ultra High,2_person,1,married_couple,Young Adult,Drinking Places,Car,3.0,2,Car,Limited-Service Restaurants
+407,3.542213949443114e+18,[0.35 0.42 0.23],[0.28 0.12 0.58 0.02],1.0,0.0,Low,1_person,0,living_alone,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+408,6.140600901670286e+18,[0.1  0.25 0.65],[0.35 0.45 0.15 0.05],0.0,0.0,High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Limited-Service Restaurants
+409,1.3651936646528223e+19,[0.55 0.35 0.1 ],[0.3  0.1  0.55 0.05],0.0,2.0,Ultra High,2_person,0,married_couple,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+410,1.1709071112581446e+19,[0.2 0.2 0.6],[0.2  0.05 0.7  0.05],2.0,1.0,High,3_person,0,family_single,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Nonalcoholic Bars
+411,1.0182325883709262e+19,[0.2 0.1 0.7],[0.35 0.15 0.45 0.05],2.0,3.0,Moderate,5_person,2,married_couple,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Drinking Places
+412,5.82831775448582e+18,[0.22 0.26 0.52],[0.32 0.1  0.53 0.05],2.0,1.0,Moderate,4_person,3_plus,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+413,1.7497022329491716e+19,[0.15 0.8  0.05],[0.26 0.09 0.62 0.03],2.0,0.0,High,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+414,1.7441206323129513e+18,[0.15 0.15 0.7 ],[0.05 0.26 0.66 0.03],2.0,2.0,Debt,5_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+416,9.704097645649635e+18,[0.15 0.67 0.18],[0.27956989 0.09677419 0.55913978 0.06451613],2.0,2.0,Moderate,4_person,0,nonfamily_single,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+417,6.522657176569459e+18,[0.18 0.27 0.55],[0.12 0.25 0.56 0.07],2.0,2.0,Ultra High,3_person,1,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+419,1.7608321395707249e+19,[0.52 0.19 0.29],[0.18 0.36 0.42 0.04],0.0,2.0,Moderate,3_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+420,3.06943338677911e+18,[0.3  0.45 0.25],[0.22 0.09 0.66 0.03],2.0,2.0,Moderate,4_person,0,nonfamily_single,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+421,1.6784186960703402e+19,[0.35 0.45 0.2 ],[0.35 0.08 0.55 0.02],1.0,0.0,Very High,2_person,2,nonfamily_single,Young Adult,Drinking Places,Walking,3.0,0,Public_transport,Limited-Service Restaurants
+422,1.8603987367631795e+18,[0.19 0.26 0.55],[0.15 0.2  0.55 0.1 ],2.0,2.0,Moderate,3_person,1,family_single,Senior,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+423,1.2933953138261212e+18,[0.1  0.25 0.65],[0.15 0.05 0.75 0.05],2.0,2.0,Ultra High,1_person,1,living_alone,Elderly,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+424,1.0912428042833736e+19,[0.1  0.35 0.55],[0.08 0.24 0.63 0.05],2.0,0.0,Moderate,2_person,1,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+425,7.30131707910351e+18,[0.1  0.15 0.75],[0.26 0.14 0.58 0.02],2.0,2.0,Low,4_person,3_plus,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+426,1.463277474706346e+19,[0.12 0.62 0.26],[0.21 0.45 0.23 0.11],1.0,1.0,Debt,6_person,3_plus,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Nonalcoholic Bars
+428,6.114758671845469e+18,[0.15 0.45 0.4 ],[0.32 0.09 0.56 0.03],2.0,2.0,Low,7_plus_person,1,married_couple,Middle Age,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+430,9.439905573704428e+18,[0.2  0.25 0.55],[0.2  0.04 0.73 0.03],0.0,2.0,High,1_person,1,living_alone,Adult,Drinking Places,Walking,3.0,0,Walking,Full-Service Restaurants
+431,3.514147271720573e+17,[0.3  0.45 0.25],[0.33 0.11 0.54 0.02],0.0,0.0,Moderate,6_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Limited-Service Restaurants
+432,9.097285853433025e+18,[0.45 0.35 0.2 ],[0.26 0.15 0.52 0.07],0.0,2.0,Moderate,3_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+433,1.656786037533317e+19,[0.14 0.14 0.72],[0.3  0.1  0.55 0.05],2.0,2.0,Moderate,2_person,1,nonfamily_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+435,1.821892022196098e+19,[0.15 0.15 0.7 ],[0.25510204 0.10204082 0.6122449  0.03061224],0.0,0.0,Ultra High,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Car,1.0,2,Walking,Limited-Service Restaurants
+436,7.822485883694469e+18,[0.23 0.35 0.42],[0.1  0.13 0.72 0.05],2.0,2.0,Low,3_person,1,married_couple,Middle Age,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+437,6.923206386112325e+18,[0.2 0.8 0. ],[0.08 0.35 0.55 0.02],1.0,2.0,Low,1_person,0,living_alone,Elderly,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+438,3.817817463766346e+18,[0.2 0.6 0.2],[0.25 0.15 0.55 0.05],0.0,0.0,Low,1_person,0,living_alone,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+439,9.512408831448984e+18,[0.13 0.31 0.56],[0.16 0.18 0.61 0.05],1.0,2.0,High,2_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+440,7.465179138733042e+18,[0.3 0.4 0.3],[0.1  0.21 0.65 0.04],1.0,1.0,Moderate,7_plus_person,0,nonfamily_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Nonalcoholic Bars
+441,1.6414443213274614e+19,[0.24 0.34 0.42],[0.15 0.26 0.55 0.04],1.0,0.0,Ultra High,4_person,1,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Limited-Service Restaurants
+442,1.7205043687831417e+19,[0.31 0.27 0.42],[0.15 0.05 0.75 0.05],0.0,2.0,Low,3_person,1,family_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+444,1.2348395939964174e+19,[0.38 0.31 0.31],[0.17 0.06 0.73 0.04],1.0,2.0,Low,2_person,0,family_single,Young Adult,Drinking Places,Public_transport,3.0,1,Public_transport,Full-Service Restaurants
+445,6.818950754168123e+18,[0.18 0.28 0.54],[0.35 0.07 0.55 0.03],2.0,1.0,High,2_person,2,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+446,2.761804874855936e+18,[0.25 0.45 0.3 ],[0.25 0.05 0.65 0.05],2.0,2.0,Low,7_plus_person,3_plus,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+447,2.998694858865548e+18,[0.2  0.25 0.55],[0.25252525 0.05050505 0.67676768 0.02020202],2.0,0.0,Ultra High,1_person,2,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+449,1.3099439204140046e+19,[0.17 0.28 0.55],[0.1 0.2 0.6 0.1],0.0,0.0,Ultra High,3_person,1,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Walking,Limited-Service Restaurants
+450,1.1319858213287272e+19,[0.55 0.35 0.1 ],[0.45 0.12 0.35 0.08],0.0,1.0,Debt,2_person,1,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Nonalcoholic Bars
+451,1.1331935659282772e+19,[0.55 0.3  0.15],[0.31578947 0.15789474 0.42105263 0.10526316],1.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+452,4.109000353515525e+18,[0.25 0.15 0.6 ],[0.25 0.05 0.55 0.15],2.0,3.0,High,4_person,1,married_couple,Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Drinking Places
+454,6.736499656130906e+18,[0.2 0.3 0.5],[0.10204082 0.20408163 0.66326531 0.03061224],1.0,2.0,Ultra High,2_person,1,married_couple,Elderly,Drinking Places,Car,3.0,2,Public_transport,Full-Service Restaurants
+455,1.2709701580561422e+19,[0.25 0.3  0.45],[0.13 0.34 0.43 0.1 ],2.0,2.0,Low,4_person,1,family_single,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+456,1.7965350571591125e+19,[0.6  0.25 0.15],[0.21 0.25 0.4  0.14],0.0,2.0,Debt,3_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+457,9.475125359627796e+18,[0.05 0.4  0.55],[0.25 0.05 0.65 0.05],2.0,3.0,Low,1_person,1,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Drinking Places
+459,8.194436934544866e+18,[0.23 0.09 0.68],[0.15 0.25 0.55 0.05],2.0,0.0,High,2_person,1,family_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+460,8.842508491179645e+18,[0.3  0.55 0.15],[0.35 0.08 0.55 0.02],0.0,2.0,High,2_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+461,9.739231128529416e+18,[0.16 0.32 0.52],[0.3  0.05 0.6  0.05],1.0,1.0,High,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Nonalcoholic Bars
+463,1.152987351304543e+19,[0.25 0.45 0.3 ],[0.26 0.12 0.55 0.07],1.0,2.0,Low,5_person,0,family_single,Elderly,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+464,1.336976016160483e+19,[0.15 0.1  0.75],[0.1010101  0.04040404 0.85858586 0.        ],0.0,2.0,Moderate,3_person,3_plus,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+465,1.46532523602055e+19,[0.15 0.6  0.25],[0.2  0.4  0.35 0.05],1.0,2.0,Low,2_person,1,nonfamily_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+466,4.2038319413577656e+18,[0.25 0.44 0.31],[0.26 0.1  0.62 0.02],1.0,1.0,Moderate,2_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Nonalcoholic Bars
+467,1.1559726434968456e+18,[0.56 0.36 0.08],[0.26 0.09 0.63 0.02],1.0,0.0,Debt,3_person,1,family_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+468,1.4366879432100225e+19,[0.36 0.53 0.11],[0.25 0.1  0.6  0.05],0.0,2.0,Debt,4_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+469,1.1797546835498422e+19,[0.17 0.68 0.15],[0.14 0.28 0.51 0.07],0.0,2.0,Very High,2_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+470,6.885984410465625e+18,[0.15 0.4  0.45],[0.26 0.14 0.56 0.04],1.0,0.0,High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Limited-Service Restaurants
+471,1.235734129031381e+19,[0.25 0.35 0.4 ],[0.07 0.49 0.41 0.03],0.0,2.0,Debt,4_person,1,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+472,1.443094992306418e+19,[0.42 0.31 0.27],[0.31 0.18 0.45 0.06],0.0,1.0,Moderate,4_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Nonalcoholic Bars
+473,1.5083167091784204e+19,[0.35 0.5  0.15],[0.21 0.12 0.62 0.05],0.0,2.0,High,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+474,8.234796545488628e+17,[0.15 0.45 0.4 ],[0.26 0.13 0.56 0.05],1.0,2.0,Ultra High,1_person,1,living_alone,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+475,1.299199015614959e+19,[0.35 0.65 0.  ],[0.12371134 0.15463918 0.67010309 0.05154639],1.0,2.0,Moderate,1_person,0,living_alone,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+476,8.365130953151315e+18,[0.2  0.15 0.65],[0.21 0.04 0.62 0.13],2.0,0.0,Ultra High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+477,8.509292185480794e+18,[0.51 0.32 0.17],[0.12 0.25 0.55 0.08],1.0,2.0,High,3_person,0,family_single,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+478,5.785145026274485e+18,[0.2 0.3 0.5],[0.12 0.26 0.58 0.04],2.0,2.0,High,2_person,2,married_couple,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+479,1.7314780506566408e+19,[0.35 0.45 0.2 ],[0.11 0.31 0.54 0.04],0.0,1.0,High,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Nonalcoholic Bars
+480,1.0769309658555945e+19,[0.2  0.25 0.55],[0.26 0.08 0.62 0.04],0.0,0.0,High,2_person,1,married_couple,Elderly,Limited-Service Restaurants,Walking,0.0,0,Walking,Limited-Service Restaurants
+482,5.821278009348333e+18,[0.24 0.12 0.64],[0.3  0.1  0.55 0.05],2.0,2.0,Moderate,2_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+483,6.404588249036687e+18,[0.26 0.32 0.42],[0.35 0.15 0.45 0.05],2.0,2.0,Low,7_plus_person,3_plus,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+484,1.3172002507580092e+19,[0.27 0.44 0.29],[0.35 0.05 0.55 0.05],1.0,3.0,Moderate,3_person,1,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Drinking Places
+485,1.00235790033692e+19,[0.31 0.42 0.27],[0.25773196 0.12371134 0.56701031 0.05154639],1.0,2.0,Very High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+486,1.0330636010522724e+18,[0.15 0.3  0.55],[0.27 0.15 0.55 0.03],2.0,0.0,Very High,3_person,3_plus,nonfamily_single,Young Adult,Drinking Places,Public_transport,3.0,1,Car,Limited-Service Restaurants
+487,5.088222520104491e+18,[0.2  0.25 0.55],[0.25252525 0.05050505 0.65656566 0.04040404],2.0,0.0,Ultra High,3_person,2,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+488,5.368439288515402e+18,[0.22 0.33 0.45],[0.49 0.15 0.22 0.14],2.0,0.0,Low,7_plus_person,1,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+489,1.3781512452836604e+19,[0.55 0.35 0.1 ],[0.15 0.05 0.75 0.05],2.0,2.0,Low,5_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Car,Full-Service Restaurants
+490,8.634997516883633e+17,[0.22 0.26 0.52],[0.2  0.04 0.75 0.01],0.0,2.0,Low,3_person,3_plus,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+492,1.331253911564686e+19,[0.25 0.3  0.45],[0.19191919 0.07070707 0.6969697  0.04040404],0.0,0.0,Low,2_person,2,married_couple,Elderly,Limited-Service Restaurants,Walking,0.0,0,Walking,Limited-Service Restaurants
+494,5.447306846917746e+18,[0.55 0.25 0.2 ],[0.3  0.1  0.55 0.05],1.0,2.0,Low,7_plus_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+495,1.4425465327996811e+19,[0.2  0.35 0.45],[0.25 0.05 0.65 0.05],2.0,2.0,Low,7_plus_person,3_plus,married_couple,Middle Age,Drinking Places,Car,3.0,2,Car,Full-Service Restaurants
+496,1.2534998917464724e+18,[0.32 0.42 0.26],[0.3  0.1  0.55 0.05],0.0,2.0,Low,1_person,1,living_alone,Elderly,Drinking Places,Public_transport,3.0,1,Walking,Full-Service Restaurants
+497,3.3989176929137234e+18,[0.05 0.3  0.65],[0.25 0.05 0.65 0.05],2.0,2.0,Low,3_person,2,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+498,4.353736934024394e+18,[0.1  0.25 0.65],[0.25 0.05 0.65 0.05],2.0,3.0,Moderate,3_person,2,family_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Drinking Places
+499,1.411405945498585e+19,[0.23 0.42 0.35],[0.28 0.05 0.63 0.04],0.0,2.0,Low,6_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+500,9.794789038306036e+18,[0.25 0.2  0.55],[0.26 0.08 0.64 0.02],2.0,2.0,Low,7_plus_person,2,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+501,9.794789038306036e+18,[0.25 0.2  0.55],[0.26 0.08 0.64 0.02],2.0,2.0,Low,7_plus_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+502,9.794789038306036e+18,[0.2 0.3 0.5],[0.25 0.05 0.55 0.15],2.0,2.0,Low,7_plus_person,2,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+503,9.794789038306036e+18,[0.2 0.3 0.5],[0.25 0.05 0.55 0.15],2.0,2.0,Low,7_plus_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+504,1.4342257163864224e+19,[0.64 0.28 0.08],[0.63 0.03 0.28 0.06],1.0,0.0,Debt,1_person,0,living_alone,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Limited-Service Restaurants
+505,7.497452163390665e+18,[0.17 0.16 0.67],[0.1  0.21 0.64 0.05],0.0,2.0,Moderate,3_person,3_plus,family_single,Elderly,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+506,1.2453028187981857e+19,[0.1  0.75 0.15],[0.35353535 0.08080808 0.52525253 0.04040404],1.0,2.0,Low,2_person,1,family_single,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+507,1.792389529558041e+19,[0.2  0.25 0.55],[0.21 0.08 0.65 0.06],2.0,0.0,Ultra High,1_person,1,living_alone,Senior,Nonalcoholic Bars,Walking,1.0,0,Car,Limited-Service Restaurants
+509,1.4533337219897584e+19,[0.35 0.45 0.2 ],[0.35 0.15 0.4  0.1 ],0.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+511,1.4258630902945112e+19,[0.25 0.58 0.17],[0.35 0.45 0.15 0.05],2.0,0.0,Moderate,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Limited-Service Restaurants
+512,1.1609926845894304e+19,[0.1  0.35 0.55],[0.26262626 0.08080808 0.62626263 0.03030303],1.0,2.0,Very High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+513,2.40167977233353e+18,[0.2  0.28 0.52],[0.3  0.1  0.55 0.05],2.0,1.0,Moderate,2_person,1,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Nonalcoholic Bars
+514,5.154186104184757e+18,[0.18 0.24 0.58],[0.3  0.05 0.6  0.05],0.0,2.0,Ultra High,3_person,1,married_couple,Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+515,1.459272950206903e+19,[0.3  0.55 0.15],[0.16 0.28 0.47 0.09],1.0,1.0,Ultra High,1_person,0,living_alone,Elderly,Drinking Places,Public_transport,3.0,1,Public_transport,Nonalcoholic Bars
+516,1.070384170776155e+19,[0.17 0.48 0.35],[0.35 0.05 0.55 0.05],1.0,2.0,Moderate,7_plus_person,3_plus,nonfamily_single,Middle Age,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+517,8.757313445905705e+18,[0.17 0.21 0.62],[0.15 0.2  0.55 0.1 ],0.0,2.0,Ultra High,2_person,2,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Walking,Full-Service Restaurants
+518,1.6261983404208716e+19,[0.19 0.26 0.55],[0.35 0.05 0.55 0.05],2.0,0.0,Ultra High,3_person,2,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+519,6.230123930291166e+18,[0.35 0.42 0.23],[0.25 0.16 0.54 0.05],2.0,2.0,Low,4_person,1,family_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+520,3.419940211872771e+18,[0.3  0.55 0.15],[0.22105263 0.17894737 0.53684211 0.06315789],1.0,1.0,Debt,2_person,1,family_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Nonalcoholic Bars
+521,6.45371517723444e+18,[0.14 0.52 0.34],[0.6  0.05 0.3  0.05],0.0,3.0,Debt,1_person,1,living_alone,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Drinking Places
+522,1.7281171565040624e+19,[0.15 0.3  0.55],[0.14 0.15 0.63 0.08],2.0,1.0,High,2_person,2,family_single,Adult,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+524,1.2687226970368907e+19,[0.42 0.36 0.22],[0.31 0.11 0.55 0.03],0.0,2.0,Very High,2_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+525,1.456480595828507e+19,[0.4  0.45 0.15],[0.1  0.2  0.65 0.05],1.0,0.0,Low,1_person,0,living_alone,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+526,5.44874898832929e+18,[0.13 0.35 0.52],[0.25 0.1  0.6  0.05],1.0,2.0,Low,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+527,9.567732147653874e+18,[0.35 0.6  0.05],[0.45 0.1  0.35 0.1 ],1.0,0.0,Low,4_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+528,1.7646562909432492e+19,[0.29 0.52 0.19],[0.35 0.15 0.45 0.05],2.0,2.0,Moderate,3_person,3_plus,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Full-Service Restaurants
+529,1.1792159070793753e+19,[0.32 0.33 0.35],[0.25 0.05 0.65 0.05],2.0,2.0,Low,2_person,2,nonfamily_single,Senior,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+530,4.34881052164021e+18,[0.45 0.35 0.2 ],[0.29 0.08 0.59 0.04],0.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+531,1.047912553685738e+19,[0.25 0.6  0.15],[0.25 0.08 0.62 0.05],2.0,0.0,Debt,4_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Limited-Service Restaurants
+533,2.8023743310002903e+18,[0.2  0.25 0.55],[0.30769231 0.05128205 0.61538462 0.02564103],2.0,2.0,Moderate,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+534,8.039104774997047e+18,[0.12 0.35 0.53],[0.2  0.23 0.57 0.  ],2.0,0.0,High,2_person,2,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+535,1.245452545349365e+19,[0.25 0.2  0.55],[0.3 0.1 0.5 0.1],1.0,0.0,Ultra High,1_person,1,living_alone,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+537,6.601816087605506e+18,[0.25 0.55 0.2 ],[0.64 0.14 0.13 0.09],2.0,0.0,Debt,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+538,1.346608116275231e+19,[0.3 0.5 0.2],[0.22 0.04 0.73 0.01],0.0,2.0,High,4_person,3_plus,nonfamily_single,Adult,Drinking Places,Car,3.0,2,Walking,Full-Service Restaurants
+539,1.0179043025953176e+19,[0.15 0.3  0.55],[0.21 0.12 0.62 0.05],2.0,2.0,High,3_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+540,1.7500896878050566e+19,[0.05 0.25 0.7 ],[0.3  0.1  0.55 0.05],2.0,2.0,Debt,5_person,3_plus,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+541,1.800440041772803e+19,[0.25 0.55 0.2 ],[0.12 0.21 0.55 0.12],1.0,2.0,Moderate,1_person,0,living_alone,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+542,6.156402298777144e+18,[0.14 0.16 0.7 ],[0.35 0.05 0.55 0.05],1.0,2.0,Low,3_person,2,family_single,Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+543,8.493779433336756e+18,[0.45 0.35 0.2 ],[0.31313131 0.17171717 0.45454545 0.06060606],2.0,1.0,Low,7_plus_person,1,married_couple,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Car,Nonalcoholic Bars
+544,1.3856085768830702e+19,[0.11 0.13 0.76],[0.65 0.25 0.05 0.05],0.0,1.0,Debt,1_person,3_plus,living_alone,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Nonalcoholic Bars
+545,1.36948152453913e+19,[0.15 0.21 0.64],[0.29 0.14 0.53 0.04],2.0,2.0,Moderate,3_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+546,2.116732395446721e+18,[0.2 0.3 0.5],[0.24 0.12 0.58 0.06],1.0,2.0,Ultra High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+547,1.1323331029391686e+19,[0.15 0.35 0.5 ],[0.3030303  0.1010101  0.55555556 0.04040404],1.0,1.0,Low,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Nonalcoholic Bars
+548,6.330119147679021e+18,[0.2  0.55 0.25],[0.12 0.04 0.83 0.01],1.0,2.0,Ultra High,3_person,1,married_couple,Senior,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+550,9.162227507645188e+18,[0.25 0.2  0.55],[0.3  0.1  0.55 0.05],2.0,2.0,Low,5_person,2,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+551,3.266887977617261e+18,[0.36 0.52 0.12],[0.16161616 0.08080808 0.73737374 0.02020202],0.0,2.0,Low,6_person,0,nonfamily_single,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+552,7.948381969062271e+18,[0.36 0.4  0.24],[0.15 0.2  0.55 0.1 ],2.0,2.0,Moderate,2_person,1,nonfamily_single,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+553,1.204179147352782e+19,[0.2  0.25 0.55],[0.26315789 0.10526316 0.57894737 0.05263158],1.0,2.0,Low,5_person,2,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+554,6.43595888811588e+18,[0.3  0.45 0.25],[0.26 0.08 0.62 0.04],1.0,1.0,Very High,2_person,1,married_couple,Middle Age,Drinking Places,Car,3.0,2,Public_transport,Nonalcoholic Bars
+556,4.563346906519201e+18,[0.45 0.4  0.15],[0.2        0.22105263 0.49473684 0.08421053],0.0,2.0,Low,2_person,1,family_single,Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+557,2.355525725247485e+18,[0.2  0.25 0.55],[0.33 0.27 0.24 0.16],2.0,3.0,Low,4_person,2,family_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Drinking Places
+558,1.1654662162225732e+19,[0.2  0.15 0.65],[0.07 0.15 0.73 0.05],0.0,2.0,Low,2_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+559,1.64168301605437e+19,[0.05 0.15 0.8 ],[0.25 0.15 0.55 0.05],2.0,2.0,Low,4_person,3_plus,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+560,2.842045857354317e+18,[0.2  0.65 0.15],[0.3 0.1 0.5 0.1],1.0,2.0,Debt,2_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+561,3.68317350520337e+18,[0.25 0.2  0.55],[0.25 0.05 0.7  0.  ],2.0,0.0,Low,3_person,2,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+562,1.537938180676744e+19,[0.4 0.6 0. ],[0.27 0.07 0.6  0.06],1.0,2.0,Low,3_person,0,family_single,Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+563,1.0393707315285664e+19,[0.25 0.35 0.4 ],[0.1827957  0.24731183 0.48387097 0.08602151],2.0,2.0,Ultra High,3_person,2,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+564,7.588820311099607e+18,[0.25 0.45 0.3 ],[0.25 0.1  0.55 0.1 ],1.0,2.0,Moderate,2_person,1,married_couple,Young Adult,Limited-Service Restaurants,Car,0.0,2,Public_transport,Full-Service Restaurants
+566,6.439674588239779e+18,[0.14 0.41 0.45],[0.52 0.12 0.32 0.04],0.0,0.0,High,1_person,1,living_alone,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Limited-Service Restaurants
+567,1.3230532463119905e+19,[0.55 0.35 0.1 ],[0.26 0.15 0.55 0.04],0.0,2.0,Low,3_person,1,nonfamily_single,Young Adult,Drinking Places,Car,3.0,2,Walking,Full-Service Restaurants
+568,1.3285792869384012e+19,[0.37 0.49 0.14],[0.1  0.2  0.65 0.05],1.0,2.0,Low,2_person,0,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+569,1.3240861097381476e+19,[0.2 0.3 0.5],[0.28 0.12 0.53 0.07],2.0,1.0,Moderate,2_person,1,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+571,4.3280888833862257e+18,[0.25 0.2  0.55],[0.35 0.15 0.45 0.05],2.0,0.0,Low,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+572,9.95165316832512e+18,[0.45 0.35 0.2 ],[0.35 0.15 0.45 0.05],0.0,2.0,Low,5_person,0,family_single,Middle Age,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+574,9.87661881247461e+18,[0.15 0.2  0.65],[0.19 0.17 0.51 0.13],1.0,2.0,Debt,4_person,3_plus,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+576,6.720282708594099e+18,[0.29 0.42 0.29],[0.15 0.05 0.75 0.05],0.0,2.0,Low,3_person,1,married_couple,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+577,1.2891154563142525e+19,[0.26 0.17 0.57],[0.25 0.05 0.65 0.05],0.0,0.0,High,3_person,3_plus,family_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Limited-Service Restaurants
+578,6.834514518979213e+18,[0.56 0.31 0.13],[0.55 0.13 0.18 0.14],0.0,0.0,Debt,7_plus_person,1,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Walking,Limited-Service Restaurants
+579,8.380106920331603e+18,[0.65 0.3  0.05],[0.32 0.16 0.45 0.07],0.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+580,9.23774336863292e+18,[0.25 0.25 0.5 ],[0.29591837 0.1122449  0.59183673 0.        ],2.0,0.0,High,2_person,2,married_couple,Senior,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+581,1.588422029687825e+19,[0.2  0.35 0.45],[0.1  0.3  0.55 0.05],0.0,2.0,Ultra High,5_person,3_plus,married_couple,Elderly,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+582,3.720062803415511e+18,[0.2 0.4 0.4],[0.2 0.3 0.4 0.1],1.0,1.0,Moderate,6_person,3_plus,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Nonalcoholic Bars
+583,1.4742305716377022e+19,[0.3 0.3 0.4],[0.32 0.1  0.54 0.04],2.0,2.0,High,2_person,2,married_couple,Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Full-Service Restaurants
+585,6.858512066242993e+18,[0.52631579 0.47368421 0.        ],[0.15151515 0.25252525 0.55555556 0.04040404],0.0,2.0,Low,5_person,0,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+586,1.37118337102908e+17,[0.25 0.7  0.05],[0.30769231 0.05128205 0.61538462 0.02564103],1.0,0.0,High,1_person,0,living_alone,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Limited-Service Restaurants
+587,2.071044175550293e+18,[0.55 0.35 0.1 ],[0.15463918 0.32989691 0.44329897 0.07216495],0.0,1.0,Low,5_person,0,family_single,Young Adult,Drinking Places,Public_transport,3.0,1,Walking,Nonalcoholic Bars
+588,1.4918022063128996e+19,[0.2  0.15 0.65],[0.26804124 0.08247423 0.63917526 0.01030928],1.0,3.0,High,2_person,1,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Drinking Places
+589,1.2713222621884262e+19,[0.21 0.21 0.58],[0.4742268  0.28865979 0.18556701 0.05154639],0.0,1.0,Low,1_person,1,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Walking,Nonalcoholic Bars
+591,1.444046420774252e+19,[0.35 0.35 0.3 ],[0.48958333 0.125      0.33333333 0.05208333],1.0,2.0,Low,7_plus_person,3_plus,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+592,5.609105030101425e+18,[0.13 0.42 0.45],[0.28 0.06 0.63 0.03],1.0,2.0,High,4_person,3_plus,married_couple,Middle Age,Limited-Service Restaurants,Car,0.0,2,Public_transport,Full-Service Restaurants
+593,4.060185520376467e+18,[0.2  0.55 0.25],[0.26 0.14 0.56 0.04],2.0,0.0,Moderate,2_person,1,family_single,Senior,Limited-Service Restaurants,Public_transport,0.0,1,Car,Limited-Service Restaurants
+594,8.030096379077128e+18,[0.1  0.25 0.65],[0.17 0.28 0.53 0.02],2.0,2.0,Very High,4_person,2,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+595,5.601038336214859e+18,[0.35 0.4  0.25],[0.12 0.21 0.61 0.06],1.0,2.0,Low,1_person,0,living_alone,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+596,1.3366596455289793e+19,[0.4  0.45 0.15],[0.05 0.25 0.65 0.05],2.0,2.0,Low,2_person,0,married_couple,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+597,4.252321276390662e+18,[0.15 0.2  0.65],[0.1  0.21 0.64 0.05],2.0,2.0,Moderate,3_person,1,family_single,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+599,4.3529375490086176e+17,[0.45 0.4  0.15],[0.16 0.32 0.48 0.04],1.0,2.0,Debt,2_person,1,nonfamily_single,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+600,1.4180442131748502e+19,[0.35 0.4  0.25],[0.65 0.1  0.15 0.1 ],1.0,2.0,Low,6_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+601,1.7333918513368257e+19,[0.16 0.38 0.46],[0.25 0.1  0.55 0.1 ],1.0,2.0,Moderate,2_person,1,married_couple,Elderly,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+602,1.2615234773419713e+19,[0.13 0.35 0.52],[0.12 0.29 0.56 0.03],1.0,1.0,High,2_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Nonalcoholic Bars
+603,8.058670399824577e+18,[0.2  0.55 0.25],[0.36 0.15 0.47 0.02],0.0,2.0,Moderate,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Walking,Full-Service Restaurants
+604,4.874985141953012e+18,[0.24 0.52 0.24],[0.45 0.15 0.35 0.05],2.0,2.0,Low,1_person,1,living_alone,Senior,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+605,5.451745617998945e+18,[0.15 0.5  0.35],[0.31578947 0.10526316 0.52631579 0.05263158],1.0,0.0,Low,4_person,3_plus,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Public_transport,Limited-Service Restaurants
+607,8.405319717379538e+18,[0.1  0.55 0.35],[0.23 0.17 0.47 0.13],1.0,0.0,Moderate,2_person,1,nonfamily_single,Adult,Limited-Service Restaurants,Car,0.0,2,Public_transport,Limited-Service Restaurants
+608,8.730414414127705e+18,[0.1 0.3 0.6],[0.13 0.21 0.62 0.04],0.0,1.0,Low,1_person,0,living_alone,Elderly,Limited-Service Restaurants,Walking,0.0,0,Walking,Nonalcoholic Bars
+609,1.6328376248416013e+18,[0.21 0.17 0.62],[0.32 0.31 0.26 0.11],2.0,2.0,Low,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+610,8.434405869071379e+18,[0.32 0.62 0.06],[0.43 0.11 0.31 0.15],0.0,0.0,Debt,4_person,0,family_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Limited-Service Restaurants
+611,1.217151211589647e+19,[0.32 0.38 0.3 ],[0.35 0.05 0.55 0.05],0.0,2.0,High,3_person,2,married_couple,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+612,7.253017518865398e+18,[0.3  0.42 0.28],[0.35 0.05 0.55 0.05],1.0,2.0,Moderate,3_person,2,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+613,9.368004918955663e+18,[0.2  0.45 0.35],[0.21212121 0.12121212 0.62626263 0.04040404],1.0,2.0,Moderate,2_person,1,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+614,1.2288881359857273e+19,[0.3  0.25 0.45],[0.2  0.3  0.45 0.05],2.0,1.0,Ultra High,1_person,1,living_alone,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Nonalcoholic Bars
+615,1.1138801192017433e+19,[0.1  0.28 0.62],[0.3  0.1  0.55 0.05],1.0,2.0,Low,2_person,2,family_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+616,5.409549300702811e+18,[0.35 0.55 0.1 ],[0.31 0.18 0.48 0.03],1.0,2.0,Debt,7_plus_person,0,family_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+617,1.3185252276625498e+19,[0.15 0.25 0.6 ],[0.1  0.5  0.35 0.05],2.0,1.0,Moderate,2_person,1,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Nonalcoholic Bars
+618,8.587360362912791e+18,[0.3 0.5 0.2],[0.14 0.03 0.83 0.  ],1.0,2.0,Low,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+619,7.548679038485461e+18,[0.14285714 0.85714286 0.        ],[0.11 0.04 0.83 0.02],1.0,2.0,Low,2_person,0,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+620,4.4349521958689495e+18,[0.35 0.42 0.23],[0.12 0.04 0.83 0.01],1.0,2.0,Moderate,4_person,3_plus,married_couple,Young Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+622,7.21238338437392e+18,[0.15 0.23 0.62],[0.35 0.07 0.55 0.03],2.0,0.0,Moderate,2_person,2,married_couple,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Limited-Service Restaurants
+624,1.7909872335084732e+19,[0.32 0.54 0.14],[0.45 0.16 0.28 0.11],2.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+625,9.407574424875307e+18,[0.42 0.38 0.2 ],[0.24 0.14 0.54 0.08],0.0,2.0,High,2_person,1,nonfamily_single,Young Adult,Drinking Places,Car,3.0,2,Walking,Full-Service Restaurants
+626,1.4094711734649977e+19,[0.1 0.3 0.6],[0.22222222 0.16666667 0.5        0.11111111],2.0,2.0,Debt,2_person,3_plus,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+627,1.014367032985803e+19,[0.1  0.85 0.05],[0.3 0.2 0.4 0.1],1.0,2.0,Low,2_person,0,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+628,1.2401708439744692e+19,[0.3 0.4 0.3],[0.4  0.23 0.05 0.32],2.0,3.0,Debt,7_plus_person,1,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Drinking Places
+629,1.6951611087558332e+19,[0.15 0.32 0.53],[0.33333333 0.16666667 0.44444444 0.05555556],2.0,0.0,Ultra High,5_person,3_plus,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+631,1.0938594820548889e+19,[0.45 0.35 0.2 ],[0.21428571 0.10204082 0.63265306 0.05102041],0.0,2.0,Low,1_person,1,living_alone,Senior,Nonalcoholic Bars,Public_transport,1.0,1,Walking,Full-Service Restaurants
+632,2.192913098080534e+18,[0.15 0.65 0.2 ],[0.21 0.05 0.73 0.01],1.0,2.0,Debt,5_person,1,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+634,2.3889001708346967e+18,[0.45 0.4  0.15],[0.2 0.3 0.4 0.1],0.0,1.0,Very High,1_person,0,living_alone,Young Adult,Drinking Places,Walking,3.0,0,Walking,Nonalcoholic Bars
+635,3.2253307378975703e+18,[0.2  0.35 0.45],[0.26 0.15 0.48 0.11],0.0,2.0,Moderate,2_person,1,married_couple,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+636,3.1548887027159567e+18,[0.1  0.25 0.65],[0.25 0.12 0.55 0.08],2.0,2.0,Moderate,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+637,1.940423373239638e+18,[0.25 0.65 0.1 ],[0.42 0.12 0.43 0.03],0.0,2.0,Debt,1_person,0,living_alone,Elderly,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+638,1.274518460151405e+19,[0.4  0.45 0.15],[0.3  0.1  0.55 0.05],1.0,0.0,Moderate,3_person,0,family_single,Elderly,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Limited-Service Restaurants
+639,7.307001908259654e+18,[0.15 0.2  0.65],[0.40816327 0.10204082 0.45918367 0.03061224],2.0,2.0,Debt,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+641,1.3585470515926175e+18,[0.25 0.2  0.55],[0.17 0.24 0.47 0.12],2.0,2.0,Very High,1_person,3_plus,living_alone,Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+642,1.3597038639117076e+19,[0.55 0.35 0.1 ],[0.26 0.14 0.58 0.02],2.0,2.0,Moderate,4_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+643,1.3967271021682356e+19,[0.15 0.4  0.45],[0.35353535 0.08080808 0.55555556 0.01010101],2.0,0.0,Moderate,4_person,1,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Car,Limited-Service Restaurants
+645,1.4657256750859515e+18,[0.2  0.55 0.25],[0.31 0.12 0.53 0.04],2.0,0.0,Ultra High,2_person,2,married_couple,Senior,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+646,1.5888656227417088e+19,[0.2 0.2 0.6],[0.25 0.15 0.55 0.05],2.0,2.0,Low,7_plus_person,1,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+647,1.0759828141609249e+19,[0.45 0.35 0.2 ],[0.38 0.15 0.43 0.04],1.0,1.0,Moderate,3_person,2,family_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Nonalcoholic Bars
+648,1.1931474236222622e+19,[0.15 0.3  0.55],[0.21052632 0.10526316 0.63157895 0.05263158],2.0,0.0,Moderate,2_person,1,family_single,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+649,6.114718422359813e+18,[0.25 0.55 0.2 ],[0.5  0.08 0.12 0.3 ],2.0,2.0,Low,3_person,0,family_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Full-Service Restaurants
+650,1.0606199032480922e+19,[0.2  0.35 0.45],[0.15 0.4  0.35 0.1 ],2.0,1.0,High,1_person,1,living_alone,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Car,Nonalcoholic Bars
+651,7.628569553640263e+18,[0.25 0.55 0.2 ],[0.26 0.16 0.47 0.11],0.0,2.0,Moderate,4_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Walking,Full-Service Restaurants
+652,2.370472035811134e+18,[0.15 0.6  0.25],[0.14 0.21 0.62 0.03],1.0,2.0,Moderate,2_person,0,married_couple,Adult,Limited-Service Restaurants,Car,0.0,2,Public_transport,Full-Service Restaurants
+654,6.877389779472246e+18,[0.42 0.35 0.23],[0.22 0.21 0.45 0.12],1.0,3.0,Moderate,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Drinking Places
+655,3.6152387426100577e+18,[0.25 0.2  0.55],[0.25 0.05 0.65 0.05],1.0,2.0,Low,3_person,1,family_single,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+656,1.2845144340293251e+19,[0.35 0.45 0.2 ],[0.09090909 0.13131313 0.73737374 0.04040404],0.0,2.0,Low,4_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+657,1.4392181655502051e+19,[0.1  0.35 0.55],[0.15463918 0.25773196 0.53608247 0.05154639],2.0,1.0,Moderate,3_person,1,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Nonalcoholic Bars
+658,1.1240537830192064e+17,[0.25 0.23 0.52],[0.45 0.1  0.4  0.05],2.0,1.0,High,2_person,1,married_couple,Young Adult,Drinking Places,Car,3.0,2,Car,Nonalcoholic Bars
+659,1.3508836668368622e+19,[0.25 0.5  0.25],[0.28 0.14 0.51 0.07],2.0,0.0,Moderate,3_person,1,family_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+661,5.363450011391068e+17,[0.32 0.42 0.26],[0.26 0.17 0.49 0.08],1.0,0.0,Debt,4_person,3_plus,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+662,4.887014683575505e+18,[0.3  0.55 0.15],[0.24175824 0.20879121 0.40659341 0.14285714],0.0,1.0,Ultra High,1_person,0,living_alone,Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Nonalcoholic Bars
+663,1.106437520417002e+19,[0.26 0.42 0.32],[0.34 0.06 0.58 0.02],0.0,1.0,Ultra High,2_person,1,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Walking,Nonalcoholic Bars
+664,1.1118694047914562e+19,[0.45 0.42 0.13],[0.31 0.1  0.55 0.04],0.0,2.0,Very High,5_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+665,1.2453377331879002e+19,[0.26 0.26 0.48],[0.21875 0.09375 0.65625 0.03125],1.0,1.0,Ultra High,2_person,1,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Nonalcoholic Bars
+666,8.58800473429911e+17,[0.1  0.25 0.65],[0.20512821 0.05128205 0.71794872 0.02564103],0.0,2.0,Moderate,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+667,7.154316130498141e+18,[0.21 0.21 0.58],[0.27 0.07 0.63 0.03],2.0,0.0,High,1_person,1,living_alone,Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+668,8.357506861417114e+18,[0.45 0.15 0.4 ],[0.26 0.16 0.52 0.06],1.0,1.0,Low,2_person,1,family_single,Young Adult,Limited-Service Restaurants,Car,0.0,2,Public_transport,Nonalcoholic Bars
+669,5.809341391309529e+18,[0.24 0.28 0.48],[0.06 0.25 0.65 0.04],2.0,2.0,Low,4_person,2,family_single,Middle Age,Drinking Places,Public_transport,3.0,1,Car,Full-Service Restaurants
+670,9.56101571658391e+18,[0.15 0.75 0.1 ],[0.25 0.1  0.6  0.05],2.0,1.0,Ultra High,1_person,0,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+671,6.246649884688906e+18,[0.15 0.2  0.65],[0.29 0.1  0.55 0.06],2.0,2.0,High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+672,8.49446211573437e+17,[0.17 0.21 0.62],[0.2  0.25 0.4  0.15],1.0,2.0,Very High,2_person,2,family_single,Elderly,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+673,5.336876887111971e+17,[0.1 0.3 0.6],[0.25 0.15 0.5  0.1 ],0.0,2.0,Low,5_person,1,family_single,Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+675,5.431495967942e+18,[0.3  0.45 0.25],[0.15 0.25 0.45 0.15],1.0,1.0,Debt,4_person,3_plus,married_couple,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Nonalcoholic Bars
+676,3.301649564424184e+18,[0.3  0.55 0.15],[0.08 0.37 0.53 0.02],1.0,0.0,Low,1_person,0,living_alone,Elderly,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Limited-Service Restaurants
+679,1.1294391137021411e+19,[0.24 0.24 0.52],[0.31 0.08 0.57 0.04],2.0,3.0,Low,4_person,2,family_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Drinking Places
+680,1.544719115508225e+19,[0.18367347 0.6122449  0.20408163],[0.25 0.25 0.3  0.2 ],1.0,0.0,Debt,2_person,1,family_single,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Limited-Service Restaurants
+681,1.816427943156231e+19,[0.13 0.24 0.63],[0.3  0.2  0.45 0.05],0.0,1.0,Ultra High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Walking,Nonalcoholic Bars
+682,9.4152034738802e+18,[0.45 0.35 0.2 ],[0.1  0.15 0.72 0.03],0.0,0.0,Moderate,5_person,0,nonfamily_single,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+683,1.5478457427482837e+19,[0.38 0.42 0.2 ],[0.28 0.12 0.52 0.08],1.0,2.0,Very High,4_person,2,married_couple,Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+684,1.1007758103441076e+19,[0.2 0.2 0.6],[0.15 0.55 0.25 0.05],2.0,2.0,Low,2_person,0,family_single,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+685,1.2237488646118046e+19,[0.4  0.35 0.25],[0.25 0.09 0.62 0.04],0.0,2.0,Low,2_person,1,family_single,Middle Age,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+686,6.059134865289695e+18,[0.2  0.25 0.55],[0.28 0.18 0.48 0.06],2.0,2.0,Low,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Walking,1.0,0,Car,Full-Service Restaurants
+687,6.892737049968073e+18,[0.25 0.2  0.55],[0.25510204 0.05102041 0.66326531 0.03061224],1.0,2.0,Low,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+688,7.853220765979441e+18,[0.08 0.44 0.48],[0.15 0.1  0.7  0.05],2.0,2.0,High,4_person,1,family_single,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+689,5.178679176139815e+18,[0.19 0.38 0.43],[0.16 0.25 0.54 0.05],2.0,2.0,Ultra High,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+690,3.705410635617259e+18,[0.35 0.4  0.25],[0.1  0.23 0.64 0.03],1.0,2.0,Very High,2_person,0,nonfamily_single,Young Adult,Drinking Places,Public_transport,3.0,1,Public_transport,Full-Service Restaurants
+691,1.5636490984263467e+19,[0.51 0.43 0.06],[0.3  0.15 0.5  0.05],0.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Full-Service Restaurants
+692,9.611290452285422e+18,[0.27 0.38 0.35],[0.25 0.05 0.65 0.05],1.0,2.0,Moderate,1_person,1,living_alone,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+693,1.6256265897879862e+18,[0.14 0.24 0.62],[0.3  0.1  0.55 0.05],1.0,1.0,Moderate,2_person,2,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Nonalcoholic Bars
+694,9.446558055617649e+18,[0.25 0.2  0.55],[0.20618557 0.05154639 0.72164948 0.02061856],2.0,2.0,Low,2_person,1,family_single,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+695,1.7696568316419308e+19,[0.1  0.35 0.55],[0.26 0.12 0.55 0.07],1.0,2.0,Moderate,2_person,2,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+696,9.830575156362945e+18,[0.32 0.42 0.26],[0.15 0.25 0.55 0.05],1.0,1.0,Low,4_person,0,married_couple,Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Nonalcoholic Bars
+697,9.57733613792264e+18,[0.2  0.35 0.45],[0.26 0.12 0.54 0.08],2.0,2.0,Low,4_person,1,family_single,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+698,3.035034573976574e+18,[0.15 0.35 0.5 ],[0.26 0.09 0.62 0.03],2.0,0.0,Moderate,4_person,1,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Limited-Service Restaurants
+699,1.03916939717969e+19,[0.2  0.38 0.42],[0.25 0.09 0.62 0.04],1.0,2.0,Ultra High,2_person,1,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+700,7.312395608326472e+18,[0.22 0.42 0.36],[0.27835052 0.12371134 0.54639175 0.05154639],0.0,2.0,Very High,2_person,1,married_couple,Senior,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+701,3.850423430654728e+18,[0.25 0.23 0.52],[0.2 0.1 0.6 0.1],1.0,1.0,Low,2_person,1,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Public_transport,Nonalcoholic Bars
+702,1.6286874343097076e+19,[0.3  0.55 0.15],[0.35 0.05 0.55 0.05],1.0,3.0,Debt,4_person,1,married_couple,Young Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Drinking Places
+703,4.610362917047995e+18,[0.2  0.35 0.45],[0.18 0.23 0.55 0.04],2.0,2.0,Moderate,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+704,9.386148726397354e+18,[0.65 0.25 0.1 ],[0.47 0.15 0.28 0.1 ],1.0,0.0,High,1_person,0,living_alone,Young Adult,Drinking Places,Walking,3.0,0,Public_transport,Limited-Service Restaurants
+706,8.417981025257387e+18,[0.2 0.2 0.6],[0.3  0.1  0.55 0.05],2.0,1.0,Moderate,1_person,1,living_alone,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+707,1.3429502425775718e+19,[0.15 0.45 0.4 ],[0.28282828 0.06060606 0.62626263 0.03030303],2.0,2.0,Low,3_person,2,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+709,1.7769879563661093e+19,[0.55 0.35 0.1 ],[0.3 0.1 0.5 0.1],0.0,3.0,Debt,5_person,1,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Drinking Places
+710,6.063453426367565e+18,[0.35 0.55 0.1 ],[0.31 0.1  0.54 0.05],2.0,2.0,High,1_person,0,living_alone,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+711,3.2106932522654106e+18,[0.22 0.63 0.15],[0.31 0.09 0.56 0.04],1.0,0.0,Debt,2_person,1,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Limited-Service Restaurants
+712,2.496993919019959e+18,[0.2 0.2 0.6],[0.22 0.08 0.67 0.03],1.0,2.0,High,3_person,2,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+713,1.2349704239310876e+18,[0.17 0.21 0.62],[0.26 0.1  0.58 0.06],0.0,2.0,Very High,1_person,1,living_alone,Senior,Limited-Service Restaurants,Car,0.0,2,Walking,Full-Service Restaurants
+714,1.7045311209194852e+19,[0.2  0.55 0.25],[0.25 0.05 0.65 0.05],1.0,0.0,High,7_plus_person,1,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+715,2.5897700626760944e+17,[0.15 0.3  0.55],[0.04 0.1  0.85 0.01],0.0,2.0,Ultra High,3_person,1,married_couple,Adult,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+716,1.6821044699476769e+19,[0.45 0.38 0.17],[0.32 0.1  0.52 0.06],2.0,2.0,High,2_person,0,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+717,1.4990876434217392e+19,[0.26 0.62 0.12],[0.34444444 0.31111111 0.24444444 0.1       ],2.0,1.0,Low,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Nonalcoholic Bars
+718,7.738867411605253e+17,[0.65 0.35 0.  ],[0.43 0.31 0.11 0.15],0.0,1.0,Debt,3_person,0,family_single,Senior,Nonalcoholic Bars,Walking,1.0,0,Walking,Nonalcoholic Bars
+720,2.130412557167135e+18,[0.21 0.53 0.26],[0.3  0.25 0.35 0.1 ],2.0,2.0,Low,4_person,0,nonfamily_single,Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+721,1.114822051640352e+19,[0.2  0.45 0.35],[0.5  0.15 0.25 0.1 ],1.0,0.0,Low,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Limited-Service Restaurants
+723,7.925349814393935e+18,[0.2 0.2 0.6],[0.35 0.5  0.1  0.05],1.0,1.0,Low,1_person,0,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Nonalcoholic Bars
+724,3.3528794142799217e+18,[0.1 0.3 0.6],[0.3 0.1 0.5 0.1],1.0,0.0,Low,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+725,1.0817863948291566e+19,[0.4  0.45 0.15],[0.21 0.11 0.62 0.06],1.0,2.0,Ultra High,3_person,0,married_couple,Adult,Drinking Places,Public_transport,3.0,1,Public_transport,Full-Service Restaurants
+726,1.0988338695808307e+19,[0.33 0.42 0.25],[0.10309278 0.15463918 0.69072165 0.05154639],1.0,2.0,Debt,4_person,2,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+727,1.0553030649552325e+19,[0.7  0.25 0.05],[0.58 0.2  0.12 0.1 ],1.0,0.0,Debt,3_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Limited-Service Restaurants
+728,4.813941017304805e+18,[0.15 0.4  0.45],[0.26 0.09 0.62 0.03],1.0,2.0,Ultra High,4_person,1,married_couple,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+729,3.394209579984808e+18,[0.1  0.35 0.55],[0.0625     0.14583333 0.75       0.04166667],2.0,2.0,Moderate,2_person,1,nonfamily_single,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+730,9.313435139769969e+18,[0.22 0.42 0.36],[0.23 0.05 0.69 0.03],2.0,2.0,Moderate,1_person,1,living_alone,Senior,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+731,6.035635906542823e+18,[0.1  0.35 0.55],[0.1  0.21 0.63 0.06],1.0,2.0,Low,2_person,1,nonfamily_single,Young Adult,Drinking Places,Car,3.0,2,Public_transport,Full-Service Restaurants
+732,4.790234360868266e+18,[0.38 0.45 0.17],[0.42 0.17 0.35 0.06],1.0,2.0,Very High,1_person,0,living_alone,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+733,5.501181280664974e+18,[0.27 0.42 0.31],[0.24390244 0.04878049 0.68292683 0.02439024],1.0,3.0,Ultra High,2_person,1,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Public_transport,Drinking Places
+734,1.6245874350082925e+19,[0.45 0.4  0.15],[0.4  0.1  0.45 0.05],2.0,2.0,Debt,2_person,0,family_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+735,1.5258296924672502e+19,[0.15 0.35 0.5 ],[0.36 0.08 0.54 0.02],2.0,2.0,Very High,1_person,1,living_alone,Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+736,9.71274601443535e+18,[0.32 0.38 0.3 ],[0.15 0.23 0.55 0.07],2.0,2.0,High,2_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Full-Service Restaurants
+737,7.787757890711418e+18,[0.2  0.25 0.55],[0.15 0.25 0.55 0.05],1.0,2.0,High,3_person,1,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+738,1.2164777403282418e+19,[0.1010101  0.84848485 0.05050505],[0.3  0.1  0.55 0.05],1.0,0.0,Low,3_person,0,married_couple,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Limited-Service Restaurants
+740,5.696241803181526e+18,[0.48 0.35 0.17],[0.09 0.21 0.67 0.03],2.0,2.0,Low,2_person,0,family_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Full-Service Restaurants
+741,7.019500231589945e+18,[0.55 0.3  0.15],[0.36 0.15 0.43 0.06],0.0,2.0,Low,2_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Full-Service Restaurants
+744,1.2196235929165703e+19,[0.16 0.32 0.52],[0.25 0.05 0.65 0.05],1.0,2.0,High,5_person,3_plus,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+745,1.6746281651428168e+19,[0.24 0.34 0.42],[0.3  0.1  0.55 0.05],2.0,0.0,Low,3_person,1,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Limited-Service Restaurants
+746,1.5264861656986373e+18,[0.15 0.25 0.6 ],[0.25510204 0.05102041 0.66326531 0.03061224],2.0,2.0,Low,2_person,1,married_couple,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+747,1.7426133191728904e+19,[0.24 0.24 0.52],[0.2  0.15 0.55 0.1 ],0.0,2.0,Low,3_person,2,family_single,Middle Age,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+748,6.636038480549946e+18,[0.17 0.55 0.28],[0.11827957 0.27956989 0.51612903 0.08602151],2.0,2.0,Debt,6_person,1,family_single,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+749,7.289036383086806e+18,[0.04 0.13 0.83],[0.3  0.1  0.55 0.05],1.0,0.0,Moderate,4_person,2,married_couple,Young Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Limited-Service Restaurants
+750,3.733245493685668e+18,[0.2 0.2 0.6],[0.24 0.08 0.62 0.06],2.0,0.0,Low,3_person,1,married_couple,Senior,Full-Service Restaurants,Public_transport,2.0,1,Car,Limited-Service Restaurants
+751,7.554524128815946e+18,[0.32 0.53 0.15],[0.26 0.04 0.55 0.15],1.0,3.0,Debt,7_plus_person,1,family_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Drinking Places
+752,1.1233184759415724e+19,[0.3 0.3 0.4],[0.23 0.05 0.67 0.05],1.0,0.0,Debt,1_person,1,living_alone,Middle Age,Drinking Places,Car,3.0,2,Public_transport,Limited-Service Restaurants
+754,9.7855281536702e+18,[0.2 0.6 0.2],[0.35 0.1  0.5  0.05],2.0,0.0,Low,7_plus_person,0,nonfamily_single,Elderly,Drinking Places,Public_transport,3.0,1,Car,Limited-Service Restaurants
+755,6.352876928574906e+18,[0.22 0.42 0.36],[0.16483516 0.14285714 0.59340659 0.0989011 ],2.0,0.0,High,2_person,2,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+756,2.889338939685935e+18,[0.25 0.6  0.15],[0.04040404 0.32323232 0.58585859 0.05050505],1.0,2.0,Debt,4_person,1,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+757,1.4833856410894692e+19,[0.23 0.22 0.55],[0.3  0.12 0.51 0.07],0.0,1.0,Ultra High,3_person,2,nonfamily_single,Senior,Full-Service Restaurants,Walking,2.0,0,Walking,Nonalcoholic Bars
+758,1.057315122197407e+19,[0.35 0.2  0.45],[0.13 0.15 0.55 0.17],1.0,2.0,High,2_person,1,family_single,Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+759,1.0230710261592476e+19,[0.15 0.3  0.55],[0.25 0.1  0.55 0.1 ],2.0,3.0,Ultra High,5_person,1,married_couple,Middle Age,Drinking Places,Public_transport,3.0,1,Car,Drinking Places
+760,3.2103268230793784e+18,[0.35 0.37 0.28],[0.15 0.37 0.43 0.05],2.0,2.0,Low,3_person,2,married_couple,Middle Age,Drinking Places,Car,3.0,2,Car,Full-Service Restaurants
+761,1.3542113661057909e+19,[0.15 0.62 0.23],[0.3  0.15 0.5  0.05],1.0,2.0,High,2_person,0,nonfamily_single,Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+762,2.057242994094776e+18,[0.12 0.36 0.52],[0.16161616 0.25252525 0.52525253 0.06060606],2.0,0.0,Ultra High,1_person,1,living_alone,Senior,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+763,1.193484116854301e+19,[0.3 0.2 0.5],[0.26530612 0.15306122 0.48979592 0.09183673],1.0,0.0,Low,7_plus_person,0,nonfamily_single,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+764,1.3418731036762112e+19,[0.55 0.1  0.35],[0.12 0.17 0.63 0.08],2.0,2.0,Low,1_person,3_plus,living_alone,Senior,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+765,2.362140769158424e+18,[0.26 0.43 0.31],[0.22340426 0.29787234 0.45744681 0.0212766 ],1.0,2.0,Moderate,3_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+766,1.2567784869944586e+19,[0.4  0.25 0.35],[0.4  0.05 0.5  0.05],2.0,2.0,Moderate,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+767,1.7077328803346129e+19,[0.25 0.3  0.45],[0.25 0.1  0.6  0.05],0.0,1.0,Low,7_plus_person,2,married_couple,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Nonalcoholic Bars
+768,1.4635310922061704e+18,[0.06 0.32 0.62],[0.1  0.15 0.67 0.08],2.0,1.0,Ultra High,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+769,1.5390159688292882e+19,[0.25 0.65 0.1 ],[0.25 0.15 0.55 0.05],2.0,2.0,Low,6_person,3_plus,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Full-Service Restaurants
+770,1.080791217933905e+19,[0.27 0.31 0.42],[0.28 0.05 0.65 0.02],2.0,2.0,Very High,2_person,1,family_single,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+771,5.01044879053054e+18,[0.32 0.25 0.43],[0.2  0.28 0.43 0.09],2.0,1.0,High,4_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+772,1.1139091648907483e+19,[0.45 0.35 0.2 ],[0.3 0.1 0.5 0.1],2.0,2.0,Debt,3_person,1,family_single,Young Adult,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+773,1.2218840016995408e+19,[0.26 0.38 0.36],[0.09 0.23 0.65 0.03],2.0,2.0,High,2_person,0,nonfamily_single,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+774,1.7400743815774145e+19,[0.1  0.38 0.52],[0.2 0.1 0.6 0.1],2.0,2.0,Moderate,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+775,1.6233755554030033e+19,[0.25 0.25 0.5 ],[0.25 0.1  0.6  0.05],1.0,2.0,Very High,1_person,0,living_alone,Middle Age,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+776,1.6628470563318094e+19,[0.36 0.12 0.52],[0.20512821 0.05128205 0.71794872 0.02564103],0.0,2.0,Low,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+777,1.2054488670144754e+19,[0.1 0.7 0.2],[0.35 0.15 0.42 0.08],1.0,0.0,Low,1_person,0,living_alone,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Limited-Service Restaurants
+778,7.932791056853825e+18,[0.22 0.26 0.52],[0.24 0.12 0.54 0.1 ],2.0,1.0,High,5_person,3_plus,married_couple,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Nonalcoholic Bars
+779,8.327778155186555e+18,[0.32 0.45 0.23],[0.25 0.1  0.6  0.05],2.0,2.0,Moderate,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+780,8.653882379033341e+18,[0.1  0.25 0.65],[0.23 0.46 0.27 0.04],0.0,0.0,Low,2_person,2,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Walking,Limited-Service Restaurants
+782,1.4040524697751417e+19,[0.1  0.25 0.65],[0.34 0.12 0.52 0.02],2.0,0.0,Low,6_person,2,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+783,1.8419220114971912e+19,[0.17 0.55 0.28],[0.16 0.26 0.52 0.06],2.0,1.0,Very High,1_person,1,living_alone,Adult,Nonalcoholic Bars,Walking,1.0,0,Car,Nonalcoholic Bars
+784,7.982863906621816e+17,[0.3 0.5 0.2],[0.25 0.05 0.65 0.05],2.0,2.0,Very High,1_person,0,living_alone,Middle Age,Full-Service Restaurants,Walking,2.0,0,Car,Full-Service Restaurants
+785,1.3146569299240444e+19,[0.2  0.25 0.55],[0.26 0.05 0.67 0.02],1.0,2.0,Moderate,1_person,1,living_alone,Middle Age,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+786,1.5536981276069904e+19,[0.2  0.15 0.65],[0.31578947 0.10526316 0.52631579 0.05263158],0.0,2.0,High,2_person,0,married_couple,Senior,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+787,1.6204890500618122e+18,[0.25 0.55 0.2 ],[0.15 0.22 0.55 0.08],1.0,2.0,Moderate,1_person,0,living_alone,Senior,Limited-Service Restaurants,Public_transport,0.0,1,Public_transport,Full-Service Restaurants
+788,1.5524180730925124e+19,[0.1  0.85 0.05],[0.39 0.16 0.38 0.07],1.0,0.0,Low,1_person,0,living_alone,Elderly,Full-Service Restaurants,Walking,2.0,0,Public_transport,Limited-Service Restaurants
+789,7.420365208199336e+18,[0.25 0.2  0.55],[0.25252525 0.16161616 0.49494949 0.09090909],1.0,0.0,Moderate,3_person,2,family_single,Adult,Limited-Service Restaurants,Car,0.0,2,Public_transport,Limited-Service Restaurants
+790,1.3606462140643828e+19,[0.27 0.45 0.28],[0.12 0.26 0.56 0.06],1.0,2.0,Very High,2_person,1,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Full-Service Restaurants
+792,6.424049530532418e+18,[0.35 0.52 0.13],[0.25 0.1  0.6  0.05],0.0,3.0,Low,2_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Drinking Places
+793,1.471360350903375e+19,[0.1 0.4 0.5],[0.25 0.4  0.3  0.05],2.0,2.0,Debt,2_person,1,married_couple,Middle Age,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+794,6.455467189804841e+18,[0.45 0.35 0.2 ],[0.55 0.05 0.38 0.02],0.0,2.0,Debt,7_plus_person,1,family_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+795,4.369262757078673e+17,[0.36 0.38 0.26],[0.24 0.08 0.62 0.06],1.0,2.0,Very High,2_person,1,married_couple,Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+796,1.3687047184354169e+19,[0.25 0.31 0.44],[0.35 0.15 0.42 0.08],0.0,0.0,High,2_person,2,married_couple,Middle Age,Limited-Service Restaurants,Public_transport,0.0,1,Walking,Limited-Service Restaurants
+797,6.337058257551907e+18,[0.24 0.2  0.56],[0.06 0.18 0.72 0.04],2.0,2.0,Ultra High,2_person,1,nonfamily_single,Adult,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+798,1.805198761470899e+19,[0.42 0.38 0.2 ],[0.3  0.2  0.35 0.15],1.0,2.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Public_transport,1.0,1,Public_transport,Full-Service Restaurants
+799,4.3906602668965473e+18,[0.1 0.3 0.6],[0.14285714 0.35164835 0.38461538 0.12087912],2.0,1.0,Low,2_person,1,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Nonalcoholic Bars
+800,1.2611024584727585e+19,[0.15 0.55 0.3 ],[0.12 0.02 0.85 0.01],1.0,2.0,Low,2_person,0,family_single,Middle Age,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+802,5.336461954761005e+18,[0.3  0.55 0.15],[0.15 0.25 0.5  0.1 ],2.0,2.0,High,4_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+803,8.547078609368972e+18,[0.12 0.24 0.64],[0.26 0.08 0.62 0.04],2.0,0.0,Ultra High,5_person,1,family_single,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Limited-Service Restaurants
+804,8.10864109716215e+18,[0.27 0.25 0.48],[0.16 0.24 0.55 0.05],0.0,2.0,Low,3_person,2,family_single,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+805,5.979225928379197e+18,[0.1  0.35 0.55],[0.33 0.12 0.53 0.02],2.0,2.0,Ultra High,1_person,1,living_alone,Middle Age,Drinking Places,Public_transport,3.0,1,Car,Full-Service Restaurants
+806,1.5114447216191609e+19,[0.5 0.3 0.2],[0.3  0.15 0.5  0.05],0.0,0.0,Debt,4_person,0,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Walking,Limited-Service Restaurants
+807,1.0120287690390882e+19,[0.35 0.45 0.2 ],[0.3  0.1  0.55 0.05],0.0,2.0,Ultra High,4_person,2,married_couple,Middle Age,Full-Service Restaurants,Car,2.0,2,Walking,Full-Service Restaurants
+808,5.570633571549379e+18,[0.25 0.45 0.3 ],[0.10309278 0.20618557 0.6185567  0.07216495],1.0,2.0,High,2_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+809,1.5389234504705797e+18,[0.32 0.56 0.12],[0.31 0.1  0.56 0.03],0.0,0.0,Debt,4_person,2,married_couple,Young Adult,Nonalcoholic Bars,Car,1.0,2,Walking,Limited-Service Restaurants
+811,4.101169579342573e+18,[0.25 0.2  0.55],[0.14 0.21 0.59 0.06],2.0,2.0,Moderate,2_person,2,nonfamily_single,Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+812,4.180131170320843e+18,[0.23 0.35 0.42],[0.05 0.2  0.7  0.05],2.0,2.0,Low,3_person,1,married_couple,Elderly,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+813,6.513405204727374e+18,[0.17 0.26 0.57],[0.26262626 0.09090909 0.62626263 0.02020202],0.0,0.0,Very High,2_person,1,nonfamily_single,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Limited-Service Restaurants
+814,1.1989588183028363e+19,[0.24 0.42 0.34],[0.3  0.1  0.55 0.05],1.0,2.0,Moderate,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+815,6.401818921147973e+18,[0.3  0.68 0.02],[0.1  0.2  0.65 0.05],1.0,2.0,Moderate,1_person,0,living_alone,Elderly,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Full-Service Restaurants
+816,8.183731001713768e+18,[0.05 0.25 0.7 ],[0.35 0.08 0.52 0.05],1.0,2.0,Very High,3_person,3_plus,family_single,Senior,Nonalcoholic Bars,Car,1.0,2,Public_transport,Full-Service Restaurants
+817,5.171841830059119e+18,[0.17 0.28 0.55],[0.32 0.12 0.52 0.04],2.0,0.0,Low,1_person,2,living_alone,Elderly,Limited-Service Restaurants,Walking,0.0,0,Car,Limited-Service Restaurants
+819,6.916466410991941e+18,[0.21 0.12 0.67],[0.15 0.35 0.42 0.08],2.0,3.0,Ultra High,7_plus_person,1,married_couple,Elderly,Nonalcoholic Bars,Car,1.0,2,Car,Drinking Places
+820,1.5518660995272897e+19,[0.05 0.2  0.75],[0.1 0.3 0.5 0.1],2.0,2.0,Debt,4_person,1,nonfamily_single,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+821,5.478295297998243e+18,[0.28 0.38 0.34],[0.18 0.28 0.54 0.  ],0.0,2.0,Moderate,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Car,1.0,2,Walking,Full-Service Restaurants
+822,1.3864139433290631e+19,[0.1 0.3 0.6],[0.3 0.1 0.5 0.1],2.0,2.0,High,1_person,1,living_alone,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+823,1.294974776697916e+19,[0.2 0.3 0.5],[0.25252525 0.09090909 0.63636364 0.02020202],2.0,2.0,Low,2_person,2,married_couple,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+824,4.771676247317045e+18,[0.22 0.33 0.45],[0.25 0.05 0.65 0.05],2.0,0.0,Low,4_person,0,family_single,Senior,Limited-Service Restaurants,Car,0.0,2,Car,Limited-Service Restaurants
+825,8.348181303520563e+18,[0.52 0.33 0.15],[0.3  0.1  0.55 0.05],0.0,3.0,High,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Drinking Places
+826,1.3528222741789188e+19,[0.2 0.2 0.6],[0.34736842 0.15789474 0.44210526 0.05263158],2.0,0.0,Ultra High,7_plus_person,1,married_couple,Elderly,Limited-Service Restaurants,Walking,0.0,0,Car,Limited-Service Restaurants
+827,1.213818728878675e+19,[0.15 0.2  0.65],[0.31 0.16 0.47 0.06],1.0,2.0,High,2_person,1,married_couple,Young Adult,Drinking Places,Car,3.0,2,Public_transport,Full-Service Restaurants
+828,7.767206339056511e+18,[0.25 0.1  0.65],[0.26 0.12 0.58 0.04],2.0,2.0,Low,5_person,3_plus,married_couple,Senior,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+829,2.990574077449227e+17,[0.2 0.2 0.6],[0.54081633 0.21428571 0.13265306 0.1122449 ],2.0,0.0,Low,5_person,2,married_couple,Young Adult,Nonalcoholic Bars,Car,1.0,2,Car,Limited-Service Restaurants
+831,1.4869242727595088e+19,[0.2 0.3 0.5],[0.26 0.05 0.67 0.02],0.0,2.0,High,2_person,1,nonfamily_single,Adult,Full-Service Restaurants,Public_transport,2.0,1,Walking,Full-Service Restaurants
+832,7.310522512059687e+18,[0.25 0.6  0.15],[0.10204082 0.20408163 0.66326531 0.03061224],1.0,2.0,Debt,1_person,0,living_alone,Elderly,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+833,5.823434602941627e+17,[0.15 0.12 0.73],[0.07 0.21 0.64 0.08],2.0,3.0,Ultra High,2_person,2,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Drinking Places
+834,8.941410834991571e+18,[0.2  0.35 0.45],[0.16 0.23 0.55 0.06],2.0,2.0,High,3_person,3_plus,family_single,Young Adult,Limited-Service Restaurants,Public_transport,0.0,1,Car,Full-Service Restaurants
+835,7.329192296962389e+18,[0.08 0.3  0.62],[0.1 0.2 0.6 0.1],1.0,1.0,Ultra High,1_person,1,living_alone,Elderly,Nonalcoholic Bars,Car,1.0,2,Public_transport,Nonalcoholic Bars
+836,8.852759463519799e+18,[0.35 0.25 0.4 ],[0.31 0.1  0.56 0.03],2.0,2.0,Low,4_person,2,married_couple,Young Adult,Full-Service Restaurants,Car,2.0,2,Car,Full-Service Restaurants
+837,2.377428494564643e+18,[0.25 0.55 0.2 ],[0.3  0.1  0.55 0.05],1.0,0.0,Low,2_person,0,nonfamily_single,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Limited-Service Restaurants
+839,2.962489228229413e+18,[0.26 0.32 0.42],[0.12 0.24 0.62 0.02],2.0,3.0,Low,4_person,2,nonfamily_single,Middle Age,Full-Service Restaurants,Car,2.0,2,Car,Drinking Places
+840,2.404792411371122e+18,[0.35 0.5  0.15],[0.25 0.1  0.6  0.05],1.0,2.0,High,2_person,1,married_couple,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Public_transport,Full-Service Restaurants
+843,1.3282422524372764e+18,[0.14 0.24 0.62],[0.2  0.1  0.65 0.05],2.0,3.0,Moderate,3_person,2,married_couple,Elderly,Full-Service Restaurants,Car,2.0,2,Car,Drinking Places
+844,1.4737791769729892e+19,[0.32 0.38 0.3 ],[0.26 0.12 0.54 0.08],2.0,3.0,High,1_person,1,living_alone,Middle Age,Drinking Places,Public_transport,3.0,1,Car,Drinking Places
+845,1.3453065421407517e+19,[0.65 0.3  0.05],[0.33 0.12 0.53 0.02],0.0,2.0,Debt,2_person,0,family_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Walking,Full-Service Restaurants
+846,1.6194032070738352e+19,[0.3  0.55 0.15],[0.26315789 0.10526316 0.57894737 0.05263158],2.0,0.0,Debt,6_person,1,married_couple,Elderly,Full-Service Restaurants,Walking,2.0,0,Car,Limited-Service Restaurants
+847,1.820160246370069e+19,[0.25 0.3  0.45],[0.12 0.26 0.58 0.04],2.0,2.0,Ultra High,1_person,1,living_alone,Senior,Drinking Places,Walking,3.0,0,Car,Full-Service Restaurants
+848,5.613194437593998e+18,[0.21 0.15 0.64],[0.15 0.26 0.57 0.02],1.0,0.0,High,6_person,2,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Public_transport,Limited-Service Restaurants
+849,1.316760889277407e+19,[0.1010101  0.05050505 0.84848485],[0.15 0.29 0.51 0.05],2.0,3.0,Very High,2_person,2,nonfamily_single,Young Adult,Full-Service Restaurants,Public_transport,2.0,1,Car,Drinking Places
+850,1.2220107373499429e+19,[0.2  0.36 0.44],[0.17 0.05 0.73 0.05],2.0,2.0,Moderate,3_person,1,married_couple,Senior,Limited-Service Restaurants,Car,0.0,2,Car,Full-Service Restaurants
+851,4.550416379786687e+18,[0.27 0.31 0.42],[0.3  0.05 0.6  0.05],2.0,3.0,Moderate,3_person,2,married_couple,Adult,Nonalcoholic Bars,Car,1.0,2,Car,Drinking Places
+852,1.3846812167195355e+19,[0.32 0.25 0.43],[0.42 0.15 0.28 0.15],0.0,1.0,Debt,6_person,2,married_couple,Adult,Full-Service Restaurants,Car,2.0,2,Walking,Nonalcoholic Bars
+853,4.0168381051006833e+18,[0.55 0.28 0.17],[0.25 0.05 0.7  0.  ],0.0,2.0,Debt,4_person,1,nonfamily_single,Young Adult,Drinking Places,Car,3.0,2,Walking,Full-Service Restaurants
+854,8.303863669502065e+17,[0.25 0.55 0.2 ],[0.2 0.1 0.7 0. ],1.0,2.0,High,4_person,0,nonfamily_single,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+855,1.4254172003781856e+17,[0.18 0.26 0.56],[0.15 0.25 0.5  0.1 ],0.0,2.0,Low,6_person,3_plus,married_couple,Young Adult,Limited-Service Restaurants,Walking,0.0,0,Walking,Full-Service Restaurants
+856,1.3320740762354686e+19,[0.65 0.1  0.25],[0.4 0.1 0.5 0. ],0.0,0.0,High,3_person,1,nonfamily_single,Young Adult,Full-Service Restaurants,Car,2.0,2,Walking,Limited-Service Restaurants
+857,1.2160626732639068e+19,[0.25 0.25 0.5 ],[0.25252525 0.05050505 0.65656566 0.04040404],2.0,0.0,Low,2_person,1,family_single,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Limited-Service Restaurants
+858,1.2892091041479432e+19,[0.3  0.65 0.05],[0.12121212 0.21212121 0.62626263 0.04040404],1.0,2.0,High,1_person,0,living_alone,Adult,Full-Service Restaurants,Walking,2.0,0,Public_transport,Full-Service Restaurants
+860,5.235692611169498e+17,[0.25 0.6  0.15],[0.15 0.05 0.75 0.05],1.0,1.0,High,1_person,0,living_alone,Young Adult,Nonalcoholic Bars,Car,1.0,2,Public_transport,Nonalcoholic Bars
+861,6.14031438021686e+18,[0.2  0.37 0.43],[0.29 0.13 0.52 0.06],1.0,2.0,Ultra High,3_person,0,married_couple,Adult,Limited-Service Restaurants,Walking,0.0,0,Public_transport,Full-Service Restaurants
+862,8.797737952464694e+18,[0.3  0.45 0.25],[0.20512821 0.05128205 0.71794872 0.02564103],2.0,2.0,Low,4_person,1,married_couple,Elderly,Nonalcoholic Bars,Public_transport,1.0,1,Car,Full-Service Restaurants
+863,9.69515024357697e+18,[0.56 0.38 0.06],[0.55 0.08 0.35 0.02],1.0,0.0,Debt,3_person,0,nonfamily_single,Young Adult,Nonalcoholic Bars,Walking,1.0,0,Public_transport,Limited-Service Restaurants
